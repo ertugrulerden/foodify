@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+## custom ##
+*.db
+*.png
+*.md
+!README.md
+*.sql
+
