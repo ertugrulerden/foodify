@@ -22,40 +22,40 @@ type Restaurant = {
 const restaurants: Restaurant[] = [
   {
     id: 1,
-    name: "Sakura Sushi",
-    cuisine: "Japanese",
+    name: "Zübeyde Hanım Börekçisi",
+    cuisine: "Börek & Pastane",
     rating: 4.8,
     reviews: 342,
-    location: "2.3 mi away",
+    location: "2.3 km uzak",
     platforms: [
-      { id: "doordash", name: "DoorDash", price: 22.5, deliveryFee: 1.99, eta: "30-40 min", color: "#FF3008" },
-      { id: "ubereats", name: "Uber Eats", price: 24.99, deliveryFee: 2.99, eta: "25-35 min", color: "#5FB709" },
-      { id: "grubhub", name: "Grubhub", price: 26.0, deliveryFee: 3.5, eta: "20-30 min", color: "#FC6D26" },
+      { id: "yemeksepeti", name: "Yemeksepeti", price: 22.5, deliveryFee: 1.99, eta: "30-40 dk", color: "#FF3008" },
+      { id: "trendyolyemek", name: "Trendyol Yemek", price: 24.99, deliveryFee: 2.99, eta: "25-35 dk", color: "#5FB709" },
+      { id: "getiryemek", name: "GetirYemek", price: 26.0, deliveryFee: 3.5, eta: "20-30 dk", color: "#FC6D26" },
     ],
   },
   {
     id: 2,
-    name: "Bella Napoli",
-    cuisine: "Italian",
+    name: "Çiya Kebap",
+    cuisine: "Kebap & Meze",
     rating: 4.6,
     reviews: 287,
-    location: "1.8 mi away",
+    location: "1.8 km uzak",
     platforms: [
-      { id: "grubhub", name: "Grubhub", price: 17.5, deliveryFee: 2.5, eta: "20-30 min", color: "#FC6D26" },
-      { id: "doordash", name: "DoorDash", price: 18.75, deliveryFee: 1.99, eta: "25-35 min", color: "#FF3008" },
-      { id: "postmates", name: "Postmates", price: 19.99, deliveryFee: 3.99, eta: "30-45 min", color: "#FCCF4D" },
+      { id: "getiryemek", name: "GetirYemek", price: 17.5, deliveryFee: 2.5, eta: "20-30 dk", color: "#FC6D26" },
+      { id: "yemeksepeti", name: "Yemeksepeti", price: 18.75, deliveryFee: 1.99, eta: "25-35 dk", color: "#FF3008" },
+      { id: "migrosyemek", name: "Migros Yemek", price: 19.99, deliveryFee: 3.99, eta: "30-45 dk", color: "#FCCF4D" },
     ],
   },
   {
     id: 3,
-    name: "El Patron",
-    cuisine: "Mexican",
+    name: "Köşem Tantuni",
+    cuisine: "Tantuni & Dürüm",
     rating: 4.7,
     reviews: 415,
-    location: "1.2 mi away",
+    location: "1.2 km uzak",
     platforms: [
-      { id: "doordash", name: "DoorDash", price: 14.25, deliveryFee: 1.99, eta: "25-35 min", color: "#FF3008" },
-      { id: "ubereats", name: "Uber Eats", price: 15.5, deliveryFee: 2.99, eta: "20-30 min", color: "#5FB709" },
+      { id: "yemeksepeti", name: "Yemeksepeti", price: 14.25, deliveryFee: 1.99, eta: "25-35 dk", color: "#FF3008" },
+      { id: "trendyolyemek", name: "Trendyol Yemek", price: 15.5, deliveryFee: 2.99, eta: "20-30 dk", color: "#5FB709" },
     ],
   },
 ];
@@ -78,35 +78,20 @@ function formatDelta(price: number, average: number): string {
 function PlatformRow({ platform, cheapest, average }: { platform: Platform; cheapest: boolean; average: number }) {
   return (
     <div
-      className={`flex items-center justify-between rounded-lg px-4 py-3 transition-all hover:shadow-md ${
+      className={`rounded-lg px-4 py-3 transition-all hover:shadow-md ${
         cheapest ? "bg-[#e8f5e9] ring-1 ring-[#95d4b3]" : "bg-card"
       }`}
     >
-      <div className="flex items-center gap-3 min-w-0">
-        <span
-          className="h-2.5 w-2.5 shrink-0 rounded-full"
-          style={{ backgroundColor: platform.color }}
-        />
-        <span className="label-sm text-muted-foreground uppercase">
-          {platform.name}
-        </span>
-      </div>
-      <div className="flex items-center gap-4">
-        <div className="text-right">
-          <span className="price-lg text-foreground">${platform.price.toFixed(2)}</span>
-          <span className="ml-2 text-xs text-muted-foreground">+${platform.deliveryFee.toFixed(2)}</span>
+      <div className="flex items-center justify-between gap-2">
+        <div className="flex items-center gap-2 min-w-0">
+          <span className="h-2 w-2 shrink-0 rounded-full" style={{ backgroundColor: platform.color }} />
+          <span className="text-xs font-semibold text-muted-foreground uppercase tracking-wider truncate">
+            {platform.name}
+          </span>
         </div>
-        <span
-          className={`hidden sm:inline text-xs font-medium ${
-            platform.price < average ? "text-primary" : "text-muted-foreground"
-          }`}
-        >
-          {formatDelta(platform.price, average)}
-        </span>
-        <span className="hidden sm:inline text-xs text-muted-foreground">{platform.eta}</span>
         <a
           href="#"
-          className={`inline-flex items-center gap-1 rounded-lg px-3 py-1.5 text-xs font-semibold transition-colors ${
+          className={`shrink-0 inline-flex items-center gap-0.5 rounded-lg px-2.5 py-1 text-xs font-semibold transition-colors ${
             cheapest
               ? "bg-[#fd8b00] text-white hover:bg-[#e67a00]"
               : "border border-border text-muted-foreground hover:bg-muted"
@@ -115,6 +100,22 @@ function PlatformRow({ platform, cheapest, average }: { platform: Platform; chea
           Order
           <ChevronRight className="h-3 w-3" />
         </a>
+      </div>
+      <div className="mt-1 flex items-baseline gap-x-3 gap-y-0.5 flex-wrap">
+        <span className="text-lg font-bold text-foreground tracking-tight">
+          ${platform.price.toFixed(2)}
+        </span>
+        <span className="text-xs text-muted-foreground whitespace-nowrap">
+          +${platform.deliveryFee.toFixed(2)}
+        </span>
+        <span
+          className={`text-xs font-medium whitespace-nowrap ${
+            platform.price < average ? "text-primary" : "text-muted-foreground"
+          }`}
+        >
+          {formatDelta(platform.price, average)}
+        </span>
+        <span className="text-xs text-muted-foreground whitespace-nowrap">{platform.eta}</span>
       </div>
     </div>
   );
@@ -171,7 +172,7 @@ function RestaurantCard({ restaurant }: { restaurant: Restaurant }) {
   );
 }
 
-const trending = ["Pizza", "Sushi", "Burgers", "Mexican", "Thai", "Salads"];
+const trending = ["Lahmacun", "Döner", "İskender", "Köfte", "Pide", "Çiğ Köfte"];
 
 export default function Home() {
   return (
@@ -209,7 +210,7 @@ export default function Home() {
                 Find the best price for your favorite food
               </h1>
               <p className="body-md mt-4 text-muted-foreground max-sm:text-sm">
-                Compare prices across Uber Eats, DoorDash, Grubhub, and more. Save money on every order.
+                Yemeksepeti, Trendyol Yemek, GetirYemek ve Migros Yemek fiyatlarını karşılaştırın. Her siparişte para biriktirin.
               </p>
 
               <div className="mx-auto mt-8 flex max-w-[560px] items-center gap-2 rounded-xl border border-border bg-card px-4 py-2.5 transition-all focus-within:border-primary focus-within:shadow-[0_0_0_3px_rgba(15,82,56,0.12)]">
@@ -243,7 +244,7 @@ export default function Home() {
                 <h2 className="headline-lg text-foreground max-sm:text-[24px] max-sm:leading-[32px]">
                   Featured comparisons
                 </h2>
-                <p className="body-md mt-1 text-muted-foreground">Real-time prices from top delivery platforms</p>
+                <p className="body-md mt-1 text-muted-foreground">Popüler teslimat platformlarından anlık fiyatlar</p>
               </div>
               <a
                 href="#"
