@@ -46,4 +46,6 @@ next-env.d.ts
 *.md
 !README.md
 *.sql
+*.db-shm
+*.db-wal
 

@@ -10,6 +10,7 @@ const layout = ({children}: {children: React.ReactNode}) => {
             <Link href="/admin/restaurants">Restaurants</Link>
             <Link href="/admin/products">Products</Link>
             <Link href="/admin/prices">Prices</Link>
+            <Link href="/admin/details">Details</Link>
 
         </div>
 
