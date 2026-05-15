@@ -65,9 +65,7 @@ export interface UserFav {
     favID: number
     userID: number
     productID: number
-<<<<<<< Updated upstream
-}
-=======
+
 }
 export interface SearchResult {
     productName:string
