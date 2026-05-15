@@ -1,5 +1,3 @@
-import { Button } from "../button";
-import { Avatar } from "../avatar"
 import NavbarBrand from "./NavbarBrand";
 import SearchBar from "./SearchBar";
 import LocationSelector from "./LocationSelector";
@@ -9,9 +7,9 @@ import UserMenu from "./UserMenu";
 
 const Navbar = () => {
   return (
-    <nav className="w-full border-b pt-2 items-center justify-between">
+    <nav className="w-full p-1.5 border-b flex items-center justify-between">
 
-		<div id="left-section" className="flex items-center gap-8">
+		<div id="left-section" className="flex flex-1 items-center gap-8">
 			<NavbarBrand/>
 			<SearchBar/>
 		</div>
