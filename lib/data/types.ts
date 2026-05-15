@@ -73,7 +73,8 @@ interface TrendingProduct {
 }
 interface PopularRestaurant {
     name: string
-    image?: string
+    location?: string
+    image: string
     platforms: string[]
     rating?: number
     fee?: number
