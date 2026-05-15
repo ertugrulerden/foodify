@@ -15,8 +15,11 @@ export interface Region {
 export interface Restaurant {
     restaurantID: number
     name: string
-    regionID: number
     isActive: boolean
+}
+export interface RestaurantRegion{
+    restaurantID: number
+    regionID: number
 }
 export interface Platform {
     platformID: number
@@ -59,11 +62,10 @@ export interface User {
     lastRegionID: number
 }
 export interface UserFav {
-    fav_id: number
+    favID: number
     userID: number
     productID: number
 }
-
 interface TrendingProduct {
     name: string
     restaurantName: string
@@ -77,4 +79,14 @@ interface PopularRestaurant {
     platforms: string[]
     rating?: number
     fee?: number
+}
+export interface SearchResult {
+    productName:string
+    restaurantName: string
+    platform:string
+    price: number
+    fee:(number | null)
+    rating:(number | null)
+    image:(string | null)
+    description:(string | null)
 }
