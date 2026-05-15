@@ -11,9 +11,9 @@ const workSans = Work_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Foodify — Compare Food Prices Across Platforms",
+  title: "Foodify - Compare Food Prices Across Platforms",
   description:
-    "Find the best price for your favorite food. Compare Uber Eats, DoorDash, Grubhub and more in one place.",
+    "Find the best price for your favorite food. Compare all the platforms in one place.",
 };
 
 export default function RootLayout({
