@@ -1,4 +1,4 @@
-import { ShoppingCart, Star, Bell } from "lucide-react";
+import { ShoppingCart, Star, Bell, Languages } from "lucide-react";
 
 const NavActions = () => {
   return (
@@ -13,6 +13,10 @@ const NavActions = () => {
 
         <div id="notifications">
           <Bell/>
+        </div>
+
+        <div id="language">
+          <Languages/>
         </div>
     </div>
   )
