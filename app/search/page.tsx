@@ -6,7 +6,7 @@ export default function SearchPage() {
   const searchParams = useSearchParams()
   const [results, setResults] = useState<SearchResult[]>([])
   useEffect(() => {
-    fetch(`/api/search?${searchParams.toString()}`)
+    fetch(`/api?${searchParams.toString()}`)
       .then(res => res.json())
       .then(data => setResults(data))
   }, [searchParams])
