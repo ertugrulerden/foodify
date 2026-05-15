@@ -1,6 +1,5 @@
 import db from "./db";
-import type { Restaurant, Platform, Product, Price, Detail } from "./types";
-
+import type { Restaurant, Platform, Product, Price, Detail, SearchResult } from "./types";
 export function getAllRestaurants(): Restaurant[]{
     const getAllRest = db.prepare("SELECT * FROM restaurants")
     const restaurants = getAllRest.all() as Restaurant[]
@@ -26,4 +25,48 @@ export function getAllDetails(): Detail[] {
 }
 
 
+export function searchProducts(query?:string,platforms?:string[],minPrice?:number,
+                                maxPrice?:number,sortBy?:number):SearchResult[]{
+    let conditions : string[] = []
+    let parameters : any[] = []
+    if(query){
+        conditions.push("products.name LIKE ?")
+        parameters.push(`%${query}%`)
+    }
+    if(platforms && platforms.length > 0){
+        conditions.push(`platforms.platform IN (${platforms.map(()=> "?").join(", ")})`)
+        parameters.push(...platforms)
+    }
 
+    if(minPrice && minPrice >= 0){
+        conditions.push("prices.price >= ?")
+        parameters.push(`${minPrice}`)
+    }
+    if(maxPrice && maxPrice >= 0){
+        conditions.push("prices.price <= ?")
+        parameters.push(`${maxPrice}`)
+    }
+
+    let searchQuery = 'SELECT'
+                        +' products.name AS productName,'
+                        +' restaurants.name AS restaurantName,'
+                        +' platforms.platform,'
+                        +' prices.price,'
+                        +' products.image,'
+                        +' products.description,'
+                        +' details.fee,'
+                        +' details.rating'
+                        +' FROM products'
+                        +' JOIN restaurants ON products.restaurantID = restaurants.restaurantID'
+                        +' JOIN prices ON products.productID = prices.productID'
+                        +' JOIN platforms ON prices.platformID = platforms.platformID'
+                        +' LEFT JOIN details ON restaurants.restaurantID = details.restaurantID AND platforms.platformID = details.platformID'
+    if(conditions.length > 0){
+        searchQuery += ' WHERE ' + conditions.join(" AND ")
+    }
+    if(sortBy){
+            searchQuery += " ORDER BY prices.price DESC"
+        }
+    return db.prepare(searchQuery).all(...parameters) as SearchResult[]
+    
+} 
