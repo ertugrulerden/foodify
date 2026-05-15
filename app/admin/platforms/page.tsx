@@ -7,7 +7,6 @@ const page = () => {
   return (
     <div>
         <h1 className="mb-10 text-xl font-bold">Platforms</h1>
-        {/* <pre>{JSON.stringify(platforms, null, 2)}</pre> */}
 
         <Table>
             <TableHeader>
