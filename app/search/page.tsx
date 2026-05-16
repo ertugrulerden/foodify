@@ -21,7 +21,7 @@ export default function SearchPage() {
       .then(res => res.json())
       .then(data => setPlatforms(data))
   }, [])
-  function updateURL(yeniPlatformlar?:string[]){
+  function updateURL(yeniPlatformlar?:string[],newMinPrice?:string,newMaxPrice?:string){
     const params = new URLSearchParams()
     const q = searchParams.get("q")
     if(q){
@@ -30,11 +30,11 @@ export default function SearchPage() {
     if((yeniPlatformlar ?? selectedPlatforms).length > 0){
       params.set("platforms",(yeniPlatformlar ?? selectedPlatforms).join(","))
     }
-    if(minPrice){
-      params.set("minPrice",minPrice)
+    if(newMinPrice ?? minPrice){
+      params.set("minPrice",newMinPrice ?? minPrice)
     }
-    if(maxPrice){
-      params.set("maxPrice",maxPrice)
+    if(newMaxPrice ?? maxPrice){
+      params.set("maxPrice",newMaxPrice ?? maxPrice)
     }
     if(sortBy){
       params.set("sortBy",sortBy.toString())
@@ -97,10 +97,13 @@ export default function SearchPage() {
           ))}
           <h2 className="font-bold mt-4 mb-2">Fiyat Aralığı:</h2>
           <div className="flex gap-2">
-            <input type="number" placeholder="Min" value={minPrice} 
-            onChange={(e) => { setMinPrice(e.target.value); updateURL() }} className="border p-1 w-full rounded" />
-            <input type="number" placeholder="Max" value={maxPrice}
-            onChange={(e) => { setMaxPrice(e.target.value); updateURL() }} className="border p-1 w-full rounded" />
+         <input type="text" inputMode="numeric" placeholder="Min" value={minPrice} 
+            onChange={(e) => { const val = e.target.value.replace(/[^0-9]/g, ''); setMinPrice(val); updateURL(undefined,val,undefined); }}
+            className="border p-1 w-full rounded" /> 
+            <input type="text" inputMode="numeric" placeholder="Max" value={maxPrice}
+            onChange={(e) => { const val = e.target.value.replace(/[^0-9]/g, ''); setMaxPrice(val); updateURL(undefined,undefined,val); }}
+            className="border p-1 w-full rounded" />
+
           </div>
           <div className="mt-4 w-full bg-red-500 text-white p-2 rounded">
             <button className="w-full text-white font-bold" onClick={resetFilters}>Filtreleri Sıfırla</button>
