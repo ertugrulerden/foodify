@@ -14,7 +14,7 @@ const page = () => {
             { header: "ID", accessor: "userID" },
             { header: "Email", accessor: "email" },
             { header: "Password Hash", accessor: (u) => u.passwordHash.slice(0, Math.floor(u.passwordHash.length / 4)) + "..." },
-            { header: "Last Region", accessor: (u) => regionMap[u.lastRegionID] ?? u.lastRegionID },
+            { header: "Region ID", accessor: (u) => `${u.lastRegionID} - ${regionMap[u.lastRegionID] ?? u.lastRegionID}` },
         ]}
     />
   )

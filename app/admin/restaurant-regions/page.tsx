@@ -13,8 +13,8 @@ const page = () => {
         title="Restaurant Regions"
         data={rrs}
         columns={[
-            { header: "Restaurant", accessor: (rr) => restMap[rr.restaurantID] ?? rr.restaurantID },
-            { header: "Region", accessor: (rr) => regionMap[rr.regionID] ?? rr.regionID },
+            { header: "Restaurant ID", accessor: (rr) => `${rr.restaurantID} - ${restMap[rr.restaurantID] ?? rr.restaurantID}` },
+            { header: "Region ID", accessor: (rr) => `${rr.regionID} - ${regionMap[rr.regionID] ?? rr.regionID}` },
         ]}
     />
   )

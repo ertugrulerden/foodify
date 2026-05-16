@@ -13,7 +13,7 @@ const page = () => {
         columns={[
             { header: "ID", accessor: "districtID" },
             { header: "District", accessor: "district" },
-            { header: "City", accessor: (d) => cityMap[d.cityID] ?? d.cityID },
+            { header: "City ID", accessor: (d) => `${d.cityID} - ${cityMap[d.cityID] ?? d.cityID}` },
         ]}
     />
   )

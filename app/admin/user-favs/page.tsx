@@ -14,8 +14,8 @@ const page = () => {
         data={favs}
         columns={[
             { header: "Fav ID", accessor: "favID" },
-            { header: "User", accessor: (f) => userMap[f.userID] ?? f.userID },
-            { header: "Product", accessor: (f) => prodMap[f.productID] ?? f.productID },
+            { header: "User ID", accessor: (f) => `${f.userID} - ${userMap[f.userID] ?? f.userID}` },
+            { header: "Product ID", accessor: (f) => `${f.productID} - ${prodMap[f.productID] ?? f.productID}` },
         ]}
     />
   )

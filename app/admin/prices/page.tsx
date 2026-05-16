@@ -14,8 +14,8 @@ const page = () => {
         data={prices}
         columns={[
             { header: "ID", accessor: "id" },
-            { header: "Product", accessor: (p) => prodMap[p.productID] ?? p.productID },
-            { header: "Platform", accessor: (p) => platMap[p.platformID] ?? p.platformID },
+            { header: "Product ID", accessor: (p) => `${p.productID} - ${prodMap[p.productID] ?? p.productID}` },
+            { header: "Platform ID", accessor: (p) => `${p.platformID} - ${platMap[p.platformID] ?? p.platformID}` },
             { header: "Price", accessor: "price" },
             { header: "Updated", accessor: "lastUpdated" },
         ]}

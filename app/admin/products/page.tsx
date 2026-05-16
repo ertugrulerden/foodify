@@ -13,7 +13,7 @@ const page = () => {
         columns={[
             { header: "ID", accessor: "productID" },
             { header: "Name", accessor: "name" },
-            { header: "Restaurant", accessor: (p) => restMap[p.restaurantID] ?? p.restaurantID },
+            { header: "Restaurant ID", accessor: (p) => `${p.restaurantID} - ${restMap[p.restaurantID] ?? p.restaurantID}` },
             { header: "Description", accessor: "description" },
         ]}
     />
