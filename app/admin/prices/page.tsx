@@ -1,37 +1,25 @@
-import { getAllPrices } from "@/lib/data/queries"
-import { Table, TableBody, TableCell, TableHead, TableHeader,TableRow } from "@/components/ui/table"
+import { getAllPrices, getAllProducts, getAllPlatforms } from "@/lib/data/queries"
+import { DataTable } from "@/components/admin/DataTable"
 
 const page = () => {
     const prices = getAllPrices()
+    const products = getAllProducts()
+    const platforms = getAllPlatforms()
+    const prodMap = Object.fromEntries(products.map(p => [p.productID, p.name]))
+    const platMap = Object.fromEntries(platforms.map(p => [p.platformID, p.platform]))
 
   return (
-    <div>
-        <h1 className="mb-10 text-xl font-bold">Prices</h1>
-
-        <Table>
-            <TableHeader>
-                <TableRow>
-                <TableHead>ID</TableHead>
-                <TableHead>PRODUCT</TableHead>
-                <TableHead>PLATFORM</TableHead>
-                <TableHead>PRICE</TableHead>
-                <TableHead>UPDATED</TableHead>
-                </TableRow>
-            </TableHeader>
-
-            <TableBody>
-                {prices.map((p)=>(
-                    <TableRow key={p.id}>
-                        <TableCell>{p.id}</TableCell>
-                        <TableCell>{p.productID}</TableCell>
-                        <TableCell>{p.platformID}</TableCell>
-                        <TableCell>{p.price}</TableCell>
-                        <TableCell>{p.lastUpdated}</TableCell>
-                    </TableRow>
-                ))}
-            </TableBody>
-        </Table>
-    </div>
+    <DataTable
+        title="Prices"
+        data={prices}
+        columns={[
+            { header: "ID", accessor: "id" },
+            { header: "Product", accessor: (p) => prodMap[p.productID] ?? p.productID },
+            { header: "Platform", accessor: (p) => platMap[p.platformID] ?? p.platformID },
+            { header: "Price", accessor: "price" },
+            { header: "Updated", accessor: "lastUpdated" },
+        ]}
+    />
   )
 }
 

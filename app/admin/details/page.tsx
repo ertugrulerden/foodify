@@ -1,37 +1,25 @@
-import { getAllDetails } from "@/lib/data/queries"
-import { Table, TableBody, TableCell, TableHead, TableHeader,TableRow } from "@/components/ui/table"
+import { getAllDetails, getAllRestaurants, getAllPlatforms } from "@/lib/data/queries"
+import { DataTable } from "@/components/admin/DataTable"
 
 const page = () => {
     const details = getAllDetails()
+    const restaurants = getAllRestaurants()
+    const platforms = getAllPlatforms()
+    const restMap = Object.fromEntries(restaurants.map(r => [r.restaurantID, r.name]))
+    const platMap = Object.fromEntries(platforms.map(p => [p.platformID, p.platform]))
 
   return (
-    <div>
-        <h1 className="mb-10 text-xl font-bold">Details</h1>
-
-        <Table>
-            <TableHeader>
-                <TableRow>
-                <TableHead>ID</TableHead>
-                <TableHead>RESTAURANT</TableHead>
-                <TableHead>PLATFORM</TableHead>
-                <TableHead>RATING</TableHead>
-                <TableHead>FEE</TableHead>
-                </TableRow>
-            </TableHeader>
-
-            <TableBody>
-                {details.map((d)=>(
-                    <TableRow key={d.id}>
-                        <TableCell>{d.id}</TableCell>
-                        <TableCell>{d.restaurantID}</TableCell>
-                        <TableCell>{d.platformID}</TableCell>
-                        <TableCell>{d.rating}</TableCell>
-                        <TableCell>{d.fee}</TableCell>
-                    </TableRow>
-                ))}
-            </TableBody>
-        </Table>
-    </div>
+    <DataTable
+        title="Details"
+        data={details}
+        columns={[
+            { header: "ID", accessor: "id" },
+            { header: "Restaurant", accessor: (d) => restMap[d.restaurantID] ?? d.restaurantID },
+            { header: "Platform", accessor: (d) => platMap[d.platformID] ?? d.platformID },
+            { header: "Rating", accessor: "rating" },
+            { header: "Fee", accessor: "fee" },
+        ]}
+    />
   )
 }
 
