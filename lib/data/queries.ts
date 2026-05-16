@@ -27,8 +27,8 @@ export function getAllDetails(): Detail[] {
 
 export function searchProducts(query?:string,platforms?:string[],minPrice?:number,
                                 maxPrice?:number,sortBy?:number):SearchResult[]{
-    let conditions : string[] = []
-    let parameters : any[] = []
+    const conditions : string[] = []
+    const parameters : unknown[] = []
     if(query){
         conditions.push("products.name LIKE ?")
         parameters.push(`%${query}%`)
