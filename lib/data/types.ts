@@ -90,3 +90,5 @@ export interface SearchResult {
     image:(string | null)
     description:(string | null)
 }
+
+

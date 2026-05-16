@@ -1,35 +1,22 @@
-import { getAllProducts } from "@/lib/data/queries"
-import { Table, TableBody, TableCell, TableHead, TableHeader,TableRow } from "@/components/ui/table"
+import { getAllProducts, getAllRestaurants } from "@/lib/data/queries"
+import { DataTable } from "@/components/admin/DataTable"
 
 const page = () => {
     const products = getAllProducts()
+    const restaurants = getAllRestaurants()
+    const restMap = Object.fromEntries(restaurants.map(r => [r.restaurantID, r.name]))
 
   return (
-    <div>
-        <h1 className="mb-10 text-xl font-bold">Products</h1>
-
-        <Table>
-            <TableHeader>
-                <TableRow>
-                <TableHead>ID</TableHead>
-                <TableHead>NAME</TableHead>
-                <TableHead>RESTAURANT</TableHead>
-                <TableHead>DESCRIPTION</TableHead>
-                </TableRow>
-            </TableHeader>
-
-            <TableBody>
-                {products.map((p)=>(
-                    <TableRow key={p.productID}>
-                        <TableCell>{p.productID}</TableCell>
-                        <TableCell>{p.name}</TableCell>
-                        <TableCell>{p.restaurantID}</TableCell>
-                        <TableCell>{p.description}</TableCell>
-                    </TableRow>
-                ))}
-            </TableBody>
-        </Table>
-    </div>
+    <DataTable
+        title="Products"
+        data={products}
+        columns={[
+            { header: "ID", accessor: "productID" },
+            { header: "Name", accessor: "name" },
+            { header: "Restaurant", accessor: (p) => restMap[p.restaurantID] ?? p.restaurantID },
+            { header: "Description", accessor: "description" },
+        ]}
+    />
   )
 }
 
