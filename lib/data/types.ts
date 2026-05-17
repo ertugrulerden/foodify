@@ -67,20 +67,6 @@ export interface UserFav {
     userID: number
     productID: number
 }
-interface TrendingProduct {
-    name: string
-    restaurantName: string
-    description?: string
-    image?: string
-    platforms: { name: string; price: number }[]
-}
-interface PopularRestaurant {
-    name: string
-    image?: string
-    platforms: string[]
-    rating?: number
-    fee?: number
-}
 export interface SearchResult {
     productName:string
     restaurantName: string
