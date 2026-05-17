@@ -1,18 +1,16 @@
+import HeroSection from "@/components/Homepage/HeroSection"
 import RestaurantCard from "@/components/Homepage/RestaurantCard"
 import { popularRestaurants } from "@/lib/data/homepage"
 
-
-const page = () => {
+const HomePage = () => {
   return (
-    <div>
-      
-    	<h2>yo</h2>
-		
-		{popularRestaurants.map((r,i) => (
-			<RestaurantCard key={i} {...r}/>
-		))}
-    </div>
+    <main>
+      <HeroSection />
+      {popularRestaurants.map((r,i) => (
+			  <RestaurantCard key={i} {...r}/>
+		  ))}
+    </main>
   )
 }
 
-export default page
+export default HomePage
