@@ -1,9 +1,7 @@
 const burgerImage = "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2VyfGVufDB8fDB8fHww"
 const pizzaImage = "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop&q=60"
-const donerImage = "https://images.unsplash.com/photo-1679845974782-5e0ed20182b6?w=800&auto=format&fit=crop&q=60"
 const lahmacunImage = "https://images.unsplash.com/photo-1590947132387-155cc02f3212?w=800&auto=format&fit=crop&q=60"
 const chickenImage = "https://images.unsplash.com/photo-1562967914-608f82629710?w=800&auto=format&fit=crop&q=60"
-const kebabImage = "https://images.unsplash.com/photo-1632778149955-e80d8ce05e62?w=800&auto=format&fit=crop&q=60"
 const friesImage = "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800&auto=format&fit=crop&q=60"
 
 export interface PopularRestaurants {
