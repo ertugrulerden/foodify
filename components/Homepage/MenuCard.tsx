@@ -11,7 +11,7 @@ import Link from "next/link";
 const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
 	getir: { label: "Getir", logo: "/getir52.png" },
 	yemeksepeti: { label: "Yemeksepeti", logo: "/yemeksepeti52.png" },
-	ubereats: { label: "Uber Eats", logo: "/ubereats52.png" },
+	trendyol: { label: "Trendyol Yemek", logo: "/ubereats52.png" },
 	migros: { label: "Migros", logo: "/migros52.png" },
 };
 
@@ -77,7 +77,7 @@ const MenuCard = ({
       <div className="flex flex-col gap-2.5 p-3">
         <div className="flex flex-col gap-0.5">
           {productName && (
-            <p className="truncate text-sm font-semibold text-foreground">{productName}</p>
+            <p className="truncate text-s font-semibold text-foreground">{productName}</p>
           )}
           <p className="truncate text-xs text-muted-foreground">{name}</p>
           
