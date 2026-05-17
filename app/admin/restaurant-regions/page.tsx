@@ -1,24 +1,37 @@
+import { CrudPage } from "@/components/admin/CrudPage"
 import { getAllRestaurantRegions, getAllRestaurants, getAllRegions } from "@/lib/data/queries"
-import { DataTable } from "@/components/admin/DataTable"
+import { saveRestaurantRegionAction, deleteRestaurantRegionAction } from "./actions"
 
-const page = () => {
-    const rrs = getAllRestaurantRegions()
-    const restaurants = getAllRestaurants()
-    const regions = getAllRegions()
-    const restMap = Object.fromEntries(restaurants.map(r => [r.restaurantID, r.name]))
-    const regionMap = Object.fromEntries(regions.map(r => [r.regionID, r.region]))
-
+const Page = () => {
+  const restaurants = getAllRestaurants()
+  const regions = getAllRegions()
+  const restMap = Object.fromEntries(restaurants.map(r => [r.restaurantID, r.name]))
+  const regionMap = Object.fromEntries(regions.map(r => [r.regionID, r.region]))
+  const data = getAllRestaurantRegions().map(r => ({
+    id: r.id,
+    _restaurant: restMap[r.restaurantID] ?? r.restaurantID,
+    _region: regionMap[r.regionID] ?? r.regionID,
+    restaurantID: r.restaurantID,
+    regionID: r.regionID,
+  }))
   return (
-    <>
-        <h1 className="mb-10 text-xl font-bold">Restaurant Regions</h1>
-        <DataTable
-        data={rrs}
-        columns={[
-            { header: "Restaurant ID", accessor: (rr) => `${rr.restaurantID} - ${restMap[rr.restaurantID] ?? rr.restaurantID}` },
-            { header: "Region ID", accessor: (rr) => `${rr.regionID} - ${regionMap[rr.regionID] ?? rr.regionID}` },
-        ]}
+    <CrudPage
+      title="Restaurant Regions"
+      data={data}
+      columns={[
+        { header: "Restaurant", accessor: "_restaurant" },
+        { header: "Region", accessor: "_region" },
+      ]}
+      emptyItem={{ id: 0, restaurantID: 0, regionID: 0, _restaurant: "", _region: "" }}
+      fields={[
+        { name: "restaurantID", label: "Restaurant", type: "select", required: true, options: restaurants.map(r => ({ value: r.restaurantID, label: r.name })) },
+        { name: "regionID", label: "Region", type: "select", required: true, options: regions.map(p => ({ value: p.regionID, label: p.region })) },
+      ]}
+      idField="id"
+      displayField="id"
+      onSave={saveRestaurantRegionAction}
+      onDelete={deleteRestaurantRegionAction}
     />
-    </>
   )
 }
-export default page
+export default Page

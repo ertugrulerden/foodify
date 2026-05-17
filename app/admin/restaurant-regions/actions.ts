@@ -1,18 +1,32 @@
 "use server"
 
 import { revalidatePath } from "next/cache"
-import { createRestaurantRegion, deleteRestaurantRegion } from "@/lib/data/queries"
+import { createRestaurantRegion, updateRestaurantRegion, deleteRestaurantRegion } from "@/lib/data/queries"
 
-export async function createRestaurantRegionAction(formData: FormData) {
+export async function saveRestaurantRegionAction(prevState: unknown, formData: FormData) {
+  const id = formData.get("id")
   const restaurantID = Number(formData.get("restaurantID"))
   const regionID = Number(formData.get("regionID"))
-  createRestaurantRegion({ restaurantID, regionID })
-  revalidatePath("/admin/restaurant-regions")
+  try {
+    if (id) {
+      updateRestaurantRegion(Number(id), { restaurantID, regionID })
+      revalidatePath("/admin/restaurant-regions")
+      return { success: true, msg: "Updated" }
+    }
+    createRestaurantRegion({ restaurantID, regionID })
+    revalidatePath("/admin/restaurant-regions")
+    return { success: true, msg: "Created" }
+  } catch {
+    return { success: false, error: "Operation failed" }
+  }
 }
 
-export async function deleteRestaurantRegionAction(formData: FormData) {
-  const restaurantID = Number(formData.get("restaurantID"))
-  const regionID = Number(formData.get("regionID"))
-  deleteRestaurantRegion(restaurantID, regionID)
-  revalidatePath("/admin/restaurant-regions")
+export async function deleteRestaurantRegionAction(id: number) {
+  try {
+    deleteRestaurantRegion(id)
+    revalidatePath("/admin/restaurant-regions")
+    return { success: true, msg: "Deleted" }
+  } catch {
+    return { success: false, error: "Operation failed" }
+  }
 }

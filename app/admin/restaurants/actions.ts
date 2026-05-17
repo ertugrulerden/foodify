@@ -3,20 +3,30 @@
 import { revalidatePath } from "next/cache"
 import { createRestaurant, updateRestaurant, deleteRestaurant } from "@/lib/data/queries"
 
-export async function createRestaurantAction(formData: FormData) {
+export async function saveRestaurantAction(prevState: unknown, formData: FormData) {
+  const id = formData.get("id")
   const name = formData.get("name") as string
-  createRestaurant(name)
-  revalidatePath("/admin/restaurants")
-}
-
-export async function updateRestaurantAction(formData: FormData) {
-  const id = Number(formData.get("id"))
-  const name = formData.get("name") as string
-  updateRestaurant(id, name)
-  revalidatePath("/admin/restaurants")
+  const isActive = formData.get("isActive") === "on"
+  try {
+    if (id) {
+      updateRestaurant(Number(id), name)
+      revalidatePath("/admin/restaurants")
+      return { success: true, msg: `Updated '${name}'` }
+    }
+    createRestaurant(name)
+    revalidatePath("/admin/restaurants")
+    return { success: true, msg: `Created '${name}'` }
+  } catch {
+    return { success: false, error: "Operation failed" }
+  }
 }
 
 export async function deleteRestaurantAction(id: number) {
-  deleteRestaurant(id)
-  revalidatePath("/admin/restaurants")
+  try {
+    deleteRestaurant(id)
+    revalidatePath("/admin/restaurants")
+    return { success: true, msg: "Deleted" }
+  } catch {
+    return { success: false, error: "Has linked records. Delete those first." }
+  }
 }

@@ -3,22 +3,30 @@
 import { revalidatePath } from "next/cache"
 import { createDistrict, updateDistrict, deleteDistrict } from "@/lib/data/queries"
 
-export async function createDistrictAction(formData: FormData) {
+export async function saveDistrictAction(prevState: unknown, formData: FormData) {
+  const id = formData.get("id")
   const district = formData.get("district") as string
   const cityID = Number(formData.get("cityID"))
-  createDistrict({ district, cityID })
-  revalidatePath("/admin/districts")
-}
-
-export async function updateDistrictAction(formData: FormData) {
-  const id = Number(formData.get("id"))
-  const district = formData.get("district") as string
-  const cityID = Number(formData.get("cityID"))
-  updateDistrict(id, { district, cityID })
-  revalidatePath("/admin/districts")
+  try {
+    if (id) {
+      updateDistrict(Number(id), { district, cityID })
+      revalidatePath("/admin/districts")
+      return { success: true, msg: `Updated '${district}'` }
+    }
+    createDistrict({ district, cityID })
+    revalidatePath("/admin/districts")
+    return { success: true, msg: `Created '${district}'` }
+  } catch {
+    return { success: false, error: "Operation failed" }
+  }
 }
 
 export async function deleteDistrictAction(id: number) {
-  deleteDistrict(id)
-  revalidatePath("/admin/districts")
+  try {
+    deleteDistrict(id)
+    revalidatePath("/admin/districts")
+    return { success: true, msg: "Deleted" }
+  } catch {
+    return { success: false, error: "Has linked records. Delete those first." }
+  }
 }

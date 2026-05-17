@@ -3,26 +3,32 @@
 import { revalidatePath } from "next/cache"
 import { createProduct, updateProduct, deleteProduct } from "@/lib/data/queries"
 
-export async function createProductAction(formData: FormData) {
+export async function saveProductAction(prevState: unknown, formData: FormData) {
+  const id = formData.get("id")
   const restaurantID = Number(formData.get("restaurantID"))
   const name = formData.get("name") as string
   const image = formData.get("image") as string | null
   const description = formData.get("description") as string | null
-  createProduct({ restaurantID, name, image, description })
-  revalidatePath("/admin/products")
-}
-
-export async function updateProductAction(formData: FormData) {
-  const id = Number(formData.get("id"))
-  const restaurantID = Number(formData.get("restaurantID"))
-  const name = formData.get("name") as string
-  const image = formData.get("image") as string | null
-  const description = formData.get("description") as string | null
-  updateProduct(id, { restaurantID, name, image, description })
-  revalidatePath("/admin/products")
+  try {
+    if (id) {
+      updateProduct(Number(id), { restaurantID, name, image, description })
+      revalidatePath("/admin/products")
+      return { success: true, msg: `Updated '${name}'` }
+    }
+    createProduct({ restaurantID, name, image, description })
+    revalidatePath("/admin/products")
+    return { success: true, msg: `Created '${name}'` }
+  } catch {
+    return { success: false, error: "Operation failed" }
+  }
 }
 
 export async function deleteProductAction(id: number) {
-  deleteProduct(id)
-  revalidatePath("/admin/products")
+  try {
+    deleteProduct(id)
+    revalidatePath("/admin/products")
+    return { success: true, msg: "Deleted" }
+  } catch {
+    return { success: false, error: "Has linked records. Delete those first." }
+  }
 }

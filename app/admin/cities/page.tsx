@@ -1,20 +1,24 @@
+import { CrudPage } from "@/components/admin/CrudPage"
 import { getAllCities } from "@/lib/data/queries"
-import { DataTable } from "@/components/admin/DataTable"
+import { saveCityAction, deleteCityAction } from "./actions"
+import type { City } from "@/lib/data/types"
 
-const page = () => {
-    const cities = getAllCities()
-
-  return (
-    <>
-        <h1 className="mb-10 text-xl font-bold">Cities</h1>
-        <DataTable
-        data={cities}
-        columns={[
-            { header: "ID", accessor: "cityID" },
-            { header: "City", accessor: "city" },
-        ]}
-    />
-    </>
-  )
-}
-export default page
+const Page = () => (
+  <CrudPage<City>
+    title="Cities"
+    data={getAllCities()}
+    columns={[
+      { header: "ID", accessor: "cityID" },
+      { header: "City", accessor: "city" },
+    ]}
+    emptyItem={{ cityID: 0, city: "" }}
+    fields={[
+      { name: "city", label: "City name", type: "text", required: true },
+    ]}
+    idField="cityID"
+    displayField="city"
+    onSave={saveCityAction}
+    onDelete={deleteCityAction}
+  />
+)
+export default Page

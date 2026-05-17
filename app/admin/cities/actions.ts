@@ -3,20 +3,29 @@
 import { revalidatePath } from "next/cache"
 import { createCity, updateCity, deleteCity } from "@/lib/data/queries"
 
-export async function createCityAction(formData: FormData) {
+export async function saveCityAction(prevState: unknown, formData: FormData) {
+  const id = formData.get("id")
   const city = formData.get("city") as string
-  createCity(city)
-  revalidatePath("/admin/cities")
-}
-
-export async function updateCityAction(formData: FormData) {
-  const id = Number(formData.get("id"))
-  const city = formData.get("city") as string
-  updateCity(id, city)
-  revalidatePath("/admin/cities")
+  try {
+    if (id) {
+      updateCity(Number(id), city)
+      revalidatePath("/admin/cities")
+      return { success: true, msg: `Updated '${city}'` }
+    }
+    createCity(city)
+    revalidatePath("/admin/cities")
+    return { success: true, msg: `Created '${city}'` }
+  } catch {
+    return { success: false, error: "Operation failed" }
+  }
 }
 
 export async function deleteCityAction(id: number) {
-  deleteCity(id)
-  revalidatePath("/admin/cities")
+  try {
+    deleteCity(id)
+    revalidatePath("/admin/cities")
+    return { success: true, msg: "Deleted" }
+  } catch {
+    return { success: false, error: "Has linked records. Delete those first." }
+  }
 }

@@ -34,7 +34,18 @@ export function getAllRegions(): Region[] {
     return db.prepare("SELECT * FROM region ORDER BY region").all() as Region[]
 }
 export function getAllRestaurantRegions(): RestaurantRegion[] {
-    return db.prepare("SELECT * FROM restaurantRegion").all() as RestaurantRegion[]
+    return db.prepare("SELECT rowid AS id, * FROM restaurantRegion").all() as RestaurantRegion[]
+}
+//RestaurantRegion
+export function createRestaurantRegion(data: {restaurantID: number, regionID: number}): RestaurantRegion{
+    const result = db.prepare("INSERT INTO restaurantRegion (restaurantID, regionID) VALUES (?, ?) RETURNING rowid AS id, *").get(data.restaurantID, data.regionID) as RestaurantRegion
+    return result
+}
+export function updateRestaurantRegion(id: number, data: {restaurantID: number, regionID: number}): RestaurantRegion{
+    return db.prepare("UPDATE restaurantRegion SET restaurantID = ?, regionID = ? WHERE rowid = ? RETURNING rowid AS id, *").get(data.restaurantID, data.regionID, id) as RestaurantRegion
+}
+export function deleteRestaurantRegion(id: number): void{
+    db.prepare("DELETE FROM restaurantRegion WHERE rowid = ?").run(id)
 }
 export function getAllUsers(): User[] {
     return db.prepare("SELECT * FROM users ORDER BY email").all() as User[]
@@ -175,14 +186,6 @@ export function updateRegion(id: number, data: {region: string, districtID: numb
 }
 export function deleteRegion(id: number): void{
     db.prepare("DELETE FROM region WHERE regionID = ?").run(id)
-}
-
-//RestaurantRegion
-export function createRestaurantRegion(data: {restaurantID: number, regionID: number}): RestaurantRegion{
-    return db.prepare("INSERT INTO restaurantRegion (restaurantID, regionID) VALUES (?, ?) RETURNING *").get(data.restaurantID, data.regionID) as RestaurantRegion
-}
-export function deleteRestaurantRegion(restaurantID: number, regionID: number): void{
-    db.prepare("DELETE FROM restaurantRegion WHERE restaurantID = ? AND regionID = ?").run(restaurantID, regionID)
 }
 
 //Users

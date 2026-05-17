@@ -1,23 +1,35 @@
+import { CrudPage } from "@/components/admin/CrudPage"
 import { getAllRegions, getAllDistricts } from "@/lib/data/queries"
-import { DataTable } from "@/components/admin/DataTable"
+import { saveRegionAction, deleteRegionAction } from "./actions"
 
-const page = () => {
-    const regions = getAllRegions()
-    const districts = getAllDistricts()
-    const districtMap = Object.fromEntries(districts.map(d => [d.districtID, d.district]))
-
+const Page = () => {
+  const districts = getAllDistricts()
+  const distMap = Object.fromEntries(districts.map(d => [d.districtID, d.district]))
+  const data = getAllRegions().map(r => ({
+    regionID: r.regionID,
+    region: r.region,
+    districtID: r.districtID,
+    _district: distMap[r.districtID] ?? r.districtID,
+  }))
   return (
-    <>
-        <h1 className="mb-10 text-xl font-bold">Regions</h1>
-        <DataTable
-        data={regions}
-        columns={[
-            { header: "ID", accessor: "regionID" },
-            { header: "Region", accessor: "region" },
-            { header: "District ID", accessor: (r) => `${r.districtID} - ${districtMap[r.districtID] ?? r.districtID}` },
-        ]}
+    <CrudPage
+      title="Regions"
+      data={data}
+      columns={[
+        { header: "ID", accessor: "regionID" },
+        { header: "Region", accessor: "region" },
+        { header: "District", accessor: "_district" },
+      ]}
+      emptyItem={{ regionID: 0, region: "", districtID: 0, _district: "" }}
+      fields={[
+        { name: "region", label: "Region", type: "text", required: true },
+        { name: "districtID", label: "District", type: "select", required: true, options: districts.map(d => ({ value: d.districtID, label: d.district })) },
+      ]}
+      idField="regionID"
+      displayField="region"
+      onSave={saveRegionAction}
+      onDelete={deleteRegionAction}
     />
-    </>
   )
 }
-export default page
+export default Page

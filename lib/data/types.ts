@@ -18,6 +18,7 @@ export interface Restaurant {
     isActive: boolean
 }
 export interface RestaurantRegion{
+    id: number
     restaurantID: number
     regionID: number
 }
