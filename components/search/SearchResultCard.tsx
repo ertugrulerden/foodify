@@ -19,11 +19,11 @@ export function SearchResultCard({
   platforms
 }: SearchResultCardProps) {
   return (
-    <Card>
+    <Card className="h-full">
       <CardHeader>
         <CardTitle>{restaurantName}</CardTitle>
         <CardDescription>
-          {address} {avgRating > 0 && <>• ★ {avgRating}</>}
+          {address} {avgRating > 0 && <>• ⭐ {avgRating}</>}
         </CardDescription>
       </CardHeader>
       <CardContent>
