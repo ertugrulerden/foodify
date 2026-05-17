@@ -13,8 +13,8 @@ const Page = () => {
     platformID: p.platformID,
     price: p.price,
     lastUpdated: p.lastUpdated,
-    _product: prodMap[p.productID] ?? p.productID,
-    _platform: platMap[p.platformID] ?? p.platformID,
+    _product: `${p.productID} - ${prodMap[p.productID] ?? p.productID}`,
+    _platform: `${p.platformID} - ${platMap[p.platformID] ?? p.platformID}`,
   }))
   return (
     <CrudPage
@@ -22,8 +22,8 @@ const Page = () => {
       data={data}
       columns={[
         { header: "ID", accessor: "id" },
-        { header: "Product", accessor: "_product" },
-        { header: "Platform", accessor: "_platform" },
+        { header: "Product ID", accessor: "_product" },
+        { header: "Platform ID", accessor: "_platform" },
         { header: "Price", accessor: "price" },
         { header: "Updated", accessor: "lastUpdated" },
       ]}

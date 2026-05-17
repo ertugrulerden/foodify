@@ -9,7 +9,7 @@ const Page = () => {
     districtID: d.districtID,
     district: d.district,
     cityID: d.cityID,
-    _city: cityMap[d.cityID] ?? d.cityID,
+    _city: `${d.cityID} - ${cityMap[d.cityID] ?? d.cityID}`,
   }))
   return (
     <CrudPage
@@ -18,7 +18,7 @@ const Page = () => {
       columns={[
         { header: "ID", accessor: "districtID" },
         { header: "District", accessor: "district" },
-        { header: "City", accessor: "_city" },
+        { header: "City ID", accessor: "_city" },
       ]}
       emptyItem={{ districtID: 0, district: "", cityID: 0, _city: "" }}
       fields={[

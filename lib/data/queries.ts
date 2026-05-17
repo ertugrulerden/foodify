@@ -207,3 +207,26 @@ export function deleteUserFav(favID: number): void{
     db.prepare("DELETE FROM userFavs WHERE favID = ?").run(favID)
 }
 
+
+export function getDashboardCounts() {
+    return db.prepare(`
+      SELECT
+        (SELECT COUNT(*) FROM restaurants) AS restaurants,
+        (SELECT COUNT(*) FROM products) AS products,
+        (SELECT COUNT(*) FROM platforms) AS platforms,
+        (SELECT COUNT(*) FROM users) AS users,
+        (SELECT COUNT(*) FROM city) AS cities,
+        (SELECT COUNT(*) FROM district) AS districts,
+        (SELECT COUNT(*) FROM region) AS regions,
+        (SELECT COUNT(*) FROM prices) AS prices
+    `).get() as {
+      restaurants: number
+      products: number
+      platforms: number
+      users: number
+      cities: number
+      districts: number
+      regions: number
+      prices: number
+    }
+}

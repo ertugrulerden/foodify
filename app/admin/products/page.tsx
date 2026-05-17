@@ -10,7 +10,7 @@ const Page = () => {
     name: p.name,
     restaurantID: p.restaurantID,
     description: p.description,
-    _restaurant: restMap[p.restaurantID] ?? p.restaurantID,
+    _restaurant: `${p.restaurantID} - ${restMap[p.restaurantID] ?? p.restaurantID}`,
   }))
   return (
     <CrudPage
@@ -19,7 +19,7 @@ const Page = () => {
       columns={[
         { header: "ID", accessor: "productID" },
         { header: "Name", accessor: "name" },
-        { header: "Restaurant", accessor: "_restaurant" },
+        { header: "Restaurant ID", accessor: "_restaurant" },
         { header: "Description", accessor: "description" },
       ]}
       emptyItem={{ productID: 0, name: "", restaurantID: 0, description: null, _restaurant: "" }}

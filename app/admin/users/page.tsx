@@ -10,7 +10,7 @@ const Page = () => {
     email: u.email,
     passwordHash: u.passwordHash,
     lastRegionID: u.lastRegionID,
-    _region: regMap[u.lastRegionID] ?? u.lastRegionID,
+    _region: `${u.lastRegionID} - ${regMap[u.lastRegionID] ?? u.lastRegionID}`,
   }))
   return (
     <CrudPage
@@ -19,7 +19,7 @@ const Page = () => {
       columns={[
         { header: "ID", accessor: "userID" },
         { header: "Email", accessor: "email" },
-        { header: "Region", accessor: "_region" },
+        { header: "Last Region ID", accessor: "_region" },
       ]}
       emptyItem={{ userID: 0, email: "", passwordHash: "", lastRegionID: 0, _region: "" }}
       fields={[

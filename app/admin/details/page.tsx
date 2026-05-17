@@ -13,8 +13,8 @@ const Page = () => {
     platformID: d.platformID,
     rating: d.rating,
     fee: d.fee,
-    _restaurant: restMap[d.restaurantID] ?? d.restaurantID,
-    _platform: platMap[d.platformID] ?? d.platformID,
+    _restaurant: `${d.restaurantID} - ${restMap[d.restaurantID] ?? d.restaurantID}`,
+    _platform: `${d.platformID} - ${platMap[d.platformID] ?? d.platformID}`,
   }))
   return (
     <CrudPage
@@ -22,8 +22,8 @@ const Page = () => {
       data={data}
       columns={[
         { header: "ID", accessor: "id" },
-        { header: "Restaurant", accessor: "_restaurant" },
-        { header: "Platform", accessor: "_platform" },
+        { header: "Restaurant ID", accessor: "_restaurant" },
+        { header: "Platform ID", accessor: "_platform" },
         { header: "Rating", accessor: "rating" },
         { header: "Fee", accessor: "fee" },
       ]}

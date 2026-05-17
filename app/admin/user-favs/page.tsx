@@ -11,8 +11,8 @@ const Page = () => {
     favID: f.favID,
     userID: f.userID,
     productID: f.productID,
-    _user: userMap[f.userID] ?? f.userID,
-    _product: prodMap[f.productID] ?? f.productID,
+    _user: `${f.userID} - ${userMap[f.userID] ?? f.userID}`,
+    _product: `${f.productID} - ${prodMap[f.productID] ?? f.productID}`,
   }))
   return (
     <CrudPage
@@ -20,8 +20,8 @@ const Page = () => {
       data={data}
       columns={[
         { header: "Fav ID", accessor: "favID" },
-        { header: "User", accessor: "_user" },
-        { header: "Product", accessor: "_product" },
+        { header: "User ID", accessor: "_user" },
+        { header: "Product ID", accessor: "_product" },
       ]}
       emptyItem={{ favID: 0, userID: 0, productID: 0, _user: "", _product: "" }}
       fields={[
