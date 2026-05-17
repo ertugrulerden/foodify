@@ -1,22 +1,37 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useTransition } from "react"
 import type { Platform } from "@/lib/data/types"
 import { DataTable } from "@/components/admin/DataTable"
 import { RowActions } from "../RowActions"
-import { createPlatformAction, updatePlatformAction, deletePlatformAction } from "./actions"
-import { Dialog, DialogContent, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
-import { AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogTitle } from "@/components/ui/alert-dialog"
+import { deletePlatformAction, savePlatformAction } from "./actions"
+import { Dialog, DialogContent, DialogDescription, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { toast } from "sonner"
+
 
 export function PlatformsClient({ data }: { data: Platform[] }) {
   const [editing, setEditing] = useState<Platform | null>(null)
   const [deleting, setDeleting] = useState<Platform | null>(null)
 
   const emptyItem = { platformID: 0, platform: "" } as Platform
+
+	const [isPending, startTransition] = useTransition()
+	const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+		e.preventDefault()
+		const formData = new FormData(e.currentTarget)
+		startTransition(async () => {
+			const result = await savePlatformAction(null, formData)
+			if (result.success) {
+				toast.success(result.msg)
+				setEditing(null)
+			} else {
+				toast.error(result.error)
+			}
+		})
+	}
 
   return (
     <>
@@ -31,20 +46,20 @@ export function PlatformsClient({ data }: { data: Platform[] }) {
         <DialogContent>
 		  <DialogTitle>{editing?.platformID ? "Edit Platform" : "Add Platform"}</DialogTitle>
 
-          <form action={editing?.platformID ? updatePlatformAction : createPlatformAction}>
+          <form onSubmit={handleSubmit}>
             {editing?.platformID ? <input type="hidden" name="id" value={editing.platformID} /> : null}
             <Label htmlFor="name" className="mb-2">Name</Label>
             <Input id="name" name="name" defaultValue={editing?.platform ?? ""} required />
-            <Button type="submit" className="mt-4">Save</Button>
+            <Button type="submit" className="mt-4" disabled={isPending}>Save</Button>
           </form>
 
         </DialogContent>
       </Dialog>
 
-      <AlertDialog open={!!deleting} onOpenChange={(o) => { if (!o) setDeleting(null) }}>
-        <AlertDialogContent>
-          <AlertDialogTitle>Delete {deleting?.platform}?</AlertDialogTitle>
-          <AlertDialogDescription>This cannot be undone.</AlertDialogDescription>
+      <Dialog open={!!deleting} onOpenChange={(o) => { if (!o) setDeleting(null) }}>
+        <DialogContent>
+          <DialogTitle>Delete {deleting?.platform}?</DialogTitle>
+          <DialogDescription>This cannot be undone.</DialogDescription>
           <div className="flex justify-end gap-3 mt-4">
 
 			<Button variant="outline" onClick={() => setDeleting(null)}>Cancel</Button>
@@ -52,6 +67,7 @@ export function PlatformsClient({ data }: { data: Platform[] }) {
 				const result = await deletePlatformAction(deleting!.platformID)
 				if (result.success) {
 					setDeleting(null)
+					toast.success(result.msg)
 				} else {
 					toast.error(result.error)
 				}
@@ -60,8 +76,8 @@ export function PlatformsClient({ data }: { data: Platform[] }) {
 			</Button>
 
           </div>
-        </AlertDialogContent>
-      </AlertDialog>
+        </DialogContent>
+      </Dialog>
 
       <DataTable
         data={data}
