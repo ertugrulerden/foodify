@@ -11,7 +11,7 @@ import Link from "next/link";
 const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
 	getir: { label: "Getir", logo: "/getir52.png" },
 	yemeksepeti: { label: "Yemeksepeti", logo: "/yemeksepeti52.png" },
-	trendyol: { label: "Trendyol Yemek", logo: "/ubereats52.png" },
+	ubereats: { label: "Uber Eats", logo: "/ubereats52.png"  },
 	migros: { label: "Migros", logo: "/migros52.png" },
 };
 
