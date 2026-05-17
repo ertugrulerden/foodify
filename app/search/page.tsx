@@ -3,6 +3,7 @@ import type { SearchResult, Platform } from "@/lib/data/types"
 import {FilterSidebar} from "./filter-sidebar"
 import {SortSelect} from "./sort-select"
 import MenuCard from "@/components/Homepage/MenuCard"
+import Navbar from "@/components/Navbar/Navbar"
 
 export default async function SearchPage({
 	searchParams
@@ -66,6 +67,8 @@ export default async function SearchPage({
 	}
 	const groups = grouping(results)
 	return (
+		<>
+		<Navbar/>
 		<div className="flex gap-6 p-4">
 			<FilterSidebar platforms={platforms} />
 			<div className="flex-1">
@@ -99,6 +102,7 @@ export default async function SearchPage({
 				</div>
 			</div>
 		</div>
+		</>
 	)
 
 }
