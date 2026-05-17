@@ -2,7 +2,7 @@ import { searchProducts, getAllPlatforms } from "@/lib/data/queries"
 import type { SearchResult, Platform } from "@/lib/data/types"
 import {FilterSidebar} from "./filter-sidebar"
 import {SortSelect} from "./sort-select"
-import {SearchResultCard} from "@/components/search/SearchResultCard"
+import MenuCard from "@/components/Homepage/MenuCard"
 
 export default async function SearchPage({
 	searchParams
@@ -73,9 +73,29 @@ export default async function SearchPage({
 					<h2 className="text-sm text-gray-500">{groups.length} Sonuç Bulundu</h2>
 					<SortSelect />
 				</div>
-				<div className="grid gird-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-				{groups.map((item,index)=>
-					<SearchResultCard key={index} {...item} />)}
+				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
+				{groups.map((item,index)=>{
+					const platformMap: Record<string, string> = {
+						"Yemeksepeti": "yemeksepeti",
+						"Trendyol Yemek": "trendyol",
+						"GetirYemek": "getir"
+					}
+					const prices: Record<string, number> = {}
+					item.platforms.forEach(p => {
+						const key = platformMap[p.name] || p.name.toLowerCase()
+						prices[key] = p.price
+					})
+					return (
+					<MenuCard
+						key={index}
+						name={item.restaurantName}
+						location={item.address}
+						image={item.image ?? "/placeholder.svg"}
+						rating={item.avgRating}
+						platforms={item.platforms.map(p => platformMap[p.name] || p.name.toLowerCase())}
+						productName={item.productName}
+						platformPrices={prices}
+					/>)})}
 				</div>
 			</div>
 		</div>
