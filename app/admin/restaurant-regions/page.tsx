@@ -9,14 +9,16 @@ const page = () => {
     const regionMap = Object.fromEntries(regions.map(r => [r.regionID, r.region]))
 
   return (
-    <DataTable
-        title="Restaurant Regions"
+    <>
+        <h1 className="mb-10 text-xl font-bold">Restaurant Regions</h1>
+        <DataTable
         data={rrs}
         columns={[
             { header: "Restaurant ID", accessor: (rr) => `${rr.restaurantID} - ${restMap[rr.restaurantID] ?? rr.restaurantID}` },
             { header: "Region ID", accessor: (rr) => `${rr.regionID} - ${regionMap[rr.regionID] ?? rr.regionID}` },
         ]}
     />
+    </>
   )
 }
 export default page

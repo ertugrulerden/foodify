@@ -9,8 +9,9 @@ const page = () => {
     const prodMap = Object.fromEntries(products.map(p => [p.productID, p.name]))
 
   return (
-    <DataTable
-        title="User Favorites"
+    <>
+        <h1 className="mb-10 text-xl font-bold">User Favorites</h1>
+        <DataTable
         data={favs}
         columns={[
             { header: "Fav ID", accessor: "favID" },
@@ -18,6 +19,7 @@ const page = () => {
             { header: "Product ID", accessor: (f) => `${f.productID} - ${prodMap[f.productID] ?? f.productID}` },
         ]}
     />
+    </>
   )
 }
 export default page

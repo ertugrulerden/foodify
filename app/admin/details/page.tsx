@@ -9,8 +9,9 @@ const page = () => {
     const platMap = Object.fromEntries(platforms.map(p => [p.platformID, p.platform]))
 
   return (
-    <DataTable
-        title="Details"
+    <>
+        <h1 className="mb-10 text-xl font-bold">Details</h1>
+        <DataTable
         data={details}
         columns={[
             { header: "ID", accessor: "id" },
@@ -20,6 +21,7 @@ const page = () => {
             { header: "Fee", accessor: "fee" },
         ]}
     />
+    </>
   )
 }
 

@@ -1,19 +1,9 @@
 import { getAllPlatforms } from "@/lib/data/queries"
-import { DataTable } from "@/components/admin/DataTable"
+import { PlatformsClient } from "./platforms-client"
 
-const page = () => {
-    const platforms = getAllPlatforms()
-
-  return (
-    <DataTable
-        title="Platforms"
-        data={platforms}
-        columns={[
-            { header: "ID", accessor: "platformID" },
-            { header: "Name", accessor: "platform" },
-        ]}
-    />
-  )
+const Page = () => {
+  const platforms = getAllPlatforms()
+  return <PlatformsClient data={platforms} />
 }
 
-export default page
+export default Page

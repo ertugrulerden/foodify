@@ -7,8 +7,9 @@ const page = () => {
     const restMap = Object.fromEntries(restaurants.map(r => [r.restaurantID, r.name]))
 
   return (
-    <DataTable
-        title="Products"
+    <>
+        <h1 className="mb-10 text-xl font-bold">Products</h1>
+        <DataTable
         data={products}
         columns={[
             { header: "ID", accessor: "productID" },
@@ -17,6 +18,7 @@ const page = () => {
             { header: "Description", accessor: "description" },
         ]}
     />
+    </>
   )
 }
 

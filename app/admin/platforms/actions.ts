@@ -17,6 +17,11 @@ export async function updatePlatformAction(formData: FormData) {
 }
 
 export async function deletePlatformAction(id: number) {
-  deletePlatform(id)
-  revalidatePath("/admin/platforms")
+    try {
+        deletePlatform(id)
+        revalidatePath("/admin/platforms")
+        return { success: true }
+    } catch {
+        return { success: false, error: "This platform has other tables linked to it. Delete those first." }
+    }
 }

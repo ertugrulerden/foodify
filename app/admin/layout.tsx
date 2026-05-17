@@ -1,4 +1,5 @@
 import Link from "next/link"
+import { Toaster } from "sonner"
 
 const layout = ({children}: {children: React.ReactNode}) => {
   return (
@@ -20,11 +21,14 @@ const layout = ({children}: {children: React.ReactNode}) => {
             <Link href="/admin/restaurant-regions">Restaurant Regions</Link>
             <Link href="/admin/users">Users</Link>
             <Link href="/admin/user-favs">User Favorites</Link>
-            
-
         </div>
 
-        <main className="p-8 flex-1 overflow-y-auto">{children}</main>
+
+
+        <main className="p-8 flex-1 overflow-y-auto">
+          <Toaster/>
+          {children}
+        </main>
     </div>
   )
 }

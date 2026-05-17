@@ -7,8 +7,9 @@ const page = () => {
     const districtMap = Object.fromEntries(districts.map(d => [d.districtID, d.district]))
 
   return (
-    <DataTable
-        title="Regions"
+    <>
+        <h1 className="mb-10 text-xl font-bold">Regions</h1>
+        <DataTable
         data={regions}
         columns={[
             { header: "ID", accessor: "regionID" },
@@ -16,6 +17,7 @@ const page = () => {
             { header: "District ID", accessor: (r) => `${r.districtID} - ${districtMap[r.districtID] ?? r.districtID}` },
         ]}
     />
+    </>
   )
 }
 export default page

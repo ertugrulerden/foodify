@@ -4,16 +4,13 @@ import {
 
 import type { Column } from "./types"
 interface DataTableProps<T> {
-  title: string
   data: T[]
   columns: Column<T>[]
 }
 
-
-function DataTable<T>({ title, data, columns }: DataTableProps<T>) {
+function DataTable<T>({ data, columns }: DataTableProps<T>) {
   return (
     <div>
-      <h1 className="mb-10 text-xl font-bold">{title}</h1>
       <Table>
         <TableHeader>
           <TableRow>

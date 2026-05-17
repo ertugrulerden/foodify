@@ -5,8 +5,9 @@ const page = () => {
     const restaurants = getAllRestaurants()
 
   return (
-    <DataTable
-        title="Restaurants"
+    <>
+        <h1 className="mb-10 text-xl font-bold">Restaurants</h1>
+        <DataTable
         data={restaurants}
         columns={[
             { header: "ID", accessor: "restaurantID" },
@@ -14,6 +15,7 @@ const page = () => {
             { header: "Active", accessor: (r) => r.isActive ? "Yes" : "No" },
         ]}
     />
+    </>
   )
 }
 
