@@ -8,11 +8,11 @@ import { PopularRestaurants } from "@/lib/data/homepage";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
-const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
-  getir: { label: "Getir", color: "#5C3EBC" },
-  yemeksepeti: { label: "Yemeksepeti", color: "#E31837" },
-  ubereats: { label: "Uber Eats", color: "#06C167" },
-  trendyol: { label: "Trendyol", color: "#F27A1A" },
+const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
+  getir: { label: "Getir", logo: "/getir52.png" },
+  yemeksepeti: { label: "Yemeksepeti", logo: "/yemeksepeti52.png" },
+  ubereats: { label: "Uber Eats", logo: "/ubereats52.png" },
+  migros: { label: "Migros", logo: "/migros52.png" },
 };
 
   const RestaurantCard = ({
@@ -114,12 +114,15 @@ const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
               <div
                 key={p}
                 title={platform.label}
-                className="h-6 w-6 shrink-0 overflow-hidden rounded-md"
-                style={{ backgroundColor: platform.color }}
+                className="h-6 w-6 shrink-0 overflow-hidden rounded-md bg-white"
               >
-                <span className="flex h-full w-full items-center justify-center text-[9px] font-bold leading-none text-white">
-                  {platform.label.slice(0, 2).toUpperCase()}
-                </span>
+                <Image
+                  src={platform.logo}
+                  alt={platform.label}
+                  width={24}
+                  height={24}
+                  className="h-full w-full object-contain"
+                />
               </div>
             );
           })}
