@@ -61,36 +61,38 @@ export function FilterSidebar({ platforms }: {
         updateURL([],"","","")
     }
     return (
-        <div>
-            <h2>Platformlar</h2>
+        <div className="w-72 border p-4 rounded shrink-0">
+            <h2 className="font-bold mb-2">Platformlar</h2>
             <div>
                 {platforms.map((p)=>(
-                    <label key = {p.platformID}>
+                    <label key={p.platformID} className="flex items-center gap-2 mb-1">
                     <input  type="checkbox" 
                             name="platform" 
                             value={p.platform}
                             checked={selectedPlatforms.includes(p.platform)}
                             onChange={()=> handlePlatformChange(p.platform)}
 
-                   /><span>{p.platform}</span></label>
+                   /><span className="text-sm">{p.platform}</span></label>
                 ))} 
             </div>
-            <h2>Fiyat Aralığı</h2>
-            <div>
+            <h2 className="font-bold mt-4 mb-2">Fiyat Aralığı</h2>
+            <div className="flex gap-2">
                 <input  type="number" placeholder="Min"
                         value={searchParams.get("minPrice") ?? ""}
-                        onChange = {(e)=> updateURL(undefined,e.target.value,undefined,undefined)}
-                
-                /> - 
+                        onChange={(e)=> updateURL(undefined,e.target.value,undefined,undefined)}
+                        className="border p-1 w-full rounded"
+                /> 
+                <span className="self-center">-</span>
                 <input type="number" placeholder="Max"
                 value={searchParams.get("maxPrice") ?? ""}
-                onChange = {(e) => updateURL(undefined,undefined,e.target.value,undefined)}
+                onChange={(e) => updateURL(undefined,undefined,e.target.value,undefined)}
+                className="border p-1 w-full rounded"
                 />
 
             </div>
-            <button onClick={() => resetFilters()}>Filtreleri Sıfırla</button>
-
-
+            <div className="mt-4 w-full bg-red-500 text-white p-2 rounded text-center">
+                <button className="w-full text-white font-bold" onClick={() => resetFilters()}>Filtreleri Sıfırla</button>
+            </div>
 
         </div>)       
         
