@@ -2,6 +2,7 @@ import { searchProducts, getAllPlatforms } from "@/lib/data/queries"
 import type { SearchResult, Platform } from "@/lib/data/types"
 import {FilterSidebar} from "./filter-sidebar"
 import {SortSelect} from "./sort-select"
+import {SearchResultCard} from "@/components/search/SearchResultCard"
 
 export default async function SearchPage({
 	searchParams
@@ -73,18 +74,7 @@ export default async function SearchPage({
 					<SortSelect />
 				</div>
 				{groups.map((item,index)=>
-					<div key={index} className="border p-3 mb-2 rounded">
-						<h3 className="font-bold">{item.restaurantName}</h3>
-						<p className="text-xs text-gray-400">{item.address}</p>
-						<p className="text-sm text-gray-600 mb-2">{item.productName}</p>
-						<p className="text-xs text-amber-600 mb-2">★ {item.avgRating}</p>
-						{item.platforms.map((platform,pindex)=>
-							<div key={pindex} className="flex justify-between items-center">
-								<span>{platform.name}</span>
-								<span className={platform.bestPrice ? "text-green-600 font-bold" : ""}>
-									{platform.price}TL</span>
-							</div>)}
-					</div>)}
+					<SearchResultCard key={index} {...item} />)}
 			</div>
 		</div>
 	)
