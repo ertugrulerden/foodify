@@ -108,7 +108,7 @@ db.exec(`
 
   INSERT OR IGNORE INTO platforms VALUES
     (1, 'Yemeksepeti'),
-    (2, 'Trendyol Yemek'),
+    (2, 'Uber Eats'),
     (3, 'GetirYemek');
 
   INSERT OR IGNORE INTO restaurants VALUES

@@ -80,8 +80,9 @@ export default async function SearchPage({
 				{groups.map((item,index)=>{
 					const platformMap: Record<string, string> = {
 						"Yemeksepeti": "yemeksepeti",
-						"Trendyol Yemek": "trendyol",
-						"GetirYemek": "getir"
+						"Uber Eats": "ubereats",
+						"GetirYemek": "getir",
+						"MigrosYemek":"migros"
 					}
 					const prices: Record<string, number> = {}
 					item.platforms.forEach(p => {
