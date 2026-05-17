@@ -7,6 +7,11 @@ export interface PopularRestaurants {
     platforms: string[]
     rating?: number
     fee?: number
+    id?: string
+    deliveryTime?: string
+    minCart?: number
+    currency?: string
+    isFavorited?: boolean
 }
 
 export const popularRestaurants = [
@@ -17,6 +22,9 @@ export const popularRestaurants = [
     platforms: ["getir", "yemeksepeti", "ubereats"],
     rating: 4.5,
     fee: 20,
+    deliveryTime: "25-35",
+    minCart: 200,
+    currency: "₺",
   },
   {
     name: "Hot Döner",
@@ -25,6 +33,9 @@ export const popularRestaurants = [
     platforms: ["getir", "yemeksepeti"],
     rating: 4.3,
     fee: 15,
+    deliveryTime: "15-25",
+    minCart: 150,
+    currency: "₺",
   },
   {
     name: "Koçoğlu Elazığ Sofrası",
@@ -33,6 +44,9 @@ export const popularRestaurants = [
     platforms: ["getir"],
     rating: 4.6,
     fee: 25,
+    deliveryTime: "30-40",
+    minCart: 300,
+    currency: "₺",
   },
   {
     name: "Burger Buffs",
@@ -41,6 +55,9 @@ export const popularRestaurants = [
     platforms: ["getir", "ubereats"],
     rating: 4.2,
     fee: 18,
+    deliveryTime: "20-30",
+    minCart: 250,
+    currency: "₺",
   },
   {
     name: "Lahmacuncu",
@@ -49,6 +66,9 @@ export const popularRestaurants = [
     platforms: ["getir", "yemeksepeti"],
     rating: 4.4,
     fee: 12,
+    deliveryTime: "20-30",
+    minCart: 120,
+    currency: "₺",
   },
   {
     name: "Fry Stop",
@@ -57,6 +77,9 @@ export const popularRestaurants = [
     platforms: ["getir"],
     rating: 4.1,
     fee: 15,
+    deliveryTime: "15-20",
+    minCart: 180,
+    currency: "₺",
   },
   {
     name: "Cajun Chicken House",
@@ -65,12 +88,17 @@ export const popularRestaurants = [
     platforms: ["yemeksepeti", "ubereats"],
     rating: 4.7,
     fee: 22,
+    deliveryTime: "30-45",
+    minCart: 350,
+    currency: "₺",
   },
   {
     name: "Hk Katık",
     location: "Merkez (Çaydaçıra Mah.)",
     image: burgerImage,
     platforms: ["getir"],
-    // no rating or fee yet — card hides those lines
+    deliveryTime: "20-30",
+    minCart: 100,
+    currency: "₺",
   },
 ]
