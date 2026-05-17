@@ -42,6 +42,7 @@ next-env.d.ts
 
 ## custom ##
 *.db
+*.db.backup
 *.png
 *.md
 !README.md
@@ -49,4 +50,3 @@ next-env.d.ts
 *.db-shm
 *.db-wal
 graphify-out
-
