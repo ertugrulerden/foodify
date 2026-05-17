@@ -1,6 +1,11 @@
 "use client"
 import {useRouter , useSearchParams} from "next/navigation"
 import type {Platform} from "@/lib/data/types"
+import { Separator } from "@/components/ui/separator"
+import { Input } from "@/components/ui/input"
+import { Label } from "@/components/ui/label"
+import { Button } from "@/components/ui/button"
+import { RotateCcw } from "lucide-react"
 
 export function FilterSidebar({ platforms }: {
   platforms: Platform[]
@@ -65,8 +70,9 @@ export function FilterSidebar({ platforms }: {
             <h2 className="font-bold mb-2">Platformlar</h2>
             <div>
                 {platforms.map((p)=>(
-                    <label key={p.platformID} className="flex items-center gap-2 mb-1">
-                    <input  type="checkbox" 
+                    <label key={p.platformID} className="flex items-center gap-2 
+                    py-0.5 cursor-pointer hover:text-foreground transition-colors">
+                    <input  type="checkbox" className="accent-green-600 h-4 w-4 rounded border-gray-300 cursor-pointer"
                             name="platform" 
                             value={p.platform}
                             checked={selectedPlatforms.includes(p.platform)}

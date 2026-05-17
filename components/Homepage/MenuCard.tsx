@@ -37,7 +37,7 @@ const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
 
   const card = (
     <div
-      className="group shrink-0 w-64 rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all duration-200 hover:shadow-md active:scale-[0.98] active:shadow-sm cursor-pointer"
+      className="group shrink-0 w-72 rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all duration-200 hover:shadow-md active:scale-[0.98] active:shadow-sm cursor-pointer"
       role="article"
     >
       <div className="relative h-36 w-full overflow-hidden bg-muted">
@@ -47,7 +47,6 @@ const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
           fill
           className="object-cover transition-transform duration-300 group-hover:scale-105"
         />
-
         <Button
           size="icon-xs"
           variant="ghost"
@@ -76,10 +75,11 @@ const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
 
       <div className="flex flex-col gap-2.5 p-3">
         <div className="flex flex-col gap-0.5">
-          <p className="truncate text-sm font-semibold text-foreground">{name}</p>
           {productName && (
-            <p className="truncate text-xs text-muted-foreground">{productName}</p>
+            <p className="truncate text-sm font-semibold text-foreground">{productName}</p>
           )}
+          <p className="truncate text-xs text-muted-foreground">{name}</p>
+          
           {location && (
             <div className="flex items-center gap-1 text-[12px] text-muted-foreground">
               <MapPin className="h-3 w-3 shrink-0" />
@@ -132,7 +132,7 @@ const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
                 </div>
                 {price !== null && (
                   <span className={`text-xs font-medium ${isBest ? "text-green-600" : "text-muted-foreground"}`}>
-                    {price}TL
+                    <b>{price}TL</b>
                   </span>
                 )}
               </div>
