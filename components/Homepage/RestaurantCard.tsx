@@ -3,7 +3,7 @@ import { Badge } from "../ui/badge";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "../ui/card";
 import Image from "next/image"
 
-const RestaurantCard = ({ restaurantName, productName, location, image, platforms, averageRating }:SearchResult[] ) => {
+const RestaurantCard = ({ name, location, image, platforms, rating }:PopularRestaurants) => {
   return (
 	<Card size="sm" className="shrink-0 w-64">
 		<div className="relative h-36 bg-muted overflow-hidden rounded-t-xl">
@@ -11,9 +11,9 @@ const RestaurantCard = ({ restaurantName, productName, location, image, platform
 		</div>
 	
 		<CardHeader>
-			<CardTitle className="">{restaurantName} - {productName}</CardTitle>
+			<CardTitle className="">{name}</CardTitle>
 			<CardDescription>
-			{averageRating && <>★ {averageRating}</>}
+			{rating && <>★ {rating}</>}
 			{location && <>{location}</>}
 			</CardDescription>
 		</CardHeader>
