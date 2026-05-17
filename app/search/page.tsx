@@ -1,6 +1,7 @@
 import { searchProducts, getAllPlatforms } from "@/lib/data/queries"
 import type { SearchResult, Platform } from "@/lib/data/types"
 import {FilterSidebar} from "./filter-sidebar"
+import {SortSelect} from "./sort-select"
 
 export default async function SearchPage({
 	searchParams
@@ -52,33 +53,39 @@ export default async function SearchPage({
 		}
 		
 		)
-		if (resolvedParams.sortBy === "0") {
+		const sortByValue = resolvedParams.sortBy ?? "0"
+		if (sortByValue === "0") {
     		groups.sort((a, b) => a.platforms[0].price - b.platforms[0].price)
-		} else if (resolvedParams.sortBy === "1") {
+		} else if (sortByValue === "1") {
     		groups.sort((a, b) => b.platforms[0].price - a.platforms[0].price)
-		} else if (resolvedParams.sortBy === "2"){
+		} else if (sortByValue === "2"){
 			groups.sort((a,b) =>  b.avgRating - a.avgRating)
 		}
 		return groups
 	}
 	const groups = grouping(results)
 	return (
-		<div className="flex">
+		<div className="flex gap-6 p-4">
 			<FilterSidebar platforms={platforms} />
-			<h2>{groups.length} Sonuç Bulundu</h2>	
-			{groups.map((item,index)=>
-				<div key={index}>
-					<span>{item.restaurantName}</span>
-					<h3>{item.productName}</h3>
-		
-					{item.platforms.map((platform,pindex)=>
-					<div key={pindex}>
-						<span>{platform.name}</span>
-						<span className={platform.bestPrice ? "text-green-600 font-bold":""}>
-							{platform.price}</span>
-						
+			<div className="flex-1">
+				<div className="flex justify-between items-center mb-4">
+					<h2 className="text-sm text-gray-500">{groups.length} Sonuç Bulundu</h2>
+					<SortSelect />
+				</div>
+				{groups.map((item,index)=>
+					<div key={index} className="border p-3 mb-2 rounded">
+						<h3 className="font-bold">{item.restaurantName}</h3>
+						<p className="text-xs text-gray-400">{item.address}</p>
+						<p className="text-sm text-gray-600 mb-2">{item.productName}</p>
+						<p className="text-xs text-amber-600 mb-2">★ {item.avgRating}</p>
+						{item.platforms.map((platform,pindex)=>
+							<div key={pindex} className="flex justify-between items-center">
+								<span>{platform.name}</span>
+								<span className={platform.bestPrice ? "text-green-600 font-bold" : ""}>
+									{platform.price}TL</span>
+							</div>)}
 					</div>)}
-			</div>)}
+			</div>
 		</div>
 	)
 
