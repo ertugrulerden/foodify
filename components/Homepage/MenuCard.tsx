@@ -8,14 +8,14 @@ import { PopularRestaurants } from "@/lib/data/homepage";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
-const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
-  getir: { label: "Getir", color: "#5C3EBC" },
-  yemeksepeti: { label: "Yemeksepeti", color: "#E31837" },
-  ubereats: { label: "Uber Eats", color: "#06C167" },
-  trendyol: { label: "Trendyol", color: "#F27A1A" },
+const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
+	getir: { label: "Getir", logo: "/getir52.png" },
+	yemeksepeti: { label: "Yemeksepeti", logo: "/yemeksepeti52.png" },
+	ubereats: { label: "Uber Eats", logo: "/ubereats52.png" },
+	migros: { label: "Migros", logo: "/migros52.png" },
 };
 
-  const MenuCard = ({
+const MenuCard = ({
   id,
   name,
   image,
@@ -121,13 +121,14 @@ const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
             return (
               <div key={p} className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
-                  <div
-                    className="h-5 w-5 shrink-0 overflow-hidden rounded"
-                    style={{ backgroundColor: platform.color }}
-                  >
-                    <span className="flex h-full w-full items-center justify-center text-[8px] font-bold text-white">
-                      {platform.label.slice(0, 2).toUpperCase()}
-                    </span>
+                  <div className="h-5 w-5 shrink-0 overflow-hidden rounded bg-white">
+                    <Image
+                      src={platform.logo}
+                      alt={platform.label}
+                      width={20}
+                      height={20}
+                      className="h-full w-full object-contain"
+                    />
                   </div>
                   <span className="text-xs">{platform.label}</span>
                 </div>
