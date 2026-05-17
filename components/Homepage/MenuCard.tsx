@@ -37,7 +37,8 @@ const PLATFORM_MAP: Record<string, { label: string; color: string }> = {
 
   const card = (
     <div
-      className="group shrink-0 w-72 rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all duration-200 hover:shadow-md active:scale-[0.98] active:shadow-sm cursor-pointer"
+      className="group rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all 
+      duration-200 hover:shadow-md active:scale-[0.98] active:shadow-sm cursor-pointer"
       role="article"
     >
       <div className="relative h-36 w-full overflow-hidden bg-muted">

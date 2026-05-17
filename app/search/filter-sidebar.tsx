@@ -72,6 +72,7 @@ export function FilterSidebar({ platforms }: {
                 {platforms.map((p)=>(
                     <label key={p.platformID} className="flex items-center gap-2 
                     py-0.5 cursor-pointer hover:text-foreground transition-colors">
+                    
                     <input  type="checkbox" className="accent-green-600 h-4 w-4 rounded border-gray-300 cursor-pointer"
                             name="platform" 
                             value={p.platform}
