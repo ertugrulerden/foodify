@@ -55,11 +55,14 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
                         +' products.image,'
                         +' products.description,'
                         +' details.fee,'
-                        +' details.rating'
+                        +' details.rating,'
+                        +' regions.region AS address'
                         +' FROM products'
                         +' JOIN restaurants ON products.restaurantID = restaurants.restaurantID'
                         +' JOIN prices ON products.productID = prices.productID'
                         +' JOIN platforms ON prices.platformID = platforms.platformID'
+                        +' LEFT JOIN restaurantregion ON restaurants.restaurantID = restaurantregion.restaurantID'
+                        +' LEFT JOIN regions ON restaurantregion.regionID = regions.regionID'
                         +' LEFT JOIN details ON restaurants.restaurantID = details.restaurantID AND platforms.platformID = details.platformID'
     if(conditions.length > 0){
         searchQuery += ' WHERE ' + conditions.join(" AND ")

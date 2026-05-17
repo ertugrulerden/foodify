@@ -86,7 +86,9 @@ export interface SearchResult {
     platform:string
     price: number
     fee:(number | null)
-    rating:(number | null)
+    address:(string | null)
+    avgRating:(number)
+    rating: number
     image:(string | null)
     description:(string | null)
 }
