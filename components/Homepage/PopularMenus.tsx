@@ -15,8 +15,8 @@ const PopularMenus = () => {
         </Link>
       </div>
       <ScrollableRow>
-        {popularMenus.map((r) => (
-          <MenuCard key={r.name} {...r} />
+        {popularMenus.map((m) => (
+          <MenuCard key={m.productID} {...m} />
         ))}
       </ScrollableRow>
     </section>
