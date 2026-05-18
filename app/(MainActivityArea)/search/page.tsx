@@ -10,7 +10,7 @@ export default async function SearchPage({
 }: {
 	searchParams: Promise<{
 		q?: string; platforms?: string;
-		minPrice?: string; maxPrice?: string; sortBy?: string
+		minPrice?: string; maxPrice?: string; sortBy?: string; minRating?: string
 	}>
 }) {
 	const resolvedParams = await searchParams
@@ -18,7 +18,8 @@ export default async function SearchPage({
 		resolvedParams.platforms?.split(","),
 		resolvedParams.minPrice ? Number(resolvedParams.minPrice) : undefined,
 		resolvedParams.maxPrice ? Number(resolvedParams.maxPrice) : undefined,
-		resolvedParams.sortBy ? Number(resolvedParams.sortBy) : undefined)
+		resolvedParams.sortBy ? Number(resolvedParams.sortBy) : undefined,
+		resolvedParams.minRating ? Number(resolvedParams.minRating) : undefined)
 	const platforms = getAllPlatforms()
 
 	function grouping(data: SearchResult[]) {
