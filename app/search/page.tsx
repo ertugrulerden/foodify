@@ -76,7 +76,7 @@ export default async function SearchPage({
 					<h2 className="text-sm text-gray-500">{groups.length} Sonuç Bulundu</h2>
 					<SortSelect />
 				</div>
-				<div className="flex flex-wrap justify-center gap-1">
+				<div className="flex flex-wrap gap-6 justify-start">
 				{groups.map((item,index)=>{
 					const platformMap: Record<string, string> = {
 						"Yemeksepeti": "yemeksepeti",
@@ -90,7 +90,7 @@ export default async function SearchPage({
 						prices[key] = p.price
 					})
 					return (
-					<div key={index} className="flex-[1_1_280px] max-w-[400px] mb-3">
+					<div key={index} className="flex-[1_1_220px] max-w-[300px]" >
 					<MenuCard
 						name={item.restaurantName}
 						location={item.address}

@@ -37,7 +37,7 @@ const MenuCard = ({
 
   const card = (
     <div
-      className="group shrink-0 w-64 rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all 
+      className="group shrink-0 w-64 h-full rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all 
       duration-200 hover:shadow-md active:scale-[0.98] active:shadow-sm cursor-pointer"
       role="article"
     >
