@@ -66,7 +66,7 @@ export function FilterSidebar({ platforms }: {
         updateURL([],"","","")
     }
     return (
-        <div className="w-72 border p-4 rounded shrink-0">
+        <div className="w-72 border p-4 rounded shrink-0 sticky top-5 h-full">
             <h2 className="font-bold mb-2">Platformlar</h2>
             <div>
                 {platforms.map((p)=>(
