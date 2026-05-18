@@ -9,6 +9,7 @@ const PopularMenus = () => {
     <section className="pb-8">
       <div className="mb-5 flex items-center justify-between px-6">
         <h2 className="headline-lg">Popular Menus</h2>
+        <h2 className="headline-lg">Popular Restaurants</h2>
         <Link href="/restaurants" className="text-sm font-medium text-primary hover:underline">
           View All
         </Link>
