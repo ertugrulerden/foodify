@@ -77,7 +77,7 @@ export default async function SearchPage({
 					<h2 className="text-sm text-gray-500">{groups.length} Sonuç Bulundu</h2>
 					<SortSelect />
 				</div>
-				<div className="flex flex-wrap gap-6 justify-start">
+				<div className="flex flex-wrap gap-2 justify-start">
 				{groups.map((item,index)=>{
 					const platformMap: Record<string, string> = {
 						"Yemeksepeti": "yemeksepeti",
