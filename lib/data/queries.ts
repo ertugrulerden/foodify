@@ -55,7 +55,7 @@ export function getAllUserFavs(): UserFav[] {
 }
 
 export function searchProducts(query?:string,platforms?:string[],minPrice?:number,
-                                maxPrice?:number,sortBy?:number):SearchResult[]{
+                                maxPrice?:number,sortBy?:number,minRating?:number):SearchResult[]{
     const conditions : string[] = []
     const parameters : unknown[] = []
     if(query){
@@ -74,6 +74,10 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
     if(maxPrice && maxPrice >= 0){
         conditions.push("prices.price <= ?")
         parameters.push(`${maxPrice}`)
+    }
+    if(minRating && minRating >= 0 && minRating <= 5){
+        conditions.push("details.rating >= ?")
+        parameters.push(`${minRating}`)
     }
 
     let searchQuery = 'SELECT'

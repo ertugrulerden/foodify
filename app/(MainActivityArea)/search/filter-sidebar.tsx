@@ -1,11 +1,8 @@
 "use client"
+import { useState } from "react"
 import {useRouter , useSearchParams} from "next/navigation"
 import type {Platform} from "@/lib/data/types"
-import { Separator } from "@/components/ui/separator"
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
-import { Button } from "@/components/ui/button"
-import { RotateCcw } from "lucide-react"
+import { Slider } from "@/components/ui/slider"
 
 export function FilterSidebar({ platforms }: {
   platforms: Platform[]
@@ -14,8 +11,9 @@ export function FilterSidebar({ platforms }: {
     const router = useRouter()
     const searchParams = useSearchParams()
     const selectedPlatforms = searchParams.get("platforms")?.split(",") ?? []
+    const [localRating, setLocalRating] = useState(Number(searchParams.get("minRating") ?? "0"))
 
-    function updateURL(newPlatforms?:string[],newMinPrice?:string,newMaxPrice?:string,sortBy?:string)
+    function updateURL(newPlatforms?:string[],newMinPrice?:string,newMaxPrice?:string,sortBy?:string,newMinRating?:string)
 
     {
         const url  = new URLSearchParams(searchParams.toString())
@@ -54,6 +52,13 @@ export function FilterSidebar({ platforms }: {
                 url.set("sortBy",sortBy)
             }
         }
+        if(newMinRating !== undefined){
+            if(newMinRating === "" || newMinRating === "0"){
+                url.delete("minRating")
+            }else{
+                url.set("minRating",newMinRating)
+            }
+        }
         router.push(`/search?${url.toString()}`)
 
     }
@@ -63,7 +68,7 @@ export function FilterSidebar({ platforms }: {
     updateURL(updated)
     }
     function resetFilters(){
-        updateURL([],"","","")
+        updateURL([],"","","","")
     }
     return (
         <div className="w-72 border p-4 rounded shrink-0 sticky top-5 h-full">
@@ -96,6 +101,19 @@ export function FilterSidebar({ platforms }: {
                 className="border p-1 w-full rounded"
                 />
 
+            </div>
+            <h2 className="font-bold mt-4 mb-2">Minimum Puan</h2>
+            <div className="flex items-center gap-3">
+                <Slider
+                    min={0}
+                    max={5}
+                    step={0.1}
+                    value={[localRating]}
+                    onValueChange={(val) => setLocalRating(val[0])}
+                    onValueCommit={(val) => updateURL(undefined,undefined,undefined,undefined,val[0].toString())}
+                    className="flex-1"
+                />
+                <span className="text-sm font-medium w-8 text-center">{localRating}</span>
             </div>
             <div className="mt-4 w-full bg-red-500 text-white p-2 rounded text-center">
                 <button className="w-full text-white font-bold" onClick={() => resetFilters()}>Filtreleri Sıfırla</button>
