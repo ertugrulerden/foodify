@@ -1,0 +1,578 @@
+{
+  "link_hash": "94329ecd",
+  "scraped_at": "260528_0110",
+  "restaurant_name": "Ctr Chicken Fried Chicken & More",
+  "link": "https://www.yemeksepeti.com/restaurant/r90e/ctr-chicken-fried-chicken-and-more-r90e",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Ekonomik Menü",
+          "price": 276.0,
+          "description": "1 Adet Chicken Burger + 3 Adet Acılı Bites + 3 Adet Soğan Halkası + Patates Kızartması (Küçük Boy) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67801523.jpg?width=128&height=128"
+        },
+        {
+          "name": "2'li Ekonomik Menü",
+          "price": 319.99,
+          "description": "2 Adet Tavuk Burger + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67801259.jpg?width=128&height=128"
+        },
+        {
+          "name": "2 Kişilik Rüya Kova Dolu Dolu",
+          "price": 612.0,
+          "description": "2 Adet Chicken Burger + 4 Adet Acılı Kanat + 8 Adet Acılı Bites + 6 Adet Soğan Halkası + 2 Adet Patates Kızartması + 1 lt içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67804163.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Kişilik Double Bro Menü Lezzet Patlaması",
+          "price": 612.0,
+          "description": "2 Adet XL Chitir Burger + 4 Adet Kanat + 6 Adet Soğan Halkası + 2 Adet Patates Kızartması + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75001745.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Çıtır Maxi Kutu Menü",
+          "price": 404.0,
+          "description": "Chitir Burger + 2 Adet Kemiksiz + 4 Adet Bites + 4 Adet Soğan Halkası + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71482363.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Büyük Boy)",
+          "price": 79.92,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802764.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "2'li Ekonomik Menü",
+          "price": 319.99,
+          "description": "2 Adet Tavuk Burger + Patates Kızartması + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekonomik Menü",
+          "price": 276.0,
+          "description": "1 Adet Chicken Burger + 3 Adet Acılı Bites + 3 Adet Soğan Halkası + Patates Kızartması (Küçük Boy) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67801523.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çocuk Menü 1",
+          "price": 255.99,
+          "description": "Tavuk Burger + 2 Adet Nugget + 2 Adet Soğan Halkası + Meyve Suyu + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70887451.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çocuk Menü 2",
+          "price": 255.99,
+          "description": "2 Adet Kemiksiz Tavuk + 2 Adet Soğan Halkası + Meyve Suyu + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70887470.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "2'li Menüler",
+      "products": [
+        {
+          "name": "2 Kişilik Double Bro Menü Lezzet Patlaması",
+          "price": 612.0,
+          "description": "2 Adet XL Chitir Burger + 4 Adet Kanat + 6 Adet Soğan Halkası + 2 Adet Patates Kızartması + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75001745.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Kişilik Rüya Kova Dolu Dolu",
+          "price": 612.0,
+          "description": "2 Adet Chicken Burger + 4 Adet Acılı Kanat + 8 Adet Acılı Bites + 6 Adet Soğan Halkası + 2 Adet Patates Kızartması + 1 lt içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67804163.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Ziyafet Menü",
+          "price": 620.0,
+          "description": "2 Adet Chicken Burger + 6 Adet Kemiksiz (Tenders) + 4 Adet Soğan Halkası + 2 Adet Patates Kızartması + 1 tl içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "2'li Torpido Menü",
+          "price": 604.0,
+          "description": "2 Adet Tornado Dürüm + 4 Adet Acılı Kanat + 4 Adet Soğan Halkası + 2 Adet Patates Kızartması + 1 lt içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67804658.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Burger Menüleri",
+      "products": [
+        {
+          "name": "XL Chitir Burger Menü",
+          "price": 308.0,
+          "description": "Chitir Tavuk Burger + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67789618.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsaklı Çıtır Tavuk Burger Menü",
+          "price": 308.79,
+          "description": "Acılı Çıtır Tavuk Burger (Sarımsaklı mayonez, soslu gurme tavuk burger köftesi) + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67789693.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Acılı Çıtır Burger Menü",
+          "price": 308.79,
+          "description": "Acılı Çıtır Tavuk Burger (Acı soslu gurme tavuk burger) + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67789890.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger Menü",
+          "price": 256.0,
+          "description": "Chicken Tavuk + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67790072.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tornado Dürüm Menü",
+          "price": 295.99,
+          "description": "Tornado Dürüm + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67804913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Tornado Dürüm Menü",
+          "price": 295.99,
+          "description": "Hot Tornado Dürüm + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67804990.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Sever Menüler",
+      "products": [
+        {
+          "name": "Acılı Kanat (4 Adet) Menü",
+          "price": 240.0,
+          "description": "4 Adet Acılı Kanat + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67795904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat (6 Adet) Menü",
+          "price": 300.0,
+          "description": "6 Adet Kanat + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67795984.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Kanat (8 Adet) Menü",
+          "price": 320.0,
+          "description": "8 Adet Hot Wings + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67796142.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Kemiksiz Tenders Menü",
+          "price": 247.99,
+          "description": "3 Adet Kemiksiz (Tenders)+ Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67796198.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz (Tenders) (7 Adet) Menü",
+          "price": 367.2,
+          "description": "7 Adet Kemiksiz (Tenders) + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67796672.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çok Satan Menüler",
+      "products": [
+        {
+          "name": "XL Çıtır Maxi Kutu Menü",
+          "price": 404.0,
+          "description": "Chitir Burger + 2 Adet Kemiksiz + 4 Adet Bites + 4 Adet Soğan Halkası + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71482363.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Süper Kutu Menü",
+          "price": 384.0,
+          "description": "XL Chitir Burger + 4 Kemiksiz Bites + 4 Soğan Halkası + İçecek+ Patates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "XL Mix Rüya Kutum Menü",
+          "price": 396.0,
+          "description": "Tavuk Burger + 2 Adet Kanat + 2 Adet Büyük Kemiksiz (Tenders) + 4 Adet Soğan Halkası + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67803993.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Full Oha-Yo Menü",
+          "price": 396.0,
+          "description": "XL Çıtır Tavuk Burger( 100 Çift Tavuk ) + 2 Adet Acılı Kanat+2 Adet Kemiksiz Bites( Tavuk topları ) + Coleslaw Salata + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67795674.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kova Menüler",
+      "products": [
+        {
+          "name": "Kanat Kova (Orta) Menü",
+          "price": 651.99,
+          "description": "18 Adet Acılı Kanat + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67796726.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat Kova (Büyük) Menü",
+          "price": 760.0,
+          "description": "24 Adet Acılı Kanat + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67797154.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz (Tenders) Kova (Orta) Menü",
+          "price": 788.0,
+          "description": "12 Adet Kemiksiz (Tenders) + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67797264.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz (Tenders) Kova (Büyük) Menü",
+          "price": 840.0,
+          "description": "18 Adet Kemiksiz (Tenders) + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67797368.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kova (Orta) Menü",
+          "price": 700.0,
+          "description": "8 Adet Kanat + 6 Adet Kemiksiz (Tenders) + 8 Adet Acılı Bites + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67797467.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kova (Büyük) Menü",
+          "price": 816.0,
+          "description": "12 Adet Acılı Kanat + 8 Adet Kemiksiz (Tenders) + 10 Adet Acılı Bites + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67797569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Karışık Kova Menü",
+          "price": 712.0,
+          "description": "8 Adet Acılı Kanat + 6 Adet Kemiksiz (Tenders) + 2 Adet Sarımsaklı Ekmek + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67797584.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz (Tenders) Kova (Küçük) Menü",
+          "price": 503.92,
+          "description": "8 Adet Kemiksiz (Tenders) + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70977530.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat Kova (Küçük) Menü",
+          "price": 495.92,
+          "description": "10 Adet Kanat + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71900409.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kova (Küçük) Menü",
+          "price": 503.99,
+          "description": "4 Adet Kanat + 4 Adet Kemiksiz (Tenders) + 4 Adet Acılı Bites + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71900410.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Efsane Kampanya Menüleri",
+      "products": [
+        {
+          "name": "Ziyafet Menü",
+          "price": 412.0,
+          "description": "Tavuk Burger + 4 Adet Acılı Bites + 2 Adet Acılı Wings + Kemiksiz (Tenders) + 3 Adet Soğan Halkası + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802241.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicago Menü",
+          "price": 359.92,
+          "description": "Tavuk Burger + 2 Adet Acılı Bites + Acı Kanat + 4 Adet Soğan Halkası + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802623.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avantajlı Menü",
+          "price": 319.99,
+          "description": "Tavuk Burger + Acılı Kanat+ Kemiksiz (Tenders) + 2 Adet Soğan Halkası + Patates Kızartması + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67804025.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Kutu Menü",
+          "price": 396.0,
+          "description": "Çıtır Burger + İçecek + 4 Bites + 4 Soğan Halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71483369.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 63.99,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802751.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (12 Adet)",
+          "price": 96.0,
+          "description": "12 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802753.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Küçük Boy)",
+          "price": 60.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802759.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Büyük Boy)",
+          "price": 79.92,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802764.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nugget (4 Adet)",
+          "price": 71.99,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802768.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nugget (6 Adet)",
+          "price": 95.99,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802770.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk But (Adet)",
+          "price": 67.92,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802905.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk But (2 Adet)",
+          "price": 123.92,
+          "description": "2 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802908.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk But (4 Adet)",
+          "price": 247.92,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk But (6 Adet)",
+          "price": 271.92,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802914.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz Tenders (Adet)",
+          "price": 63.92,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69110202.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz (Tenders) (2 Adet)",
+          "price": 115.92,
+          "description": "2 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69110203.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz (Tenders) (4 Adet)",
+          "price": 167.92,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802936.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz (Tenders) (6 Adet)",
+          "price": 219.92,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802942.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat & But (Adet)",
+          "price": 40.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802948.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat & But (2 Adet)",
+          "price": 80.0,
+          "description": "2 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat (4 Adet)",
+          "price": 128.0,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kanat & But (6 Adet)",
+          "price": 215.92,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802955.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hot Bites (4 Adet)",
+          "price": 80.0,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69110210.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hot Bites (6 Adet)",
+          "price": 111.99,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69110211.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Coleslaw",
+          "price": 47.99,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 52.79,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802684.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 52.79,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802692.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 52.79,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802698.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 52.79,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802705.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 76.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802717.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (1 L.)",
+          "price": 76.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802725.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (1 L.)",
+          "price": 76.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802731.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (1 L.)",
+          "price": 76.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802736.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 63.92,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69467096.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 23.92,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69467265.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (28 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69467706.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Mango & Egzotik (33 cl.)",
+          "price": 52.72,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69468397.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Soda (20 cl.)",
+          "price": 23.92,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69468607.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802794.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsaklı Mayonez (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802798.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Hardal (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802801.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802806.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802810.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Sos (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802814.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı Acı Sos (Adet)",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67802818.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

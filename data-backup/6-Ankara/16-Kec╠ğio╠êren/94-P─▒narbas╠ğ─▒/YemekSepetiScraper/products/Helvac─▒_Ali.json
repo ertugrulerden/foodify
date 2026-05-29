@@ -1,0 +1,624 @@
+{
+  "link_hash": "0072c106",
+  "scraped_at": "260528_0122",
+  "restaurant_name": "Helvacı Ali",
+  "link": "https://www.yemeksepeti.com/restaurant/g3bj/helvaci-ali-g3bj",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (500 gr.)",
+          "price": 465.0,
+          "description": "250 gr. Maraş dondurması üzerine; 250 gr. sade irmik helvası",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/f9aa4d8e-fa5d-46cc-a047-c61139a8d2af.jpg?width=128&height=128"
+        },
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (Standart Boy)",
+          "price": 200.0,
+          "description": "Dondurma, irmik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81677500/00c15b42-243e-4ec1-9ed2-195fb908f029.jpg?width=128&height=128"
+        },
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (Ekstra Boy)",
+          "price": 300.0,
+          "description": "Dondurma, irmik helvası",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81569532/8a218ebd-2ee8-4a97-81a9-4de6f7e86e18.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurmalı Cennet Çamuru (Büyük Boy)",
+          "price": 500.0,
+          "description": "Antep fıstıklı irmik helvası, dondurma, toz Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81569548/f2589810-454c-4803-b3de-63c2fc4c84a8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Dondurmalı İrmik Helvası (Küçük Boy)",
+          "price": 250.0,
+          "description": "Çikolatalı irmik helvası, dondurma, tahin, yer fıstığı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81569538/ee21b018-3f55-4f55-b834-97a054fa62f0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahinli Fıstıklı İrmik Helvası (500 gr.)",
+          "price": 465.0,
+          "description": "Tahin, fıstık",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81965122/4b850d5d-97ed-4e52-82de-f27c18143b3f.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İrmik Helvaları",
+      "products": [
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (500 gr.)",
+          "price": 465.0,
+          "description": "250 gr. Maraş dondurması üzerine; 250 gr. sade irmik helvası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (Ekstra Boy)",
+          "price": 300.0,
+          "description": "Dondurma, irmik helvası",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81569532/8a218ebd-2ee8-4a97-81a9-4de6f7e86e18.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurmasız Sade İrmik Helvası (Extra Boy)",
+          "price": 300.0,
+          "description": "İrmik, tereyağı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81569533/912595f7-b642-4a28-bae1-fb19e0581834.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Sultan Küçük Boy",
+          "price": 250.0,
+          "description": "Dondurma, tahin, yer fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72410804.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Sultan Büyük Boy",
+          "price": 350.0,
+          "description": "Meyveli irmik helvası, dondurma, tahin, yer fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72410971.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Dondurmalı İrmik Helvası (Küçük Boy)",
+          "price": 250.0,
+          "description": "Çikolatalı irmik helvası, dondurma, tahin, yer fıstığı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81569538/ee21b018-3f55-4f55-b834-97a054fa62f0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Dondurmalı İrmik Helvası (Büyük Boy)",
+          "price": 350.0,
+          "description": "Çikolatalı irmik helvası, dondurma, tahin, yer fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72410979.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotuslu İrmik Helvası Dondurmalı (Küçük Boy)",
+          "price": 300.0,
+          "description": "Lotuslu irmik helvası, dondurma, Lotus bisküvi kırıntısı, Lotus bisküvi sosu, Lotus bisküvisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940503.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotuslu İrmik Helvası Dondurmalı (Büyük Boy)",
+          "price": 450.0,
+          "description": "Lotuslu irmik helvası, dondurma, Lotus bisküvi kırıntısı, Lotus bisküvi sosu, Lotus bisküvisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940504.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cennet Çamuru Dondurmalı (Küçük Boy)",
+          "price": 340.0,
+          "description": "Antep fıstıklı irmik helvası, dondurma, toz Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940505.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurmalı Cennet Çamuru (Büyük Boy)",
+          "price": 500.0,
+          "description": "Antep fıstıklı irmik helvası, dondurma, toz Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81569548/f2589810-454c-4803-b3de-63c2fc4c84a8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (Standart Boy)",
+          "price": 200.0,
+          "description": "Dondurma, irmik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81677500/00c15b42-243e-4ec1-9ed2-195fb908f029.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurmasız Sade İrmik Helvası (100 cc.)",
+          "price": 200.0,
+          "description": "İrmik, tereyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotuslu İrmik Helvası (1 kg.)",
+          "price": 1.5,
+          "description": "Lotuslu özel sos, bisküvi kırıntısı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dubai Çikolatalı Dondurmalı İrmik Helvası (Küçük Boy)",
+          "price": 405.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dondurmalı Dubai Çikolatalı İrmik Helvası (Ekstra Boy)",
+          "price": 575.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dondurmalı Dubai Soslu İrmik Helvası (Küçük Boy)",
+          "price": 510.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dubai Soslu İrmik Helvası Dondurmalı (Ekstra Boy)",
+          "price": 835.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75518335.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cennet Çamuru (Küçük dondurmasız",
+          "price": 400.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/85497239/2af0056d-128e-4c8e-8e99-7feb5dd20c6f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cennet Çamuru Dondurmasız (Büyük Boy)",
+          "price": 670.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/85497249/631473f6-29b5-4824-a614-50d19fa17c8b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı İrmik Helvası Dondurmasız(Küçük Boy)",
+          "price": 250.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sade Dondurmalı & Lotuslu İrmik Helvası",
+          "price": 300.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dondurmalı Antep Fıstıklı & Lotuslu İrmik Helvası",
+          "price": 335.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dondurmalı & Çikolatalı & Antep Fıstıklı İrmik Helvası",
+          "price": 335.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77010614.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı İrmik Helvası Dondurmasız (Büyük Boy)",
+          "price": 350.0,
+          "description": "Çikolatalı İmik Helvası",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/85497272/a8d011fd-c639-4306-aaf3-801905f7918f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Dondurmalı & Antep Fıstıklı İrmik Helvası",
+          "price": 335.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77010622.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Karışık Dondurmalı Lotuslu İrmik Helvası",
+          "price": 300.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı & Sade Dondurmalı İrmik Helvası",
+          "price": 250.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77010642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (1 kg.)",
+          "price": 920.0,
+          "description": "500 gr. sade irmik helvası, 500 gr. Maraş dondurma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Helva (Büyük Boy) (Dondurmalı)",
+          "price": 665.0,
+          "description": "Meyveli sultan, çikolatalı, Lotuslu, cennet çamuru, Dubai çikolatalı, Maraş dondurması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Dondurmalı İrmik Helvası (Küçük Boy)",
+          "price": 460.0,
+          "description": "Meyveli sultan, çikolata, Lotus, cennet çamuru, Dubai çikolatalı irmik helvası, Maraş dondurma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dondurmalı Sade İrmik Helvası (1 kg.)",
+          "price": 920.0,
+          "description": "500 gr. maraş dondurması, 500 gr. cevizli irmik helvası",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Helvalar",
+      "products": [
+        {
+          "name": "İrmik Helvası (1 kg.)",
+          "price": 920.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı İrmik Helvası (500 gr.)",
+          "price": 690.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotus İrmik Helvası (1 kg.)",
+          "price": 1.5,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cennet Çamuru (500 gr.)",
+          "price": 1.18,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71694639.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı İrmik Helvası (1 kg.)",
+          "price": 1.17,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71694928.jpg?width=150&height=150"
+        },
+        {
+          "name": "İrmik Helvası (500 gr.)",
+          "price": 465.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71695007.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cennet Çamuru (1 kg.)",
+          "price": 2.34,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71695009.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotuslu İrmik Helvası (500 gr.)",
+          "price": 750.0,
+          "description": "Lotuslu özel sos, bisküvi kırıntısı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81959773/bbc2e1a2-c04c-4d08-8f91-5d3d8b72a9cb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahinli Fıstıklı İrmik Helvası (500 gr.)",
+          "price": 465.0,
+          "description": "Tahin, fıstık",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81965122/4b850d5d-97ed-4e52-82de-f27c18143b3f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Sultan İrmik Helvası (1 kg.)",
+          "price": 1.17,
+          "description": "Kırmızı orman meyveleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81965123/642a8881-5917-4721-88d4-4c0380870db9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Sultan İrmik Helvası (500 gr.)",
+          "price": 590.0,
+          "description": "Kırmızı orman meyveleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81965124/6e8215ba-29d4-4f06-a1da-ffa06ad65218.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahinli Fıstıklı İrmik Helvası (1 kg.)",
+          "price": 920.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/81965125/893b123b-6c08-442f-8b14-11bae091998d.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Redbull (25 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (25 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beypazarı Mandalina (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beypazarı Elma (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beypazarı Mango Ananas (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/da906a05-40ac-4c28-b72e-3a1456041578.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beypazarı Vişne (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/2c3141cd-8b66-4d5d-b9c1-0f02aa0150d7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beypazarı Karadut (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/2bad102d-d3e5-4a08-8fb6-5adf2ab74623.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beypazarı Nar (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/ca030566-aac8-4ec5-9443-15468af4aa7e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Redbull Şekersiz (25 cl.)",
+          "price": 75.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/9cf6b971-fe11-422a-9da6-0299370d3a90.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nescafe Xpress Coconatte (25 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/99a996cc-0f47-4ee8-8a7a-9130e56dd6c1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/349655e3-9f77-42ce-8fef-a11c3ffe8c31.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Karışık Meyve Suyu (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/87812338/78ca0af1-f275-490a-9b70-64117ae838e6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Kavun & Çİlek (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/cf4b797f-c428-4591-b59a-3973bb798abc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/101437fb-310e-419e-af17-195b235a9380.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Karpuz (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Nescafe Xpress Caramel (25 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Nescafe Xpress Americano (25 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/19e96ed8-891d-4682-876d-479e28a53b8a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nescafe Xpress Cafe Choco ( 25 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beypazarı Maden Suyu (20 cl.)",
+          "price": 35.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/g3bj/product/1ce39171-1315-4728-884c-36a57af18b8d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beypazarı Limonlu Soda (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Niğde Gazozu (25 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72957477.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 35.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71695157.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Vişne (33 cl.)",
+          "price": 75.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78948263.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahveler",
+      "products": [
+        {
+          "name": "Americano",
+          "price": 100.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Espresso",
+          "price": 100.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 100.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Latte",
+          "price": 100.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Paketli Ürünler",
+      "products": [
+        {
+          "name": "Sade Tahin Helvası (340 gr.)",
+          "price": 210.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Keçiboynuzu Pekmezi (380 gr.)",
+          "price": 240.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Helva Susamlı",
+          "price": 800.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pamuk Şeker",
+          "price": 75.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kakaolu Mozaik Tahin Helvası (330 gr.)",
+          "price": 210.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dut Pekmezi (380 gr.)",
+          "price": 240.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tahin (300 gr.)",
+          "price": 240.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71695129.jpg?width=150&height=150"
+        },
+        {
+          "name": "Üzüm Pekmezi (380 gr.)",
+          "price": 240.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71695148.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kağıt Helva",
+          "price": 60.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71695166.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kestane Şekeri (500 gr.)",
+          "price": 750.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71695411.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kestane Şekeri (1 kg.)",
+          "price": 1.2,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72957478.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Cup Tatlılar",
+      "products": [
+        {
+          "name": "Çikolatalı Cup",
+          "price": 375.0,
+          "description": "Belçika çikolatası, sütlü dondurma, çilek, muz, Oreo bisküvi parçaları, çikolatalı renkli draje",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotus Cup",
+          "price": 565.0,
+          "description": "Dondurma üzerine; Lotuslu irmik helvası, muz, çilek, Lotus bisküvi kırıntısı, Lotus kreması, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Waffle Cup",
+          "price": 420.0,
+          "description": "Waffle hamuru üzerine; Belçika çikolatası, dondurma, muz, çilek, çikolatalı draje, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fıstık Cup",
+          "price": 600.0,
+          "description": "Dondurma üzerine; Antep fıstıklı irmik helvası (cennet çamuru), muz, çilek, Antep fıstığı, sütlü çikolata, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Oreo Cup",
+          "price": 535.0,
+          "description": "Dondurma üzerine; çikolatalı irmik helvası, muz, çilek, Oreo bisküvi kırıntıları çikolatalı, renkli draje, beyaz damla çikolata, Belçika çikolatası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

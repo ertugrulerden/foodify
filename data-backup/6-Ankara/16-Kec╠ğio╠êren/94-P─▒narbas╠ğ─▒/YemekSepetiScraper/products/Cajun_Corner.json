@@ -1,0 +1,818 @@
+{
+  "link_hash": "e726ea75",
+  "scraped_at": "260528_0122",
+  "restaurant_name": "Cajun Corner",
+  "link": "https://www.yemeksepeti.com/restaurant/arwk/cajun-corner-arwk",
+  "categories": [
+    {
+      "name": "Coca-Cola Fırsat Menüleri",
+      "products": [
+        {
+          "name": "Coca-Cola Fırsatı 6 (Cool Acılı Sepet Menü)",
+          "price": 535.0,
+          "description": "250 gr. Acılı Cajun Baharatlı Tavuk Parçaları + Baharatlı Patates Kızartması + Seçeceğiniz 2 Adet Sos + 1 Adet Lavaş Ekmeği + 1 Adet Sprite Cool Mint (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80092919.jpg?width=128&height=128"
+        },
+        {
+          "name": "Coca-Cola Fırsatı 1 (Cajun Sepet Menü)",
+          "price": 481.5,
+          "description": "Cajun Baharatlı Tavuk Sepeti + 1 Adet Lavaş Ekmeği + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50123163.jpg?width=128&height=128"
+        },
+        {
+          "name": "Coca-Cola Fırsatı 2 (Cajun Burger Menü)",
+          "price": 486.0,
+          "description": "Cajun Burger + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50123532.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Fırsatı 3 (Cajun Roll Menü)",
+          "price": 459.0,
+          "description": "Cajun Baharatlı Tavuk Dürüm + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50123611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Fırsatı 4 (2 Kişilik Cajun Burger Menü)",
+          "price": 756.0,
+          "description": "2 Adet Cajun Burger + 2 Adet Patates Kızartması + 4 Adet Seçeceğiniz Sos + 2 Adet Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50123679.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Fırsatı 5 (2 Kişilik Cajun Roll Menü)",
+          "price": 738.0,
+          "description": "2 Adet Cajun Baharatlı Tavuk Dürüm + 2 Adet Baharatlı Patates Kızartması + 4 Adet Seçeceğiniz Sos + 2 Adet Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50123718.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Algida Menüleri",
+      "products": [
+        {
+          "name": "Algida Menüsü (Cajun Baharatlı Tavuk Sepeti)",
+          "price": 553.5,
+          "description": "Cajun Baharatlı Tavuk Sepeti (250 gr.) + Baharatlı Patates Kızartması + Lavaş Ekmeği + 2 Adet Seçeceğiniz Sos + Kutu İçecek + Seçeceğiniz Algida Carte d’Or Mini Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39511510.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Menüsü (Cajun Burger (2 Kişilik))",
+          "price": 841.5,
+          "description": "2 Adet Cajun Burger+ 2 Adet Baharatlı Patates Kızartması + 4 Adet Seçeceğiniz Sos + 2 Adet Kutu İçecek+ 2 Adet Seçeceğiniz Algida Carte d’Or Mini Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39511582.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menü",
+      "products": [
+        {
+          "name": "Çıtır İkilim Menü",
+          "price": 706.5,
+          "description": "2 Adet Cajun Sepet + Baharatlı Patates Kızartması + 4 Adet Homemade Soğan Halkası + 4 Adet Seçeceğiniz Sos + 2 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/63569769.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Ekonomik Menü",
+          "price": 445.5,
+          "description": "Cajun Baharatlı Sepet + Baharatlı Patates Kızarması + 2 Adet Homemade Soğan Halkası + 2 Adet Seçeceğiniz Sos + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68585957.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Menüler",
+      "products": [
+        {
+          "name": "Cajun Mega Box Menü (4 Kişilik)",
+          "price": 1.17,
+          "description": "2 Adet Cajun Burger + 2 Adet Cajun Roll + 8 Adet Cajun Baharatlı Tavuk + 8 Adet Homemade Soğan Halkası + Büyük Boy Baharatlı Patates Kızartması + 6 Adet Seçeceğiniz Sos + 4 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44388617.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Sepet Menüleri",
+      "products": [
+        {
+          "name": "Cajun Mix Menü",
+          "price": 522.0,
+          "description": "1 Adet Cajun Burger + 2 Adet Cajun Baharatlı Tavuk + 2 Adet Homemade Soğan Halkası + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941858.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Karışık Sepet Menü",
+          "price": 567.0,
+          "description": "1 Adet Kaşarlı Mantarlı Cajun Şiş + 3 Adet Tütsülenmiş Sosis + 4 Adet Cajun Baharatlı Tavuk + 4 Adet Homemade Soğan Halkası + Baharatlı Patatas Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Lavaş Ekmeği + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941861.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Sepet Menü",
+          "price": 486.0,
+          "description": "250 gr. Cajun Baharatlı Tavuk Parçaları + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Lavaş Ekmeği + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54296809.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Avantaj Sepet Menü (2 Kişilik)",
+          "price": 747.0,
+          "description": "Cajun Baharatlı Tavuk Parçaları (500 gr.) + Double Baharatlı Patates Kızartması + 4 Adet Seçeceğiniz Sos + 2 Adet Lavaş Ekmeği + 2 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54305086.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Cajun Avantaj Sepet Menü (2 Kişilik)",
+          "price": 747.0,
+          "description": "Acılı Cajun Baharatlı Tavuk Parçaları (500 gr.) + Double Baharatlı Patates Kızartması + 4 Adet Seçeceğiniz Sos + 2 Adet Lavaş Ekmeği + 2 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54305311.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Avantaj Mix Menü (2 Kişilik)",
+          "price": 810.0,
+          "description": "2 Adet Cajun Burger + 4 Adet Cajun Baharatlı Tavuk + 4 Adet Homemade Soğan Halkası + Double Baharatlı Patates Kızartması + 4 Adet Seçeceğiniz Sos + 2 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54305927.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Cajun Sepet Menü",
+          "price": 486.0,
+          "description": "250 Gr. Acılı Cajun Baharatlı Tavuk Parçaları + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Lavaş Ekmeği + 1 Adet İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54306584.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Gurme Burger Menüler",
+      "products": [
+        {
+          "name": "Cajun Smoky Burger Menü",
+          "price": 513.0,
+          "description": "Cajun Smoky Burger + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70972230.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Ranchy Burger Menü",
+          "price": 481.5,
+          "description": "Cajun Ranchy Burger + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70972627.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Chessy Burger Menü",
+          "price": 490.5,
+          "description": "Cajun Chessy Burger + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70972693.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Hoty Burger Menü",
+          "price": 490.5,
+          "description": "Cajun Hoty Burger + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70972797.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Roll Menüler",
+      "products": [
+        {
+          "name": "Cajun Roll Menü",
+          "price": 454.5,
+          "description": "Cajun Roll (Tortilla ekmeği arasında; Cajun baharatlı tavuk parçaları, kıvırcık marul, garlic sos, sriracha sos) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chicken Mushroom Roll Menü",
+          "price": 477.0,
+          "description": "Chicken Mushroom Roll (Tortilla ekmeği arasında; kaşarlı mantarlı cajun şiş, kıvırcık marul, garlic sos, sriracha sos) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941859.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Burrito Menü",
+          "price": 450.0,
+          "description": "Cajun Burrito (Tortilla ekmeği arasında; Cajun baharatlı tavuk parçaları, domates, soğan, maydanoz, ranch sos, yanında dilim limon) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54295906.jpg?width=150&height=150"
+        },
+        {
+          "name": "Honey - M Roll Menü",
+          "price": 463.5,
+          "description": "Honey - M Roll (Tortilla ekmeği arasında; Cajun baharatlı tavuk parçaları, kıvırcık marul, havuç, ballı hardallı sos) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54296608.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Sandviç Menüler",
+      "products": [
+        {
+          "name": "İkili Cajun Sandviç Menü",
+          "price": 531.0,
+          "description": "2 Adet Cajun Sandviç (Sandviç ekmeği içinde Cajun baharatlı tavuk, burger sos, kıvırcık marul) + Baharatlı Patates Kızartması + 2 Adet Ketçap + 2 Adet Mayonez + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54291558.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kid's Cajun Sandviç Menü",
+          "price": 468.0,
+          "description": "Kid's Cajun Sandviç (Sandviç ekmeği içinde Cajun baharatlı tavuk, burger sos, kıvırcık marul) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54291877.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burger Menüleri",
+      "products": [
+        {
+          "name": "Hamburger Menü",
+          "price": 612.0,
+          "description": "Hamburger (110 gr. burger köftesi, burger sos, kıvırcık marul, domates) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941869.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheeseburger Menü",
+          "price": 630.0,
+          "description": "Cheeseburger (110 gr. burger köftesi, burger sos, kıvırcık marul, domates, cheddar peyniri) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941871.jpg?width=150&height=150"
+        },
+        {
+          "name": "Philadephia Burger Menü",
+          "price": 648.0,
+          "description": "Philadephia Burger (110 gr. burger köftesi, burger sos, kıvırcık marul, domates, panelenmiş kaşar peyniri) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941872.jpg?width=150&height=150"
+        },
+        {
+          "name": "Honky Tonky Burger Menü",
+          "price": 693.0,
+          "description": "Honky Tonky Burger (110 gr. burger köftesi, burger sos, kıvırcık marul, domates, 90 gr. tütsülenmiş füme sosis, kaşar peyniri) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941870.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Burger Menü",
+          "price": 490.5,
+          "description": "Cajun Burger (120 gr. Cajun baharatlı tavuk, burger sos, kıvırcık marul, cheddar peyniri) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941873.jpg?width=150&height=150"
+        },
+        {
+          "name": "Rosa Burger Menü",
+          "price": 495.0,
+          "description": "Rosa Burger (120 gr. Cajun baharatlı tavuk, burger sos, kıvırcık marul, cheddar peyniri, rosa sos) + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/40832285.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tex - Mex Menü",
+          "price": 657.0,
+          "description": "Burger köftesi (110 g), burger sos, köz domates, hindi füme eti, baharatlı patates kızartması, 2 adet seçeceğiniz sos ve içecek (330 ml)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54302940.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Şiş Menüleri",
+      "products": [
+        {
+          "name": "Kaşarlı Mantarlı Cajun Şiş Menü",
+          "price": 499.5,
+          "description": "Kaşarlı mantarlı cajun tavuk şiş (2 adet), baharatlı patates kızartması, 2 adet seçeceğiniz sos, lavaş ekmeği (1 adet) ve içecek (330 ml)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosisli Kaşarlı Cajun Şiş Menü",
+          "price": 531.0,
+          "description": "2 Adet Sosisli Kaşarlı Cajun Şiş + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Lavaş Ekmeği + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54287968.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Wings Menüleri",
+      "products": [
+        {
+          "name": "Cajun Wings Menü",
+          "price": 567.0,
+          "description": "8 Adet Cajun Baharatlı Tavuk Kanatları + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Lavaş Ekmeği + 1 Adet Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Buffalo Wings Menü",
+          "price": 580.5,
+          "description": "8 Adet Meksika Baharatlı & Soslu Tavuk Kanatları + Baharatlı Patates Kızartması + 2 Adet Seçeceğiniz Sos + 1 Adet Lavaş Ekmeği + 1 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941865.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Sepetler",
+      "products": [
+        {
+          "name": "Cajun Sepet",
+          "price": 441.0,
+          "description": "250 gr. Cajun baharatlı tavuk parçaları. Baharatlı patates kızartması, 2 adet seçeceğiniz sos, 1 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54275810.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Avantaj Sepet (2 Kişilik)",
+          "price": 657.0,
+          "description": "500 gr. Cajun baharatlı tavuk parçaları. Double baharatlı patates kızartması, 4 adet seçeceğiniz sos, 2 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54276569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Cajun Sepet",
+          "price": 441.0,
+          "description": "250 gr. acılı Cajun baharatlı tavuk parçaları. Baharatlı patates kızartması, 2 adet seçeceğiniz sos, 1 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54276576.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Cajun Avantaj Sepeti (2 Kişilik)",
+          "price": 657.0,
+          "description": "500 gr. Acılı Cajun baharatlı tavuk parçaları. Double baharatlı patates kızartması, 4 adet seçeceğiniz sos, 2 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54276597.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Mix",
+          "price": 477.0,
+          "description": "1 adet Cajun burger, 2 adet Cajun baharatlı tavuk, 2 adet homemade soğan halkası. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54276651.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Avantaj Mix (2 Kişilik)",
+          "price": 720.0,
+          "description": "2 adet Cajun burger, 4 adet Cajun baharatlı tavuk, 4 adet homamade soğan halkası. Double baharatlı patates kızartması, 4 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54276708.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Karışık Sepet",
+          "price": 522.0,
+          "description": "1 adet kaşarlı mantarlı Cajun şiş, 3 adet tütsülenmiş sosis, 4 adet Cajun baharatlı tavuk, 4 adet homemade soğan halkası. 2 adet seçeceğiniz sos, 1 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54276783.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Gurme Burgerler",
+      "products": [
+        {
+          "name": "Cajun Smoky Burger",
+          "price": 468.0,
+          "description": "100 gr. Cajun baharatlı tavuk pirzola, burger sos, hindi füme eti, çıtır soğan, bbq sos. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cajun Ranchy Burger",
+          "price": 436.5,
+          "description": "100 gr. Cajun baharatlı tavuk pirzola, kıvırcık marul, burger sos, kaşar peyniri, ranchero sos. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70971419.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Chessy Burger",
+          "price": 445.5,
+          "description": "100 gr. Cajun baharatlı tavuk pirzola, kıvırcık marul, burger sos, cheddar peyniri. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70971564.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Hoty Burger",
+          "price": 445.5,
+          "description": "100 gr. Cajun baharatlı tavuk pirzola, kıvırcık marul, burger sos, acı sos. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70971596.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburger",
+          "price": 567.0,
+          "description": "110 gr. burger köftesi, burger sos, kıvırcık marul, domates. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 585.0,
+          "description": "110 gr. burger köftesi, burger sos, kıvırcık marul, domates, cheddar peyniri. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941893.jpg?width=150&height=150"
+        },
+        {
+          "name": "Philadephia Burger",
+          "price": 603.0,
+          "description": "110 gr. burger köftesi, burger sos, kıvırcık marul, domates, panelenmiş kaşar peyniri. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941891.jpg?width=150&height=150"
+        },
+        {
+          "name": "Honky Tonky Burger",
+          "price": 648.0,
+          "description": "110 gr. burger köftesi, burger sos, kıvırcık marul, domates, 90 gr. tütsülenmiş füme sosis, kaşar peyniri. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941889.jpg?width=150&height=150"
+        },
+        {
+          "name": "Rosa Burger",
+          "price": 450.0,
+          "description": "120 gr. Cajun baharatlı tavuk, burger sos, kıvırcık marul, cheddar peyniri, rosa sos. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/40832145.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tex - Mex",
+          "price": 612.0,
+          "description": "110 gr. burger köftesi, burger sos, köz domates, füme eti, cheddar peyniri. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54274501.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Burger",
+          "price": 445.5,
+          "description": "120 gr. Cajun baharatlı tavuk, burger sos, kıvırcık marul, cheddar peyniri. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54274815.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Rolls",
+      "products": [
+        {
+          "name": "Chicken Mushroom Roll",
+          "price": 432.0,
+          "description": "Tortilla ekmeği arasında; kaşarlı mantarlı Cajun şiş, kıvırcık marul, garlic sos, sriracha sos. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941887.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Roll",
+          "price": 423.0,
+          "description": "Tortilla ekmeği arasında; Cajun baharatlı tavuk parçaları, kıvırcık marul, garlic sos, sriracha sos. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54274007.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Burrito",
+          "price": 436.5,
+          "description": "Tortilla ekmeği arasında; Cajun baharatlı tavuk parçaları, domates, soğan, maydanoz, ranch sos, yanında dilim limon. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54274028.jpg?width=150&height=150"
+        },
+        {
+          "name": "Honey - M Roll",
+          "price": 427.5,
+          "description": "Tortilla ekmeği arasında; Cajun baharatlı tavuk parçaları, kıvırcık marul, havuç, ballı hardal sos. Baharatlı patates kızartması, 2 adet seçeceğiniz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54274072.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Sandviçler",
+      "products": [
+        {
+          "name": "İkili Cajun Sandviç",
+          "price": 486.0,
+          "description": "2 adet sandviç ekmeği içine; cajun baharatlı tavuk, burger sos, kıvırcık marul. Baharatlı patates kızartması, 4 adet seçeceğiniz sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54272997.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kid's Cajun Sandviç",
+          "price": 418.5,
+          "description": "Sandviç ekmeği içine; cajun baharatlı tavuk, burger sos, kıvırcık marul. Baharatlı patates kızartması, 2 adet seçeceğiniz sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54273561.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Şişler",
+      "products": [
+        {
+          "name": "Kaşarlı Mantarlı Cajun Şiş",
+          "price": 454.5,
+          "description": "2 adet kaşarlı mantarlı Cajun şiş. Baharatlı patates kızartması, 2 adet seçeceğiniz sos, 1 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941885.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Kaşarlı Cajun Şiş",
+          "price": 486.0,
+          "description": "2 adet sosisli kaşarlı Cajun şiş. Baharatlı patates kızartması, 2 adet seçeceğiniz sos, 1 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54262703.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Wings",
+      "products": [
+        {
+          "name": "Cajun Wings",
+          "price": 526.5,
+          "description": "8 adet Cajun baharatlı tavuk kanatları. Baharatlı patates kızartması, 2 adet seçeceğiniz sos, 1 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941883.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buffalo Wings",
+          "price": 535.5,
+          "description": "8 adet Meksika baharatlı ve soslu tavuk kanatları. Baharatlı patates kızartması, 2 adet seçeceğiniz sos, 1 adet lavaş ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941882.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekstra Lezzetler",
+      "products": [
+        {
+          "name": "Baharatlı Patates Kızartması (Single)",
+          "price": 90.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Baharatlı Patates Kızartması (Double)",
+          "price": 144.0,
+          "description": "Ketçap, mayonez ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941909.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Chicken (3 Adet)",
+          "price": 157.5,
+          "description": "Cajun soslu çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941905.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Mantarlı Cajun Şiş (Adet)",
+          "price": 180.0,
+          "description": "Kaşar peyniri, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941907.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Kaşarlı Cajun Şiş (Adet)",
+          "price": 202.5,
+          "description": "Kaşar peyniri, sosis",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54257107.jpg?width=150&height=150"
+        },
+        {
+          "name": "Homemade Soğan Halkası (3 Adet)",
+          "price": 58.5,
+          "description": "Çıtır soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941903.jpg?width=150&height=150"
+        },
+        {
+          "name": "Homemade Soğan Halkası (6 Adet)",
+          "price": 90.0,
+          "description": "Çıtır soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekstra Lavaş",
+          "price": 11.25,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66486214.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Wings (3 Adet)",
+          "price": 162.0,
+          "description": "3 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70346556.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Choco Almighty Donut",
+          "price": 99.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Milky Zebra Donut",
+          "price": 99.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Funfetti Donut",
+          "price": 99.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941914.jpg?width=150&height=150"
+        },
+        {
+          "name": "Strawjelly Donut",
+          "price": 112.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941911.jpg?width=150&height=150"
+        },
+        {
+          "name": "Raspberry Bliss Donut",
+          "price": 112.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941915.jpg?width=150&height=150"
+        },
+        {
+          "name": "Queen V Donut",
+          "price": 112.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941912.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dondurmalar",
+      "products": [
+        {
+          "name": "Algida Maras Usulü Cup Dondurma (100 ml.)",
+          "price": 63.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941922.jpg?width=150&height=150"
+        },
+        {
+          "name": "Carte d’Or Monoportion Meyve Rüyası (105 ml.)",
+          "price": 72.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941921.jpg?width=150&height=150"
+        },
+        {
+          "name": "Carte d’Or Monoportion Çikolata Karnavalı (105 ml.)",
+          "price": 72.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941924.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Sprite Cool Mint (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34803236.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Şekersiz (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941938.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34804569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941931.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Portakal (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Karışık (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37258008.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Şeftali (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54254770.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Kayısı (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54531771.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Vişne (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941942.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 22.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941933.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 31.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941936.jpg?width=150&height=150"
+        },
+        {
+          "name": "Monster Enerji İçeceği (35,5 cl.)",
+          "price": 108.0,
+          "description": "On sekiz yaşından küçüklere enerji içeceklerinin satışı yapılmamaktadır. Alkol ile karıştırılarak veya beraber tüketilmemelidir. Çocuklar, 18 yaş altı kişiler, yaşlılar, diyabetikler, yüksek tansiyonu olanlar, gebe ve emzikli kadınlar, metabolik hastalığı olanlar, böbrek yetmezliği olanlar ile kafeine hassas kişiler için tavsiye edilmez. Sporcu içeceği değildir, yoğun fiziksel aktivite öncesinde, sırasında veya sonrasında tüketilmemelidir. Günlük 500 ml’den fazla tüketilmesi tavsiye edilmez.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54255679.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54257508.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54257736.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Kavun & Çilek (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54257784.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Karpuz (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54257800.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54257819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilek & Karpuz Aromalı Maden Suyu (20 cl.)",
+          "price": 40.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54349916.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mango & Ananas Aromalı Maden Suyu (20 cl.)",
+          "price": 40.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54349926.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elma Aromalı Maden Suyu (20 cl.)",
+          "price": 40.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54349939.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limon Aromalı Maden Suyu (20 cl.)",
+          "price": 40.5,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Bbq Sos",
+          "price": 13.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Garlic Sos",
+          "price": 13.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941943.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 13.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941945.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Chili Sos",
+          "price": 13.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941949.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ketçap",
+          "price": 13.5,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941944.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 9.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38941947.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Mayonez",
+          "price": 9.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70342384.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5353670.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

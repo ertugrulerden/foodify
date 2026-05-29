@@ -1,0 +1,411 @@
+{
+  "link_hash": "25581438",
+  "scraped_at": "260528_0123",
+  "restaurant_name": "Crunchy Chickens",
+  "link": "https://www.yemeksepeti.com/restaurant/fszd/crunchy-chickens-fszd",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Mizanplus Menü",
+          "price": 849.95,
+          "description": "Crunchy Beast Burger + Kombo Atıştırmalık Tabak + Seçeceğiniz İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75768994.jpg?width=128&height=128"
+        },
+        {
+          "name": "Crunchy Menü",
+          "price": 649.95,
+          "description": "Seçeceğiniz Burger + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54902139.jpg?width=128&height=128"
+        },
+        {
+          "name": "Crunchy Combo Menü",
+          "price": 949.95,
+          "description": "Seçeceğiniz Burger + Patates Kızartması + Crunchy Chicken Strips + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389146.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Domates Çorbası",
+          "price": 179.95,
+          "description": "Domates ve kaşar peynirinin muhteşem uyumuyla, sağlıklı ve lezzet dolu bir başlangıç (Rendelenmiş kaşar peyniri ve sarımsak içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389144.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Suyu Çorbası",
+          "price": 189.95,
+          "description": "Şifa deposu, tavuk suyu ile hazırlanan besleyici, sağlıklı ve lezzet dolu bir başlangıç (Maydanoz içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54389145.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mercimek Çorbası",
+          "price": 179.95,
+          "description": "Sofraların vazgeçilmezi, iç ısıtan sağlıklı ve lezzet dolu bir başlangıç (Tavuk suyu içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54902138.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran Aşı Çorbası",
+          "price": 179.95,
+          "description": "Yaz sofralarının vazgeçilmezi, serinletici ve doyurucu geleneksel bir lezzet (Soğuk servis edilir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73330722.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çıtır Tavuklar",
+      "products": [
+        {
+          "name": "Crunchy Chicken Strips (4 Adet)",
+          "price": 359.95,
+          "description": "Çıtır tavuk dilimleri (4 adet) ve seçeceğiniz sos (1 adet) ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389148.jpg?width=150&height=150"
+        },
+        {
+          "name": "Crunchy Chicken Strips (8 Adet)",
+          "price": 499.95,
+          "description": "Çıtır tavuk dilimleri (8 adet) ve seçeceğiniz sos (1 adet) ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/61138121.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Dead Homie Burger",
+          "price": 549.95,
+          "description": "Çıtır tavuk, özel Crunchy sos, coleslaw, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389150.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet N Spicy Burger",
+          "price": 549.95,
+          "description": "Çıtır tavuk, ballı hardal, coleslaw, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389149.jpg?width=150&height=150"
+        },
+        {
+          "name": "Crunchy Beast Burger",
+          "price": 549.95,
+          "description": "Çıtır tavuk, sriracha mayo, coleslaw, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389151.jpg?width=150&height=150"
+        },
+        {
+          "name": "Truffle Shuffle Burger",
+          "price": 549.95,
+          "description": "Çıtır tavuk, trüflü mayonez, karamelize soğan. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389152.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bowl",
+      "products": [
+        {
+          "name": "Çıtır Tavuk Kasesi",
+          "price": 599.95,
+          "description": "Çıtır tavuk parçaları, tercihe göre tereyağlı Türk pilavı veya zerdeçallı basmati pilav, mısır, köz biber, salatalık turşusu, mor lahana turşusu, domates, salatalık, havuç tarator (~852 kcal)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuklu Bowl",
+          "price": 619.95,
+          "description": "Çıtır tavuk parçaları, haşlanmış sebze, göbek marul, mısır, köz biber, mor lahana turşusu, Meksika fasulyesi, guacamole sos, basmati pilav, kokteyl domates, salatalık, süzme yoğurt, -670 kcal-",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuklu Makarnalı Bowl",
+          "price": 619.95,
+          "description": "Çıtır tavuk parçaları, haşlanmış sebze, mısır, köz biber, mor lahana turşusu, Meksika fasulyesi, guacamole sos, penne makarna, kokteyl domates, salatalık, süzme yoğurt, -730 kcal-",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77688878.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Çıtır Tavuklu Salata",
+          "price": 519.95,
+          "description": "Çıtır tavuk parçaları, göbek marul, domates, salatalık, mısır, kapya biber, zeytinyağlı limon sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hardallı Patates Salatası",
+          "price": 199.95,
+          "description": "Haşlanmış patates, hardal sosu ve taze yeşilliklerle hazırlanan lezzetli bir soğuk salata",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Kombo Atıştırmalık Tabak",
+          "price": 269.95,
+          "description": "Patates kızartması, tavuk nugget (2 adet), mozzarella sticks (2 adet), patates kroket ve soğan halkası (4 adet)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 139.95,
+          "description": "İsteğe göre baharatlı çıtır çıtır patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389159.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (8 Adet)",
+          "price": 149.95,
+          "description": "Altın renginde kızarmış çıtır dış kabuğun altında, içindeki yumuşak soğanla mükemmel soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54389161.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kroket (6 Adet)",
+          "price": 139.95,
+          "description": "Altın sarısı kızarmış dış kabuk, içindeki püre patatesin yumuşacık dokusuyla patates kroket",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54389162.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Nugget (8 Adet)",
+          "price": 159.95,
+          "description": "Altın sarısı kızarmış dış kabuk, içindeki yumuşacık tavuk etiyle nugget",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389163.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek",
+          "price": 39.95,
+          "description": "Ekmek, pide veya roll ekmek ile uygunluğa göre servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389165.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (5 Adet)",
+          "price": 229.95,
+          "description": "Altın sarısı kızarmış dış kabuk, içindeki upuzun eriyen mozzarella peyniriyle mozzarella sticks",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389166.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Tiramisu",
+          "price": 349.95,
+          "description": "Nemli, bol çikolatalı devil’s food cake arasına mascarpone peynirli krema ve üzerinde; kakao tozu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bask Cheesecake",
+          "price": 349.95,
+          "description": "Kremsi dokusuyla benzersiz bir tat sunar. İsteğe bağlı çikolata sos ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ricottalı Frambuazlı Cheesecake",
+          "price": 349.95,
+          "description": "Tereyağı ile hazırlanmış bisküvi tabanı, ricotta peynirli yoğun krema, frambuaz sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389157.jpg?width=150&height=150"
+        },
+        {
+          "name": "İzmir Bomba (Adet)",
+          "price": 129.95,
+          "description": "İçi bol akışkan çikolatalı patlayan lezzet İzmir bomba.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54389158.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oreo Mag",
+          "price": 349.95,
+          "description": "Oreo bisküvisi, mag kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77292297.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Mag",
+          "price": 349.95,
+          "description": "Lotus kreması, mag kreması ve bisküvi katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77292315.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Mag",
+          "price": 379.95,
+          "description": "Fıstık kreması, mag kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77292329.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orman Meyveli Mag",
+          "price": 349.95,
+          "description": "Orman meyveleri, mag kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77292473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cevizli Brownie",
+          "price": 349.95,
+          "description": "Yoğun çikolatalı, içi yumuşak brownie ve çıtır ceviz parçalarıyla hazırlanan bir tatlı.",
+          "img": null
+        },
+        {
+          "name": "Cevizli Brownie",
+          "price": 349.95,
+          "description": "Yoğun çikolatalı, içi yumuşak brownie ve çıtır ceviz parçalarıyla hazırlanan bir tatlı.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062741.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062749.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062757.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özerhisar Ayran (30 cl.)",
+          "price": 99.95,
+          "description": "Büyük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32684244.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30259286.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30259248.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30259281.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 79.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062915.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 69.95,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30063015.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 49.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30063303.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (1 L.)",
+          "price": 139.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30063374.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 139.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30063347.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 139.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30063403.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (1 L.)",
+          "price": 139.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30259245.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Sriracha Mayonez",
+          "price": 49.95,
+          "description": "1 adet",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ketçap",
+          "price": 49.95,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062523.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 49.95,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 49.95,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062616.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 49.95,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062620.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 49.95,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062626.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Hardal",
+          "price": 49.95,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30250659.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30062725.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

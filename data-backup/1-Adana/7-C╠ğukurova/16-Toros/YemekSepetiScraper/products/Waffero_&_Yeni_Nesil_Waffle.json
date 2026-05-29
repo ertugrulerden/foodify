@@ -1,0 +1,83 @@
+{
+  "link_hash": "fad04a9d",
+  "scraped_at": "260528_1229",
+  "restaurant_name": "Waffero & Yeni Nesil Waffle",
+  "link": "https://www.yemeksepeti.com/restaurant/dgj3/waffero-and-yeni-nesil-waffle",
+  "categories": [
+    {
+      "name": "Waffles",
+      "products": [
+        {
+          "name": "Klasik Waffle",
+          "price": 200.0,
+          "description": "Seçeceğiniz sos, muz, çilek, kivi, seçeceğiniz süslemeler",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/dgj3/product/88925607/514c660f-e154-4845-8917-91908f67e374.jpg?width=128&height=128"
+        },
+        {
+          "name": "Double Klasik Waffle",
+          "price": 240.0,
+          "description": "Seçeceğiniz sos, muz, çilek, kivi, seçeceğiniz süslemeler",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/dgj3/product/88925605/6435596a-cacc-411a-8bbb-5859b6a38e05.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kovada Waffle",
+          "price": 200.0,
+          "description": "Seçeceğiniz sos, muz, çilek, kivi, seçeceğiniz süslemeler",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/dgj3/product/88925603/66dc032c-3196-4521-b2ec-52180024eaa2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bardak Waffle",
+          "price": 120.0,
+          "description": "Seçeceğiniz sos, muz, çilek, kivi, seçeceğiniz süslemeler",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 52.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80045109.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 52.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80045103.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 52.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 32.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

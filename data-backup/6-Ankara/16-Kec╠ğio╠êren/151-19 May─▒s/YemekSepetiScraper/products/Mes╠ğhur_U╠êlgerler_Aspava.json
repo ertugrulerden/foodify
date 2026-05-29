@@ -1,0 +1,568 @@
+{
+  "link_hash": "db47c473",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Meşhur Ülgerler Aspava",
+  "link": "https://www.yemeksepeti.com/restaurant/ngx9/meshur-ulgerler-aspava-ngx9",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Lahmacun",
+          "price": 450.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582363.jpg?width=128&height=128"
+        },
+        {
+          "name": "Servis Et Döner",
+          "price": 800.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529330.jpg?width=128&height=128"
+        },
+        {
+          "name": "SSK Et Döner Dürüm",
+          "price": 840.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529390.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti Kebap",
+          "price": 850.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529117.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Kebap",
+          "price": 800.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529113.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarma Döner Beyti",
+          "price": 880.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529307.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Menüler",
+      "products": [
+        {
+          "name": "Kıymalı Pide Menü",
+          "price": 800.0,
+          "description": "Kıymalı Pide + Seçeceğiniz Çorba + Mevsim Salata + Çiğ Köfte + Cacık + Ezme + Patates Kızartması + İrmik Tatlısı + Seçeceğiniz İçecek",
+          "img": null
+        },
+        {
+          "name": "Et Döner Dürüm Menü",
+          "price": 770.0,
+          "description": "Et Döner Dürüm + Mevsim Salata + Çiğ Köfte + Cacık + Ezme + Patates Kızartması + İrmik Helvası + Seçeceğiniz İçecek",
+          "img": null
+        },
+        {
+          "name": "Pilav Üstü Et Döner Menü",
+          "price": 900.0,
+          "description": "Pilav Üstü Et Döner (120 gr.) + Günün Çorbası + Mevsim Salata + Çiğ Köfte + Cacık + Ezme + Patates Kızartması + İrmik Tatlısı + Seçeceğiniz İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Karışık Izgara (2 Kişilik)",
+          "price": 4.0,
+          "description": "Adana Tavuk Şiş + Kuzu Şiş + Et Döner + Beyti + Patlıcan Kebabı + Fındık Lahmacun",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Yumurtalı Pide",
+          "price": 680.0,
+          "description": "Kıymalı Yumurtalı Pide (Dana kıyma, yumurta, domates, biber, maydanoz, kuru soğan) + Mevsim Salata + Çiğ Köfte + Cacık + Ezme + Patates Kızartması + İrmik Helvası İle",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğanlı Kaşarlı Et Döner Dürüm Menü",
+          "price": 730.0,
+          "description": "Soğanlı Kaşarlı Et Döner Dürüm (100 gr.) + Mevsim Salata + Çiğ Köfte + Cacık + Soğan Ezme + Patates Kızartması + İrmik Helvası",
+          "img": null
+        },
+        {
+          "name": "Karışık Izgara Menü 2 (3 Kişilik)",
+          "price": 6.0,
+          "description": "Adana Kebap + Tavuk Şiş + Kuzu Şiş + Et Döner + Beyti + Patlıcan Kebabı + Fındık Lahmacun",
+          "img": null
+        },
+        {
+          "name": "Tavuk Şiş Dürüm Menü",
+          "price": 750.0,
+          "description": "(180 gr.) Tavuk Şiş Dürüm (Közlenmiş biber, közlenmiş domates, soğan) + Mevsim Salata + Çiğ Köfte + Cacık + Ezme + Patates Kızartması + İrmik Helvası",
+          "img": null
+        },
+        {
+          "name": "Adana Dürüm Menü",
+          "price": 750.0,
+          "description": "(180 gr.) Adana Dürüm (Közlenmiş biber, közlenmiş domates, soğan) + Mevsim Salata + Çiğ Köfte + Cacık + Ezme + Patates Kızartması + İrmik Helvası",
+          "img": null
+        },
+        {
+          "name": "Urfa Dürüm Menü",
+          "price": 750.0,
+          "description": "Urfa Dürüm (180 gr.) (Közlenmiş biber, közlenmiş domates, soğan) + Mevsim Salata + Çiğ Köfte + Cacık + Ezme + Patates Kızartması + İrmik Helvası",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 200.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529324.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pideler",
+      "products": [
+        {
+          "name": "Kıymalı Pide",
+          "price": 730.0,
+          "description": "Kıyma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfteler",
+      "products": [
+        {
+          "name": "Çiğ Köfte (22 Sıkım)",
+          "price": 200.0,
+          "description": "22 sıkım olarak servis edilir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Pideler",
+      "products": [
+        {
+          "name": "Sucuklu Kaşarlı Pide",
+          "price": 780.0,
+          "description": "Kaşarlı Sucuklu Pide (50 cm), dana sucuk ve ince hamurdan hazırlanır. Salata, çiğ köfte, cacık, ezme, patates kızartması, irmik tatlısı ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Pide",
+          "price": 780.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Pide",
+          "price": 690.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582354.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Pide",
+          "price": 870.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582355.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Kaşarlı Pide",
+          "price": 780.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582356.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Kaşarlı Pide",
+          "price": 780.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/74582357.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 800.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582358.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide",
+          "price": 875.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582360.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kapalı Kaşarlı Dönerli Pide (50 cm.)",
+          "price": 800.0,
+          "description": "Kaşar peyniri, et döner. Salata, çiğ köfte, cacık, ezme, patates kızartması, irmik tatlısı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582361.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Peynirli Pide",
+          "price": 780.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582362.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lahmacun",
+          "price": 450.0,
+          "description": "Cacık, patates kızartması, irmik helvası, salata, çiğ köfte ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582363.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fırın Ürünleri",
+      "products": [
+        {
+          "name": "2'li Lahmacun",
+          "price": 910.0,
+          "description": "Kıyma, mevsim sebzeleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Pide",
+          "price": 600.0,
+          "description": "Kaşarlı Sucuklu Pide (50 cm) + Dana Sucuk + Mevsim Salata + Çiğ Köfte + Cacık + Soğan Ezme + Patates Kızartması + İrmik Tatlısı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kapalı Kaşarlı Dönerli Pide",
+          "price": 690.0,
+          "description": "Kapalı Kaşarlı Dönerli Pide (50 cm) + Mevsim Salata + Çiğ Köfte + Cacık + Soğan Ezme + Patates Kızartması + İrmik Tatlısı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soslu Kaşarlı Et Döner Dürüm Menü",
+          "price": 730.0,
+          "description": "Soslu Kaşarlı Et Döner Dürüm (100 gr.) + Mevsim Salata + Çiğ Köfte + Cacık + Soğan Ezme + Patates Kızartması + İrmik Helvası",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kebaplar & Izgaralar",
+      "products": [
+        {
+          "name": "Et Şiş",
+          "price": 960.0,
+          "description": "Günün pilavı, cacık, patates kızartması, irmik, salata, çiğ köfte ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Kanat",
+          "price": 780.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Urfa Kebap",
+          "price": 800.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Alinazik Kebap",
+          "price": 950.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529107.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domatesli Kebap",
+          "price": 900.0,
+          "description": "PaCacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529110.jpg?width=150&height=150"
+        },
+        {
+          "name": "Alinazik Et Şiş",
+          "price": 980.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529112.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Kebap",
+          "price": 800.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529113.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti Kebap",
+          "price": 850.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529117.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş",
+          "price": 780.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529122.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patlıcan Kebabı",
+          "price": 950.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529125.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Izgara",
+          "price": 2.4,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529240.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Kebap",
+          "price": 875.0,
+          "description": "Cacık, patates kızartması, irmik, salata, çiğ köfte, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529247.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kiremitte Et Şiş",
+          "price": 990.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kiremit Köfte",
+          "price": 900.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Köfte",
+          "price": 670.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantarlı Kebap",
+          "price": 700.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kiremitte Tavuk Şiş",
+          "price": 840.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, mevsim salata, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Pirzola",
+          "price": 840.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, mevsim salata, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Tavuk",
+          "price": 700.0,
+          "description": "Garnitür ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kebap",
+          "price": 760.0,
+          "description": "Ezme, mevsim salata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Dönerler",
+      "products": [
+        {
+          "name": "Sarma Döner Beyti",
+          "price": 880.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529307.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı İskender",
+          "price": 870.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Servis Et Döner",
+          "price": 800.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, salata, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529330.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Döner",
+          "price": 870.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, mevsim salata, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529342.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Et Döner Dürüm",
+          "price": 800.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529350.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğanlı Et Döner Dürüm",
+          "price": 800.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, mevsim salata, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529358.jpg?width=150&height=150"
+        },
+        {
+          "name": "SSK Et Döner Dürüm",
+          "price": 840.0,
+          "description": "Patates kızartması, çiğ köfte, irmik tatlısı, cacık, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74529390.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Dürüm",
+          "price": 800.0,
+          "description": "Marul, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77715783.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Et Döner Menü",
+          "price": 850.0,
+          "description": "(120 gr.) Yoğurtlu Et Döner (Közlenmiş biber, közlenmiş domates, yoğurt) + Mevsim Salata + Çiğ Köfte + Cacık + Soğan Ezme + Patates Kızartması + İrmik Tatlısı",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Et Döner Dürüm",
+          "price": 765.0,
+          "description": "Et, baharatlar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soslu Soğanlı Et Döner Dürüm",
+          "price": 700.0,
+          "description": "Soslu Soğanlı Et Döner Dürüm (100 gr) + Mevsim Salata + Çiğ Köfte + Cacık + Soğan Ezme + Patates Kızartması + İrmik Tatlısı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Aperitifler",
+      "products": [
+        {
+          "name": "Lavaş (1 Adet)",
+          "price": 75.0,
+          "description": "1 adet olarak servis edilir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kızartma İçli Köfte (Adet)",
+          "price": 175.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Çoban Salata",
+          "price": 250.0,
+          "description": "Domates, salatalık, soğan, maydanoz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Dondurmalı İrmik Helvası",
+          "price": 220.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Künefe",
+          "price": 220.0,
+          "description": "Şerbetli",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca Cola",
+          "price": 120.0,
+          "description": "Coca cola",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta",
+          "price": 120.0,
+          "description": "Fanta",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Şeftali (33 cl.)",
+          "price": 120.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 120.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 120.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran",
+          "price": 90.0,
+          "description": "Ayran",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda",
+          "price": 65.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74403327.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 45.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74582368.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

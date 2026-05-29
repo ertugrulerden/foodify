@@ -3,24 +3,24 @@
 import { Search } from "lucide-react"
 import { Input } from "../ui/input"
 import { useAddress } from "@/components/AddressContext"
-import { useState } from "react"
+import { useAuthModals } from "@/components/AuthModalContext"
 import AddressModal from "./AddressModal"
+import { useState } from "react"
 
 // SearchBar: Arama çubuğu
-// Adres seçili değilse → arama yaptırmaz, adres modalını açar
-// Adres seçiliyse → regionID'yi gizli input olarak ekler ve aramayı çalıştırır
+// Adres seçili değilse Welcome Modal açılır (AuthModalContext üzerinden).
 const SearchBar = () => {
   const { address } = useAddress()
-  const [modalOpen, setModalOpen] = useState(false)
+  const { openWelcome } = useAuthModals()
+  const [addressOpen, setAddressOpen] = useState(false)
 
   // Form submit edildiğinde adres kontrolü yap
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     if (!address) {
-      // Adres seçilmemişse formu durdur ve modalı aç
       e.preventDefault()
-      setModalOpen(true)
+      // Adres seçili değilse Hoş Geldin modalını aç
+      openWelcome()
     }
-    // Adres seçiliyse form normal çalışır (GET /search?q=...&regionID=...)
   }
 
   return (
@@ -36,7 +36,7 @@ const SearchBar = () => {
           type="text"
           placeholder="Menü veya restoran ara"
           name="q"
-          className="pl-10 w-full rounded-full bg-slate-100 border-transparent focus-visible:ring-1 focus-visible:bg-white"
+          className="pl-10 h-10 w-full rounded-full bg-slate-100/80 border-transparent hover:bg-slate-200/50 focus-visible:bg-white focus-visible:ring-2 focus-visible:ring-primary/20 focus-visible:border-primary/30 transition-all shadow-inner"
         />
         {/* Adres seçiliyse regionID'yi gizli input olarak forma ekle */}
         {address && (
@@ -44,10 +44,11 @@ const SearchBar = () => {
         )}
       </form>
 
-      {/* Adres seçili değilken arama yapılırsa açılan modal */}
-      <AddressModal open={modalOpen} onOpenChange={setModalOpen} />
+      {/* Adres Seçimi Modalı (Henüz SearchBar içinde kaldı, yakında ayrılacak) */}
+      <AddressModal open={addressOpen} onOpenChange={setAddressOpen} />
     </>
   )
 }
 
 export default SearchBar
+

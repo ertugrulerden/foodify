@@ -1,0 +1,59 @@
+{
+  "link_hash": "3a2e2531",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "1sos Döner",
+  "link": "https://www.yemeksepeti.com/restaurant/ifb3/1sos-doner",
+  "categories": [
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Tavuk Döner Dürüm",
+          "price": 200.0,
+          "description": "110 gr. tavuk döner, yeşillik, sos, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78320988.jpg?width=128&height=128"
+        },
+        {
+          "name": "Mega Tavuk Döner Dürüm",
+          "price": 290.0,
+          "description": "190 gr. tavuk döner, yeşillik, sos, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78320992.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Döner",
+          "price": 350.0,
+          "description": "Garnitür ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78321004.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Eker Ayran (20 cl.)",
+          "price": 55.0,
+          "description": "Küçük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

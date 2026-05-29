@@ -1,0 +1,113 @@
+{
+  "link_hash": "6bcaf456",
+  "scraped_at": "260528_0116",
+  "restaurant_name": "Cajun Burger",
+  "link": "https://www.yemeksepeti.com/restaurant/dnx6/cajun-burger-dnx6",
+  "categories": [
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburger",
+          "price": 399.2,
+          "description": "Hambuger köftesi, marul, domates, turşu, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71078154.jpg?width=128&height=128"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 440.0,
+          "description": "Hamburger köftesi, cheddar peyniri, turşu, domates, marul, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71078198.jpg?width=128&height=128"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Soğan Halkası (3 Adet)",
+          "price": 60.0,
+          "description": "3 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71078059.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 100.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71078066.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (9 Adet)",
+          "price": 128.0,
+          "description": "9 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71078072.jpg?width=150&height=150"
+        },
+        {
+          "name": "Baharatlı Patates Kızartması (Küçük Boy)",
+          "price": 100.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71078046.jpg?width=150&height=150"
+        },
+        {
+          "name": "Baharatlı Patates Kızartması (Büyük Boy)",
+          "price": 128.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Portakallı Gazoz (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Gazoz (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (27 cl.)",
+          "price": 36.0,
+          "description": "Küçük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 16.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Kola (1 L.)",
+          "price": 78.4,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Portakallı Gazoz (1 L.)",
+          "price": 78.4,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Gazoz (1 L.)",
+          "price": 78.4,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -88,9 +88,7 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
         parameters.push(regionID)
     }
 
-    let searchQuery = 'SELECT'
-                        +' products.name AS productName,'
-                        +' restaurants.name AS restaurantName,'
+    let searchQuery = 'SELECT products.productID, restaurants.restaurantID, products.name AS productName, restaurants.name AS restaurantName,'
                         +' platforms.platform,'
                         +' prices.price,'
                         +' products.image,'
@@ -204,14 +202,24 @@ export function deleteRegion(id: number): void{
 }
 
 //Users
-export function createUser(data: {email: string, passwordHash: string, lastRegionID: number}): User{
-    return db.prepare("INSERT INTO users (email, passwordHash, lastRegionID) VALUES (?, ?, ?) RETURNING *").get(data.email, data.passwordHash, data.lastRegionID) as User
+// Yeni kullanıcı oluştur (kayıt olma)
+export function createUser(data: {firstName: string, lastName: string, email: string, passwordHash: string, lastRegionID: number}): User{
+    return db.prepare("INSERT INTO users (firstName, lastName, email, passwordHash, lastRegionID) VALUES (?, ?, ?, ?, ?) RETURNING *").get(data.firstName, data.lastName, data.email, data.passwordHash, data.lastRegionID) as User
 }
-export function updateUser(id: number, data: {email: string, passwordHash: string, lastRegionID: number}): User{
-    return db.prepare("UPDATE users SET email = ?, passwordHash = ?, lastRegionID = ? WHERE userID = ? RETURNING *").get(data.email, data.passwordHash, data.lastRegionID, id) as User
+// Kullanıcı bilgilerini güncelle
+export function updateUser(id: number, data: {firstName: string, lastName: string, email: string, passwordHash: string, lastRegionID: number}): User{
+    return db.prepare("UPDATE users SET firstName = ?, lastName = ?, email = ?, passwordHash = ?, lastRegionID = ? WHERE userID = ? RETURNING *").get(data.firstName, data.lastName, data.email, data.passwordHash, data.lastRegionID, id) as User
 }
 export function deleteUser(id: number): void{
     db.prepare("DELETE FROM users WHERE userID = ?").run(id)
+}
+// Email ile kullanıcı bul (giriş yaparken kullanılır)
+export function getUserByEmail(email: string): User | undefined {
+    return db.prepare("SELECT * FROM users WHERE email = ?").get(email) as User | undefined
+}
+// ID ile kullanıcı bul (profil güncellerken kullanılır)
+export function getUserById(id: number): User | undefined {
+    return db.prepare("SELECT * FROM users WHERE userID = ?").get(id) as User | undefined
 }
 
 //UserFavs
@@ -222,6 +230,54 @@ export function deleteUserFav(favID: number): void{
     db.prepare("DELETE FROM userFavs WHERE favID = ?").run(favID)
 }
 
+export function toggleUserFav(userID: number, productID: number): { added: boolean } {
+    const existing = db.prepare("SELECT * FROM userFavs WHERE userID = ? AND productID = ?").get(userID, productID) as any
+    if (existing) {
+        db.prepare("DELETE FROM userFavs WHERE favID = ?").run(existing.favID)
+        return { added: false }
+    } else {
+        db.prepare("INSERT INTO userFavs (userID, productID) VALUES (?, ?)").run(userID, productID)
+        return { added: true }
+    }
+}
+
+export function getUserFavProducts(userID: number): import('./types').SearchResult[] {
+    const query = `
+        SELECT products.productID, restaurants.restaurantID, products.name AS productName, restaurants.name AS restaurantName,
+               platforms.platform, prices.price, products.image, products.description, details.fee, details.rating, region.region AS address
+        FROM userFavs
+        JOIN products ON userFavs.productID = products.productID
+        JOIN restaurants ON products.restaurantID = restaurants.restaurantID
+        JOIN prices ON products.productID = prices.productID
+        JOIN platforms ON prices.platformID = platforms.platformID
+        LEFT JOIN restaurantregion ON restaurants.restaurantID = restaurantregion.restaurantID
+        LEFT JOIN region ON restaurantregion.regionID = region.regionID
+        LEFT JOIN details ON restaurants.restaurantID = details.restaurantID AND platforms.platformID = details.platformID
+        WHERE userFavs.userID = ?
+    `
+    return db.prepare(query).all(userID) as import('./types').SearchResult[]
+}
+
+// User Addresses
+export function getUserAddresses(userID: number): any[] {
+    return db.prepare(`
+        SELECT ua.*, 
+               r.region as _regionName, 
+               d.district as _districtName, d.districtID,
+               c.city as _cityName, c.cityID
+        FROM userAddresses ua
+        JOIN region r ON ua.regionID = r.regionID
+        JOIN district d ON r.districtID = d.districtID
+        JOIN city c ON d.cityID = c.cityID
+        WHERE ua.userID = ?
+    `).all(userID) as any[]
+}
+export function createUserAddress(data: {userID: number, regionID: number, title: string, detail: string | null}): import('./types').UserAddress {
+    return db.prepare("INSERT INTO userAddresses (userID, regionID, title, detail) VALUES (?, ?, ?, ?) RETURNING *").get(data.userID, data.regionID, data.title, data.detail) as import('./types').UserAddress
+}
+export function deleteUserAddress(addressID: number): void {
+    db.prepare("DELETE FROM userAddresses WHERE addressID = ?").run(addressID)
+}
 
 export function getDashboardCounts() {
     return db.prepare(`

@@ -1,0 +1,318 @@
+{
+  "link_hash": "56437438",
+  "scraped_at": "260528_0109",
+  "restaurant_name": "Redkit Gece Pilavcısı",
+  "link": "https://www.yemeksepeti.com/restaurant/fhoj/redkit-gece-pilavcisi",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Vahşi Batı Klasiği (300 gr.)",
+          "price": 172.0,
+          "description": "250 gr. pirinç pilavı, 50 gr. haşlanmış tavuk, biber turşusu, kırmızı lahana turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723234.jpg?width=128&height=128"
+        },
+        {
+          "name": "Düldül'ün Favorisi (1,5 porsiyon)",
+          "price": 236.0,
+          "description": "400 gr. pirinç pilavı, 75 gr. haşlanmış tavuk biber turşusu, kırmızı lahana turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723235.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Eti",
+          "price": 140.0,
+          "description": "100 gr. tavuk göğsü",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/f587248a-2657-4ada-ad4c-29c6edafd44c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kasaba Çorbası",
+          "price": 108.0,
+          "description": "Vahşi Batı'nın en sıcak karşılaması! Tam kıvamında sıcacık süzme mercimek çorbası.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/3d0682c3-a46e-4aaf-9c83-cafdf4057bfe.jpg?width=150&height=150"
+        },
+        {
+          "name": "Altın Vadisi (Körili)",
+          "price": 204.0,
+          "description": "250 gr. teryağlı nohutlu pirinç pilavı, 50 gr. köri soslu tavuk, biber turşusu, kırmızı lahana turşusu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/bd8fca74-c0e8-4dd7-a735-4ab3469b9135.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ana Yemekler",
+      "products": [
+        {
+          "name": "Kasaba Çorbası",
+          "price": 108.0,
+          "description": "Vahşi Batı'nın en sıcak karşılaması! Tam kıvamında sıcacık süzme mercimek çorbası.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/3d0682c3-a46e-4aaf-9c83-cafdf4057bfe.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ateş Başında Sote",
+          "price": 284.0,
+          "description": "Tereyağlı pirinç pilavı, biber turşusu, kırmızı lahana turşusu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/427fcfb0-0d98-41f1-9c53-2eb82ae316c6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Sote & Makarna",
+          "price": 284.0,
+          "description": "Özel sos, tavuk sote. Köri soslu makarna, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Altın Kanyon",
+          "price": 136.0,
+          "description": "Köri sosu, makarna",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/89821855/cb212850-ee05-4b32-a5f9-f3ae8cbe9eae.jpg?width=150&height=150"
+        },
+        {
+          "name": "Joe Dalton'un Öfkesi",
+          "price": 96.0,
+          "description": "Bulgur pilavı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/f0f7eaa2-4c89-414e-8549-a88dfebe06a2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Körili Tavuk Eti",
+          "price": 148.0,
+          "description": "Tavuk, köri sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/688b47cc-91fa-4b7c-8994-4f66d3f35547.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Eti",
+          "price": 140.0,
+          "description": "100 gr. tavuk göğsü",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/f587248a-2657-4ada-ad4c-29c6edafd44c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Fırın Yemeği",
+          "price": 276.0,
+          "description": "Tavuk parçaları, patates, karamelize soğan, tatlı biber",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/b1d5952c-4489-436f-ad65-a4c462d57f8c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mahşer'in Dört Atlısı",
+          "price": 712.0,
+          "description": "Dört kişilik ekonomik paket. İçinde klasik Vahşi Batı pilavı üzerine bol didiklenmiş tavuk göğsü dört adet ayran turşu ve kırmızı lahana bulunmaktadır. Tek tek alıma göre yüzde 15 daha avantajlı fiyatla sunulmaktadır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/4c58c630-938c-4af6-aa2e-25bef96492ec.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süvari Usulü Spagetti",
+          "price": 184.0,
+          "description": "Enfes krema sosuyla harmanlanmış spagetti ; jülyen taze havuç , kırmızı ve yeşil kapya biberlerin mükemmel uyumuyla gecenize renk katacak!",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/5ee44a1a-ba40-4c56-9a47-1bc06f8ebb71.jpg?width=150&height=150"
+        },
+        {
+          "name": "Daltonların Firar Menüsü",
+          "price": 372.0,
+          "description": "Dördü bir yerde! Izgara köfte lezzeti , çıtır patates , şerif'in bahçesi salata ve sıcacık ekmek tek menüde toplandı. Daltonları firardan dahi vazgeçirecek kadar leziz gece ziyafeti!",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/4e51eba1-6ecb-4dc5-82f2-af63414e3452.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaprak Sarma",
+          "price": 204.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/56fe28cb-61bb-4e3f-920a-7022b6a2e902.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Vahşi Batı Klasiği (300 gr.)",
+          "price": 172.0,
+          "description": "250 gr. pirinç pilavı, 50 gr. haşlanmış tavuk, biber turşusu, kırmızı lahana turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Düldül'ün Favorisi (1,5 porsiyon)",
+          "price": 236.0,
+          "description": "400 gr. pirinç pilavı, 75 gr. haşlanmış tavuk biber turşusu, kırmızı lahana turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723235.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şerif'in Kararı (Double)",
+          "price": 292.0,
+          "description": "500 gr. pirinç pilavı, 100 gr. haşlanmış tavuk, biber turşusu, kırmızılahana turşusu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723236.jpg?width=150&height=150"
+        },
+        {
+          "name": "Altın Vadisi (Körili)",
+          "price": 204.0,
+          "description": "250 gr. teryağlı nohutlu pirinç pilavı, 50 gr. köri soslu tavuk, biber turşusu, kırmızı lahana turşusu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/bd8fca74-c0e8-4dd7-a735-4ab3469b9135.jpg?width=150&height=150"
+        },
+        {
+          "name": "Averell’in Rüyası",
+          "price": 96.0,
+          "description": "250 gr. nohutlu tereyağlı pirinç pilavı, biber turşusu, kırmızı lahana turşusu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/f7a9f647-42c4-4ef9-8ec6-7a8282875fb7.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Yoğurt",
+          "price": 40.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kırmızılahana Turşusu",
+          "price": 40.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/e33b1686-b83b-42fa-815d-fc8b28dce732.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cacık",
+          "price": 40.0,
+          "description": "sarımsaklı veya sarımsaksız nota ekleyebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/7375b714-11c6-4da7-972d-4ad990cafe92.jpg?width=150&height=150"
+        },
+        {
+          "name": "Havuç Tarator",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/439d771c-5e4a-40ed-9566-f3f8ab9a6fb5.jpg?width=150&height=150"
+        },
+        {
+          "name": "6'lı Nugget",
+          "price": 80.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/ca5780cb-2ae0-4d1c-ae1b-019c43db3c00.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mor Tarator",
+          "price": 68.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/f29c1ab2-de14-4bd2-baac-0cb0e08283d8.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Şerif'in Bahçesi",
+          "price": 48.0,
+          "description": "Domates, salatalık, havuç, kırmızılahana, kıvırcık marul",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/e888aeef-133a-4d7a-8b08-853c8689d405.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 56.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/89614132/67b1b89d-7698-4675-83b2-822d98e47984.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723360.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (25 cl.)",
+          "price": 24.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723361.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 24.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723363.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 56.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723364.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 68.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80723366.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (33 cl.)",
+          "price": 56.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/cbd44ee1-45be-40eb-8646-8ce88ab33660.jpg?width=150&height=150"
+        },
+        {
+          "name": "Güney Ayran (30 cl.)",
+          "price": 36.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/bdd841cd-85f9-40a0-88d7-8abbb7afb2cf.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beypazarı Sade Soda (20 cl.)",
+          "price": 24.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/d9b48929-0413-493e-89ef-b87c08257863.jpg?width=150&height=150"
+        },
+        {
+          "name": "Saka Su (50 cl.)",
+          "price": 16.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/3d7cd64e-88af-41c5-904a-f5e4cded5ccc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 56.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/e19648a2-c238-4e7d-b834-34c2dc75235a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (2,5 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/c12391b5-f907-4c2b-8fdd-e17542e88f8e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 56.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fhoj/product/00a467bc-0b14-44a7-8ed9-bd02e832d74a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Freşa Meyveli Soda (20 cl.)",
+          "price": 28.0,
+          "description": "Cam şişe",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "4'lü Tavuklu Pilav Menü",
+          "price": 640.0,
+          "description": "4 Adet Tavuklu Pirinç Pilavı (Pirinç pilavı, tiftiklenmiş tavuk göğsü. Turşu, kırmızılahana turşusu ile) + 4 Adet Ayran (20 cl.)",
+          "img": null
+        }
+      ]
+    }
+  ]
+}

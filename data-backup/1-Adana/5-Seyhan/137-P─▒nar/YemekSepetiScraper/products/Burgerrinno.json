@@ -1,0 +1,323 @@
+{
+  "link_hash": "8c67a07a",
+  "scraped_at": "260528_1202",
+  "restaurant_name": "Burgerrinno",
+  "link": "https://www.yemeksepeti.com/restaurant/mzao/burgerrinno",
+  "categories": [
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburgerinno",
+          "price": 465.0,
+          "description": "Tereyağlı briroche ekmeğine; burger köftesi, karamelize soğan. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71435065.jpg?width=128&height=128"
+        },
+        {
+          "name": "Cheeseburgerinno",
+          "price": 475.0,
+          "description": "Tereyağlı Brioche ekmeğine; burger köftesi, Somerset İngiliz cheddar peyniri, karamelize soğan. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71435080.jpg?width=128&height=128"
+        },
+        {
+          "name": "Turffle Cheeseburgerinno",
+          "price": 495.0,
+          "description": "Tereyağlı briroche ekmeğine; burger köftesi, Somerset İngiliz cheddar peyniri, karamelize soğan, trüflü mayonez. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71435089.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mushroom Swiss Burgerinno",
+          "price": 495.0,
+          "description": "Tereyağlı briroche ekmeğine; burger köftesi, Somerset İngiliz cheddar peyniri, karamelize soğan, istirdiye mantarı. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71435272.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hot Mexican Burgerinno",
+          "price": 495.0,
+          "description": "Tereyağlı briroche ekmeğine; burger köftesi, Somerset İngiliz cheddar peyniri, karamelize soğan, hot chili sos, jalapeno turşu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71435277.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Coleslaw Burgerinno",
+          "price": 370.0,
+          "description": "Tereyağlı briroche ekmeğine; panelenmiş çıtır tavuk, domates, marul, turşu, cheddar peyniri, coleslaw. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71435284.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Cheddar Burgerinno",
+          "price": 370.0,
+          "description": "Tereyağlı briroche ekmeğine; panelenmiş çıtır tavuk, domates, marul, turşu, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71435289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Smash Hamburger",
+          "price": 435.0,
+          "description": "Dana köftesi, karamelize soğan, iceberg, salatalık turşusu, domates, özel burger sosu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71572975.jpg?width=150&height=150"
+        },
+        {
+          "name": "Smash Cheeseburger",
+          "price": 445.0,
+          "description": "Dana burger köftesi, cheddar peyniri, karamelize soğan, iceberg marul, salatalık turşusu, domates, özel burger sosu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71573238.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiftik Cheeseburger",
+          "price": 480.0,
+          "description": "Tereyağlı brioche ekmeğine; tiftik dana gerdan, BBQ sos, cheddar peyniri, karamalize soğan. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000262.jpg?width=150&height=150"
+        },
+        {
+          "name": "Truffle Smash Cheeseburger",
+          "price": 475.0,
+          "description": "Dana köftesi, cheddar peyniri, karamelize soğan, iceberg marul, salatalık turşusu, domates, özel burger sosu, trüflü mayonez. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000270.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Hot Dogs",
+      "products": [
+        {
+          "name": "Hot Dog",
+          "price": 380.0,
+          "description": "Briroche hot dog ekmeğine; dana sosis, relish, ketçap, moyonez, hardal",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coleslaw Hot Dog",
+          "price": 380.0,
+          "description": "Briroche hot dog ekmeğine; dana sosis, relish, coleslaw, ketçap, moyonez, hardal",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BBQ Hot Dog",
+          "price": 385.0,
+          "description": "Brioche hot dog ekmeği, dana fermente sosis, cheddar peyniri, BBQ sos, karamelize soğan, relish",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Izgara Tavuklu Salata",
+          "price": 300.0,
+          "description": "Karışık yeşillik, cherry domates, mısır, havuç, çekirdek, ızgara tavuk, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Makarnalı Tavuk Tenders Bowl",
+          "price": 365.0,
+          "description": "Kremalı penne, tavuk tenders, coleslaw, mısır, jalapeno turşusu, mevsim yeşillikleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Köfteli Bowl",
+          "price": 425.0,
+          "description": "Izgara köfte, bulgur pilavı, kuru cacık, cherry domates, bezelye, mevsim yeşillikleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 140.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Baharatlı Patates Kızartması",
+          "price": 140.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chicken Fingers",
+          "price": 180.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "price": 140.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası",
+          "price": 140.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Burgerinno Tabağı",
+          "price": 290.0,
+          "description": "Patates kızartması, chicken fingers, mozzarella sticks, soğan halkası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coleslaw Salatası",
+          "price": 130.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Amerikan Salatası",
+          "price": 130.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Parmesanlı Trüflü Patates Kızartması",
+          "price": 220.0,
+          "description": "Tek kişilik servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74997767.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Kırmızılahana (200 gr.)",
+          "price": 130.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74997775.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuru Cacık (200 gr.)",
+          "price": 130.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74997776.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 135.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap",
+          "price": 8.0,
+          "description": "9 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mayonez",
+          "price": 8.0,
+          "description": "9 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarımsaklı Mayonez",
+          "price": 18.0,
+          "description": "20 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 18.0,
+          "description": "20 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 18.0,
+          "description": "20 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ballı Hardal",
+          "price": 18.0,
+          "description": "20 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71970025.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 70.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (29,5 cl.)",
+          "price": 90.0,
+          "description": "Küçük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 45.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71973339.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

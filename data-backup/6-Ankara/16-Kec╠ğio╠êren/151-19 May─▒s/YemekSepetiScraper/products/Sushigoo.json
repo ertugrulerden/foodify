@@ -1,0 +1,884 @@
+{
+  "link_hash": "9c061a68",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Sushigoo",
+  "link": "https://www.yemeksepeti.com/restaurant/yjex/sushigoo",
+  "categories": [
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Acılı Ekşili Çorba",
+          "price": 340.0,
+          "description": "Havuç, lahana, incik, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71254993.jpg?width=128&height=128"
+        },
+        {
+          "name": "Acılı Üç Lezzetli Çorba",
+          "price": 306.0,
+          "description": "Havuç, lahana, makarna, incik, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71254994.jpg?width=128&height=128"
+        },
+        {
+          "name": "Hindistan Sütlü Tavuk Çorbası",
+          "price": 323.0,
+          "description": "Hindistan sütü, tavuk, kapya biber, dolma biber, mantar, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71254995.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hindistan Sütlü Karides Çorbası",
+          "price": 331.5,
+          "description": "Hindistan sütü, karides, kapya biber, dolma biber, mantar, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71254996.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Karides Çorba",
+          "price": 280.5,
+          "description": "Karides, havuç, kapya biber, dolma biber, mantar, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71254997.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Udonlar",
+      "products": [
+        {
+          "name": "Sebzeli Udon (Vegetable Udon)",
+          "price": 382.5,
+          "description": "Mor soğan, kapya biber, dolma biber, yeşil soğan, susam",
+          "img": null
+        },
+        {
+          "name": "Karidesli Udon (Shrimp Udon)",
+          "price": 561.0,
+          "description": "Karides, mor soğan, kapya biber, dolma biber, yeşil soğan, susam",
+          "img": null
+        },
+        {
+          "name": "Dana Etli Udon (Beef Udon)",
+          "price": 561.0,
+          "description": "Dana eti, mor soğan, kapya biber, dolma biber, yeşil soğan, susam",
+          "img": null
+        },
+        {
+          "name": "Tavuklu Udon (Chicken Udon)",
+          "price": 467.5,
+          "description": "Tavuk, mor soğan, kapya biber, dolma biber, yeşil soğan, susam",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Combo Menüler",
+      "products": [
+        {
+          "name": "Combo Menü 1",
+          "price": 836.0,
+          "description": "Tavuklu Noodle + 4 Parça California Sushi Roll + Wonton Kese",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 2",
+          "price": 476.0,
+          "description": "New Veggie Roll + Karışık Sebze + Sade Pilav",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 3",
+          "price": 476.0,
+          "description": "Moğol Usulü Tavuk + Sebzeli Noodle + California Sushi Roll",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 7",
+          "price": 501.5,
+          "description": "General Tavuk + 1/2 Sebzeli Pilav + Wonton",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 6",
+          "price": 663.0,
+          "description": "Yeşil Biberli Dana Eti + Sebzeli Noodle + 1/2 Çin Böreği",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 5",
+          "price": 518.5,
+          "description": "Tatlı Ekşi Soslu Tavuk + Sebzeli Noodle + 1/2 Çin Böreği",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 4",
+          "price": 561.0,
+          "description": "California Roll + Sebzeli Noodle + Sake Maki",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 8",
+          "price": 501.5,
+          "description": "Karışık sebzeli tavuk, sebzeli pilav, Çin böreği",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 10",
+          "price": 714.0,
+          "description": "California sushi roll 8 pcs, sake maki 6 pcs, 1/2 Çin böreği, 1/2 sebzeli noodle",
+          "img": null
+        },
+        {
+          "name": "Combo Menü 9",
+          "price": 663.0,
+          "description": "Acılı mantarlı dana eti, sebzeli noodle, California roll 4 pcs",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Etli Yemekler",
+      "products": [
+        {
+          "name": "Yeşil Biberli Dana Eti",
+          "price": 612.0,
+          "description": "Jülyen doğranmış dana eti, kuru soğan, yeşil biber, havuç",
+          "img": null
+        },
+        {
+          "name": "Karışık Sebzeli Dana Eti",
+          "price": 612.0,
+          "description": "Kabak, mantar, baby mısır, dolma biber, kapya biber, havuç, brokoli",
+          "img": null
+        },
+        {
+          "name": "Acılı Mantarlı Dana Eti",
+          "price": 612.0,
+          "description": "Mantar, kabak, fıstık, havuç",
+          "img": null
+        },
+        {
+          "name": "Patlıcanlı Dana Eti",
+          "price": 663.0,
+          "description": "Dana eti, patlıcan, taze soğan, susam, özel sos",
+          "img": null
+        },
+        {
+          "name": "Kung Pao Dana Eti",
+          "price": 612.0,
+          "description": "Mantar, soğan sapı, taze soğan, havuç, kajun, özel sos",
+          "img": null
+        },
+        {
+          "name": "Fesleğenli Dana Eti",
+          "price": 612.0,
+          "description": "Fesleğen, kapya biber, dolma biber",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tavuklu Yemekler",
+      "products": [
+        {
+          "name": "Tatlı Ekşi Soslu Tavuk",
+          "price": 357.0,
+          "description": "Yeşil biber, kapya biber, kuru soğan, havuç, ananas, tatlı ekşi sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Mantarlı Tavuk",
+          "price": 433.5,
+          "description": "Mantar, kapya biber, dolma biber, baby mısır, köri sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Teriyaki Soslu Tavuk",
+          "price": 433.5,
+          "description": "Tavuk, mor soğan, pirinç pilavı, susam",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bademli Tavuk",
+          "price": 433.5,
+          "description": "Tavuk, mantar, baby mısır, badem",
+          "img": null
+        },
+        {
+          "name": "Acılı Mantarlı Tavuk",
+          "price": 425.0,
+          "description": "Mantar, sivri biber, fıstık, soğan",
+          "img": null
+        },
+        {
+          "name": "Karışık Sebzeli Tavuk",
+          "price": 382.5,
+          "description": "Mantar, kapya biber, dolma biber, soğan, baby mısır, özel sos",
+          "img": null
+        },
+        {
+          "name": "Chicken Katsu",
+          "price": 416.5,
+          "description": "Pirinç pilavı, özel sos ile",
+          "img": null
+        },
+        {
+          "name": "General Tavuk",
+          "price": 365.5,
+          "description": "1 kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kore Yemekleri",
+      "products": [
+        {
+          "name": "Teabakkı",
+          "price": 348.5,
+          "description": "Pirinç kekiği, havuç, lahana, taze soğan, Kore özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Corele Çıtır Kanat",
+          "price": 408.0,
+          "description": "1 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bibimbap",
+          "price": 476.0,
+          "description": "Yasemin pirinç, dana eti, kapya biber, dolma biber, mantar, çimça, yumurta",
+          "img": null
+        },
+        {
+          "name": "Corn Dog",
+          "price": 348.5,
+          "description": "Şişe takılı dana sosis, kaşar peyniri, üzerine özel harç",
+          "img": null
+        },
+        {
+          "name": "Karidesli Rabokki",
+          "price": 425.0,
+          "description": "El yapımı erişte, karides, yumurta, pirinç kekiği",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Ramens",
+      "products": [
+        {
+          "name": "Tavuklu Ramen",
+          "price": 382.5,
+          "description": "Tavuk, el yapımı makarna, baby mısır, kapya biber, mısır, dolmalık biber, havuç, ıspanak, yumurta, susam, limon, mor soğan, taze soğan",
+          "img": null
+        },
+        {
+          "name": "Dana Etli Ramen",
+          "price": 476.0,
+          "description": "Dana eti, el yapımı makarna, baby mısır, kapya biber, mısır, dolmalık biber, havuç, ıspanak, yumurta, susam, limon, mor soğan, taze soğan",
+          "img": null
+        },
+        {
+          "name": "Deniz Mahsullü Ramen",
+          "price": 484.5,
+          "description": "Deniz mahsullü, el yapımı makarna, baby mısır, kapya biber, mısır, dolmalık biber, havuç, ıspanak, yumurta, susam, limon, mor soğan, taze soğan",
+          "img": null
+        },
+        {
+          "name": "Sebzeli Ramen",
+          "price": 331.5,
+          "description": "El yapımı makarna, baby mısır, kapya biber, mısır, dolmalık biber, havuç, ıspanak, yumurta, susam, limon, mor soğan, taze soğan",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Noodle",
+      "products": [
+        {
+          "name": "Sebzeli Noodle",
+          "price": 272.0,
+          "description": "Lahana, havuç, soğan, taze soğan, marul",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Noodle",
+          "price": 306.0,
+          "description": "Tavuk, lahana, marul, soğan, havuç, kapya biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dana Etli Noodle",
+          "price": 382.5,
+          "description": "Dana eti, lahana, marul, soğan, havuç, kapya biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karidesli Noodle",
+          "price": 382.5,
+          "description": "Karides, lahana, marul, soğan, havuç, kapya biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255390.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Karidesli Noodle",
+          "price": 382.5,
+          "description": "Mor soğan, lahana, havuç, marul, brokoli, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255392.jpg?width=150&height=150"
+        },
+        {
+          "name": "Deniz Mahsullü Noodle",
+          "price": 459.0,
+          "description": "Yengeç, karides, kalamar, midye, lahana, marul, soğan, havuç, kapya biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255394.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Noodle",
+          "price": 314.5,
+          "description": "Mor soğan, lahana, havuç, marul, brokoli, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255395.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Dana Etli Noodle",
+          "price": 382.5,
+          "description": "Mor soğan, lahana, havuç, marul, brokoli, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255397.jpg?width=150&height=150"
+        },
+        {
+          "name": "Singapur Etli Noodle",
+          "price": 382.5,
+          "description": "Kapya biber, dolma biber, havuç, yumurta, taze soğan, mor soğan, baharat, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255398.jpg?width=150&height=150"
+        },
+        {
+          "name": "Singapur Tavuklu Noodle",
+          "price": 323.0,
+          "description": "Kapya biber, dolma biber, havuç, yumurta, taze soğan, mor soğan, baharat, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255399.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soba Etli Noodle",
+          "price": 357.0,
+          "description": "Kapya biber, dolma biber, mor soğan, ıspanak, erişte",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255402.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soba Tavuklu Noodle",
+          "price": 280.5,
+          "description": "Kapya biber, dolma biber, mor soğan, ıspanak, erişte",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255403.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pad Thai Karidesli Noodle",
+          "price": 408.0,
+          "description": "Karides, yumurta, mor soğan, lahana, taze soğan, özel fıstık sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255404.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pad Thai Tavuklu Noodle",
+          "price": 357.0,
+          "description": "Karides, yumurta, mor soğan, lahana, taze soğan, özel fıstık sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255405.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Rolls",
+      "products": [
+        {
+          "name": "Tiger Roll",
+          "price": 382.5,
+          "description": "Karides tempura, yengeç tempura, krem peynir, tobiko, avokado, salatalık üzerine: tütsülenmiş Norveç somon, kapya biber, Frenk soğan, trüflü mayonez, teriyaki sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Seabass Tempura Roll",
+          "price": 306.0,
+          "description": "Tempura levrek, krem peynir, salatalık üzerine: avokado, çıtır pırasa, trüflü mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mitaka Roll",
+          "price": 382.5,
+          "description": "Tempura somon, avokado, salatalık, krem peynir üzerine; yengeç salatası, çıtır pırasa, trüflü mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chiba Roll",
+          "price": 382.5,
+          "description": "Tempura karides, avokado, krem peynir, salatalık üzerine; tütsülenmiş levrek, spicy sos, kapya biber, lime limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256098.jpg?width=150&height=150"
+        },
+        {
+          "name": "Neo Tokyo Roll",
+          "price": 382.5,
+          "description": "Krem peynir, salatalık, avokado, yengeç, üzerine; tütsülenmiş Norveç somon, Frenk soğan, teriyaki sos, spicy sos, susam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256100.jpg?width=150&height=150"
+        },
+        {
+          "name": "California Roll",
+          "price": 306.0,
+          "description": "Mayonez, salatalık, avokado, yengeç, susam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256101.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kyoto California Roll",
+          "price": 331.5,
+          "description": "Mayonez, salatalık, avokado, yengeç, karides üzerine; tobiko uçan balık yumurtası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256102.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Rock'n Roll",
+          "price": 340.0,
+          "description": "Krem peynir, salatalık, avokado, yengeç üzerine; corn flakes, teriyaki soslu Norveç somon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256103.jpg?width=150&height=150"
+        },
+        {
+          "name": "Boston Roll",
+          "price": 340.0,
+          "description": "Krem peynir, somon, avokado, salatalık üzerine; susam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256104.jpg?width=150&height=150"
+        },
+        {
+          "name": "Philadelphia Roll",
+          "price": 340.0,
+          "description": "Krem peynir, salatalık, yengeç, avokado, Norveç somon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256105.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuji Roll",
+          "price": 340.0,
+          "description": "Krem peynir, tempura karides, tempura yengeç, salatalık, avokado üzerine; corn flakes, teriyaki sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256106.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kani Ten Roll",
+          "price": 340.0,
+          "description": "Krem peynir, tempura yengeç, salatalık, avokado üzerine; panko, spicy sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256107.jpg?width=150&height=150"
+        },
+        {
+          "name": "Crazy Chef Roll",
+          "price": 340.0,
+          "description": "Krem peynir, somon, salatalık, avokado üzerine; tütsülenmiş Norveç somon, spicy sos, Frenk soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256109.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salmon Tempura Roll",
+          "price": 340.0,
+          "description": "Krem peynir, Tempura Somon, avokado, salatalık, dışı; corn flakes, sweet chili sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978877.jpg?width=150&height=150"
+        },
+        {
+          "name": "New Crunchy Roll",
+          "price": 340.0,
+          "description": "Yengeç-Somon mix, avokado, teriyaki sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Veggie Roll",
+          "price": 340.0,
+          "description": "Salatalık, avokado, havuç, dışı: avokado",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Türüflü Ebi Ten Roll",
+          "price": 340.0,
+          "description": "Tempura karides, avokado, salatalık, krem peynir, dışı: panko, trüf mayonez, patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978885.jpg?width=150&height=150"
+        },
+        {
+          "name": "Osaka Roll",
+          "price": 340.0,
+          "description": "Tempura karides, krem peynir, salatalık, avokado, dışı: panko, yengeç salatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978886.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spicy Chicken Roll",
+          "price": 340.0,
+          "description": "Krem peynir, Moğol tavuk, salatalık, avokado, üzeri: susam, spicy sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978887.jpg?width=150&height=150"
+        },
+        {
+          "name": "İka Tempura Roll",
+          "price": 340.0,
+          "description": "Tempura kalamar, avokado, salatalık, krem peynir, üzeri: panko, türüf mayonez, yeşil soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Salmon Cheese Roll",
+          "price": 340.0,
+          "description": "Somon tempura, salatalık, avokado, dışı; schimi baharatı, trüf mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978889.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spicy Sake Roll",
+          "price": 340.0,
+          "description": "Somon, krem peynir, avokado, salatalık, dışı: panko, spicy sos, schimi baharatı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978903.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salmon Teriaki Roll",
+          "price": 340.0,
+          "description": "Tempura somon, avokado, krem peynir, salatalık, üzeri; susam, teriyaki sos, trüf mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978904.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Makiler",
+      "products": [
+        {
+          "name": "Chef Maki",
+          "price": 340.0,
+          "description": "Yengeç salatası, avokado üzerine; somon tartar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sake Maki",
+          "price": 263.5,
+          "description": "Norveç somon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256357.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kappa Maki",
+          "price": 221.0,
+          "description": "Salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256358.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kyoto California Maki",
+          "price": 221.0,
+          "description": "Tobiko, avokado, yengeç, karides",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256359.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kani Maki",
+          "price": 306.0,
+          "description": "Yengeç",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256361.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ebi Tempura Maki",
+          "price": 263.5,
+          "description": "Tempura karides",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256362.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tempura Sake Maki",
+          "price": 263.5,
+          "description": "Tempura somon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256363.jpg?width=150&height=150"
+        },
+        {
+          "name": "İka Tempura Maki",
+          "price": 331.5,
+          "description": "Tempura kalamar, yeşil soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978893.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sake Avokado Maki",
+          "price": 306.0,
+          "description": "Somon, avokado",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71978894.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Nigiris",
+      "products": [
+        {
+          "name": "Sake Nigiri",
+          "price": 229.5,
+          "description": "Norveç somon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kani Nigiri",
+          "price": 229.5,
+          "description": "Yengeç",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256684.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avokado Nigiri",
+          "price": 204.0,
+          "description": "2 pcs.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sushi Setleri",
+      "products": [
+        {
+          "name": "Sushi Set 1",
+          "price": 841.5,
+          "description": "24 pcs; new crunchy roll, trüflü ebi ten roll, salmon tempura",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sushi Set 2",
+          "price": 901.0,
+          "description": "28 pcs; sake maki, kani maki, California roll, crunchy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sushi Set 3",
+          "price": 782.0,
+          "description": "20 pcs; sake nigiri (2 parça), kani nigiri (2 parça), Boston roll, Philadelphia roll",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Set 60",
+          "price": 1.853,
+          "description": "California roll, fuji roll, salmon tempura roll, corn tempura roll, sake maki, kappa maki, ebi tempura maki, kani maki, sake nigiri, kani nigiri",
+          "img": null
+        },
+        {
+          "name": "Set 84",
+          "price": 2.635,
+          "description": "California roll, new crunchy roll, Philadelphia roll, Boston roll, trüflü ebi ten roll, Kyoto California roll, süper rock'n roll, sake tempura maki, kani tempura maki, ebi tempura maki, suzuki nigiri, sake nigiri, kani nigiri",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Bademli Pilav",
+          "price": 306.0,
+          "description": "Badem, bezelye, mısır, havuç, Yasemin pirinç, yeşil soğan, yumurta",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dana Etli Pilav",
+          "price": 459.0,
+          "description": "Dana eti, bezelye, mısır, havuç, Yasemin pirinç, yeşil soğan, yumurta",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Deniz Mahsullü Pilav",
+          "price": 459.0,
+          "description": "Deniz mahsullü, bezelye, mısır, havuç, Yasemin pirinç, yeşil soğan, yumurta",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bangkok Usulü Pilav",
+          "price": 399.5,
+          "description": "Ananas, kapya biber, havuç, mısır, Yasemin pirinç, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yakımeshi Tavuklu Pilav",
+          "price": 365.5,
+          "description": "Yasemin pirinç, kapya biber, mantar, dolma biber, havuç, soya sos, yumurta, taze soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yakımeshi Etli Pilav",
+          "price": 391.0,
+          "description": "Yasemin pirinç, kapya biber, mantar, dolma biber, havuç, soya sos, yumurta, taze soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yakımeshi Karidesli Pilav",
+          "price": 382.5,
+          "description": "Yasemin pirinç, kapya biber, mantar, dolma biber, havuç, soya sos, yumurta, taze soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chicken Rice",
+          "price": 280.5,
+          "description": "Tavuk, bezelye, mısır, havuç, Yasemin pirinç, yeşil soğan, yumurta",
+          "img": null
+        },
+        {
+          "name": "Shrimp Rice",
+          "price": 357.0,
+          "description": "Karides, bezelye, mısır, havuç, Yasemin pirinç, yeşil soğan, yumurta",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Aperatifler",
+      "products": [
+        {
+          "name": "Buharda Mantı",
+          "price": 382.5,
+          "description": "1 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çin Böreği",
+          "price": 340.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72370915.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Edamame",
+          "price": 340.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72370925.jpg?width=150&height=150"
+        },
+        {
+          "name": "Susamlı Çıtır Tavuk",
+          "price": 340.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72370927.jpg?width=150&height=150"
+        },
+        {
+          "name": "Edamame",
+          "price": 280.5,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72370932.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tempra Karides",
+          "price": 663.0,
+          "description": "1 kişilik",
+          "img": null
+        },
+        {
+          "name": "Çılgın Karides",
+          "price": 680.0,
+          "description": "1 kişilik",
+          "img": null
+        },
+        {
+          "name": "Karides Cipsi",
+          "price": 238.0,
+          "description": "1 kişilik",
+          "img": null
+        },
+        {
+          "name": "Rock And Roll Karides",
+          "price": 663.0,
+          "description": "1 kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Acılı Lahana Salatası",
+          "price": 280.5,
+          "description": "Acı sos, sarımsak, zencefil, limon suyu, istiridye sos, nişasta, havuç",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Deniz Mahsullü Salata",
+          "price": 442.0,
+          "description": "Yengeç, karides, somon, kalamar, Akdeniz yeşilliği, mısır, havuç, avokado, cherry domates, özel salata sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Salata",
+          "price": 314.5,
+          "description": "Izgara tavuk, Akdeniz yeşilliği, mısır, avokado, cherry domates, salata sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255136.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çin Salatası",
+          "price": 212.5,
+          "description": "Salatalık, havuç, susam, özel tatlı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255140.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kore Havuç Salatası",
+          "price": 280.5,
+          "description": "Havuç, pancar, kuru soğan, sarımsak, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255141.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kani Salatası",
+          "price": 382.5,
+          "description": "Salatalık, yengeç, yosun, susam, sarımsak, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71255143.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Sıcak Sebze",
+          "price": 331.5,
+          "description": "Mantar, dolma biber, kapya biber, havuç, baby mısır, sarımsak, zencefil, istiridye sos",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Balda Kızarmış Ananas",
+          "price": 280.5,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Balda Kızarmış Muz",
+          "price": 255.0,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256865.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 29.75,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256866.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71256867.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

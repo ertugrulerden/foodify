@@ -1,0 +1,355 @@
+{
+  "link_hash": "7d5286fc",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Wrap World",
+  "link": "https://www.yemeksepeti.com/restaurant/f22k/wrap-world-f22k",
+  "categories": [
+    {
+      "name": "Fırsat Menüler",
+      "products": [
+        {
+          "name": "Mangal Wrap Menü",
+          "price": 580.0,
+          "description": "Mangal Wrap Menü + Kaşık Patates Kızartması + 2 Adet Sos + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76308835.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tiftik Menü",
+          "price": 720.0,
+          "description": "Tiftik Wrap + Kaşık Patates Kızartması + 2 Adet WW Sos + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76310689.jpg?width=128&height=128"
+        },
+        {
+          "name": "2'li Burger Menü",
+          "price": 1.3,
+          "description": "Seçeceğiniz 2 Adet WW Burger + 2 Kaşık Patates Kızartması + 4 Adet WW Sos +2 adet Çıtır Tavuk Parçaları + 2 Adet İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76310690.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Wrap Menü",
+          "price": 480.0,
+          "description": "Çıtır Tavuk Wrap + Kaşık Patates Kızartması + 2 Adet Sos + İçecek",
+          "img": null
+        },
+        {
+          "name": "Tavuk Wrap Menü",
+          "price": 420.0,
+          "description": "Tavuk Wrap + Kaşık Patates Kızartması + 2 Wrap Sos + İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "products": [
+        {
+          "name": "Körili Tavuk Wrap",
+          "price": 330.0,
+          "description": "Körili krema ile marine edilmiş tavuk, eritilmiş kaşar peyniri, kibrit patates. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Kekikli Wrap",
+          "price": 330.0,
+          "description": "Krema sosunda pişirilmiş tavuk, dağ kekiği rendelenmiş peynir, kırmızıbiber, yeşil biberler, mantar. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfteli Wrap",
+          "price": 440.0,
+          "description": "Izgara köfte, köz biber, domates, cheddar peyniri sos. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kumru Wrap",
+          "price": 520.0,
+          "description": "Sosis, sucuk, salam, eritilmiş peynir, turşu, kaşık patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Wrap",
+          "price": 380.0,
+          "description": "Ton balığı, zeytin, mısır, kırmızı biber, yeşil biber, kremalı mayonez, ranch sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuklu Wrap",
+          "price": 480.0,
+          "description": "Özel sos ile panelenmiş tavuk, marul, domates, ranch sos. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mangal Wrap",
+          "price": 510.0,
+          "description": "Tavuk fileto, dana sucuk, ızgara köfte, köz sarımsak, sos. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ege Wrap",
+          "price": 440.0,
+          "description": "Sucuk, dana bacon, Ezine peyniri, kuru domates, roka, zeytinyağlı sos. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kayseri Wrap",
+          "price": 440.0,
+          "description": "Özel baharatla harmanlanmış dana kıyma, sarımsaklı yoğurt, salça sos, mayonez. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tiftik Gurme Wrap",
+          "price": 1.2,
+          "description": "Gurme sosla harmanlanmış tiftik dana eti, patlıcan beğendi, köz sarımsak, kuru domates, eritilmiş gravyer peyniri. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75684832.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Wrap",
+          "price": 390.0,
+          "description": "Panelenmiş çıtır tavuk, sezar sos. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76704796.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Parmesan Deluxe Burger",
+          "price": 450.0,
+          "description": "Ev yapımı burger köftesi, parmesan peyniri, roka, karamelize soğan, sarımsaklı parmesan, sos kibrit patates. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Truffle Mushroom Burger",
+          "price": 450.0,
+          "description": "Ev yapımı burger köftesi, mantar, trüf aromalı aioli sos, kibrit patates. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Beef Burger",
+          "price": 450.0,
+          "description": "Ev yapımı burger köftesi, karamelize soğan, cheddar peyniri, barbekü sos, tereyağı, domates, marul. kibrit patates. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BBQ Chicken Burger",
+          "price": 440.0,
+          "description": "Izgara tavuk burger, cheddar peyniri, domates, kıvırcık marul, karamelize soğan, barbekü sos, kibrit patates. Kaşık patates kızartması, 2 adet sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Crispy Chicken Burger",
+          "price": 440.0,
+          "description": "Panelenmiş çıtır tavuk, marul, domates, ranch sos, ww sos , kibrit patates, kaşık patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tiftik Burger+Kaşık Patates+2 WW Sos",
+          "price": 730.0,
+          "description": "Tiftiklenmiş dana incik, karamelize soğan , sos, eritilmiş kaşar peyniri, kibrit patates, kaşık patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cherry Burger",
+          "price": 580.0,
+          "description": "Ev yapımı burger köftesi, dana füme, double cheddar peyniri, tulum peyniri, ev yapımı vişne reçeli, kibrit patates, kaşık patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Çıtır Tavuk (2 Adet) (100 gr.)",
+          "price": 120.0,
+          "description": "2 adet olarak servis edilir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lokmalık Tavuk But Topları (4 Adet)",
+          "price": 130.0,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuk Kanat (3 Adet)",
+          "price": 130.0,
+          "description": "3 adet olarak servis edilir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mangal Kanat (3 Adet)",
+          "price": 130.0,
+          "description": "3 adet olarak servis edilir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (3 Adet)",
+          "price": 80.0,
+          "description": "3 adet olarak servis edilir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mac & Cheese Topları (2 Adet)",
+          "price": 110.0,
+          "description": "2 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşık Patates Kızartması",
+          "price": 80.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75682119.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Şiş (1 Adet)",
+          "price": 90.0,
+          "description": "1 adet olarak servis edilir. Cheddar peyniri, Ezine peyniri, cherry domates",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Mango (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Özerhisar Ayran (17 cl.)",
+          "price": 75.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75683346.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap",
+          "price": 30.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mayonez",
+          "price": 25.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ev Yapımı Sarımsak Sos",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ev Yapımı Aioli Sos",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ev Yapımı Ranch Sos",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75684869.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75684879.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chimichurri Sos",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hardal Sos",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75684928.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüflü Mayonez",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75684938.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Hardal",
+          "price": 18.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75684944.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 25.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76310719.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Chili",
+          "price": 20.0,
+          "description": "Tatlı ekşi sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76468896.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ww Hommade Cheddar",
+          "price": 25.0,
+          "description": "Ev yapımı",
+          "img": null
+        },
+        {
+          "name": "Ww Ateşi",
+          "price": 25.0,
+          "description": "Ev yapımı acı sos",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

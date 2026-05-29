@@ -1,0 +1,551 @@
+{
+  "link_hash": "17ecbdb2",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Cızgara Kebap & Mangal",
+  "link": "https://www.yemeksepeti.com/restaurant/y3rs/cizgara-kebap-and-mangal",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Beyti Kebap (Adana Kebaptan)",
+          "price": 360.0,
+          "description": "Lavaşa sarılmış Adana kebap, yoğurt, özel sos, tereyağı. Günün pilavı, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71485133.jpg?width=128&height=128"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Kanat Izgara",
+          "price": 360.0,
+          "description": "110 gr. pilav üzerine; 200 gr. tavuk kanat. Yeşillik, soğan, turşu biber, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70757317.jpg?width=128&height=128"
+        },
+        {
+          "name": "Adana Kebap (200 gr.)",
+          "price": 480.0,
+          "description": "Günün pilavı, lavaş, yeşillik, soğan, 3 çeşit günün mezesi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74335920.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Izgara",
+          "price": 960.0,
+          "description": "Et dönerden beyti kebap, Adana kebap, köfte, tavuk kanat, tavuk şiş, tavuk külbastı. Günün pilavı, közlenmiş domates, yeşil biber, soğan, yeşillik, yoğurt, 2 adet tırnak pide, 3 tane günün mezesi ile hepsi yarım porsiyon toplamda 3 tam porsiyon yapıyor.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74390824.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Adana Kebap",
+          "price": 360.0,
+          "description": "110 gr. bulgur pilav üzerine; acılı Adana kebap. Yeşillik, soğan, turşu biber, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70757191.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Et Dönerden)",
+          "price": 440.0,
+          "description": "Tırnak pide üzerine; 100 gr. yaprak et döner sos tereyağı. Bulgur pilavı, yoğurt, domates, biber, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551655.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kebaplar & Izgaralar",
+      "products": [
+        {
+          "name": "Alinazik Kebap",
+          "price": 360.0,
+          "description": "Közlenmiş patlıcanlı yoğurt üzerine; Adana kebap. Günün pilavı, tırnak pide, özel sos, tereyağı, közlenmiş biber, domates, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyti Kebap (Adana Kebaptan)",
+          "price": 360.0,
+          "description": "Lavaşa sarılmış Adana kebap, yoğurt, özel sos, tereyağı. Günün pilavı, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuzu Pirzola",
+          "price": 1.0,
+          "description": "2 kalem kuzu pirzola (250 gr.). Bulgur pilavı, sumaklı soğan, közlenmiş domates, közlenmiş biber, tırnak pide ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dana Biftek",
+          "price": 560.0,
+          "description": "dana biftek. Bulgur pilavı, sumaklı soğan, közlenmiş domates, biber, tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71553220.jpg?width=150&height=150"
+        },
+        {
+          "name": "Manisa Kebabı",
+          "price": 400.0,
+          "description": "160 gr. özel yağlanmış soslanmış pide üzerine; 125 gr. özel Manisa kebap. Yoğurt, özel sos, tereyağı, közlenmiş domates, biber, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71618536.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Şiş",
+          "price": 560.0,
+          "description": "150 gr. pirinç pilavı üzerine; kuzu şiş. Közlenmiş domates, biber, soğan, yeşillik, çiğ köfte, ezme, günün tatlısı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72493275.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Şiş",
+          "price": 560.0,
+          "description": "150 gr. pirinç pilavı üzerine; et şiş. Közlenmiş domates, biber, soğan, yeşillik, çiğ köfte, ezme, günün tatlısı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72493276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Kebap (200 gr.)",
+          "price": 480.0,
+          "description": "Günün pilavı, lavaş, yeşillik, soğan, 3 çeşit günün mezesi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74335920.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Izgara",
+          "price": 960.0,
+          "description": "Et dönerden beyti kebap, Adana kebap, köfte, tavuk kanat, tavuk şiş, tavuk külbastı. Günün pilavı, közlenmiş domates, yeşil biber, soğan, yeşillik, yoğurt, 2 adet tırnak pide, 3 tane günün mezesi ile hepsi yarım porsiyon toplamda 3 tam porsiyon yapıyor.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74390824.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilav Üstü Lezzetler",
+      "products": [
+        {
+          "name": "Pilav Üstü Adana Kebap",
+          "price": 360.0,
+          "description": "110 gr. bulgur pilav üzerine; acılı Adana kebap. Yeşillik, soğan, turşu biber, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70757191.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Şiş",
+          "price": 280.0,
+          "description": "110 gr. pilav üzerine; 6 parça 150 gr. tavuk şiş. Yeşillik, soğan, turşu biber, 3 çeşit meze ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Kanat Izgara",
+          "price": 360.0,
+          "description": "110 gr. pilav üzerine; 200 gr. tavuk kanat. Yeşillik, soğan, turşu biber, 3 çeşit meze ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Izgara Köfte",
+          "price": 360.0,
+          "description": "140 gr. özel susamlı ekmek arasına; köfte , baharat, soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Urfa Kebap",
+          "price": 360.0,
+          "description": "125 gr. bulgur pilavı, Urfa kebap. Soğan, yeşillik, turşu, çiğ köfte, 3 çeşit günün mezesi ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Arnavut Ciğeri",
+          "price": 360.0,
+          "description": "150 gr. bulgur pilavı üzerine; 125 gr. ciğer. Soğan, turşu, yeşillik, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70824241.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Döner",
+          "price": 280.0,
+          "description": "150 gr. pilav, 125 gr. tavuk döner. Soğan, yeşillik, 140 gr. lavaş, 3 çeşit meze ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Izgara Tavuk",
+          "price": 320.0,
+          "description": "Soğan, yeşillik, 140 gr. lavaş, çiğ köfte, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70902166.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Tavuk Dönerden)",
+          "price": 320.0,
+          "description": "Tırnak pide, pirinç pilavı, tavuk döner, özel sos, terayağı, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71482907.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti Kebap (Tavuk Dönerden)",
+          "price": 320.0,
+          "description": "Lavaşa sarılmış tavuk döner, yoğurt, özel sos, tereyağı. Günün pilavı, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71485124.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Kuzu Böbrek",
+          "price": 360.0,
+          "description": "Pirinç pilavı, kuzu böbrek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73442570.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pilav",
+          "price": 240.0,
+          "description": "Pirinç, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76093894.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Aile Boyu Doyurucu Menüleri",
+      "products": [
+        {
+          "name": "Izgara Köfte (1 kg.)",
+          "price": 1.12,
+          "description": "Pilav, 2 adet lavaş, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Adana Kebap (1 kg.)",
+          "price": 1.12,
+          "description": "Pilav, lavaş, yeşillik, soğan, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Urfa Kebap (1 kg.)",
+          "price": 1.2,
+          "description": "pilav, lavaş, soğan, yeşillik, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70897223.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş (1 kg.)",
+          "price": 920.0,
+          "description": "Soğan, yeşillik, lavaş, çiğ köfte, acılı ezme, irmik helvası, pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70901794.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk (1 kg.)",
+          "price": 920.0,
+          "description": "Soğan, yeşillik, lavaş, çiğ köfte, acılı ezme, irmik helvası, pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70902259.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner (1 kg.)",
+          "price": 720.0,
+          "description": "2 adet pide, soğan, yeşillik, lavaş, çiğ köfte, acılı ezme, irmik helvası ile pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72097872.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Biftek (500 gr.)",
+          "price": 1.2,
+          "description": "Bulgur pilavı, lavaş, yeşillik, soğan, meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76930569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Çöp Şiş (500 gr.)",
+          "price": 1.2,
+          "description": "Et çöp şiş, bulgur pilavı, lavaş, yeşillik, soğan, mezeler ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76930610.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pirzola (500 gr.)",
+          "price": 1.6,
+          "description": "Pirzola, bulgur pilavı, lavaş, yeşillik, soğan, mezeler ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76930617.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (500 gr.)",
+          "price": 1.2,
+          "description": "Et döner, bulgur pilavı, lavaş, yeşillik, soğan, mezeler ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76930706.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Et Dönerler",
+      "products": [
+        {
+          "name": "İskender (Et Dönerden) (1,5) Menü",
+          "price": 480.0,
+          "description": "Günün Çorbası + İskender (Et Dönerden) (1,5) (Tırnak pide üzerine; 150 gr. yaprak et döner, sos, tereyağı) + Bulgur Pilavı + 3 Adet Günün Mezesi + Yoğurt + Domates + Biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İskender (Et Dönerden)",
+          "price": 440.0,
+          "description": "Tırnak pide üzerine; 100 gr. yaprak et döner sos tereyağı. Bulgur pilavı, yoğurt, domates, biber, 3 çeşit meze ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551655.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner",
+          "price": 420.0,
+          "description": "pilav, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Et Döner (100 gr.)",
+          "price": 360.0,
+          "description": "140 gr. özel susamlı ekmek arasına; 100 gr. yaprak et döner, soğan, domates, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71553227.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti Kebap (Et Dönerden) (130 gr.)",
+          "price": 440.0,
+          "description": "140 gr. lavaş arasına; et döner, sos, tereyağı, kaşar peyniri. Günün pilavı, yoğurt, domates, biber, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Et Döner (130 gr.)",
+          "price": 420.0,
+          "description": "140 gr. pirinç pilavı, et döner. Sumaklı soğan, közlenmiş domates, közlenmiş biber, tırnak pide, çiğ köfte, acılı ezme, irmik helvası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71553334.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tam Ekmek Arası Et Döner (120 gr.)",
+          "price": 400.0,
+          "description": "250 gr. bakkal ekmeği arasına; 120 gr. yaprak et döner, soğan, domates, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71553444.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (500 gr.)",
+          "price": 1.2,
+          "description": "2 adet pide, soğan, yeşillik, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72097865.jpg?width=150&height=150"
+        },
+        {
+          "name": "SSK Et Döner Dürüm",
+          "price": 480.0,
+          "description": "140 gr. lavaş arasına; 120 gr. et döner, özel sos, kaşar peyniri. Közlenmiş domates, biber, çiğ köfte, ezme, tatlı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72414979.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Dürüm",
+          "price": 360.0,
+          "description": "Et döner, közlenmiş biber, sumaklı soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74335307.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazuka Et Döner Dürüm",
+          "price": 480.0,
+          "description": "2 adet lavaş arasına; 150 gr et döner, közlenmiş biber, sumaklı soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74335668.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double İskender (Et Dönerden)",
+          "price": 560.0,
+          "description": "Tırnak pide üzerine; 200 gr. yaprak et döner, sos tereyağı. Bulgur pilavı, yoğurt, domates, biber, 3 çeşit meze, çorba ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76019300.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Acılı Adana Dürüm",
+          "price": 320.0,
+          "description": "140 gr. lavaş arasına; 100 gr. acılı Adana kebap, yeşillik, soğan. 3 çeşit meze ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Şiş Dürüm",
+          "price": 280.0,
+          "description": "140 gr. lavaş arasına; 6 parça 150 gr. tavuk şiş, yeşillik. 3 çeşit meze ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Urfa Kebap Dürüm",
+          "price": 280.0,
+          "description": "140 gr. lavaş arasına; 110 gr. Adana kebap, soğan, yeşillik. 3 çeşit meze ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Arnavutciğeri Dürüm",
+          "price": 320.0,
+          "description": "140 gr. özel lavaş arasına; 80 gr. ciğer, baharat, soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kavurmalar",
+      "products": [
+        {
+          "name": "Pide Arası Kavurma",
+          "price": 440.0,
+          "description": "(140 gr.) pi̇de arasına (100 gr.) dana kavurma, soğan, közlenmi̇ş bi̇ber, meze i̇le",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Kavurma",
+          "price": 440.0,
+          "description": "(140 gr.) pi̇de arasına (100 gr.) dana kavurma, soğan, közlenmi̇ş bi̇ber, meze i̇le",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dana Saç Kavurma",
+          "price": 520.0,
+          "description": "Saç kavurma, tırnak pide, soğan, biber, domates, pilav, meze ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kokoreçler",
+      "products": [
+        {
+          "name": "Susamlı Ekmek Arası Kokoreç Menü",
+          "price": 520.0,
+          "description": "Susamlı Ekmek Arası Kokoreç + Ayran (17 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Bakkal Ekmek Arasına Tavuk Döner",
+          "price": 280.0,
+          "description": "250 gr. bakkal ekmeği arasına; tavuk döner, soğan, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hatay Usulü Tavuk Döner Dürüm",
+          "price": 240.0,
+          "description": "140 gr. özel lavaş arasına; 80 gr. tavuk döner, sos, turşu, patates kızartması, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Tavuk Döner",
+          "price": 160.0,
+          "description": "140 gr. özel susamlı döner ekmeği içerisine; 80 gr. tavuk döner, soğan, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hatay Usulü Mega Tavuk Döner Dürüm (50 cm.)",
+          "price": 280.0,
+          "description": "140 gr. özel lavaşa; 100 gr. tavuk döner, patates kızartması, eşsiz sos, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70840318.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hatay Usulü Bazuka Tavuk Döner Dürüm",
+          "price": 360.0,
+          "description": "Çift lavaş ekmeğine; 200 gr. tavuk döner, patates kızartması, yeşillik, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74332274.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 160.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Suyu Çorbası",
+          "price": 160.0,
+          "description": "Ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 80.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Dondurmalı İrmik Helvası",
+          "price": 224.0,
+          "description": "Çikolata sos, karamel sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Dondurmalar",
+      "products": [
+        {
+          "name": "Magnum Mini Dondurma",
+          "price": 160.0,
+          "description": "Paket dondurma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (20 cl.)",
+          "price": 80.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 40.0,
+          "description": "Küçük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 100.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 100.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 72.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Gazoz (30 cl.)",
+          "price": 80.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70754808.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 160.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72705219.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Portakallı Gazoz (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72977478.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72977482.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekşi Maya Ayran (24,5 cl.)",
+          "price": 72.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76269335.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Izgaralar (Pişirilmiş)",
+      "products": [
+        {
+          "name": "Tavuk Kanat (1 kg.) (Pişirilmiş)",
+          "price": 1.2,
+          "description": "2 adet lavaş, soğan, yeşillik, turşu, günün pilavı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

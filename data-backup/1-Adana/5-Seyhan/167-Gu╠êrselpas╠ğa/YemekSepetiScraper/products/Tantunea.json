@@ -1,0 +1,100 @@
+{
+  "link_hash": "e8ac9753",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Tantunea",
+  "link": "https://www.yemeksepeti.com/restaurant/slun/tantunea",
+  "categories": [
+    {
+      "name": "Köfteler",
+      "products": [
+        {
+          "name": "Ekmek Arası Köfte",
+          "price": 350.0,
+          "description": "Sumaklı soğan salatası, domates, turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614307.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Köfte Ekmek",
+          "price": 200.0,
+          "description": "Köfte ekmek, sumaklı soğan salatası, taze domates, turşu ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Tantuniler",
+      "products": [
+        {
+          "name": "Tavuk Tantuni Dürüm",
+          "price": 220.0,
+          "description": "Domates, soğan, maydanoz. Limon, lahana turşusu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614299.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Tavuk Tantuni",
+          "price": 285.0,
+          "description": "Domates, soğan, maydanoz. Limon, lahana turşusu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Somun Ekmek Arası Tavuk Tantuni",
+          "price": 220.0,
+          "description": "Domates, maydanoz. Limon, lahana turşusu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614316.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ciğer Tantuniler",
+      "products": [
+        {
+          "name": "Adana Usülü Ciğer Tantuni",
+          "price": 195.0,
+          "description": "Kuzu ciğeri, kuyruk yağı, mevsim sebzeleri, mevsim yeşillikleri",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 60.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78864401.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614318.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614309.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614312.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614314.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76614313.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

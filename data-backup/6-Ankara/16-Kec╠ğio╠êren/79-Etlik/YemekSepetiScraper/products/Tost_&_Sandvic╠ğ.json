@@ -1,0 +1,71 @@
+{
+  "link_hash": "92b97356",
+  "scraped_at": "260528_0117",
+  "restaurant_name": "Tost & Sandviç",
+  "link": "https://www.yemeksepeti.com/restaurant/ni0u/tost-and-sandvic-ni0u",
+  "categories": [
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Kaşarlı Bazlama Tost",
+          "price": 210.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79324562.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Bazlama Tost",
+          "price": 250.0,
+          "description": "Dana sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79324579.jpg?width=128&height=128"
+        },
+        {
+          "name": "Patso Tost",
+          "price": 240.0,
+          "description": "Patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79324598.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Salamlı Kaşarlı Sandviç",
+          "price": 260.0,
+          "description": "Salam, kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79324641.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tulum Peynirli Sandviç",
+          "price": 310.0,
+          "description": "Tulum peyniri, yeşillik, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79324657.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Sandviç",
+          "price": 350.0,
+          "description": "Dana jambon, cheddar peyniri, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Sandviç",
+          "price": 330.0,
+          "description": "Mozzarella peyniri, yeşillik, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

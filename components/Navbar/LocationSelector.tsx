@@ -17,7 +17,7 @@ const LocationSelector = () => {
       {/* Tıklanınca adres modalı açılır */}
       <button
         onClick={() => setModalOpen(true)}
-        className="flex items-center gap-1.5 text-sm hover:bg-accent rounded-md px-2 py-1.5 transition-colors cursor-pointer"
+        className="flex items-center gap-2 text-sm bg-slate-100/80 hover:bg-slate-200 transition-all rounded-full px-4 py-2 border border-slate-200/50 shadow-sm cursor-pointer whitespace-nowrap"
       >
         <MapPin className="h-4 w-4 text-primary shrink-0" />
         {address ? (

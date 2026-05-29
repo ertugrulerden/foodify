@@ -1,0 +1,230 @@
+{
+  "link_hash": "e73efccd",
+  "scraped_at": "260528_1209",
+  "restaurant_name": "Bores Luxury",
+  "link": "https://www.yemeksepeti.com/restaurant/hwy3/bores-luxury",
+  "categories": [
+    {
+      "name": "Pizzalar (Orta Boy)",
+      "products": [
+        {
+          "name": "Karışık Pizza (Orta)",
+          "price": 445.0,
+          "description": "Mozzarella peyniri, salam, sosis, sucuk, mantar, biber, mısır, zeytin, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487734.jpg?width=128&height=128"
+        },
+        {
+          "name": "Bonfileli Pizza (Orta)",
+          "price": 765.0,
+          "description": "Mozzarella peyniri, dana bonfile, biber, mantar, mısır, salatalık turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487738.jpg?width=128&height=128"
+        },
+        {
+          "name": "Şefin Pizzası (Orta)",
+          "price": 715.0,
+          "description": "150 gr. dana bonfile, 150 gr, tavuk, biber, mısır, mozzarella peyniri, domates sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/76487742.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Pizza (Orta)",
+          "price": 430.0,
+          "description": "Mozzarella peyniri, ton balığı, soğan, mısır, zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487743.jpg?width=150&height=150"
+        },
+        {
+          "name": "4 Peynirli Pizza (Orta)",
+          "price": 395.0,
+          "description": "Mozzarella peyniri, Cheddar peynir, beyaz peynir, parmesan peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487744.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pizza (Orta)",
+          "price": 405.0,
+          "description": "Mozzarella peyniri, tavuk, biber, mısır, mantar, salatalık turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487745.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margherita Pizza (Orta)",
+          "price": 365.0,
+          "description": "Mozzarella peyniri, cherry domates, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487747.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Köri Soslu Penne",
+          "price": 320.0,
+          "description": "Tavuk, mantar, köri, krema, parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mac And Cheese",
+          "price": 375.0,
+          "description": "Cheddar sos, tavuk, krema, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487736.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Hamburgerler",
+      "products": [
+        {
+          "name": "Bores Special Burger",
+          "price": 695.0,
+          "description": "Akdeniz yeşillikleri, salatalık turşusu, 2 adet burger köftesi, karamelize soğan, domates, cheddar peyniri, cheddar sosu, özel sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487733.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 495.0,
+          "description": "Dana burger köftesi, Akdeniz yeşillikleri, salatalık turşusu, domates, karamelize soğan, cheddar peyniri, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Tavuk Burger",
+          "price": 315.0,
+          "description": "200 gr. ızgara tavuk, domates, marul, kornişon turşu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487748.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Bacon Burger",
+          "price": 645.0,
+          "description": "Dana burger köftesi, Akdeniz yeşillikleri, salatalık turşusu, karamelize soğan, bonfile et, domates, cheddar peyniri, özel sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487749.jpg?width=150&height=150"
+        },
+        {
+          "name": "Steak Burger",
+          "price": 595.0,
+          "description": "Izgara bonfile, Akdeniz yeşillikleri, salatalık turşusu, karamelize soğan, domates, cheddar peyniri, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/76487750.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Soslu Burger",
+          "price": 495.0,
+          "description": "Dana burger eti, Akdeniz yeşillikleri, salatalık turşusu, jalapeno biber, domates, cheddar peyniri, acı sos, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/76487751.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mushroom Burger",
+          "price": 495.0,
+          "description": "150 gr. dana kıyma, mantar, krema, domates, marul, kornişon turşu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487752.jpg?width=150&height=150"
+        },
+        {
+          "name": "Klasik Burger",
+          "price": 475.0,
+          "description": "Dana burger eti, Akdeniz yeşillikleri, salatalık turşusu, domates, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/76487753.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Burger",
+          "price": 350.0,
+          "description": "Tavuk fileto, Akdeniz yeşillikleri, salatalık turşusu, domates, cheddar sos, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bores Çıtır Kapalı Burger",
+          "price": 635.0,
+          "description": "Burger sosu, domates, marul, hamburger köftesi, karamelize soğan, mozarella peyniri, cheddar peyniri, sriracha sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77279237.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "products": [
+        {
+          "name": "Köri Soslu Wrap",
+          "price": 360.0,
+          "description": "Tavuk, mantar, mısır, köri, Akdeniz Yeşillikleri, peri peri sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487740.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meksika Wrap",
+          "price": 425.0,
+          "description": "Tavuk, yeşil biber, kırmızı biber, jalapeno biber, mantar, mısır, mozzarella peyniri, acı sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487741.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfile Etli Wrap",
+          "price": 695.0,
+          "description": "Dana bonfile, Akdeniz yeşillikleri, peri peri sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487761.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kumru Wrap",
+          "price": 340.0,
+          "description": "Salam, sosis sucuk mozzarella peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Wrap",
+          "price": 360.0,
+          "description": "Tavuk, peri peri sos, Akdeniz Yeşillikleri, Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487764.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Bores Combo",
+          "price": 360.0,
+          "description": "Soğan halkası, cheddar topları, mozzarella sticks, sosis, cheddar sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheddar Soslu Patates",
+          "price": 320.0,
+          "description": "Cheddar sos, patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487739.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elma Dilim Patates",
+          "price": 230.0,
+          "description": "Elma dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487755.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chıcken Fıngers (6 Adet)",
+          "price": 340.0,
+          "description": "Kızarmış tavuk. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487756.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (10 Adet)",
+          "price": 320.0,
+          "description": "Çıtır soğan halkası. Patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheddar Topları (8 Adet)",
+          "price": 340.0,
+          "description": "Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487759.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (8 Adet)",
+          "price": 360.0,
+          "description": "Mozzarella peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76487760.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

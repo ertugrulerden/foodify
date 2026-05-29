@@ -1,0 +1,474 @@
+{
+  "link_hash": "b2470cf0",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Çukurova Çikolata Evim",
+  "link": "https://www.yemeksepeti.com/restaurant/y04n/cukurova-cikolata-evim",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Açelya Waffle",
+          "price": 495.0,
+          "description": "120 gr. çikolata, Belçika usulü waffle, muz, çilek, sütlü Belçika çikolatası, bitter Belçika çikolatası, Antep fıstığı, fındık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925060.jpg?width=128&height=128"
+        },
+        {
+          "name": "Akşam Sefası",
+          "price": 405.0,
+          "description": "70 gr. çikolata, özel brownie kek, özel yapım krema, sütlü Belçika çikolatası, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925064.jpg?width=128&height=128"
+        },
+        {
+          "name": "Dubai Cup (Büyük)",
+          "price": 485.0,
+          "description": "Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69730487.jpg?width=150&height=150"
+        },
+        {
+          "name": "Saksı (Büyük Boy)",
+          "price": 495.0,
+          "description": "120 gr. çikolata, muz, çilek, Fransız bisküvi, beyaz Belçika çikolatası, sütlü Belçika çikolatası, spesiyal krema, kırık bisküvi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925056.jpg?width=150&height=150"
+        },
+        {
+          "name": "Grand Rocher",
+          "price": 430.0,
+          "description": "120 gr. çikolata, dilimlenmiş brownie kek, muz, çilek, sütlü Belçika çikolatası, beyaz Belçika çikolatası, bitter Belçika çikolatası, fındık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925058.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menekşe Waffle",
+          "price": 440.0,
+          "description": "120 gr. çikolata, dilimlenmiş Belçika usulü waffle, muz, çilek, sütlü Belçika çikolatası, bitter Belçika çikolatası, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925055.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Fıstıklı Profiterol",
+          "price": 385.0,
+          "description": "60 gr. Belçika çikolatası, fıstıklı krema, krep kırığı, çilek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/y04n/product/475e523a-9d0f-4618-ab0b-1d6e1c711a94.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol",
+          "price": 360.0,
+          "description": "60 gr. Belçika çikolatası, krema, krep kırığı, çilek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/y04n/product/e32c6e40-276a-4917-bc2e-16962612a35e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gelincik (Büyük Boy)",
+          "price": 520.0,
+          "description": "120 gr. çikolata, çilek, Fransız bisküvi, fındık, sütlü Belçika çikolatası, bitter Belçika çikolatası, krem şanti",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925054.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menekşe Waffle",
+          "price": 440.0,
+          "description": "120 gr. çikolata, dilimlenmiş Belçika usulü waffle, muz, çilek, sütlü Belçika çikolatası, bitter Belçika çikolatası, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925055.jpg?width=150&height=150"
+        },
+        {
+          "name": "Croccante",
+          "price": 495.0,
+          "description": "Baklava hamuru, Antep fıstıklı özel krema, Antep fıstığı, 50 gr. Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925057.jpg?width=150&height=150"
+        },
+        {
+          "name": "Saksı (Büyük Boy)",
+          "price": 495.0,
+          "description": "120 gr. çikolata, muz, çilek, Fransız bisküvi, beyaz Belçika çikolatası, sütlü Belçika çikolatası, spesiyal krema, kırık bisküvi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925056.jpg?width=150&height=150"
+        },
+        {
+          "name": "Grand Rocher",
+          "price": 430.0,
+          "description": "120 gr. çikolata, dilimlenmiş brownie kek, muz, çilek, sütlü Belçika çikolatası, beyaz Belçika çikolatası, bitter Belçika çikolatası, fındık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925058.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şakayık",
+          "price": 455.0,
+          "description": "120 gr. çikolata, ıslak brownie kek, özel krema, muz, sütlü Belçika çikolatası, bitter Belçika çikolatası, fındık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925059.jpg?width=150&height=150"
+        },
+        {
+          "name": "Açelya Waffle",
+          "price": 495.0,
+          "description": "120 gr. çikolata, Belçika usulü waffle, muz, çilek, sütlü Belçika çikolatası, bitter Belçika çikolatası, Antep fıstığı, fındık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925060.jpg?width=150&height=150"
+        },
+        {
+          "name": "Valodi Profiterol",
+          "price": 520.0,
+          "description": "70 gr. çikolata, profiterol hamuru, özel krema, çilek, muz, sütlü Belçika çikolatası, beyaz Belçika çikolatası, bitter Belçika çikolatası, Fransız bisküvi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925061.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mimoza Waffle",
+          "price": 495.0,
+          "description": "120 gr. çikolata, Belçika usulü waffle, muz, sütlü Belçika çikolatası, beyaz Belçika çikolatası, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925062.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bask Cheesecake (Çikolata Soslu)",
+          "price": 410.0,
+          "description": "70 gr. çikolata, özel pişirilmiş cheesecake, seçeceğiniz Belçika çikolatası, krep kırığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925063.jpg?width=150&height=150"
+        },
+        {
+          "name": "Akşam Sefası",
+          "price": 405.0,
+          "description": "70 gr. çikolata, özel brownie kek, özel yapım krema, sütlü Belçika çikolatası, Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Myra Pasta (6 Kişilik)",
+          "price": 1.4,
+          "description": "Dilimlenmiş browni kek, özel yapım krema, çilek, eritilmiş Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925066.jpg?width=150&height=150"
+        },
+        {
+          "name": "Islak Kek",
+          "price": 195.0,
+          "description": "Kakaolu kek üzerine çikolata sosu dökülerek hazırlanan tatlıdır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/33866046.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bask Cheesecake (Sade)",
+          "price": 265.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34177246.jpg?width=150&height=150"
+        },
+        {
+          "name": "Myra Hediye Box",
+          "price": 1.595,
+          "description": "Mini kruvasan (3 adet ), myra kekimiz, mini myra profiterol topları (5 adet), küçük boy myra waffle, mevsim meyveleri, çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/36218015.jpg?width=150&height=150"
+        },
+        {
+          "name": "Violette Kek Cup",
+          "price": 405.0,
+          "description": "Myra çikolataya özel dilimlenmiş violette kek, muz, çilek, sütlü Belçika çikolatası, isteğe göre bitter veya beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Myra Lotus Cup",
+          "price": 415.0,
+          "description": "Lotus krema, prenses krema, Lotus bisküvi, bitter Belçika çikolatası, isteğe göre sütlü çikolata, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Grand Rocher Cup",
+          "price": 405.0,
+          "description": "Myra çikolatalı brownie kek, muz, çilek, sütlü Belçika çikolata, fındık, isteğe göre bitter çikolata, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mimoza (Küçük Boy)",
+          "price": 380.0,
+          "description": "70 gr. çikolata, Belçika usulü waffle, muz, sütlü Belçika çikolatası, beyaz Belçika çikolatası, Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Akşam Sefası (Küçük Boy)",
+          "price": 375.0,
+          "description": "50 gr. çikolata, özel brownie kek, özel yapım krema, sütlü Belçika çikolatası, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42985082.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gelincik (Küçük Boy)",
+          "price": 430.0,
+          "description": "70 gr. çikolata, çilek, Fransız bisküvi, fındık, sütlü Belçika çikolatası, bitter Belçika çikolatası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Açelya Waffle (Küçük)",
+          "price": 380.0,
+          "description": "Muz, çikolata sosu, çilek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42985548.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Cup (Büyük)",
+          "price": 485.0,
+          "description": "Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69730487.jpg?width=150&height=150"
+        },
+        {
+          "name": "Myra Kruvasan",
+          "price": 455.0,
+          "description": "Belçika çikolatalı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Waffle Hamuru",
+          "price": 175.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69756419.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Fıstıklı Begonya",
+          "price": 410.0,
+          "description": "40 gr. sütlü Belçika çikolatası, kek, Antep fıstığı, krema",
+          "img": null
+        },
+        {
+          "name": "Begonya",
+          "price": 375.0,
+          "description": "40 gr. sütlü Belçika çikolatası, krema, çilek, kek",
+          "img": null
+        },
+        {
+          "name": "Belçika Çikolatalı Rulo Gofret",
+          "price": 210.0,
+          "description": "Tek kişilik olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Çikolatalı Kaplı Çilek",
+          "price": 295.0,
+          "description": "Belçika çikolatası, çilek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çikolatalar",
+      "products": [
+        {
+          "name": "Myra Special Çikolata 2",
+          "price": 265.0,
+          "description": "İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşık Çikolata",
+          "price": 120.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34555987.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şemsiye Çikolata",
+          "price": 95.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925047.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Limonata",
+          "price": 150.0,
+          "description": "Bardak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 125.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8218584.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 130.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8218585.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 130.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925077.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 105.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8218588.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 95.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925080.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (40 cl.)",
+          "price": 75.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925081.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced Mocha",
+          "price": 210.0,
+          "description": "Soğuk kahve",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 195.0,
+          "description": "Soğuk kahve",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 195.0,
+          "description": "Soğuk kahve",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Coffee Mocha",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Americano",
+          "price": 190.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Latte",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Filtre Kahve",
+          "price": 185.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34925088.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte Macchiato",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42985559.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Chocalate Mocha",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42985570.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Filtre Kahve",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42985641.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42985819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındıklı Salep",
+          "price": 195.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/y04n/product/1f77dab5-240a-4909-a1a2-2d9a87450ae1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bucak Salebi",
+          "price": 180.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/y04n/product/82ecb807-e680-425c-8168-954e367b3e65.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Salep",
+          "price": 210.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/y04n/product/22bdf1cb-5655-4e27-bd0d-c8654ecd0c25.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "products": [
+        {
+          "name": "Çilekli Milkshake",
+          "price": 240.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Oreolu Milkshake",
+          "price": 240.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karamelli Milkshake",
+          "price": 240.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41807950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Milkshake",
+          "price": 240.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41888555.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Milkshake",
+          "price": 240.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41890403.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Frozens",
+      "products": [
+        {
+          "name": "Nane Limon Frozen",
+          "price": 225.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karpuzlu Frozen",
+          "price": 225.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41807956.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavunlu Frozen",
+          "price": 225.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Frozen",
+          "price": 225.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41888570.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaban Mersinli Frozen",
+          "price": 225.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41973782.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

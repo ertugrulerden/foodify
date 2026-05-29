@@ -1,0 +1,406 @@
+{
+  "link_hash": "4f23c79c",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Usta Dürümcü",
+  "link": "https://www.yemeksepeti.com/restaurant/a999/usta-durumcu-a999",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Ayran (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660317.jpg?width=128&height=128"
+        },
+        {
+          "name": "Adana Dürüm",
+          "price": 280.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34228870.jpg?width=128&height=128"
+        },
+        {
+          "name": "Mega Adana Dürüm (1,5 Lavaş)",
+          "price": 399.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660275.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (200 gr.)",
+          "price": 145.0,
+          "description": "200 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660288.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Hatay Usulü Közde Tavuk Şiş Dürüm (1,5 Lavaş)",
+          "price": 390.0,
+          "description": "Patates kızartması, turşu, mayonez, Hatay sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Urfa Dürüm",
+          "price": 275.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660279.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "2'li Adana Dürüm Menü",
+          "price": 800.0,
+          "description": "2 Adet Adana Dürüm + 200 gr. patates kızartması + 2 Adet Ayran (17 cl.)+tatlı 2adet",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Menü 1",
+          "price": 440.0,
+          "description": "Közde Hatay Usulü Tavuk Şiş Dürüm 4+ Puding (100 gr.) + Ayran (17 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Menü 2",
+          "price": 420.0,
+          "description": "Tavuk Şiş Dürüm + Puding (100 gr.) + Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69787879.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 3",
+          "price": 450.0,
+          "description": "Adana Dürüm + Puding (100 gr.) + Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69787880.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 4",
+          "price": 600.0,
+          "description": "2 Adet Tavuk Şiş Dürüm + 2 Adet Puding (100 gr.) + 2 Adet Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69787881.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 5",
+          "price": 650.0,
+          "description": "2 Adet Adana Dürüm + 2 Adet Puding (100 gr.) + 2 Adet Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69787882.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 6",
+          "price": 275.0,
+          "description": "Tavuk Dürüm + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/40076473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 7",
+          "price": 300.0,
+          "description": "Adana Dürüm + Acılı Şalgam Suyu (30 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69787895.jpg?width=150&height=150"
+        },
+        {
+          "name": "Aile Menü 1",
+          "price": 1.15,
+          "description": "4 Adet Hatay Usulü Tavuk Şiş Dürüm + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28374480.jpg?width=150&height=150"
+        },
+        {
+          "name": "Aile Menü 3",
+          "price": 1.049,
+          "description": "4 Adet Tavuk Şiş Dürüm + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28374510.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Kebap & Patates Kızartması Menü",
+          "price": 750.0,
+          "description": "Adana Kebap + Patates Kızartması (100 gr.) + Ayran (27 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30783111.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Közde Hatay Usulü Tavuk Şiş Dürüm Menü",
+          "price": 650.0,
+          "description": "2 Adet Közde Hatay Usulü Tavuk Şiş Dürüm + 200 gr. Çiğ Köfte + 2 Adet Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660258.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Adana Dürüm Menü",
+          "price": 950.0,
+          "description": "3 Adet Adana Dürüm + 3 Adet Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31898370.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Hatay Usulü Tavuk Şiş Dürüm",
+          "price": 985.0,
+          "description": "3 Adet Hatay Usulü Dürüm + 3 Adet Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31898382.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Tavuk Şiş Dürüm Menü",
+          "price": 830.0,
+          "description": "3 Adet Tavuk Şiş Dürüm + 3 Adet Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31898389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Aile Menü 2",
+          "price": 1.125,
+          "description": "4 Adet Adana Dürüm + Ayran (1 L.)",
+          "img": null
+        },
+        {
+          "name": "Aile Paketi 4",
+          "price": 1.25,
+          "description": "4 Adet Çöp Şiş Dürüm + İçecek (1 L.)",
+          "img": null
+        },
+        {
+          "name": "Sohbet Paketi 1",
+          "price": 1.8,
+          "description": "6 Adet Adana Dürüm + Mevsim Salata + Çiğ Köfte + Fanta (2,5 L.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 150.0,
+          "description": "Ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kebaplar & Izgaralar",
+      "products": [
+        {
+          "name": "Adana Kebap",
+          "price": 575.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, maydanoz, bulgur pilavı, biber turşusu, ezme, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Urfa Kebap",
+          "price": 570.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, maydanoz, bulgur pilavı, biber turşusu, ezme, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çöp Şiş",
+          "price": 640.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, maydanoz, bulgur pilavı, biber turşusu, ezme, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Kanat",
+          "price": 510.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, maydanoz, bulgur pilavı, biber turşusu, ezme, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660266.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş",
+          "price": 475.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, maydanoz, bulgur pilavı, biber turşusu, ezme, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660267.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kebap",
+          "price": 910.0,
+          "description": "Adana kebap, kuzu şiş, ciğer, tavuk kanat, tavuk şiş. Közlenmiş domates, közlenmiş biber, sumaklı soğan, maydanoz, bulgur pilavı, biber turşusu, ezme, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660268.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ciğer Şiş",
+          "price": 555.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, maydanoz, bulgur pilavı, biber turşusu, ezme, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24386481.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Ciğer Dürüm",
+          "price": 275.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çöp Şiş Dürüm",
+          "price": 295.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69787909.jpg?width=150&height=150"
+        },
+        {
+          "name": "Közde Hatay Usulü Tavuk Şiş Dürüm",
+          "price": 290.0,
+          "description": "Patates kızartması, turşu, mayonez, Hatay sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mega Adana Dürüm (1,5 Lavaş)",
+          "price": 399.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660275.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Hatay Usulü Közde Tavuk Şiş Dürüm (1,5 Lavaş)",
+          "price": 390.0,
+          "description": "Patates kızartması, turşu, mayonez, Hatay sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Közde Tavuk Şiş Dürüm (1,5 Lavaş)",
+          "price": 345.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660277.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş Dürüm",
+          "price": 245.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660278.jpg?width=150&height=150"
+        },
+        {
+          "name": "Urfa Dürüm",
+          "price": 275.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660279.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Dürüm",
+          "price": 280.0,
+          "description": "Domates, maydanoz, isteğe göre soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34228870.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Mevsim Salata",
+          "price": 110.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Ezme (250 gr.)",
+          "price": 70.0,
+          "description": "250 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Salatalık Turşusu (250 gr.)",
+          "price": 75.0,
+          "description": "250 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (200 gr.)",
+          "price": 145.0,
+          "description": "200 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660288.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (200 gr.)",
+          "price": 145.0,
+          "description": "200 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.)",
+          "price": 390.0,
+          "description": "Lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31287029.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Sütlaç (100 gr.)",
+          "price": 75.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Puding (100 gr.)",
+          "price": 75.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660294.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kazandibi (100 gr.)",
+          "price": 75.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660295.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 55.0,
+          "description": "Bardak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (27 cl.)",
+          "price": 70.0,
+          "description": "Büyük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660308.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 60.0,
+          "description": "Küçük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660309.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Soda (20 cl.)",
+          "price": 45.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37450780.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 45.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660310.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 30.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660311.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5660317.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

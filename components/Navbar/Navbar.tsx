@@ -9,7 +9,8 @@ import UserMenu from "./UserMenu";
 // Sağ taraf: Aksiyonlar (favoriler, sepet vb.) + Kullanıcı menüsü
 const Navbar = () => {
   return (
-    <nav className="w-full p-1.5 border-b flex items-center justify-between">
+    <header className="sticky top-0 z-50 w-full border-b bg-white/90 backdrop-blur-md shadow-[0_2px_10px_-3px_rgba(6,81,237,0.1)] transition-all">
+      <nav className="container mx-auto max-w-7xl h-16 px-4 md:px-8 flex items-center justify-between gap-6">
 
 		{/* Sol kısım: Logo, adres seçici ve arama çubuğu yan yana */}
 		<div id="left-section" className="flex flex-1 items-center gap-4">
@@ -26,6 +27,7 @@ const Navbar = () => {
 		</div>
 
     </nav>
+    </header>
   )
 }
 

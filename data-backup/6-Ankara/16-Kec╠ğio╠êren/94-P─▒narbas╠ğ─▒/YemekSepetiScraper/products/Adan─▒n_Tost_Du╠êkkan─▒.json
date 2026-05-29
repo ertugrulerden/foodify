@@ -1,0 +1,368 @@
+{
+  "link_hash": "1fb1344b",
+  "scraped_at": "260528_0122",
+  "restaurant_name": "Adanın Tost Dükkanı",
+  "link": "https://www.yemeksepeti.com/restaurant/ofr1/adanin-tost-dukkani",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Ayvalık Tost Menü",
+          "price": 475.0,
+          "description": "Ayvalık Tost + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76033158.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kumru Sandviç Menü",
+          "price": 475.0,
+          "description": "Kumru Sandviç + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76033167.jpg?width=128&height=128"
+        },
+        {
+          "name": "SUCUKLU KAŞARLI TOST MENÜ",
+          "price": 395.0,
+          "description": "Sucuklu Kaşarlı Tost + Patates Kızartması + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "Arnavutciğeri (TAVUK CİĞER )Menü",
+          "price": 475.0,
+          "description": "Arnavutciğeri + Patates Kızartması + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "Kaşarlı Tost Menü",
+          "price": 375.0,
+          "description": "Kaşarlı Tost + Patates Kızartması + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "Ada's Şef Kumru Menü",
+          "price": 495.0,
+          "description": "Ada's Şef Kumru + Patates Kızartması + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "KARIŞIK TOST MENÜ",
+          "price": 395.0,
+          "description": "Ayvalık ekmeği, sucuk, julyen sosis, kaşar peyniri",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Ayvalık Tostu",
+          "price": 290.0,
+          "description": "Ayvalık ekmeğine sucuk, sosis, kaşar peyniri, Rus salatası, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 225.0,
+          "description": "Ayvalık ekmeğine kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75830530.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Tost",
+          "price": 250.0,
+          "description": "Ayvalık ekmeğine sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75830538.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Kaşarlı Tost",
+          "price": 395.0,
+          "description": "Ayvalık ekmeğine kavurma, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75830547.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sanayi Tostu",
+          "price": 425.0,
+          "description": "Sucuk, yumurta, kaşar peyniri, domates, biber, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75830565.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vejeteryan Tost",
+          "price": 275.0,
+          "description": "Ayvalık ekmeğine kaşar peyniri, Rus salatası, domates, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75838463.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Bazlama Tost",
+          "price": 350.0,
+          "description": "Sucuk, sosis, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/75840530.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Bazlama Tost",
+          "price": 300.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/75840545.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pizza Bazlama Tost",
+          "price": 375.0,
+          "description": "Sucuk, sosis, kaşar peyniri, domates, biber, zeytin, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75840555.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ada's Special Tost",
+          "price": 425.0,
+          "description": "Özel fırın ekmeğine; sucuk, kavurma, yumurta, kaşar peyniri, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/75881369.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Tost",
+          "price": 300.0,
+          "description": "Ayvalık ekmeği, sucuk, sosis, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76605108.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Kumru Sandviç",
+          "price": 290.0,
+          "description": "Sosis, sucuk, eritme kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75830521.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ada's Chef Kumru",
+          "price": 325.0,
+          "description": "Sosis, sucuk, eritme kaşar, peyniri, eritme cheddar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75838411.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patso Sandviç",
+          "price": 195.0,
+          "description": "Kumru ekmeğine patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75838470.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Patso Sandviç",
+          "price": 290.0,
+          "description": "Kumru ekmeğine patates kızartması, sucuk, eritme kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75838471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Patso Sandviç",
+          "price": 275.0,
+          "description": "Kumru Ekmeğine Patates Kızartması, Eritme Kaşar, Ketçap, Mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75838472.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Kaşarlı Patso Sandviç",
+          "price": 290.0,
+          "description": "Kumru ekmeğine patates kızartması, sosis, eritme kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75838473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Arnavutciğeri (TAVUK CİĞER)",
+          "price": 300.0,
+          "description": "Fırın ekmeği, soğan, domates, pul biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/76013922.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "8'li Soğan Halkası",
+          "price": 175.0,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/75848361.jpg?width=150&height=150"
+        },
+        {
+          "name": "12'li Soğan Halkası",
+          "price": 200.0,
+          "description": "12 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/75848362.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Orta Boy)",
+          "price": 200.0,
+          "description": "Parmak dilim. Kajun baharatı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75848363.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Küçük Boy)",
+          "price": 175.0,
+          "description": "Parmak dilim. Kajun baharatı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77594018.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kroket",
+          "price": 175.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77597578.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kroket (10 Adet)",
+          "price": 200.0,
+          "description": "10 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77597583.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Büyük Boy)",
+          "price": 325.0,
+          "description": "Parmak dilim. Kajun baharatı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77678650.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846954.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846958.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Şeftali (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846959.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Vişne (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846963.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Karışık (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846961.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Kavun & Çilek (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80124918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846957.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846956.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Karpuz (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846960.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75846962.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76013923.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 125.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75875357.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 125.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75878124.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali̇ (1 L.)",
+          "price": 125.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75878129.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Karpuz (1 L.)",
+          "price": 125.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (1 L.)",
+          "price": 125.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütaş Ayran (30 cl.)",
+          "price": 70.0,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 125.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76013924.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Portakal (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Cappy Atom (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

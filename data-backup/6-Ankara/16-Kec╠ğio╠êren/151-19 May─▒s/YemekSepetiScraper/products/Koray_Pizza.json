@@ -1,0 +1,609 @@
+{
+  "link_hash": "46a1767b",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Koray Pizza",
+  "link": "https://www.yemeksepeti.com/restaurant/b8j8/koray-pizza",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Karışık Pizza (Büyük)",
+          "price": 475.0,
+          "description": "Pizza sosu, mozzarella peyniri, salam, sucuk, mısır, sosis, mantar, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537630.jpg?width=128&height=128"
+        },
+        {
+          "name": "Menü 11",
+          "price": 800.0,
+          "description": "2 Adet Seçeceğiniz Büyük Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537596.jpg?width=128&height=128"
+        },
+        {
+          "name": "Karışık Pizza (Orta)",
+          "price": 405.0,
+          "description": "Pizza sosu, mozzarella peyniri, salam, sucuk, mısır, sosis, mantar, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537618.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 6",
+          "price": 530.0,
+          "description": "Seçeceğiniz Büyük Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537591.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 10",
+          "price": 690.0,
+          "description": "2 Adet Seçeceğiniz Orta Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537595.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 5",
+          "price": 475.0,
+          "description": "Seçeceğiniz Orta Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537590.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Promosyonlu Menüler",
+      "products": [
+        {
+          "name": "Menü 1",
+          "price": 690.0,
+          "description": "3 Adet Küçük Boy Karışık Pizza",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Menü 2",
+          "price": 880.0,
+          "description": "3 Adet Orta Boy Karışık Pizza",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Menü 3",
+          "price": 745.0,
+          "description": "2 Adet Büyük Boy Karışık Pizza",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5537588.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 4",
+          "price": 395.0,
+          "description": "Seçeceğiniz Küçük Boy Pizza + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537589.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 5",
+          "price": 475.0,
+          "description": "Seçeceğiniz Orta Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537590.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 6",
+          "price": 530.0,
+          "description": "Seçeceğiniz Büyük Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537591.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 10",
+          "price": 690.0,
+          "description": "2 Adet Seçeceğiniz Orta Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537595.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 11",
+          "price": 800.0,
+          "description": "2 Adet Seçeceğiniz Büyük Boy Pizza + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537596.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 9",
+          "price": 395.0,
+          "description": "Kumru Sandviç + Soğan Halkası veya Patates Kızartması + Kutu İçecek (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67564030.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 7",
+          "price": 395.0,
+          "description": "Kıtır Tavuk Sandviç + Soğan Halkası veya Patates Kızartması + Kutu İçecek (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67564547.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 8",
+          "price": 395.0,
+          "description": "Ekmek Arası Köfte + Soğan Halkası veya Patates Kızartması + Kutu İçecek (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67565219.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 13",
+          "price": 635.0,
+          "description": "2 Adet Seçeceğiniz Orta Boy Karışık Pizza",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73217951.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menü 12",
+          "price": 1.08,
+          "description": "3 Adet Karışık Pizza (Büyük Boy)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73345834.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Kumru Sandviç",
+          "price": 310.0,
+          "description": "Salam, sosis, sucuk, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıtır Tavuklu Sandviç",
+          "price": 310.0,
+          "description": "Kıtır tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfte Sandviç",
+          "price": 310.0,
+          "description": "Köfte, sos, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Küçük Boy Pizzalar (24 cm.)",
+      "products": [
+        {
+          "name": "Margherita Pizza (Küçük)",
+          "price": 325.0,
+          "description": "Pizza sosu, mozzarella peyniri, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Veggie Pizza (Küçük)",
+          "price": 325.0,
+          "description": "Pizza sosu, mozzarella peyniri, mantar, yeşil biber, mısır, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynir Sever Pizza (Küçük)",
+          "price": 325.0,
+          "description": "Pizza sosu, mozzarella peyniri, beyaz peynir, cheddar peyniri, yeşil biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Pizza (Küçük)",
+          "price": 325.0,
+          "description": "Pizza sosu, mozzarella peyniri, salam, sucuk, mısır, sosis, mantar, yeşil biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kumru Pizza (Küçük)",
+          "price": 325.0,
+          "description": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mısır, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537602.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Chicken Pizza (Küçük)",
+          "price": 345.0,
+          "description": "Pizza sosu, mozzarella peyniri, BBQ soslu tavuk parçaları, jalapeno biberi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537603.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Pizza (Küçük Boy)",
+          "price": 345.0,
+          "description": "Pizza sosu, mozzarella peyniri, özel soslu tavuk parçaları, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537604.jpg?width=150&height=150"
+        },
+        {
+          "name": "Italiano Pizza (Küçük)",
+          "price": 325.0,
+          "description": "Pizza sosu, mozzarella peyniri, küp sucuk, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537606.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jalapeno Pizza (Küçük)",
+          "price": 345.0,
+          "description": "Pizza sosu, mozzarella peyniri, sucuk, misket köfte, jalapeno biberi, kırmızıbiber, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537607.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mangal Pizza (Küçük)",
+          "price": 345.0,
+          "description": "Pizza sosu, mozzarella peyniri, küp sucuk, misket köfte, jalapeno biberi, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537608.jpg?width=150&height=150"
+        },
+        {
+          "name": "Anadolu Ateşi Pizza (Küçük)",
+          "price": 345.0,
+          "description": "Pizza sosu, mozzarella peyniri, mantar, pastırma, sucuk, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537609.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Pizza (Küçük)",
+          "price": 345.0,
+          "description": "Pizza sosu, mozzarella peyniri, kavurma, mantar, jalapeno biberi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5537610.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Chili'm Pizza (Küçük)",
+          "price": 345.0,
+          "description": "Sweet chili soslu tavuk parçaları, kapya biber, yeşilbiber, mozarella peyniri ve pizza sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70263903.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Dönerli Pizza (Küçük)",
+          "price": 345.0,
+          "description": "Pizza sosu, tavuk döner, domates, mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74269807.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Orta Boy Pizzalar (30 cm.)",
+      "products": [
+        {
+          "name": "Margherita Pizza (Orta)",
+          "price": 405.0,
+          "description": "Pizza sosu, mozzarella peyniri, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Veggie Pizza (Orta)",
+          "price": 405.0,
+          "description": "Pizza sosu, mozzarella peyniri, mantar, yeşil biber, mısır, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537612.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynir Sever Pizza (Orta)",
+          "price": 405.0,
+          "description": "Pizza sosu, mozzarella peyniri, beyaz peynir, cheddar peyniri, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537613.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kumru Pizza (Orta)",
+          "price": 405.0,
+          "description": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mısır, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537614.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Chicken Pizza (Orta)",
+          "price": 440.0,
+          "description": "Pizza sosu, mozzarella peyniri, BBQ soslu tavuk parçaları, jalapeno biberi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537615.jpg?width=150&height=150"
+        },
+        {
+          "name": "Italiano Pizza (Orta)",
+          "price": 405.0,
+          "description": "Pizza sosu, mozzarella peyniri, küp sucuk, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537616.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Pizza (Orta)",
+          "price": 440.0,
+          "description": "Pizza sosu, mozzarella peyniri, özel soslu tavuk parçaları, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537617.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Pizza (Orta)",
+          "price": 405.0,
+          "description": "Pizza sosu, mozzarella peyniri, salam, sucuk, mısır, sosis, mantar, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537618.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jalapeno Pizza (Orta)",
+          "price": 440.0,
+          "description": "Pizza sosu, mozzarella peyniri, sucuk, misket köfte, jalapeno biberi, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537619.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mangal Pizza (Orta)",
+          "price": 440.0,
+          "description": "Pizza sosu, mozzarella peyniri, küp sucuk, misket köfte, jalapeno biberi, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537620.jpg?width=150&height=150"
+        },
+        {
+          "name": "Anadolu Ateşi Pizza (Orta)",
+          "price": 440.0,
+          "description": "Pizza sosu, mozzarella peyniri, mantar, pastırma, sucuk, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537621.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Pizza (Orta)",
+          "price": 440.0,
+          "description": "Pizza sosu, mozzarella peyniri, kavurma, mantar, jalapeno biberi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537622.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Chili'm Pizza (Orta)",
+          "price": 440.0,
+          "description": "Sweet chili soslu tavuk parçaları, kapya biber, yeşilbiber, mozarella peyniri ve pizza sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Dönerli Pizza (Orta)",
+          "price": 440.0,
+          "description": "Pizza sosu, tavuk döner, domates, mozzarella peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Büyük Boy Pizzalar (36 cm.)",
+      "products": [
+        {
+          "name": "Margherita Pizza (Büyük)",
+          "price": 475.0,
+          "description": "Pizza sosu, mozzarella peyniri, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Veggie Pizza (Büyük)",
+          "price": 475.0,
+          "description": "Pizza sosu, mozzarella peyniri, mantar, yeşil biber, mısır, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynir Sever Pizza (Büyük)",
+          "price": 475.0,
+          "description": "Pizza sosu, mozzarella peyniri, beyaz peynir, cheddar peyniri, yeşil biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kumru Pizza (Büyük)",
+          "price": 475.0,
+          "description": "Pizza sosu, mozzarella peyniri, sucuk, sosis, mısır, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537626.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Chicken Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Pizza sosu, mozzarella peyniri, BBQ soslu tavuk parçaları, jalapeno biberi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537627.jpg?width=150&height=150"
+        },
+        {
+          "name": "Italiano Pizza (Büyük)",
+          "price": 475.0,
+          "description": "Pizza sosu, mozzarella peyniri, küp sucuk, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537628.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Pizza sosu, mozzarella peyniri, özel soslu tavuk parçaları, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537629.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Pizza (Büyük)",
+          "price": 475.0,
+          "description": "Pizza sosu, mozzarella peyniri, salam, sucuk, mısır, sosis, mantar, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537630.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jalapeno Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Pizza sosu, mozzarella peyniri, sucuk, misket köfte, jalapeno biberi, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537631.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mangal Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Pizza sosu, mozzarella peyniri, küp sucuk, misket köfte, jalapeno biberi, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537632.jpg?width=150&height=150"
+        },
+        {
+          "name": "Anadolu Ateşi Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Pizza sosu, mozzarella peyniri, mantar, pastırma, sucuk, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537633.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Pizza sosu, mozzarella peyniri, kavurma, mantar, jalapeno biberi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537634.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Chili'm Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Sweet chili soslu tavuk parçaları, kapya biber, yeşilbiber, mozarella peyniri ve pizza sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Dönerli Pizza (Büyük)",
+          "price": 525.0,
+          "description": "Pizza sosu, tavuk döner, domates, mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74269755.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Soğan Halkası (10 Adet)",
+          "price": 150.0,
+          "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Parmak Patates Kızartması",
+          "price": 150.0,
+          "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "price": 190.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Aperitif Tabağı",
+          "price": 350.0,
+          "description": "Tavuk nugget, kıtır tavuk, patates kızartması, soğan halkası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Topları (20 Adet)",
+          "price": 150.0,
+          "description": "Çıtır tavuk topları",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b8j8/product/78837950/7e349e40-bd1e-45ef-ace6-ef5a2ec311e5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elma Dilim Patates Kızartması",
+          "price": 190.0,
+          "description": "Ketçap ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71533878.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Nugget (8 Adet)",
+          "price": 150.0,
+          "description": "Ketçap, mayonez ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71874921.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Mayonez",
+          "price": 3.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ketçap",
+          "price": 3.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Sufle",
+          "price": 150.0,
+          "description": "İçerisinde sıcak ve kremamsı bir dolgu bulunan tatlı çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (25 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Şekersiz (25 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (25 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (25 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Şeftali (25 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537647.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Karışık (25 cl.)",
+          "price": 70.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537648.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 30.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537649.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537650.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537651.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537652.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Şekersiz (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537654.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537655.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537656.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77969932.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/5537657.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

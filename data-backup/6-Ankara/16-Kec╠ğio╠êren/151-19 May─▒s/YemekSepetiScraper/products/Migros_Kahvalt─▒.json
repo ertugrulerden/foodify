@@ -1,0 +1,398 @@
+{
+  "link_hash": "8f8b3f9c",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Migros Kahvaltı",
+  "link": "https://www.yemeksepeti.com/restaurant/wpry/migros-kahvalti-wpry",
+  "categories": [
+    {
+      "name": "Coca-Cola Fırsat Menüsü",
+      "products": [
+        {
+          "name": "Gözleme Tabağı & Coca-Cola Menü",
+          "price": 450.0,
+          "description": "Seçeceğiniz Kaşarlı, Patatesli, Ispanaklı veya Peynirli Gözleme Tabağı + Patates Kızartması + Coca-Cola",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79703585.jpg?width=128&height=128"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menü",
+      "products": [
+        {
+          "name": "Sevilen Sıcak İkili Menü",
+          "price": 304.85,
+          "description": "Kaşarlı Gözleme + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78640074.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltılık Kruvasan Sandviçler",
+      "products": [
+        {
+          "name": "Füme Et Kruvasan Sandviç",
+          "price": 550.0,
+          "description": "Taze kruvasan ekmeği içinde dana füme et, chipotle sos, kurutulmuş domates, kokteyl domates, salatalık, süzme peynir, siyah zeytin ve Akdeniz yeşillikleri ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/79762138.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fit Kruvasan Sandviç",
+          "price": 450.0,
+          "description": "Taze kruvasan ekmeği içinde füme hindi, labne peyniri, kurutulmuş domates, kokteyl domates, salatalık, süzme peynir, siyah zeytin ve Akdeniz yeşillikleri ile hazırlanır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Avokado Kruvasan Sandviç",
+          "price": 450.0,
+          "description": "Taze kruvasan ekmeği içinde labne peyniri, guacamole, yumurta, kokteyl domates, salatalık, süzme peynir, siyah zeytin ve Akdeniz yeşillikleri ile hazırlanır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Patatesli Gözleme Menü",
+          "price": 305.0,
+          "description": "Patatesli Gözleme (Patates) + Limonata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635418.jpg?width=150&height=150"
+        },
+        {
+          "name": "Güne Başlangıç Menüsü",
+          "price": 325.0,
+          "description": "Seçeceğiniz Kahvaltı + Seçeceğiniz Pişi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635419.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pişili Kahvaltı Menü",
+          "price": 399.0,
+          "description": "Seçeceğiniz Pişi + Seçeceğiniz Yan Lezzet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635420.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çifte Kahvaltı Menü (2 Kişilik)",
+          "price": 499.0,
+          "description": "Seçeceğiniz Pişi + Patates Kızartması + Seçeceğiniz Yan Lezzet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635421.jpg?width=150&height=150"
+        },
+        {
+          "name": "Arkadaş Kahvaltı Menü (3 Kişilik)",
+          "price": 549.0,
+          "description": "Seçeceğiniz Pişi + Seçeceğiniz Yan Lezzet + Söğüş Tabağı (Domates, salatalık, kekik) + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635422.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Klasik Kahvaltı Tabağı",
+          "price": 299.0,
+          "description": "4 adet sade pişi, beyaz peynir, zeytin, domates, salatalık",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çırpılmış Yumurtalı Kahvaltı Tabağı",
+          "price": 299.0,
+          "description": "Akdeniz yeşillikleri, çırpılmış yumurta, domates, salatalık, tulum peyniri, zeytin",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Menemen Kahvaltı Tabağı",
+          "price": 345.0,
+          "description": "Menemen, Akdeniz yeşillikleri, zeytin, domates, salatalık, tulum peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635427.jpg?width=150&height=150"
+        },
+        {
+          "name": "Geleneksel Kahvaltı Tabağı",
+          "price": 299.0,
+          "description": "Akdeniz yeşillikleri, göbek marul, domates, salatalık, biber, beyaz peynir, zeytin, yumurta, tereyağı, reçel, fındık kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635428.jpg?width=150&height=150"
+        },
+        {
+          "name": "Açık Sandviç Kahvaltı Tabağı",
+          "price": 299.0,
+          "description": "Guacamole sos, Akdeniz yeşillikleri, domates, salatalık, tulum peyniri, zeytin, yumurta, labne peyniri, ekmek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635429.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yöresel Kahvaltı Tabağı",
+          "price": 299.0,
+          "description": "Akdeniz yeşillikleri, göbek marul, domates, salatalık, biber, beyaz peynir, zeytin, yumurta, tereyağı, reçel, fındık kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635430.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger Kahvaltı",
+          "price": 249.0,
+          "description": "Burger ekmeği, labne, çırpılmış yumurta, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635431.jpg?width=150&height=150"
+        },
+        {
+          "name": "Wrap Kahvaltı",
+          "price": 295.0,
+          "description": "Akdeniz yeşillikleri, göbek marul, yumurta, beyaz peynir, siyah zeytin, biber, domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635432.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bowl Kahvaltı",
+          "price": 345.0,
+          "description": "Akdeniz yeşillikleri, göbek marul, yumurta, domates, salatalık, biber, beyaz peynir, avokado, zeytin, limon sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635433.jpg?width=150&height=150"
+        },
+        {
+          "name": "Söğüş Tabağı",
+          "price": 150.0,
+          "description": "Domates, salatalık, kekik, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635434.jpg?width=150&height=150"
+        },
+        {
+          "name": "Haşlanmış Yumurta",
+          "price": 40.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635435.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytin (8 Adet)",
+          "price": 35.0,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635436.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dilim Beyaz Peynir",
+          "price": 40.0,
+          "description": "1 dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635437.jpg?width=150&height=150"
+        },
+        {
+          "name": "Günün Reçeli",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635438.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağı",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635439.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Omletler & Menemenler",
+      "products": [
+        {
+          "name": "Sade Omlet",
+          "price": 195.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, tulum peyniri, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sucuklu Omlet",
+          "price": 245.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, tulum peyniri, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantarlı Omlet",
+          "price": 270.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, tulum peyniri, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Menemen",
+          "price": 339.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, tulum peyniri, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheddar Peynirli Menemen",
+          "price": 349.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, tulum peyniri, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sucuklu Menemen",
+          "price": 379.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, tulum peyniri, zeytin ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635448.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Gözlemeler",
+      "products": [
+        {
+          "name": "Kaşarlı Gözleme Tabağı",
+          "price": 295.0,
+          "description": "Kaşarlı gözleme, beyaz peynir, siyah zeytin, salatalık, kokteyl domates, mevsim yeşillikleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Gözleme Tabağı",
+          "price": 305.0,
+          "description": "Patatesli gözleme, beyaz peynir, siyah zeytin, salatalık, kokteyl domates, mevsim yeşillikleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ispanaklı Peynirli Gözleme Tabağı",
+          "price": 315.0,
+          "description": "Ispanaklı peynirli gözleme, beyaz peynir, siyah zeytin, salatalık, kokteyl domates, mevsim yeşillikleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635451.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Gözleme Tabağı",
+          "price": 315.0,
+          "description": "Peynirli gözleme, beyaz peynir, siyah zeytin, salatalık, kokteyl domates, mevsim yeşillikleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r3r5/product/86462574/0e48f8b9-3346-499c-b271-1a677f7683cd.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pişiler",
+      "products": [
+        {
+          "name": "Sade Pişi (5 Adet)",
+          "price": 129.0,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Pişi (5 Adet)",
+          "price": 139.0,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sucuklu Pişi (5 Adet)",
+          "price": 149.0,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sade Pişi (10 Adet)",
+          "price": 258.0,
+          "description": "10 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635456.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Pişi (10 Adet)",
+          "price": 278.0,
+          "description": "10 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635457.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Pişi (10 Adet)",
+          "price": 298.0,
+          "description": "10 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635458.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Coleslaw",
+          "price": 99.0,
+          "description": "Coleslaw Salatası (150 Gr.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması (125 gr.)",
+          "price": 100.0,
+          "description": "125 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yoğurt (150 gr.)",
+          "price": 60.0,
+          "description": "Paket",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Falafel (2 Adet)",
+          "price": 125.0,
+          "description": "2 adet olarak servis edilir. Domates, mevsim yeşillikleri ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635462.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Mini Salata",
+          "price": 120.0,
+          "description": "Akdeniz yeşillikleri, iceberg marul, domates, salatalık, biber, mısır, limonlu salata sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pınar Limonata (330 ml.)",
+          "price": 70.0,
+          "description": "Pet Şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635470.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635472.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 50.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635474.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77635475.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76326473.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

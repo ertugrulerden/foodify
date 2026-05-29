@@ -1,0 +1,394 @@
+{
+  "link_hash": "66efa222",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Bonavias Cafe & Dessert",
+  "link": "https://www.yemeksepeti.com/restaurant/lf3j/bonavias-cafe-and-dessert-lf3j",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Pancake Bona",
+          "price": 490.0,
+          "description": "Mini pankek, muz, çilek, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66233469.jpg?width=128&height=128"
+        },
+        {
+          "name": "Waffle Brüksel",
+          "price": 490.0,
+          "description": "Muz, çilek, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66233858.jpg?width=128&height=128"
+        },
+        {
+          "name": "A Love Box (2-3 Kişilik)",
+          "price": 1.15,
+          "description": "Mini pancake, waffle parçaları, brownie, muz, çilek, seçeceğiniz 2 çeşit çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66233286.jpg?width=150&height=150"
+        },
+        {
+          "name": "Crepe Wraps",
+          "price": 500.0,
+          "description": "Krep, dondurma, muz, çilek, sütlü çikolata, Fransız bisküvi, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Classic Cup",
+          "price": 420.0,
+          "description": "Muz, çilek, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234137.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Serenity",
+          "price": 620.0,
+          "description": "Kek parçacıkları, Paris kreması, corn flakes, pirinç patlağı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234130.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kruvasanlar",
+      "products": [
+        {
+          "name": "Çikolatalı Kruvasan",
+          "price": 440.0,
+          "description": "90 gr. tereyağlı kruvasan, üzeri; sütlü çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Private Kruvasan",
+          "price": 630.0,
+          "description": "90 gr. tereyağlı kruvasan, Paris kreması, Antep fıstığı ezmesi, üzeri; sütlü çikolata, kıyılmış Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "3 Peynirli Kruvasan",
+          "price": 500.0,
+          "description": "90 gr. tereyağlı kruvasan, beyaz peynir, cheddar peyniri, kaşar peyniri, siyah zeytin ezmesi. Zeytin salatası, avokado dip sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73780098.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meaty Kruvasan",
+          "price": 540.0,
+          "description": "90 gr. tereyağlı kruvasan, dana jambon, hindi füme, cheddar peyniri, lolorosso marul, zeytin ezmesi. Zeytin salatası, avokado dip sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bona Kruvasan",
+          "price": 540.0,
+          "description": "90 gr. tereyağlı kruvasan, Paris kreması, muz, çilek dilimleri, üzeri; sütlü çikolata, Antep fıstığı parçaları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73780100.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı Kruvasan",
+          "price": 360.0,
+          "description": "90 gr. tereyağlı kruvasan. Zeytin salatası, avokado dip sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73780101.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Boxs",
+      "products": [
+        {
+          "name": "A Love Box (2-3 Kişilik)",
+          "price": 1.15,
+          "description": "Mini pancake, waffle parçaları, brownie, muz, çilek, seçeceğiniz 2 çeşit çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66233286.jpg?width=150&height=150"
+        },
+        {
+          "name": "A Love Box (4-6 Kişilik)",
+          "price": 2.0,
+          "description": "Mini pankek, waffle parçaları, kruvasan, profiterol, brownie, muz, çilek, ananas, seçeceğiniz 5 çeşit çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "A Love Cup (3-4 Kişilik)",
+          "price": 1.2,
+          "description": "Muz, çilek, paris kreması, Fransız biscuit, sütlü çikolata, Antep fıstığı, Paris kreması, lotus kırıntısı, muz, lotus kreması Antep fıstığı ezmesi, çıtır kadayıf, Paris kreması, beyaz çikolata, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70749918.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pankekler",
+      "products": [
+        {
+          "name": "Pancake Fondue",
+          "price": 840.0,
+          "description": "Mini pankek, muz, çilek, seçeceğiniz 2 çeşit çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pancake Babs",
+          "price": 620.0,
+          "description": "Büyük pankek, muz, çilek, sütlü çikolata, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66233467.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pancake Bona",
+          "price": 490.0,
+          "description": "Mini pankek, muz, çilek, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66233469.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Waffles",
+      "products": [
+        {
+          "name": "Waffle Fondue",
+          "price": 840.0,
+          "description": "Waffle parçacıkları, muz, çilek, sütlü çikolata, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Waffle Brüksel",
+          "price": 490.0,
+          "description": "Muz, çilek, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Waffle Lotus",
+          "price": 520.0,
+          "description": "Lotus bisküvi kırıntıları, dondurma, muz, sütlü çikolata, lotus bisküvi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Dessert Cups",
+      "products": [
+        {
+          "name": "Jennifer Chocolate (2 Kişilik)",
+          "price": 1.1,
+          "description": "Muz, çilek, Paris kreması, Nesquik, Fransız bisküvi, sütlü çikolata, Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Serenity Chocolate (2 Kişilik)",
+          "price": 1.1,
+          "description": "Kek parçacıkları, Paris kreması, corn flakes, sütlü çikolata, pirinç patlağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mega Oreo Cup (2 Kişilik)",
+          "price": 1.1,
+          "description": "Oreo, muz, çilek, Paris kreması, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234128.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Jennifer",
+          "price": 620.0,
+          "description": "Muz, çilek, Paris kreması, Nesquik, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234129.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Serenity",
+          "price": 620.0,
+          "description": "Kek parçacıkları, Paris kreması, corn flakes, pirinç patlağı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234130.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Oreo Cup",
+          "price": 560.0,
+          "description": "Oreo, muz, çilek, Paris kreması, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234131.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bona City",
+          "price": 460.0,
+          "description": "Brownie, muz, çilek, anans, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234135.jpg?width=150&height=150"
+        },
+        {
+          "name": "Whitley Cup",
+          "price": 460.0,
+          "description": "Mini profiterol, muz, çilek, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234136.jpg?width=150&height=150"
+        },
+        {
+          "name": "Classic Cup",
+          "price": 420.0,
+          "description": "Muz, çilek, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234137.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nancy Cup",
+          "price": 460.0,
+          "description": "Pankek, muz, çilek, baby bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234138.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sandy Cup",
+          "price": 460.0,
+          "description": "Dondurma, muz, çilek, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234139.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Lotus Cup (2 kişilik)",
+          "price": 1.1,
+          "description": "Muz, Paris kreması, Lotus bisküvi kırıntıları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66475643.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Bask Cheesecake",
+          "price": 450.0,
+          "description": "Dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234355.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Mag",
+          "price": 410.0,
+          "description": "Lotus bisküvi, Paris kreması, Fransız bisküvi, Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Oreolu Mag (1 Kişilik)",
+          "price": 390.0,
+          "description": "Oreo, Paris kreması, Fransız bisküvi, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234359.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Profiterol (5 Adet)",
+          "price": 450.0,
+          "description": "5 adet profiterol, Paris kreması, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234364.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chocolate Ball",
+          "price": 450.0,
+          "description": "Çıtır profiterol, Paris kreması, muz, çilek, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234365.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chocolate Fettuccine",
+          "price": 490.0,
+          "description": "Fettucini krep, muz, çilek, fransız biscuit, sütlü çikolata, antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66467257.jpg?width=150&height=150"
+        },
+        {
+          "name": "BonaBeen",
+          "price": 450.0,
+          "description": "İki ince dilim kek, Paris kreması, çilek parçacıkları, sütlü çikolata, beyaz çikolata, krep kırığı, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66471331.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Chocolate",
+          "price": 650.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68156729.jpg?width=150&height=150"
+        },
+        {
+          "name": "Italian Usulü Tiramisu",
+          "price": 440.0,
+          "description": "Nescafe, kedi dili, tiramisu kreması, kakao, sütlü çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75962229.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lemon Dream Cup",
+          "price": 450.0,
+          "description": "Limonlu kek, paris kreması, limon dolgusu, beyaz çikolata, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75962265.jpg?width=150&height=150"
+        },
+        {
+          "name": "Raspberry Love Cup",
+          "price": 450.0,
+          "description": "Kakaolu kek, Paris kreması, frambuaz dolgusu, beyaz çikolata, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75962289.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Crepes",
+      "products": [
+        {
+          "name": "Crepe Jemy",
+          "price": 840.0,
+          "description": "Mini krep, muz, çilek, ananas, Antep fıstığı, seçeceğiniz 2 çeşit çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234470.jpg?width=150&height=150"
+        },
+        {
+          "name": "Crepe Wraps",
+          "price": 500.0,
+          "description": "Krep, dondurma, muz, çilek, sütlü çikolata, Fransız bisküvi, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Crepe Fondue",
+          "price": 500.0,
+          "description": "Krep, muz, Fransız bisküvi, Antep fıstığı, seçeceğiniz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234475.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 130.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234573.jpg?width=150&height=150"
+        },
+        {
+          "name": "Uludağ Premium Su (40 cl.)",
+          "price": 65.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234576.jpg?width=150&height=150"
+        },
+        {
+          "name": "Uludağ Soda (20 cl.)",
+          "price": 85.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234577.jpg?width=150&height=150"
+        },
+        {
+          "name": "Uludağ Meyveli Soda (20 cl.)",
+          "price": 100.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234578.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy (25 cl.)",
+          "price": 130.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234580.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 130.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234581.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 130.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234582.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 130.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66234583.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

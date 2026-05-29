@@ -1,0 +1,790 @@
+{
+  "link_hash": "974e05cb",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Tchibo",
+  "link": "https://www.yemeksepeti.com/restaurant/rm6n/tchibo-rm6n",
+  "categories": [
+    {
+      "name": "Yeni Ürünler",
+      "products": [
+        {
+          "name": "Protein Latte Vanilla",
+          "price": 250.0,
+          "description": "Bir bardakta 26 gr. Whey protein tozu içerir. Ekstra şeker ilavesi yoktur.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80317956.jpg?width=128&height=128"
+        },
+        {
+          "name": "Protein Latte Biscuit",
+          "price": 250.0,
+          "description": "Bir bardakta 26 gr. Whey protein tozu içerir. Ekstra şeker ilavesi yoktur.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80317972.jpg?width=128&height=128"
+        },
+        {
+          "name": "Strawberry Matcha Cloud",
+          "price": 260.0,
+          "description": "Çilek aromalı, matcha kremalı, sütlü buzlu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80606196.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coco Matcha Cloud",
+          "price": 260.0,
+          "description": "Hindistan cevizi sulu, matcha kremalı, buzlu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80609612.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Peach Tea",
+          "price": 245.0,
+          "description": "Şeftali aromalı soğuk çay",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80610052.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Lemon Tea",
+          "price": 245.0,
+          "description": "Limon aromalı soğuk çay",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80612363.jpg?width=150&height=150"
+        },
+        {
+          "name": "Raspberry Lemonade",
+          "price": 260.0,
+          "description": "Ahududu aromalı, limonatalı buzlu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80612418.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caramel Macchiato",
+          "price": 250.0,
+          "description": "Karamel aromalı, süt köpüklü, espresso bazlı buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80612492.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cold Brew Coco",
+          "price": 260.0,
+          "description": "Hindistan cevizi sulu, soğuk demleme kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80612592.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Matcha Latte",
+          "price": 260.0,
+          "description": "Matcha tozlu, sütlü buzlu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80612613.jpg?width=150&height=150"
+        },
+        {
+          "name": "Matcha Latte",
+          "price": 260.0,
+          "description": "Matcha tozlu, sütlü içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80612674.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced Salted Caramel Latte",
+          "price": 245.0,
+          "description": "Tuzlu karamel aromalı ve sütlü, espresso bazlı buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239549.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 245.0,
+          "description": "Süt ve çikolatalı buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239550.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced White Chocolate Mocha",
+          "price": 250.0,
+          "description": "Süt ve beyaz çikolatalı buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239551.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 205.0,
+          "description": "Bol süt ve süt köpüklü espresso bazlı buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66692439.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cold Brew",
+          "price": 210.0,
+          "description": "Soğuk demleme kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65583549.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Cold Brew",
+          "price": 215.0,
+          "description": "Sütlü soğuk demleme kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65583554.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 175.0,
+          "description": "Espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67890099.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Shake Shake Dream",
+          "price": 260.0,
+          "description": "Çilek aromalı, yumusak köpüklü soğuk içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239554.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Chai Tea Latte",
+          "price": 240.0,
+          "description": "Chai tea aromalı, sütlü ve buzlu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66692450.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yuzu White Tea",
+          "price": 260.0,
+          "description": "Yuzu limonu aromalı beyaz çay",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65583559.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yuzu Breeze",
+          "price": 260.0,
+          "description": "Yuzu limonu aromalı buzlu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66692454.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Toffee Nut Latte",
+          "price": 260.0,
+          "description": "Bol süt ve süt köpüklü espresso bazlı fındık aromalı kahve",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Latte Macchiato",
+          "price": 205.0,
+          "description": "Süt köpüklü, espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239519.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mocha",
+          "price": 245.0,
+          "description": "Süt ve çikolatalı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239520.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Chocolate Mocha",
+          "price": 250.0,
+          "description": "Süt ve beyaz çikolatalı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239521.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Espresso",
+          "price": 140.0,
+          "description": "Yoğun kıvamlı, zengin aromalı duble kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239523.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Espresso Macchiato",
+          "price": 140.0,
+          "description": "Az süt köpüklü, espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239524.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 205.0,
+          "description": "Süt ve bol süt köpüklü espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239525.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cortado",
+          "price": 210.0,
+          "description": "Az sütlü, yogun espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239526.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White",
+          "price": 210.0,
+          "description": "Az sütlü, espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239527.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve",
+          "price": 155.0,
+          "description": "Tchibo çekirdekleriyle tam kıvamında demlemiş taptaze kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239528.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Filtre Kahve",
+          "price": 155.0,
+          "description": "Tchibo çekirdekleriyle tam kıvamında demlemiş sütlü kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239529.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte",
+          "price": 205.0,
+          "description": "Bol süt ve süt köpüklü espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239530.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salted Caramel Latte",
+          "price": 240.0,
+          "description": "Bol süt ve süt köpüklü espresso bazlı tuzlu karamel aromalı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239531.jpg?width=150&height=150"
+        },
+        {
+          "name": "Americano",
+          "price": 165.0,
+          "description": "Espresso bazlı kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67890109.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Hot Chocolate",
+          "price": 240.0,
+          "description": "Çikolata ve sıcak sütlü içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chai Tea Latte",
+          "price": 240.0,
+          "description": "Chai tea aromalı ve sütlü içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239548.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pasta & Kekler",
+      "products": [
+        {
+          "name": "Devil's Pasta",
+          "price": 280.0,
+          "description": "Çikolatalı kek ve yoğun bitter tadıyla çifte haz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55434018.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Karaorman Pasta",
+          "price": 280.0,
+          "description": "Özel kek hamuru, krema, vişne ve çikolatanın benzersiz uyumu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66692477.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mermer Kek",
+          "price": 165.0,
+          "description": "Lezzetli kakao ve vanilya hamurunun karışımından oluşan bir klasik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66692480.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Cevizli Kek",
+          "price": 285.0,
+          "description": "Bal ve cevizin yumuşacık birleşimi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66692481.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiramisu Cup",
+          "price": 235.0,
+          "description": "Kahve tadında keki, özel kreması ve kakao süslemeleriyle bir İtalyan klasiği",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74650688.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol Cup",
+          "price": 235.0,
+          "description": "Krema dolgulu profiterol topları ve bitter çikolata dokunuşları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74650697.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chia Cup",
+          "price": 245.0,
+          "description": "Chialı hafif lezzet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74651054.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Frambuazlı Tart",
+          "price": 210.0,
+          "description": "Çikolatalı frambuazlı tart, Antep fıstığı dokunuşuyla.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411353.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Brownie",
+          "price": 215.0,
+          "description": "Yoğun çikolata lezzeti ve yumuşak kıvamıyla.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411366.jpg?width=150&height=150"
+        },
+        {
+          "name": "Apple Crumble Cheesecake",
+          "price": 280.0,
+          "description": "Elmalı iç dolgusu ve üzeri kıtır crumble ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411394.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Cheesecake",
+          "price": 280.0,
+          "description": "Çıtır bisküvi tabanı, peynir dolgusu ve limon ferahlığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411401.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Cheesecake",
+          "price": 280.0,
+          "description": "Frambuaz lezzeti, çıtır bisküvi tabanı ve peynir dolgusu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411406.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cookie & Donutlar",
+      "products": [
+        {
+          "name": "Çikolatalı Cookie",
+          "price": 160.0,
+          "description": "Yoğun çikolata parçacıklı kurabiye",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66692469.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cookie Tart",
+          "price": 235.0,
+          "description": "Tart hamurunun içinde enfes çikolata parçacıkları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239570.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orman Meyveli Berliner",
+          "price": 195.0,
+          "description": "Orman meyveli dolgusu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79716572.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Siyez Unlu Peynirli Poğaça",
+          "price": 100.0,
+          "description": "Buğday unu, siyez unu ile yoğrulan hamur içinde peynir, dereotu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239556.jpg?width=150&height=150"
+        },
+        {
+          "name": "Üç Peynirli Bagel Sandviç",
+          "price": 240.0,
+          "description": "Zeytin ezmeli bagelin içine; beyaz peynir, kaşar peyniri, tam yağlı eritilmiş peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239565.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Hindi Fümeli Cheddarlı Ciabatta Sandviç",
+          "price": 260.0,
+          "description": "Ekşi mayalı ciabatta ekmeği arasına hindi füme, cheddar peynir ve ançüez ezmeli worcestershire sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarellalı Sandviç",
+          "price": 250.0,
+          "description": "Ekşi mayalı ciabatta ekmeği arasına mozzarella peyniri ve kurutulmuş domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239561.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Fümeli Cheddarlı Sandviç",
+          "price": 320.0,
+          "description": "Haşhaş süslemeli tahıl ekmeğinin arasına İtalyan sosu eşliğinde dana füme",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239562.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırın Sebzeli Peynirli Sandviç",
+          "price": 245.0,
+          "description": "Tam buğday ekmeği arasına pesto sos, fırınlanmış kabak ve patlıcan, havuç ve sarı biber ile cheddar ve kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239563.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antrikot Fümeli & Peynirli Bagel",
+          "price": 320.0,
+          "description": "Tahıllı bagel ekmeği arasına füme antrikot, hardallı labne sos ve cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411329.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Şişe İçecekler",
+      "products": [
+        {
+          "name": "Su (50 cl.)",
+          "price": 30.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Uludağ Premium Doğal Mineralli Su (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Organik Portakal Suyu",
+          "price": 125.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55434034.jpg?width=150&height=150"
+        },
+        {
+          "name": "Organik Kayısı Suyu",
+          "price": 125.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55434035.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pin Şeftali Aromalı Soğuk Çay (25 cl.)",
+          "price": 100.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74651279.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Glutensiz Grissini Çörek Otu ve Chialı Kraker",
+          "price": 110.0,
+          "description": "Çörek otu ve chialı glutensiz grissini",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411448.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cranberry Coconut Slim Bar (40 gr.)",
+          "price": 115.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55433995.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chocolate Chip Energy Bar (50 gr.)",
+          "price": 115.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55433996.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mom's Yaban Mersinli Granola Bites",
+          "price": 115.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55434000.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zencefilli Tarçınlı Kurabiye",
+          "price": 185.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55434002.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Mini Küp",
+          "price": 160.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55434003.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurularak Kurutulmuş Çilek",
+          "price": 150.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55434004.jpg?width=150&height=150"
+        },
+        {
+          "name": "Üzümlü Kaya Kurabiyesi",
+          "price": 190.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239597.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahıllı Kraker",
+          "price": 190.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60239600.jpg?width=150&height=150"
+        },
+        {
+          "name": "Organik Çilekli Kurabiye",
+          "price": 185.0,
+          "description": "Vegan paketli kurabiye",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74651132.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glutensiz Zeytinli Kekikli Kraker",
+          "price": 110.0,
+          "description": "Zeytinli ve kekikli glutensiz kraker",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411425.jpg?width=150&height=150"
+        },
+        {
+          "name": "Long Chips Orijinal Patates Cipsi",
+          "price": 155.0,
+          "description": "Sade patates cipsi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411505.jpg?width=150&height=150"
+        },
+        {
+          "name": "Long Chips Peynir Aromalı Patates Cipsi",
+          "price": 155.0,
+          "description": "Peynir aromalı patates cipsi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79411548.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Öğütülmüş Kahveler",
+      "products": [
+        {
+          "name": "Türk Kahvesi (100 gr.)",
+          "price": 104.9,
+          "description": "%100 Arabica çekirdeklerinden elde edilen, ağır ağır kavrulmuş Türk kahvesi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barista Intense Öğütülmüş Filtre Kahve (250 gr.)",
+          "price": 689.9,
+          "description": "Yoğun, aromatik karakter. Ağır ağır kavurulması sayesinde daha yoğun lezzet. French Press, filtre kahve makinesi ve mocha pot için uygun",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79848224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso Sicilia Style Öğütülmüş Kahve 250g",
+          "price": 599.9,
+          "description": "Tchibo Arabica, Robusta çekirdekleri. Güçlü, koyu notalı ve dolgun gövdeli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79848231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso Milano Style Öğütülmüş Kahve (250 gr.)",
+          "price": 599.9,
+          "description": "Kavrulmuş Tchibo Arabica kahvesi. Bitter çikolata notalı.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79848260.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Exclusive Filtre Kahve (250 gr.)",
+          "price": 494.9,
+          "description": "Tchibo Exclusive kahvesi, Güney Amerika'nın en iyi kahve plantasyonlarından elde edilir, zengin tadı ve eşsiz bir kahve keyfi sunar.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532074.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Feine Milde Filtre Kahve (2 x 250 gr.)",
+          "price": 999.9,
+          "description": "Doğal, hafif filtre kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532293.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Gold Selection Filtre Kahve (250 gr.)",
+          "price": 379.9,
+          "description": "Aromatik ve yumuşak içimli çözünebilir hazır kahvedir. Süt veya suyla karıştırarak makinesiz kullanabilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Privat Kaffee African Blue Filtre Kahve (250 gr.)",
+          "price": 689.9,
+          "description": "Siyah frenk üzümünün ince meyvemsi notası ile etkileyici lezzet %100 Arabica çekirdeklerinden oluşur.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532844.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Privat Kaffee Brazil Mild Filtre Kahve (250 gr.)",
+          "price": 689.9,
+          "description": "Yumuşak bir tada ve hafif fındıksı bir karaktere sahiptir. %100 Tchibo Arabica",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532975.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Privat Kaffee Latin Grande Filtre Kahve (250 gr.)",
+          "price": 689.9,
+          "description": "İnce bir çikolata notası ile dengeli tat %100 Arabica çekirdekleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80533025.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kapsül Kahveler",
+      "products": [
+        {
+          "name": "Tchibo Cafissimo Caffè Crema Fine Aroma 10'lu Kapsül Kahve",
+          "price": 299.9,
+          "description": "Kadifemsi kremalı yumuşak aroma Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Hafif aromalı yumuşak Caffè Crema Yoğunluk: 3/6 Asidite: 2/6",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tchibo Cafissimo Caffè Crema Rich Aroma 10'lu Kapsül Kahve",
+          "price": 299.9,
+          "description": "Dolgun bir tada sahip dengeli gövde Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Yoğunluk: 4/6 Asidite: 2/6",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tchibo Cafissimo Caffe Crema XL Wake Up 10'lu  Kapsül Kahve",
+          "price": 299.9,
+          "description": "Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Zarif kavurma aromaları ile güçlü aromatik Caffè Crema Yoğunluk: 4/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798033.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Coffee Fine Aroma 10'lu Kapsül Kahve",
+          "price": 299.9,
+          "description": "Dengeli bir gövdeye ve hafif kavrulmuş aromalara sahip yumuşak bir kahve Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Yoğunluk: 3/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798044.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Coffee Intense Aroma 10'lu Kapsül Kahve",
+          "price": 299.9,
+          "description": "İnce baharatlı bir tada ve yoğun aromaya sahip güçlü bir kahve Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Yoğunluk: 4/6 Asidite: 4/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798052.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Espresso Elegant Aroma 10'lu Kapsül Kahve",
+          "price": 299.9,
+          "description": "Zarif gövdeli tam aroma İnce baharatlı bir tada ve yoğun aromaya sahip güçlü bir kahve Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Kavurma: 4/6 Yoğunluk: 4/6 Asidite: 3/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798060.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Espresso Intense Aroma 10'lu Kapsül Kahve",
+          "price": 299.9,
+          "description": "Yoğun bir tada sahip güçlü aroma Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Sütle veya süt alternatifleri ile Cappucchino veya Latte Macchiatto olarak hazırlamak için mükemmel. Yoğunluk: 5/6 Asidite: 5/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798070.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Barista Espresso 10'lu  Kapsül Kahve",
+          "price": 319.9,
+          "description": "İnce fındık notasına sahip hafif sert aroma Geleneksel tamburlu kavurma. Saf veya süt ile kombine edilebilir. Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Kavurma: 6/6 Yoğunluk: 6/6 Asidite: 1/6 Gövde: 6/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798424.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Barista Espresso Brasil 10'lu Kapsül Kahve",
+          "price": 319.9,
+          "description": "Acımtrak bir aroma ve hafif bir fındık notası ile etkileyici. Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Kavurma: 6/6 Yoğunluk: 6/6 Asidite: 1/6 Gövde: 6/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798429.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Barista Caffè Crema 10'lu Kapsül Kahve",
+          "price": 319.9,
+          "description": "Üzümsü meyve notalarına sahip zarif aroma. Geleneksel tamburlu kavurma. Saf veya süt ile kombine edilebilir. Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz..Yoğunluk: 3/6 Asidite: 3/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798601.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Barista Caffè Crema Colombia 10'lu Kapsül Kahve",
+          "price": 319.9,
+          "description": "Aromatik & Yoğun İnce, baharatlı aroma ve misket limonu esintisiyle dolgun Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Kavurma: 3/6 Yoğunluk: 4/6 Asidite: 5/6 Gövde: 4/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798607.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Espresso Double Choc 10'lu Kapsül Kahve",
+          "price": 319.9,
+          "description": "Etkileyici Espresso yoğun çikolata aromasıyla buluşuyor. Sütle lezzetli bir çikolata notasına sahip Cappucchino veya Latte Macchiatto hazırlamak için mükemmel Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Yoğunluk: 5/6 Asidite: 1/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80798904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Cafissimo Espresso White Choc. & Almond 10'lu Kapsül Kahve LE",
+          "price": 319.9,
+          "description": "Dengeli espresso, beyaz çikolatanın tadıyla birleşerek bademin hafif fındıksı notalarıyla buluşuyor Şeker yok, tatlandırıcı yok, süt tozu yok - sadece beyaz çikolata ve bademin lezzetli aromasına sahip espresso Herhangi bir Cafissimo Kapsül Kahve Makinesi ile kullanabilirsiniz. Yoğunluk: 4/6",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80799094.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çekirdek Kahveler",
+      "products": [
+        {
+          "name": "Espresso Sicilia Style Çekirdek Kahve (500 gr.)",
+          "price": 989.9,
+          "description": "Güçlü, koyu notalı ve dolgun gövdeli, yoğun kavrulmuş çekirdek kahve",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Espresso Milano Style Çekirdek Kahve (500 gr.)",
+          "price": 989.9,
+          "description": "Elegan, meyvemsi ve çikolata notalı. 100% Tchibo Arabica çekirdeklerinden oluşur.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barista Espresso Dark Çekirdek Kahve (1 kg.)",
+          "price": 2.199,
+          "description": "Kavrulmuş fındıkların narin aromaları ve kadifemsi, koyu kremasıyla güçlü ve yoğun.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79848327.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barista Caffe Crema Çekirdek Kahve (1 kg.)",
+          "price": 2.199,
+          "description": "Yumuşak bir gövdeye ve zarif kırmızı üzümsü meyve ipuçlarına sahip aromatik ve uyumlu. Tchibo Arabica çekirdekleri.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79848332.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barista Espresso Çekirdek Kahve (500 gr.)",
+          "price": 1.269,
+          "description": "Yumuşak gövdeli ve yumuşak fındık notalı karakteristik ve yoğun. Tchibo Arabica çekirdekleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79848338.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barista Caffe Crema Çekirdek Kahve (500 gr.)",
+          "price": 1.269,
+          "description": "Yumuşak bir gövdeye ve zarif kırmızı üzümsü meyve ipuçlarına sahip aromatik ve uyumlu. Tchibo Arabica çekirdekleri.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79848344.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Gold Selection Çekirdek Kahve (1000 gr.)",
+          "price": 1.649,
+          "description": "Aromatik ve yumuşak içimlidir. Filtre Kahve makinesi, french press ve moka pot ile kullanabilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532718.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Gold Selection Çekirdek Kahve (500 gr.)",
+          "price": 879.9,
+          "description": "Aromatik ve yumuşak içimlidir. Filtre Kahve makinesi, french press ve moka pot ile kullanabilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532738.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Privat Kaffee African Blue Çekirdek Kahve (500 gr.)",
+          "price": 1.269,
+          "description": "Siyah frenk üzümünün ince meyvemsi notası ile etkileyici lezzet %100 Arabica çekirdekleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532833.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çözünebilir Kahveler",
+      "products": [
+        {
+          "name": "Tchibo Exclusive Decaf Çözünebilir Kahve (100 gr.)",
+          "price": 599.9,
+          "description": "Zengin lezzetli ve dolgun aromalı, kafeinsiz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80531995.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Gold Selection Çözünebilir Kahve (100 gr.)",
+          "price": 469.9,
+          "description": "Aromatik ve yumuşak içimli çözünebilir hazır kahvedir. Süt veya suyla karıştırarak makinesiz kullanabilirsiniz.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tchibo Gold Selection Çözünebilir Kahve (150 gr.)",
+          "price": 499.9,
+          "description": "Aromatik ve yumuşak içimli çözünebilir hazır kahvedir. Süt veya suyla karıştırarak makinesiz kullanabilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532770.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Gold Selection Çözünebilir Kahve (50 gr.)",
+          "price": 289.9,
+          "description": "Aromatik ve yumuşak içimli çözünebilir hazır kahvedir. Süt veya suyla karıştırarak makinesiz kullanabilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tchibo Gold Selection Çözünebilir Kahve (75 gr.)",
+          "price": 269.9,
+          "description": "Aromatik ve yumuşak içimli çözünebilir hazır kahvedir. Süt veya suyla karıştırarak makinesiz kullanabilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80532805.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Demleme Ekipmanları",
+      "products": [
+        {
+          "name": "Tchibo Filtre Kahve Kağıdı 101 numara (Küçük boy)",
+          "price": 149.9,
+          "description": "4 fincan boyutuna kadar tüm yaygın el filtreleri için uygundur. Tam aroma için ekstra ince gözenekli yapıya sahiptir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tchibo Filtre Kahve Kağıdı 4 numara (Büyük boy)",
+          "price": 149.9,
+          "description": "Tüm yaygın kahve makineleri için uygundur. Tam aroma için ekstra ince gözenekli yapıya sahiptir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

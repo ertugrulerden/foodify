@@ -1,0 +1,486 @@
+{
+  "link_hash": "7f312134",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "World of Sandy",
+  "link": "https://www.yemeksepeti.com/restaurant/cshg/world-of-sandy",
+  "categories": [
+    {
+      "name": "Avantajlı Menüler",
+      "products": [
+        {
+          "name": "Sandviç & Bowl",
+          "price": 419.25,
+          "description": "Seçeceğiniz Sandviç & Seçeceğiniz Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68117254.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sandviç & Pilav",
+          "price": 396.75,
+          "description": "Seçeceğiniz Sandviç & Seçeceğiniz Pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68118531.jpg?width=128&height=128"
+        },
+        {
+          "name": "Red Burger Menü",
+          "price": 359.25,
+          "description": "Seçeceğiniz Red Burger + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68656106.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Burger Menü",
+          "price": 306.75,
+          "description": "Seçeceğiniz White Burger + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68656112.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sandviç & İçecek Menü",
+          "price": 296.25,
+          "description": "Sandviç + İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Sandviç & Penne Menü",
+          "price": 321.75,
+          "description": "Seçeceğiniz Sandviç + Seçeceğiniz Penne Makarna",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Soğuk Sandviç",
+          "price": 217.5,
+          "description": "Akdeniz yeşillikleri, krem peynir, dana salam, domates, kaşar peyniri, közlenmiş biber chiabatta ekmek 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beef Sandy",
+          "price": 449.25,
+          "description": "(100 gr.) dana biftek, ızgara mevsim sebzeler, marul, közlenmiş biber, soğan turşusu. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosisli Sandviç",
+          "price": 217.5,
+          "description": "Dip sos, hardal sos, sosis, kornişon turşusu. chibatta ekmek 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Sandviç",
+          "price": 292.5,
+          "description": "Krem peynir, zeytin esmesi, marul, kurutulmuş domates, hellim peyniri, cheddar peyniri, kaşar peyniri chibatta ekmek 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Sandviç",
+          "price": 300.0,
+          "description": "Ton balık (150 gr), Sezar sos, marul, mısır, kapari, mor lahana turşusu, chibatta ekmek patates kızartması (200 gr)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vegan Sandviç",
+          "price": 247.5,
+          "description": "Krem peynir(opsiyonel labne), ızgara sebzeler, falafel, közlenmiş biber, kurutulmuş domates, chibatta ekmek patates kızartması(200 gr)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Tavuklu Sandviç",
+          "price": 240.0,
+          "description": "chiabatta ekmek acılı tavuk (100 gr) akdeniz yeşillik coleslaw kutulmuş domatez köz biber patates kızartması (200 gr)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/67945700.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte Sandviç",
+          "price": 315.0,
+          "description": "chiabatta ekmek 4 adet dana köfte(100 gr), marul, soğan turşusu, kurutulmuş domates, buffalo sos patates kızartması (200 gr)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67945701.jpg?width=150&height=150"
+        },
+        {
+          "name": "Falafel Sandviç",
+          "price": 247.5,
+          "description": "Süzme yoğurt, marul, soğan turşusu, közlenmiş biber, falafel, patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67945702.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Sandviç",
+          "price": 240.0,
+          "description": "Dip sos, çıtır yaprak tavuk, coleslaw, kornişon turşusu, domates, susam. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/67945703.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Sandviç",
+          "price": 232.5,
+          "description": "Dip sos, tavuk, marul, kaşar peyniri, soğan turşusu, susam. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67945704.jpg?width=150&height=150"
+        },
+        {
+          "name": "Special Patso Sandviç",
+          "price": 180.0,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, ızgara sosis, eritilmiş kaşar peyniri, ketçap, mayonez, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67945858.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosili Patso Sandviç",
+          "price": 217.5,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, ızgara sosis, ketçap, mayonez, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chddarlı Patso Sandviç",
+          "price": 187.5,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, cheddar peyniri, ketçap, mayonez, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Patso Sandviç",
+          "price": 180.0,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, eritilmiş kaşar peyniri, ketçap, mayonez, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Double Patso Sandviç",
+          "price": 240.0,
+          "description": "Sandviç ekmeğine; özel soslu 250 gr. patates kızartması, ketçap, mayonez, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Klasik Patso Sandviç",
+          "price": 157.5,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, ketçap, mayonez, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfteli Patso Sandviç",
+          "price": 270.0,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, ızgara köfte, ketçap, mayonez, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sebzeli Patso Sandviç",
+          "price": 195.0,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, ızgara mevsim sebzeleri, ketçap, mayonez, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Patso Sandviç",
+          "price": 210.0,
+          "description": "Sandviç ekmeğine; özel soslu 150 gr. patates kızartması, marine edilmiş tavuk, ketçap, mayonez, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/67946940.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Wraps & Burritos",
+      "products": [
+        {
+          "name": "Asian Wrap",
+          "price": 239.25,
+          "description": "Acı sos, göbek marul, Meksika fasulyesi, mısır, kornişon turşu, tavuk. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Falafel Wrap",
+          "price": 231.75,
+          "description": "Süzme yoğurt, marul, kurutulmuş domates, soğan turşusu, mısır, falafel. Patates kızartması (200 gr.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sezar Wrap",
+          "price": 239.25,
+          "description": "Sezar sos, marul, tavuk, kurutulmuş domates, parmesan peyniri. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfteli Wrap",
+          "price": 321.75,
+          "description": "Buffalo sos, 4 adet dana köfte, marul, kornişon turşu, çıtır soğan. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuk Wrap",
+          "price": 246.75,
+          "description": "Bufalo sos, marul, coleslaw, çıtır tavuk, kıtır soğan. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tuna Wrap",
+          "price": 269.25,
+          "description": "Sezar sos, coleslaw marul, soğan turşusu, ton balığı, 200 gr. patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68200867.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vegan Wrap",
+          "price": 231.75,
+          "description": "Izgara sebzeler, marul, mısır, mor lahana turşusu, dip sos. 200 gr patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68201030.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burrito",
+          "price": 276.75,
+          "description": "Buffalo sos, 150 gr. tavuk, mantar, mevsim biberler, karamelize soğan, kaşar peyniri, 200 gr. patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68201108.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte Buritto",
+          "price": 366.75,
+          "description": "Bufalo 6 adet dana köfte (150 gr.), sos, kızarmış mantar, kızarmış mevsim biberler, karamelize soğan, cheddar peyniri. Patates kızartması (200 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68201322.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cajun Crews",
+      "products": [
+        {
+          "name": "Crunchy Box",
+          "price": 270.0,
+          "description": "250 gr. çıtır tavuk, 200 gr. patates kızartması, ranch sos, barbekü sos, mayonez, 1 adet lavaş ekmek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Crunchy Box Extra",
+          "price": 367.5,
+          "description": "500 gr. çıtır tavuk, 300 gr. patates kızartması, 6 adet sos, 2 adet lavaş",
+          "img": null
+        },
+        {
+          "name": "Crunchy Mix",
+          "price": 240.0,
+          "description": "3 adet çıtır tavuk, 3 adet çıtır kanat, 200 gr. patates kızartması, 3 adet sos, 1 adet lavaş ekmek",
+          "img": null
+        },
+        {
+          "name": "Crunchy Big Mix",
+          "price": 285.0,
+          "description": "4 adet çıtır tavuk, 4 adet çıtır kanat, 200 gr. patates kızartması, 3 adet sos, 1 adet lavaş ekmek",
+          "img": null
+        },
+        {
+          "name": "Crunchy XXL Mix",
+          "price": 435.0,
+          "description": "6 adet çıtır tavuk, 6 adet çıtır kanat, 400 gr. patates kızartması, 6 adet sos, 2 adet lavaş",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Cheeseburger",
+          "price": 314.25,
+          "description": "100 gr. dana köfte, marul, domates, kornişon turşu, karamelize soğan, cheddar peyniri, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Biggest Burger",
+          "price": 426.75,
+          "description": "300 gr. dana burger köftesi, marul, domates, kornişon turşu, karamelize soğan, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Big Burger",
+          "price": 366.75,
+          "description": "200 gr. dana burger köftesi, marul, domates, kornişon turşu, karamelize soğan, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BBQ Burger",
+          "price": 314.25,
+          "description": "100 gr. dana köfte, marul, cheddar peyniri, kıtır soğan, BBQ sos, kornişon turşu. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chesse Dream Burger",
+          "price": 336.75,
+          "description": "100 gr. dana köfte, marul, domates, kornişon turşu, 2 dilim kaşar peyniri, 2 dilim cheddar peyniri, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68184460.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gurme Burger",
+          "price": 366.75,
+          "description": "200 gr. dana köfte, kornişon, cheddar peyniri, közlenmiş biber, kıtır soğan, bufalo sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68184481.jpg?width=150&height=150"
+        },
+        {
+          "name": "Klasik Burger",
+          "price": 306.75,
+          "description": "100 gr. dana köfte, marul, domates, kornişon turşu, karamelize soğan, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68185796.jpg?width=150&height=150"
+        },
+        {
+          "name": "Big Chesseburger",
+          "price": 374.25,
+          "description": "200 gr. dana burger köftesi, marul, domates, kornişon, karamelize soğan, cheddar peyniri, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68185805.jpg?width=150&height=150"
+        },
+        {
+          "name": "Biggest Cheeseburger",
+          "price": 434.25,
+          "description": "300 gr. dana burger köftesi, marul, domates, kornişon, karamelize soğan, cheddar peyniri, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68186134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet & Spicy Burger",
+          "price": 246.75,
+          "description": "Çıtır tavuk, ballı hardal, coleslaw, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68446421.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dead Homie Burger",
+          "price": 246.75,
+          "description": "Çıtır tavuk, özel Crunchy sos, coleslaw, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68447833.jpg?width=150&height=150"
+        },
+        {
+          "name": "Crunchy Beast Burger",
+          "price": 246.75,
+          "description": "Sriracha mayonez, çıtır tavuk, coleslaw salata, cheddar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68447926.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Nugget (6 Adet)",
+          "price": 90.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Kanat (3 Adet)",
+          "price": 112.5,
+          "description": "3 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Sticks (5 Adet)",
+          "price": 101.25,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Tenders (3 Adet)",
+          "price": 101.25,
+          "description": "3 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 67.5,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması (200 gr.)",
+          "price": 90.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Su (50 cl.)",
+          "price": 11.25,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 18.75,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 26.25,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (27 cl.)",
+          "price": 22.5,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67947134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67947135.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67947136.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67947137.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68132785.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ranch Sos",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hardal Sos",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mayonez",
+          "price": 3.75,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ketçap",
+          "price": 3.75,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/67947080.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "link_hash": "d94f5758",
+  "scraped_at": "260528_1215",
+  "restaurant_name": "McDonald's",
+  "link": "https://www.yemeksepeti.com/restaurant/th93/mcdonalds-th93",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Big Mac® Menü",
+          "price": 455.0,
+          "description": "Big Mac® + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770272.jpg?width=128&height=128"
+        },
+        {
+          "name": "Coca-Cola Fırsatı (McChicken®)",
+          "price": 400.0,
+          "description": "McChicken® + Patates Kızartması ( Orta) + Çıtır Soğan (8'li) + Coca-Cola Zero Sugar (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/36283959.jpg?width=128&height=128"
+        },
+        {
+          "name": "Coca-Cola Fırsatı (2'li Daba Daba Burger)",
+          "price": 680.0,
+          "description": "2 Adet Daba Daba Burger + Patates Kızartması (Orta) + Çıtır Soğan (5'li) + Coca-Cola Zero Sugar (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37039046.jpg?width=150&height=150"
+        },
+        {
+          "name": "McChicken® Menü",
+          "price": 390.0,
+          "description": "McChicken® + Patates Kızartması ( Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Süper)",
+          "price": 105.0,
+          "description": "Süper boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770334.jpg?width=150&height=150"
+        },
+        {
+          "name": "İkili Mekonomik Menü",
+          "price": 570.0,
+          "description": "2 Adet Seçeceğiniz Sandviç + 2 Adet Patates (Orta) + 2 Adet Coca-Cola (Çıtır Tavuk Ekstra ve Köfteburger seçimlerinde geçerlidir. McChicken® seçiminde 65 ₺ Daba Daba Burger seçiminde 65 ₺ Dbl. Cheeseburger seçiminde 125 ₺ Double Köfteburger seçiminde 90 ₺ Big Mac® seçiminde 140 ₺ fark alınmaktadır.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28322000.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Coca-Cola Fırsat Menüleri",
+      "products": [
+        {
+          "name": "Coca-Cola Fırsatı (2'li Daba Daba Burger)",
+          "price": 680.0,
+          "description": "2 Adet Daba Daba Burger + Patates Kızartması (Orta) + Çıtır Soğan (5'li) + Coca-Cola Zero Sugar (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37039046.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Fırsatı (McChicken®)",
+          "price": 400.0,
+          "description": "McChicken® + Patates Kızartması ( Orta) + Çıtır Soğan (8'li) + Coca-Cola Zero Sugar (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/36283959.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Fiyat",
+      "products": [
+        {
+          "name": "Yemeksepeti'ne Özel Menü (Köfteburger & Çıtır Tavuk Burger)",
+          "price": 500.0,
+          "description": "Köfteburger + Çıtır Tavuk Burger + Patates Kızartması (Orta) + Çıtır Soğan (8'li) + 2 Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65267975.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Süper Mario Galaksi Filmi Menüleri",
+      "products": [
+        {
+          "name": "Süper Mario Galaksi Filmi Double Cheeseburger Menüsü",
+          "price": 565.0,
+          "description": "Double Cheeseburger + Patates Kızartması (Orta) + İçecek (Orta Boy) + Jalapeno Mayonez + Trüf Mantar Aromalı Mayonez + 2 Adet Ücretsiz Sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79863105.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Mario Galaksi Filmi McChicken® Menüsü",
+          "price": 500.0,
+          "description": "McChicken® + Patates Kızartması (Orta) + İçecek (Orta Boy) + Jalapeno Mayonez + Trüf Mantar Aromalı Mayonez + 2 Adet Ücretsiz Sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79868625.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümler ve Dürüm Menüleri",
+      "products": [
+        {
+          "name": "İkili Dürüm Menü ( Adana Usulü Köfte Dürüm + Baharatlı Acılı Mayonezli Tenders Dürüm)",
+          "price": 595.0,
+          "description": "Adana Usulü Köfteli Dürüm + Baharatlı Acılı Mayonezli Tenders Dürüm + Patates Kızartması (Orta) + 8'li Soğan Halkası + 2 Adet Coca-Cola",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80687459.jpg?width=150&height=150"
+        },
+        {
+          "name": "İkili Dürüm Menü ( Adana Usulü Köfte Dürüm + Tatlı Turşulu Mayonezli Tenders Dürüm)",
+          "price": 595.0,
+          "description": "Adana Usulü Köfteli Dürüm + Tatlı Turşulu Mayonezli Tenders Dürüm + Patates Kızartması (Orta) + 8'li Soğan Halkası + 2 Adet Coca-Cola",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80895464.jpg?width=150&height=150"
+        },
+        {
+          "name": "Baharatlı Acılı Mayonezli Tenders Dürüm Menü",
+          "price": 295.0,
+          "description": "Baharatlı Acılı Mayonezli Tenders Dürüm + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80688244.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı Turşulu Mayonezli Tenders Dürüm Menü",
+          "price": 295.0,
+          "description": "Tatlı Turşulu Mayonezli Tenders Dürüm + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80688325.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Usulü Köfte Dürüm Menü",
+          "price": 395.0,
+          "description": "Adana Usulü Köfte Dürüm + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80688449.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Usulü Köfte Dürüm",
+          "price": 320.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80687475.jpg?width=150&height=150"
+        },
+        {
+          "name": "Baharatlı Acılı Mayonezli Tenders Dürüm",
+          "price": 220.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80687541.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı Turşulu Mayonezli Tenders Dürüm",
+          "price": 220.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80687546.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Mekonomik Menüler",
+      "products": [
+        {
+          "name": "İkili Mekonomik Menü",
+          "price": 570.0,
+          "description": "2 Adet Seçeceğiniz Sandviç + 2 Adet Patates (Orta) + 2 Adet Coca-Cola (Çıtır Tavuk Ekstra ve Köfteburger seçimlerinde geçerlidir. McChicken® seçiminde 65 ₺ Daba Daba Burger seçiminde 65 ₺ Dbl. Cheeseburger seçiminde 125 ₺ Double Köfteburger seçiminde 90 ₺ Big Mac® seçiminde 140 ₺ fark alınmaktadır.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28322000.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Mekonomik Menü",
+          "price": 855.0,
+          "description": "3 Adet Seçeceğiniz Sandviç + 3 Adet Patates (Orta) + 3 Adet Coca-Cola (Çıtır Tavuk Ekstra ve Köfteburger seçimlerinde geçerlidir. McChicken® seçiminde 65 ₺ Daba Daba Burger seçiminde 65 ₺ Dbl. Cheeseburger seçiminde 125 ₺ Double Köfteburger seçiminde 90 ₺ Big Mac® seçiminde 140 ₺ fark alınmaktadır.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28322001.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Aile Menüleri",
+      "products": [
+        {
+          "name": "Happy Meal® Çıtır Tavuklu Menü + McChicken® Menü",
+          "price": 420.0,
+          "description": "Çıtır Tavuk Burger (Sade) + 6'lı Kiraz Domates + McChicken® + Patates Kızartması (Orta) + Coca-Cola (Orta) + Ayran (28,5 cl.) + Oyuncak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Happy Meal® Etli Burger Menü + Köfte Burger Menü",
+          "price": 470.0,
+          "description": "Etliburger + 6'lı Kiraz Domates + Köfte Burger + Patates Kızartması (Orta) + Coca-Cola (Orta) + Ayran (28,5 cl.) + Oyuncak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79268435.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kova Menüleri",
+      "products": [
+        {
+          "name": "Tavuk Festivali Kova Menü (Tek Kişilik)",
+          "price": 475.0,
+          "description": "Çıtır Tavuk Burger + Tavuk Festivali Kovası - Tek Kişilik + (2'li McWings + 1 Chicken Tenders + 2 Adet Chicken McNugget® + 5'li Çıtır Soğan) + Patates Kızartması (Küçük) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/67686634.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cazip Teklifler",
+      "products": [
+        {
+          "name": "Köfte Burgerli ve Çıtır Tavuklu Fırsat Menü",
+          "price": 700.0,
+          "description": "2 Adet Köfte Burger + 2 Adet Çıtır Tavuk Burger + Patates Kızartması (Büyük) + 2 Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53818678.jpg?width=150&height=150"
+        },
+        {
+          "name": "2’li Spicy McCrispy™ Menü",
+          "price": 675.0,
+          "description": "2 Adet Spicy McCrispy™ + 2 Adet Patates Kızartması (Orta) + 2 Adet Sprite (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76265864.jpg?width=150&height=150"
+        },
+        {
+          "name": "İkili Big Mac® Menü",
+          "price": 810.0,
+          "description": "2 Adet Big Mac® + Patates Kızartması (Orta) + Coca-Cola (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770253.jpg?width=150&height=150"
+        },
+        {
+          "name": "Efsane İkili (Big Mac® + McChicken®)",
+          "price": 700.0,
+          "description": "Big Mac® + McChicken® + Patates Kızartması (Orta) + Coca-Cola (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770255.jpg?width=150&height=150"
+        },
+        {
+          "name": "BigMaç Menü",
+          "price": 840.0,
+          "description": "2 Adet Big Mac® + Patates Kızartması (Orta) + Chicken McNuggets® (4'lü) + Coca-Cola (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770252.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte Burgerli Fırsat Menüsü",
+          "price": 750.0,
+          "description": "4 Adet Köfte Burger + Patates Kızartması (Büyük) + 2 Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54143992.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Fırsat Menüsü",
+          "price": 650.0,
+          "description": "4 Adet Çıtır Tavuk Burger + Patates Kızartması (Büyük) + 2 Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54143993.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gamer Menü",
+          "price": 525.0,
+          "description": "Big Mac® + Patates Kızartması (Orta) + Chicken McNuggets® (4'lü) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770256.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Spicy McCrispy™ Menü",
+          "price": 400.0,
+          "description": "Spicy McCrispy + Patates Kızartması (Orta) + Sprite (Orta)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Triple Cheeseburger Menü",
+          "price": 510.0,
+          "description": "Triple Cheeseburger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/61657047.jpg?width=150&height=150"
+        },
+        {
+          "name": "Big Mac® Menü",
+          "price": 455.0,
+          "description": "Big Mac® + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770272.jpg?width=150&height=150"
+        },
+        {
+          "name": "McChicken® Menü",
+          "price": 390.0,
+          "description": "McChicken® + Patates Kızartması ( Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Cheeseburger Menü",
+          "price": 440.0,
+          "description": "Double Cheeseburger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770274.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Quarter Pounder® with Cheese Menü",
+          "price": 595.0,
+          "description": "Double Quarter Pounder + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770277.jpg?width=150&height=150"
+        },
+        {
+          "name": "Quarter Pounder® with Cheese Menü",
+          "price": 475.0,
+          "description": "Quarter Pounder + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770278.jpg?width=150&height=150"
+        },
+        {
+          "name": "Daba Daba Burger Menü",
+          "price": 405.0,
+          "description": "Daba Daba Burger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770281.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double McChicken® Menü",
+          "price": 430.0,
+          "description": "Double McChicken® + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770282.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Köfteburger Menü",
+          "price": 425.0,
+          "description": "Double Köfteburger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/26099064.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteburger Menü",
+          "price": 385.0,
+          "description": "Köfteburger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770288.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Menü",
+          "price": 380.0,
+          "description": "Hamburger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheeseburger Menü",
+          "price": 390.0,
+          "description": "Cheeseburger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37311355.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Big Mac® Menü",
+          "price": 560.0,
+          "description": "Double Big Mac® + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770290.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Burger Menü",
+          "price": 310.0,
+          "description": "Çıtır Tavuk Burger + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770291.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Crispy Tenders Menü",
+          "price": 340.0,
+          "description": "4'lü Crispy Tenders + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39946580.jpg?width=150&height=150"
+        },
+        {
+          "name": "Quarter Pounder® Deluxe with Cheese Menü",
+          "price": 485.0,
+          "description": "Quarter Pounder Deluxe + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67357984.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü McWings Menü (Orta)",
+          "price": 400.0,
+          "description": "4'lü McWings + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67686621.jpg?width=150&height=150"
+        },
+        {
+          "name": "McCrispy™ Menü",
+          "price": 400.0,
+          "description": "McCrispy + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72701514.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Quarter Pounder® Deluxe with Cheese Menü",
+          "price": 605.0,
+          "description": "Double Quarter Pounder® Deluxe with Cheese + Patates Kızartması (Orta) + Coca-Cola (Orta)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73948808.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çocuk Menüleri",
+      "products": [
+        {
+          "name": "Happy Meal® - Çıtır Tavuk Burger",
+          "price": 335.0,
+          "description": "Çıtır Tavuk Burger (Sade) + 6'lı Cherry Domates + Ayran (285 ml.) + Oyuncak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Happy Meal® - Etli Burger",
+          "price": 340.0,
+          "description": "Etli Burger + 6'lı Cherry Domates + Ayran (285 ml.) + Oyuncak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60857188.jpg?width=150&height=150"
+        },
+        {
+          "name": "Happy Meal® - Chicken McNuggets® 4 Parça",
+          "price": 330.0,
+          "description": "Chicken McNuggets® 4 Parça - 6'lı Cherry Domates + Ayran (285 ml.) + Oyuncak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60857187.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tek Ürünler",
+      "products": [
+        {
+          "name": "McCrispy™",
+          "price": 315.0,
+          "description": "McCrispy eti, marul, limonlu mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72701515.jpg?width=150&height=150"
+        },
+        {
+          "name": "Triple Cheeseburger",
+          "price": 415.0,
+          "description": "Burger köftesi, double peynir, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/61656935.jpg?width=150&height=150"
+        },
+        {
+          "name": "McChicken®",
+          "price": 275.0,
+          "description": "Burger köftesi, domates, marul, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770309.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Burger",
+          "price": 235.0,
+          "description": "Çıtır tavuk, marul, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770310.jpg?width=150&height=150"
+        },
+        {
+          "name": "Quarter Pounder® with Cheese",
+          "price": 380.0,
+          "description": "Burger köftesi, peynir, turşu, soğan, ketçap, mayonez, hardal",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770312.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Köfteburger",
+          "price": 320.0,
+          "description": "2 adet burger köftesi, domates, peynir, marul, ketçap, soğanlı yoğurt sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770313.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteburger",
+          "price": 270.0,
+          "description": "Burger köftesi, domates, peynir, marul, ketçap, soğanlı yoğurt sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770314.jpg?width=150&height=150"
+        },
+        {
+          "name": "Daba Daba Burger",
+          "price": 315.0,
+          "description": "Double tavuk, domates, marul, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770315.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Big Mac®",
+          "price": 465.0,
+          "description": "Double burger köftesi, peynir, marul, soğan, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770316.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Cheeseburger",
+          "price": 345.0,
+          "description": "Burger köftesi, double peynir, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770317.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double McChicken®",
+          "price": 320.0,
+          "description": "Double tavuk, marul, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770318.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Quarter Pounder® with Cheese",
+          "price": 500.0,
+          "description": "Double burger köftesi, peynir, turşu, soğan, ketçap, mayonez, hardal",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770319.jpg?width=150&height=150"
+        },
+        {
+          "name": "Big Mac®",
+          "price": 365.0,
+          "description": "Burger köftesi, peynir, marul, soğan, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770320.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger",
+          "price": 265.0,
+          "description": "Burger köftesi, turşu, soğan, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770321.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 275.0,
+          "description": "Burger köftesi, peynir, soğan, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770322.jpg?width=150&height=150"
+        },
+        {
+          "name": "Quarter Pounder® Deluxe with Cheese",
+          "price": 390.0,
+          "description": "Burger köftesi, peynir, ketçap, mayonez, hardal, soğan, turşu, domates, kalın kesim salata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67357983.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Quarter Pounder® Deluxe with Cheese",
+          "price": 510.0,
+          "description": "2 adet burger köftesi, 2 adet peynir, ketçap, mayonez, hardal, soğan, turşu, domates, kalın kesim salata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73948489.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spicy McCrispy™",
+          "price": 315.0,
+          "description": "Baharatlı biberli sos, salata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76265615.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Chicken McNuggets® - 6 Parça",
+          "price": 190.0,
+          "description": "6 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770326.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken McNuggets® - 9 Parça",
+          "price": 210.0,
+          "description": "9 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770327.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Süper)",
+          "price": 105.0,
+          "description": "Süper boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770334.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Büyük)",
+          "price": 95.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770335.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Orta)",
+          "price": 85.0,
+          "description": "Orta boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770336.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Küçük)",
+          "price": 75.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770337.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Soğan (8'li)",
+          "price": 100.0,
+          "description": "8 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770342.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Soğan (12'li)",
+          "price": 120.0,
+          "description": "12 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770343.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Soğan (16'lı)",
+          "price": 140.0,
+          "description": "16 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770344.jpg?width=150&height=150"
+        },
+        {
+          "name": "2’li Crispy Tenders",
+          "price": 100.0,
+          "description": "2 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39221848.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Crispy Tenders",
+          "price": 190.0,
+          "description": "4 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39945479.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li McWings",
+          "price": 140.0,
+          "description": "2 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67686610.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü McWings",
+          "price": 240.0,
+          "description": "4 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67686704.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Çuros Çikolata Soslu",
+          "price": 100.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770381.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çuros Karamel Soslu",
+          "price": 100.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770382.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Beyaz Çikolata Süslemeli Donut",
+          "price": 120.0,
+          "description": "Çilekli beyaz çikolata süslemeli donut",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37311352.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kakaolu Fındık Kremalı Donut",
+          "price": 120.0,
+          "description": "Kakaolu fındık kremalı donut",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37311353.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (Küçük)",
+          "price": 55.0,
+          "description": "250 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770449.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (Orta)",
+          "price": 60.0,
+          "description": "400 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770428.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (Büyük)",
+          "price": 70.0,
+          "description": "500 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770430.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (Süper)",
+          "price": 80.0,
+          "description": "750 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770431.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (Küçük)",
+          "price": 55.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770425.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (Orta)",
+          "price": 60.0,
+          "description": "400 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770424.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (Büyük)",
+          "price": 70.0,
+          "description": "500 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770426.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (Süper)",
+          "price": 80.0,
+          "description": "750 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770427.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (Küçük)",
+          "price": 55.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770437.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (Orta)",
+          "price": 60.0,
+          "description": "400 ml",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770439.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (Büyük)",
+          "price": 70.0,
+          "description": "500 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770438.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (Süper)",
+          "price": 80.0,
+          "description": "750 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770436.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (Küçük)",
+          "price": 55.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770442.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (Orta)",
+          "price": 60.0,
+          "description": "400 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770441.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (Büyük)",
+          "price": 70.0,
+          "description": "500 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770443.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (Süper)",
+          "price": 80.0,
+          "description": "750 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770444.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Limonata (Küçük)",
+          "price": 55.0,
+          "description": "250 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80354269.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Limonata (Orta)",
+          "price": 60.0,
+          "description": "400 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80354282.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Limonata (Büyük)",
+          "price": 70.0,
+          "description": "500 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80354289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Limonata (Süper)",
+          "price": 80.0,
+          "description": "750 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80354296.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (Küçük)",
+          "price": 55.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770447.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (Orta)",
+          "price": 60.0,
+          "description": "400 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770445.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (Büyük)",
+          "price": 70.0,
+          "description": "500 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770446.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (Süper)",
+          "price": 80.0,
+          "description": "750 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770448.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (Küçük)",
+          "price": 55.0,
+          "description": "250 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28811712.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (Orta)",
+          "price": 60.0,
+          "description": "400 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28811718.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (Büyük)",
+          "price": 70.0,
+          "description": "500 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28811732.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (Süper)",
+          "price": 80.0,
+          "description": "750 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28811740.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran",
+          "price": 40.0,
+          "description": "285 (ml.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770410.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mixology x Mango",
+          "price": 60.0,
+          "description": "Mango aromalı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60857384.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mixology x Çilek",
+          "price": 60.0,
+          "description": "Çilek aromalı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60857385.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su",
+          "price": 30.0,
+          "description": "500 (ml.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/26099185.jpg?width=150&height=150"
+        },
+        {
+          "name": "UHT Süt (200 ml.)",
+          "price": 69.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770412.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mario Milkshake (Büyük)",
+          "price": 100.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79861521.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mario Milkshake (Orta)",
+          "price": 90.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Milkshake Çilekli (Büyük)",
+          "price": 100.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28317864.jpg?width=150&height=150"
+        },
+        {
+          "name": "Milkshake Çikolatalı (Büyük)",
+          "price": 100.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28317866.jpg?width=150&height=150"
+        },
+        {
+          "name": "Milkshake Çilekli (Orta)",
+          "price": 90.0,
+          "description": "Orta boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28317845.jpg?width=150&height=150"
+        },
+        {
+          "name": "Milkshake Çikolatalı (Orta)",
+          "price": 90.0,
+          "description": "Orta boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28317851.jpg?width=150&height=150"
+        },
+        {
+          "name": "Milkshake Sade (Orta)",
+          "price": 90.0,
+          "description": "Orta boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67042936.jpg?width=150&height=150"
+        },
+        {
+          "name": "Milkshake Sade (Büyük)",
+          "price": 100.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67042986.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekstra Soslar",
+      "products": [
+        {
+          "name": "2 Buffalo & 2 Ranch Sos",
+          "price": 40.0,
+          "description": "2 adet Buffalo sos ve 2 adet Ranch Sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55898839.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü & Buffalo & Ballı Hardal & Ranch Sos",
+          "price": 40.0,
+          "description": "1 adet barbekü sos, 1 adet buffalo sos, 1 adet ballı hardal sos ve 1 adet ranch sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55898899.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ketçap",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770486.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770487.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770489.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770490.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770492.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buffalo Sos",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770493.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Hardal Sos",
+          "price": 12.0,
+          "description": "Adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68665639.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsaklı Mayonez",
+          "price": 12.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10770488.jpg?width=150&height=150"
+        },
+        {
+          "name": "8’li Sos Paketi",
+          "price": 70.0,
+          "description": "Ranch sos, Barbekü sos, Ballı Hardal, Buffalo Sos , Ketçap , Mayonez , Acı sos , Sarımsaklı mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78026716.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

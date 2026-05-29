@@ -1,0 +1,483 @@
+{
+  "link_hash": "89c87f32",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Nadide Et Döner",
+  "link": "https://www.yemeksepeti.com/restaurant/qo6a/nadide-et-doner-qo6a",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Tombik Ekmek Arası Et Döner (50 gr.) Menü",
+          "price": 425.0,
+          "description": "Tombik Ekmek Arası Et Döner (50 gr.) (Domates, marul) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703312.jpg?width=128&height=128"
+        },
+        {
+          "name": "Et Döner Dürüm (50 gr.) Menü",
+          "price": 425.0,
+          "description": "Et Döner Dürüm (50 gr.) + İçecek",
+          "img": null
+        },
+        {
+          "name": "İskender (Et Dönerden) +İçecek Menü 2",
+          "price": 525.0,
+          "description": "İskender (Et Dönerden) + İçecek",
+          "img": null
+        },
+        {
+          "name": "Et Döner Burger Menü",
+          "price": 560.0,
+          "description": "Et Döner Burger (Domates, marul) + İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası (Tam)",
+          "price": 150.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77700083.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ezogelin Çorbası (Tam)",
+          "price": 150.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77700089.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mercimek Çorbası (Az)",
+          "price": 130.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77700107.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ezogelin Çorbası (Az)",
+          "price": 130.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77700114.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Pirinç Pilavı",
+          "price": 125.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İç Pilavı",
+          "price": 145.0,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Gözlemeler",
+      "products": [
+        {
+          "name": "Kaşar Et Döner Gözleme (60 gr.)",
+          "price": 425.0,
+          "description": "Kaşar peyniri, et döner. Turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşar Et Döner Gözleme (100 gr.)",
+          "price": 525.0,
+          "description": "Kaşar peyniri, et döner. Turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşar Et Döner Gözleme (80 gr.)",
+          "price": 480.0,
+          "description": "Kaşar peyniri, et döner. Turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Köfteler",
+      "products": [
+        {
+          "name": "Akçaabat Köfte (1,5)",
+          "price": 799.0,
+          "description": "9 Adet köfte. Mevsim salatası, söğüş, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bursa Usulü Pideli Köfte (1,5)",
+          "price": 820.0,
+          "description": "18 Adet köfte. Mevsim salatası, söğüş, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87385110/500d3e8e-c0ab-4336-aea5-be81e67777ef.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bir Porsiyon Akçaabat Köfte",
+          "price": 550.0,
+          "description": "6 adet köfte, mevsim salatası, söğüş, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/86529897/1409a963-e6d0-4414-8784-baa04781b595.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Usulü Pideli Köfte",
+          "price": 560.0,
+          "description": "12 adet köfte. Mevsim salatası, söğüş, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/86529918/2695d88a-6eae-4bbe-8db4-19fa5ba659db.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yarım Ekmek Arası Köfte",
+          "price": 390.0,
+          "description": "Domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77700260.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti (Köfteden)",
+          "price": 599.0,
+          "description": "Mevsim salata, söğüş, turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77702930.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "İç Pilav Üstü Tavuk (150 gr.)",
+          "price": 570.0,
+          "description": "Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İç Pilav Üstü Tavuk (200 gr.)",
+          "price": 765.0,
+          "description": "Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İç Pilav Üstü Tavuk (120 gr.)",
+          "price": 485.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208866/f6e76ae8-b2ff-4259-94cd-52c4993639bf.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Dürüm (100 gr.)",
+          "price": 290.0,
+          "description": "Marul, domates, sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208867/9819ef7b-05bd-4cfb-a1dc-5736910485d1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Tavuk (200 gr.)",
+          "price": 715.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208868/6998c6c4-fde5-488e-8b83-16869a3e835a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Dürüm (80 gr.)",
+          "price": 240.0,
+          "description": "Marul, domates, sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208870/57e3ce51-6db3-4999-a03f-7dc2fccd74ed.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Dürüm (120 gr.)",
+          "price": 340.0,
+          "description": "Marul, domates, sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208871/3cf043bf-498b-49a0-af96-a84217ea8748.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Porsiyon (120 gr.)",
+          "price": 420.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208667/9bc52f7f-c43b-46f1-9ce8-13a392061a64.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Pilav Üstü (120 gr.)",
+          "price": 460.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208673/3192b883-1683-4982-95f6-6e6bca4ce47e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Porsiyon (150 gr.)",
+          "price": 460.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208674/2d7fe95e-97b6-424c-85eb-643f8195e27a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Porsiyon (200 gr.)",
+          "price": 655.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208675/5ca48202-5b93-43e7-a968-1c5830d3a837.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Pilav Üstü (150 gr.)",
+          "price": 540.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208676/6e4fc783-1d82-4cd2-b722-0947e1d8a826.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Tavuk Döner (120 gr.)",
+          "price": 340.0,
+          "description": "Domates, marul",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/86532075/989195e3-efde-43f5-99b8-94135a7cc997.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Tavuk Döner (80 gr.)",
+          "price": 210.0,
+          "description": "Domates, marul",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/86532778/a730ad26-c907-4539-9d36-fe8edd735155.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Tavuk Döner (100 gr.)",
+          "price": 255.0,
+          "description": "Domates, marul",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Et Dönerler",
+      "products": [
+        {
+          "name": "Et Döner Porsiyon(120 gr.)",
+          "price": 585.0,
+          "description": "Mevsim salata, söğüş, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Porsiyon (150 gr.)",
+          "price": 710.0,
+          "description": "Mevsim salata, söğüş, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Porsiyon (200 gr.)",
+          "price": 915.0,
+          "description": "Mevsim salata, söğüş, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Pilav Üstü (100 gr.)",
+          "price": 545.0,
+          "description": "Mevsim salata, söğüş, turşu , pirinç pilavı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Pilav Üstü (120 gr.)",
+          "price": 625.0,
+          "description": "Mevsim salata, söğüş, turşu , pirinç pilavı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87206390/2fc12a44-abd3-4931-ab3f-f0ddd0841db5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Pilav Üstü (150 gr.)",
+          "price": 745.0,
+          "description": "Mevsim salata, söğüş, turşu , pirinç pilavı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87206394/7a7afb48-f420-4722-afd2-874282efdb58.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Pilav Üstü (200 gr.)",
+          "price": 980.0,
+          "description": "Çıtır , mevsim salatası, turşu , Pilav ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87206398/2e4fedd0-bce2-4417-941d-88e2f7d59069.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Et Döner ( 80 gr )",
+          "price": 415.0,
+          "description": "Patates kızartması, turşu, sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208641/62ce505c-30cf-4eae-8ee1-a364dac7f26f.jpg?width=150&height=150"
+        },
+        {
+          "name": "İç Pilav Üstü Et (100 gr.)",
+          "price": 565.0,
+          "description": "Salata, turşu, iç pilavı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208642/d27e7998-d9cf-4d52-a63d-0ee1a27e0ca0.jpg?width=150&height=150"
+        },
+        {
+          "name": "İç Pilav Üstü Et (120 gr.)",
+          "price": 640.0,
+          "description": "Salata, turşu, iç pilavı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208643/df31ad7b-da9e-4846-841b-f22261c209f5.jpg?width=150&height=150"
+        },
+        {
+          "name": "İç Pilav Üstü Et (150 gr.)",
+          "price": 755.0,
+          "description": "Salata, turşu, iç pilavı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208644/75c72a1b-dac5-45a0-9276-1af3cee4b3ec.jpg?width=150&height=150"
+        },
+        {
+          "name": "İç Pilav Üstü Et (200 gr.)",
+          "price": 1.015,
+          "description": "Salata, turşu, iç pilavı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208645/3f83f0a9-886b-436b-98ee-ed88f05bc012.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Et Dönerden) (100 gr.)",
+          "price": 550.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208646/15becd32-ecc7-4cbc-8ba4-3f63f4409d68.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Et Dönerden) (120 gr.)",
+          "price": 630.0,
+          "description": "Salata, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208650/46659ee8-1338-4e8f-bb0f-bb10c2c65bab.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Et Dönerden) (150 gr.)",
+          "price": 730.0,
+          "description": "Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İskender (Et Dönerden) (200 gr.)",
+          "price": 960.0,
+          "description": "Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tombik Et Döner ( 60 gr )",
+          "price": 355.0,
+          "description": "Patates kızartması, turşu, sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Dürüm (60 gr.)",
+          "price": 355.0,
+          "description": "Patates kızartması, turşu, sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Dürüm (80 gr.)",
+          "price": 415.0,
+          "description": "Patates kızartması, turşu, sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Dürüm (100 gr.)",
+          "price": 460.0,
+          "description": "Patates kızartması, turşu, sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/87208672/63fd6ff3-dbca-4ad3-9cd1-8b8dffd03576.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Porsiyon(100 gr.)",
+          "price": 485.0,
+          "description": "Mevsim salata, söğüş, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/86522739/d8477a03-055b-470b-96eb-189d0c347fdb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Et Döner ( 100 gr )",
+          "price": 460.0,
+          "description": "Patates, turşu,sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/86529862/6484c75a-dbe1-4f68-8d9c-5ddf64e435db.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti (Et Dönerden)",
+          "price": 599.0,
+          "description": "Mevsim salata, söğüş, turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77702902.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması (Küçük Boy)",
+          "price": 80.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması (Büyük Boy)",
+          "price": 120.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77700147.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kızartma İçli Köfte (Adet)",
+          "price": 120.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qo6a/product/86529933/e1f80c96-63bc-4fa5-8b2e-2adec32af060.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Fırın Sütlaç",
+          "price": 185.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703219.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703226.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703199.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 60.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703183.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 35.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703156.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77703149.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

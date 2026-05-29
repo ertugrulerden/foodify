@@ -3,6 +3,7 @@ import { Work_Sans, Inter } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 import { AddressProvider } from "@/components/AddressContext";
+import { AuthModalProvider } from "@/components/AuthModalContext";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
@@ -33,8 +34,11 @@ export default function RootLayout({
       )}
     >
       <body className="min-h-full flex flex-col">
-        {/* AddressProvider: Adres bilgisini tüm uygulamaya sağlayan context */}
-        <AddressProvider>{children}</AddressProvider>
+        {/* AuthModalProvider: Giriş/Kayıt modallarını yöneten context */}
+        <AuthModalProvider>
+          {/* AddressProvider: Adres bilgisini tüm uygulamaya sağlayan context */}
+          <AddressProvider>{children}</AddressProvider>
+        </AuthModalProvider>
       </body>
     </html>
   );

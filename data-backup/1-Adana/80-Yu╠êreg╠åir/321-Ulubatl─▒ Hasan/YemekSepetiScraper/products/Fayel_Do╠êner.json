@@ -1,0 +1,112 @@
+{
+  "link_hash": "45b73220",
+  "scraped_at": "260528_0109",
+  "restaurant_name": "Fayel Döner",
+  "link": "https://www.yemeksepeti.com/restaurant/qjfn/fayel-doner",
+  "categories": [
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Kumru Sandviç",
+          "price": 184.0,
+          "description": "Sucuk, salam, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76452000.jpg?width=128&height=128"
+        },
+        {
+          "name": "Karışık Tost",
+          "price": 128.0,
+          "description": "Sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76640465.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 120.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76640466.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "İskender (Tavuk Dönerden)",
+          "price": 200.0,
+          "description": "Yoğurt, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76452032.png?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Dürüm",
+          "price": 144.0,
+          "description": "İsteğe göre domates, soğan, yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76452038.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Sandviç",
+          "price": 144.0,
+          "description": "İsteğe göre domates, soğan, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Gazoz (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Gazoz (25 cl.)",
+          "price": 64.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Şişe Kola (20 cl.)",
+          "price": 64.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 48.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76452374.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eker Ayran (27 cl.)",
+          "price": 48.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76452378.jpg?width=150&height=150"
+        },
+        {
+          "name": "Marsu (50 cl.)",
+          "price": 28.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76452381.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "link_hash": "60d9e40c",
+  "scraped_at": "260528_0055",
+  "restaurant_name": "Zeyn Waffle",
+  "link": "https://www.yemeksepeti.com/restaurant/ercc/zeyn-waffle",
+  "categories": [
+    {
+      "name": "Waffles",
+      "products": [
+        {
+          "name": "Special Waffle",
+          "price": 500.0,
+          "description": "Seçeceğiniz 3 çeşit meyve, 2 çeşit çikolata, 2 çeşit süsleme",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68271100.jpg?width=128&height=128"
+        },
+        {
+          "name": "Bardak Waffle",
+          "price": 400.0,
+          "description": "Seçeceğiniz 2 çeşit meyveler, 2 çeşit çikolatalar, 2 çeşit süslemeler",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68271255.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çubuk Waffle",
+          "price": 300.0,
+          "description": "Çubukta waffle hamuru içerisine; seçeceğiniz 2 çeşit meyveler, 2 çeşit çikolatalar, 2 çeşit süslemeler",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68271257.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Waffle (2 Katlı)",
+          "price": 698.0,
+          "description": "2 katlı waffle hamuru üzerine; seçeceğiniz 2 çeşit meyve, 2 çeşit çikolata, 2 çeşit süslemeler",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68271113.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 109.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68897141.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (20 cl.)",
+          "price": 90.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70138370.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 110.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68896941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bull (25 cl.)",
+          "price": 100.0,
+          "description": "On sekiz yaşından küçüklere enerji içeceklerinin satışı yapılmamaktadır. Alkol ile karıştırılarak veya beraber tüketilmemelidir. Çocuklar, 18 yaş altı kişiler, yaşlılar, diyabetikler, yüksek tansiyonu olanlar, gebe ve emzikli kadınlar, metabolik hastalığı olanlar, böbrek yetmezliği olanlar ile kafeine hassas kişiler için tavsiye edilmez. Sporcu içeceği değildir, yoğun fiziksel aktivite öncesinde, sırasında veya sonrasında tüketilmemelidir. Günlük 500 ml’den fazla tüketilmesi tavsiye edilmez.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Link Çilekli (20 cl.)",
+          "price": 59.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70139733.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 29.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70136343.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70140859.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

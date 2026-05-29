@@ -1,0 +1,463 @@
+{
+  "link_hash": "730d074d",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Öz Hanedan Glutensiz",
+  "link": "https://www.yemeksepeti.com/restaurant/e0j7/oz-hanedan-glutensiz",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Çiğ Köfte (Glutensiz)",
+          "price": 176.0,
+          "description": "10 sıkım çiğ köfte. Yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563081.jpg?width=128&height=128"
+        },
+        {
+          "name": "Lahmacun (Glutensiz)",
+          "price": 252.0,
+          "description": "Salata, ezme ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562867.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Şiş (Glutensiz)",
+          "price": 476.0,
+          "description": "Közlenmiş domates, közlenmiş biber, soğan, glutensiz ekmek, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562894.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlaç (Glutensiz)",
+          "price": 168.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glutensiz Kaşarlı Pide",
+          "price": 512.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/36289999.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide (Glutensiz)",
+          "price": 496.0,
+          "description": "Salata, günün ezmesi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/36288041.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Tavuk Şiş Menü",
+          "price": 480.0,
+          "description": "Tavuk Şiş (200 gr.) (Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, lavaş, salata, ezme, çiğ köfte, günün tatlısı ile) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Adana Kebap Menü",
+          "price": 624.0,
+          "description": "Adana Kebap (Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, tırnak pide, salata, ezme, çiğ köfte, günün tatlısı ile) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562298.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Et Dönerden) Menü",
+          "price": 720.0,
+          "description": "İskender (Et Dönerden) (Bulgur pilavı, salata, ezme, çiğ köfte, günün tatlısı ile) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35562310.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Şiş (1 kg.) (Pişirilmiş) Menü",
+          "price": 936.0,
+          "description": "Izgara Tavuk (1 kg.) (Pişirilmiş) (Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, salata, ezme, çiğ köfte, günün tatlısı ile) + Ayran (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562315.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Pirzola (1 kg.) (Pişirilmiş) Menü",
+          "price": 936.0,
+          "description": "Izgara Tavuk Pirzola (1 kg.) (Pişirilmiş) (Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, salata, ezme, çiğ köfte, günün tatlısı ile) + Ayran (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35562324.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş (500 gr.) (Pişirilmiş) Menü",
+          "price": 704.0,
+          "description": "Tavuk Şiş (500 gr.) (Pişirilmiş) (Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, tırnak pide, salata, ezme, çiğ köfte, günün tatlısı ile) + İçecek (2 Adet)",
+          "img": null
+        },
+        {
+          "name": "Izgara Köfte (500 gr.) (Pişirilmiş) Menü",
+          "price": 1.16,
+          "description": "Izgara Köfte (500 gr.) (Pişirilmiş) (Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, tırnak pide, salata, ezme, çiğ köfte, günün tatlısı ile) + İçecek (2 Adet)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 168.0,
+          "description": "Ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kebaplar & Izgaralar",
+      "products": [
+        {
+          "name": "Adana Kebap",
+          "price": 584.0,
+          "description": "150 gr. Adana kebap. Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, tırnak pide, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Urfa Kebap",
+          "price": 584.0,
+          "description": "150 gr. Urfa kebap. Bulgur pilavı, közlenmiş domates, közlenmiş biber, sumaklı soğan, tırnak pide, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyti Kebap (Açık)",
+          "price": 656.0,
+          "description": "Yoğurt, bulgur pilavı, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562410.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Kebap",
+          "price": 656.0,
+          "description": "Kıymadan. Yoğurt, bulgur pilavı, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562418.jpg?width=150&height=150"
+        },
+        {
+          "name": "Special Tepsi Kebabı (2 Kişilik)",
+          "price": 2.64,
+          "description": "Adana kebap, et şiş, ızgara köfte, patlıcanlı kebap, ızgara tavuk kanat, tavuk şiş, fındık lahmacun. Közlenmiş biber, közlenmiş domates, soğan, bulgur pilavı, lavaş, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35562524.jpg?width=150&height=150"
+        },
+        {
+          "name": "Special Hanedan Kebap (Tek Kişilik)",
+          "price": 1.56,
+          "description": "Adana kebap, et şiş, ızgara köfte, patlıcanlı kebap, ızgara kanat, tavuk şiş, fındık lahmacun. Közlenmiş biber, közlenmiş domates, soğan, bulgur pilavı, lavaş, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562612.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Adana Dürüm",
+          "price": 568.0,
+          "description": "Domates, yeşillik, isteğe göre soğan. Günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Urfa Dürüm",
+          "price": 568.0,
+          "description": "Domates, yeşillik, isteğe göre soğan. Günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Şiş Dürüm",
+          "price": 568.0,
+          "description": "5 adet et şiş, domates, yeşillik, isteğe göre soğan. Günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ciğer Şiş Dürüm",
+          "price": 520.0,
+          "description": "5 adet ciğer şiş, domates, yeşillik, isteğe göre soğan. Günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Şiş Dürüm",
+          "price": 424.0,
+          "description": "Domates, yeşillik, isteğe göre soğan. Günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Et Dönerler",
+      "products": [
+        {
+          "name": "Et Döner",
+          "price": 596.0,
+          "description": "Bulgur pilavı, közlenmiş domates, közlenmiş biber, soğan, salata, ezme, günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner (Glutensiz)",
+          "price": 616.0,
+          "description": "Bulgur pilavı, közlenmiş domates, közlenmiş biber & soğan, salata, ezme ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Glutensiz İskender (Et Dönerden)",
+          "price": 672.0,
+          "description": "Yoğurt, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563036.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Glutensiz Ürünler",
+      "products": [
+        {
+          "name": "Çiğ Köfte (Glutensiz)",
+          "price": 176.0,
+          "description": "10 sıkım çiğ köfte. Yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lahmacun (Glutensiz)",
+          "price": 252.0,
+          "description": "Salata, ezme ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Adana Kebap (Glutensiz)",
+          "price": 608.0,
+          "description": "Közlenmiş domates, közlenmiş biber, soğan, glutensiz ekmek, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562859.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Kebap (Glutensiz)",
+          "price": 672.0,
+          "description": "Kıymadan. Salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562880.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş (Glutensiz)",
+          "price": 476.0,
+          "description": "Közlenmiş domates, közlenmiş biber, soğan, glutensiz ekmek, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562894.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Kanat (Glutensiz)",
+          "price": 544.0,
+          "description": "Közlenmiş domates, közlenmiş biber, soğan, glutensiz ekmek, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562916.jpg?width=150&height=150"
+        },
+        {
+          "name": "Special Şiş (Glutensiz)",
+          "price": 704.0,
+          "description": "4 adet et şiş, 4 adet ciğer şiş. Közlenmiş domates, közlenmiş biber, soğan, glutensiz ekmek, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35562990.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ciğer Şiş (Glutensiz)",
+          "price": 672.0,
+          "description": "8 adet. Közlenmiş domates, közlenmiş biber, soğan, glutensiz ekmek, salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563016.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide (Glutensiz)",
+          "price": 496.0,
+          "description": "Salata, günün ezmesi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/36288041.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glutensiz Kaşarlı Pide",
+          "price": 512.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/36289999.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması (Orta)",
+          "price": 176.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Ezme",
+          "price": 88.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yoğurt",
+          "price": 88.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yoğurtlu Meze",
+          "price": 96.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35561875.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glütensiz Kızartma İçli Köfte",
+          "price": 136.0,
+          "description": "Bulgurun içerisine doldurulan kıyma, soğan ve baharatlarla hazırlanan bir yemektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35561883.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte",
+          "price": 168.0,
+          "description": "10 sıkım. Yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35561903.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bulgur Pilavı",
+          "price": 80.0,
+          "description": "Salçalı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563167.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş",
+          "price": 32.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563177.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Mevsim Salata",
+          "price": 156.0,
+          "description": "Mevsim yeşillikleri, mevsim sebzeleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çoban Salata",
+          "price": 184.0,
+          "description": "Domates, salatalık, biber, isteğe göre soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Sütlaç (Glutensiz)",
+          "price": 168.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Künefe",
+          "price": 184.0,
+          "description": "Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563405.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 96.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 96.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 96.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563703.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 96.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563710.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 96.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563755.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 72.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563863.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (22 cl.)",
+          "price": 64.0,
+          "description": "Küçük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563772.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563875.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 32.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yayık Ayran (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35563934.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Ürünler (Pişirilmiş)",
+      "products": [
+        {
+          "name": "Izgara Köfte (500 gr.) (Pişirilmiş)",
+          "price": 1.04,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, bulgur pilavı, lavaş, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Köfte (1 kg.) (Pişirilmiş)",
+          "price": 2.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, bulgur pilavı, lavaş, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Şiş (500 gr.) (Pişirilmiş)",
+          "price": 640.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, bulgur pilavı, lavaş, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Şiş (1 kg.) (Pişirilmiş)",
+          "price": 952.0,
+          "description": "Közlenmiş domates, közlenmiş biber, sumaklı soğan, bulgur pilavı, lavaş, salata, ezme, çiğ köfte, günün tatlısı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "link_hash": "9e1136da",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Fikr-Et",
+  "link": "https://www.yemeksepeti.com/restaurant/fl27/fikr-et",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Fikr-Et Burger",
+          "price": 595.0,
+          "description": "Füme et, cheddar peyniri, karamelize soğan. Patates kızartması, ketçap, mayonez.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754324.jpg?width=128&height=128"
+        },
+        {
+          "name": "Fikr-Et Smash Burger",
+          "price": 585.0,
+          "description": "100. Gr Köfte Karamelize Soğan Double Cheddar Füme Et Burger Sos Tereyağ",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66463638.jpg?width=128&height=128"
+        },
+        {
+          "name": "Adana Kebap",
+          "price": 650.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754285.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Dürüm",
+          "price": 440.0,
+          "description": "Közlenmiş domates, közlenmiş biber, yeşillik, limon, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754317.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tulum Peynirli Salata",
+          "price": 330.0,
+          "description": "Tulum peyniri, lolorosso, polorosso, iceberg marul, kıvırcık marul, roka, endivyen, soya filizi, mısır, elma, nar, cherry domates, kuru üzüm, ceviz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754325.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-Et Smash Burger (150 gr.)",
+          "price": 640.0,
+          "description": "150 gr. köfte, karamelize soğan, double cheddar peyniri, füme et, burger sos tereyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67867927.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kebaplar",
+      "products": [
+        {
+          "name": "Ciğer",
+          "price": 715.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaburga Şiş",
+          "price": 715.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754284.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Kebap",
+          "price": 650.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754285.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Külbastı",
+          "price": 1.045,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754286.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş",
+          "price": 605.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754288.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Çöp Şiş",
+          "price": 685.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon, süzme yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarma Beyti Kebap (1.5 Porsiyon)",
+          "price": 1.035,
+          "description": "Lavaşa sarılı, soslu, yoğurtlu. Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754290.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti Kebap (Açık) (1.5 Porsiyon)",
+          "price": 1.015,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754291.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşı Şiş",
+          "price": 685.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754292.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Kebap",
+          "price": 770.0,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, turp, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754293.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kebap (2 Kişilik)",
+          "price": 2.2,
+          "description": "1,5 porsiyon Adana kebap, 1/2 kazbaşı, 1/2 külbastı, 1/2 yağlı kara",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754294.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kebap (3 Kişilik)",
+          "price": 3.11,
+          "description": "1,5 porsiyon Adana kebap, beyti kebap, kazbaşı, külbastı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754295.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Kanat",
+          "price": 605.0,
+          "description": "Mevsim salata, soğan salatası, közlenmiş soğan, közlenmiş domates, közlenmiş biber, yeşillik, turp, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754315.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-et Kebap (1 Kişilik )",
+          "price": 685.0,
+          "description": "(140 gr.) cevizli kıyma, lavaş ekmeği üzerinde soslu soğan, soğan salatası, mevsim salatası, ezme, pişmiş soğan ,domates, biber, sarımsak, yeşillik, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/29460252.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-et Kebap (2 Kişilik)",
+          "price": 1.21,
+          "description": "(250 gr.) cevizli kıyma, lavaş ekmeği üzerinde soslu soğan ile servis edilmektedir. Soğan salatası, mevsim salatası, ezme, pişmiş soğan, domates, biber, sarımsak, yeşillik, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/29460324.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patlıcan Kebabı",
+          "price": 1.09,
+          "description": "Mevsim salatası, soğan salatası, közlenmiş soğan, közlenmiş domates, ezme, biber, yeşillik, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72712122.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Fikr-Et Burger",
+          "price": 595.0,
+          "description": "Füme et, cheddar peyniri, karamelize soğan. Patates kızartması, ketçap, mayonez.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754324.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-et Acılı Burger",
+          "price": 585.0,
+          "description": "100 gr. burger köftesi, double cheddar peyniri, füme et, tatlı acı sos, tereyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66463602.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-Et Crispy Burger",
+          "price": 585.0,
+          "description": "100 Gr. Köfte Füme Et Kıtır Soğan Kibrit Patates Double Cheddar Karamelize Soğan Burger Sos Tereyağ",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66463616.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikret Crispy Burger (150 gr.)",
+          "price": 640.0,
+          "description": "150 gr. servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67867925.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-Et Smash Burger",
+          "price": 585.0,
+          "description": "100. Gr Köfte Karamelize Soğan Double Cheddar Füme Et Burger Sos Tereyağ",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66463638.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-et Ev Burger",
+          "price": 485.0,
+          "description": "100 Grç Köfte Marul Domates Salatalık Turşusu Ketçap Mayonez Tereyağ",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66463669.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-et Tavuk Burger",
+          "price": 470.0,
+          "description": "120 gr. tavuk göğüs, cheddar sos, közlenmiş domates, roka, kuru soğan, turşu, tereyağı, burger sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66463685.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikret Burger (150 gr.)",
+          "price": 650.0,
+          "description": "Domates, marul, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67867926.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-Et Smash Burger (150 gr.)",
+          "price": 640.0,
+          "description": "150 gr. köfte, karamelize soğan, double cheddar peyniri, füme et, burger sos tereyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67867927.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikret Acılı Burger (150 gr.)",
+          "price": 640.0,
+          "description": "150 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67867928.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikret Ev Burger (150 gr.)",
+          "price": 540.0,
+          "description": "Burger köftesi, domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67867929.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Izgaralar",
+      "products": [
+        {
+          "name": "Lokum",
+          "price": 1.76,
+          "description": "Tulum peynirli salata, fırınlanmış patates, çavdar ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754298.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Spaghetti",
+          "price": 1.65,
+          "description": "Tulum peynirli salata, çavdar ekmeği, fırınlanmış patates ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754299.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kasap Köfte (200 gr.)",
+          "price": 715.0,
+          "description": "Tulum peynirli salata, fırınlanmış patates, çavdar ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/6754305.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Köfte (250 gr.)",
+          "price": 825.0,
+          "description": "Tulum peynirli salata, fırınlanmış patates, çavdar ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/6754306.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Steak",
+          "price": 2.2,
+          "description": "100 gr. antrikot, 100 gr. yaprak et, 100 gr. kuzu pirzola, 2 parça kuzu kol",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754316.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-et Spagetti",
+          "price": 1.65,
+          "description": "Tulum peynirli salata, çavdar ekmeği, fırınlanmış patates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/fl27/product/32679014/74249d16-e295-43a9-9ff4-3505fdee5d97.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fikr-et Yaprak Et",
+          "price": 1.65,
+          "description": "Tulum peynirli salata, çavdar ekmeği, fırınlanmış patates ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24937266.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Antrikot",
+          "price": 1.87,
+          "description": "Tulum peynirli salata, fırınlanmış patates, çavdar ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/26840557.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Adana Dürüm",
+          "price": 440.0,
+          "description": "Közlenmiş domates, közlenmiş biber, yeşillik, limon, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754317.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Şiş Dürüm",
+          "price": 475.0,
+          "description": "Közlenmiş domates, közlenmiş biber, yeşillik, limon, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754318.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Çöp Şiş Dürüm",
+          "price": 475.0,
+          "description": "Közlenmiş domates, közlenmiş biber, yeşillik, limon, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754319.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ciğer Şiş Dürüm",
+          "price": 475.0,
+          "description": "Közlenmiş domates, közlenmiş biber, yeşillik, limon, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754320.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş Dürüm",
+          "price": 400.0,
+          "description": "Közlenmiş domates, közlenmiş biber, yeşillik, limon, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754321.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Mezeler",
+      "products": [
+        {
+          "name": "Çiğ Köfte (200 gr.)",
+          "price": 300.0,
+          "description": "Marul, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74450756.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Tulum Peynirli Salata",
+          "price": 330.0,
+          "description": "Tulum peyniri, lolorosso, polorosso, iceberg marul, kıvırcık marul, roka, endivyen, soya filizi, mısır, elma, nar, cherry domates, kuru üzüm, ceviz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754325.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avokado Salata",
+          "price": 375.0,
+          "description": "Avokado, iceberg marul, tulum peyniri, lolorosso, polorosso, kıvırcık marul, roka, endivyen, soya filizi, mısır, elma, nar, cherry domates, kuru üzüm, ceviz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754326.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gavurdağı Salata",
+          "price": 310.0,
+          "description": "Ceviz ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754327.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Havuç Dilimi Baklava",
+          "price": 295.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754328.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kabak Tatlısı",
+          "price": 215.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754329.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Kadayıf",
+          "price": 295.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68770218.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Baharatlı Patates Cipsi",
+          "price": 215.0,
+          "description": "Baharatlı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Çiçeği",
+          "price": 275.0,
+          "description": "Kızartılmış soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/34970574.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "price": 195.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35184886.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Stick",
+          "price": 275.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68696972.jpg?width=150&height=150"
+        },
+        {
+          "name": "İç Pilav",
+          "price": 150.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Full Mix",
+          "price": 320.0,
+          "description": "Mozzarella sticks, baharatlı patates kızartması, çıtır tavuk",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 90.0,
+          "description": "Gazlı içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 90.0,
+          "description": "Gazlı içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 90.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754339.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 90.0,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754341.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754346.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Mango (33 cl.)",
+          "price": 90.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754348.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754349.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 65.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754353.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6754354.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Hardal",
+          "price": 10.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ketçap",
+          "price": 10.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 10.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 10.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52880567.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 10.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52880700.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

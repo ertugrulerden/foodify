@@ -1,11 +1,13 @@
 "use client"
-import {useRouter , useSearchParams} from "next/navigation"
-import type {Platform} from "@/lib/data/types"
+import { useState, useEffect } from "react"
+import { useRouter , useSearchParams } from "next/navigation"
+import type { Platform } from "@/lib/data/types"
 import { Separator } from "@/components/ui/separator"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Button } from "@/components/ui/button"
-import { RotateCcw } from "lucide-react"
+import { RotateCcw, Star } from "lucide-react"
+import Image from "next/image"
 
 export function FilterSidebar({ platforms }: {
   platforms: Platform[]
@@ -15,8 +17,13 @@ export function FilterSidebar({ platforms }: {
     const searchParams = useSearchParams()
     const selectedPlatforms = searchParams.get("platforms")?.split(",") ?? []
 
-    function updateURL(newPlatforms?:string[],newMinPrice?:string,newMaxPrice?:string,sortBy?:string)
+    const [ratingValue, setRatingValue] = useState(searchParams.get("minRating") ?? "0")
 
+    useEffect(() => {
+        setRatingValue(searchParams.get("minRating") ?? "0")
+    }, [searchParams])
+
+    function updateURL(newPlatforms?:string[],newMinPrice?:string,newMaxPrice?:string,sortBy?:string, minRating?:string)
     {
         const url  = new URLSearchParams(searchParams.toString())
         const q = searchParams.get("q")
@@ -54,6 +61,13 @@ export function FilterSidebar({ platforms }: {
                 url.set("sortBy",sortBy)
             }
         }
+        if(minRating !== undefined) {
+            if(minRating === "0" || minRating === "") {
+                url.delete("minRating")
+            } else {
+                url.set("minRating", minRating)
+            }
+        }
         router.push(`/search?${url.toString()}`)
 
     }
@@ -63,47 +77,121 @@ export function FilterSidebar({ platforms }: {
     updateURL(updated)
     }
     function resetFilters(){
-        updateURL([],"","","")
+        setRatingValue("0")
+        updateURL([],"","","","")
     }
-    return (
-        <div className="w-72 border p-4 rounded shrink-0 sticky top-5 h-full">
-            <h2 className="font-bold mb-2">Platformlar</h2>
-            <div>
-                {platforms.map((p)=>(
-                    <label key={p.platformID} className="flex items-center gap-2 
-                    py-0.5 cursor-pointer hover:text-foreground transition-colors">
-                    
-                    <input  type="checkbox" className="accent-green-600 h-4 w-4 rounded border-gray-300 cursor-pointer"
-                            name="platform" 
-                            value={p.platform}
-                            checked={selectedPlatforms.includes(p.platform)}
-                            onChange={()=> handlePlatformChange(p.platform)}
 
-                   /><span className="text-sm">{p.platform}</span></label>
+    const currentSort = searchParams.get("sortBy") ?? "0"
+
+    const platformLogos: Record<string, string> = {
+        "Yemeksepeti": "/yemeksepeti52.png",
+        "Uber Eats": "/ubereats52.png",
+        "GetirYemek": "/getir52.png",
+        "Migros Yemek": "/migros52.png"
+    }
+
+    return (
+        <div className="w-72 border p-4 rounded shrink-0 sticky top-5 h-full bg-white shadow-sm">
+            <h2 className="font-bold mb-3 text-slate-800">Sıralama</h2>
+            <div className="flex flex-col gap-2.5 mb-5">
+                <label className="flex items-center gap-2 cursor-pointer hover:text-primary transition-colors group">
+                    <input type="radio" name="sortBy" value="0" className="accent-primary w-4 h-4 cursor-pointer" checked={currentSort === "0"} onChange={(e) => updateURL(undefined, undefined, undefined, e.target.value)} />
+                    <span className="text-sm font-medium text-slate-600 group-hover:text-primary">Fiyat: Artan</span>
+                </label>
+                <label className="flex items-center gap-2 cursor-pointer hover:text-primary transition-colors group">
+                    <input type="radio" name="sortBy" value="1" className="accent-primary w-4 h-4 cursor-pointer" checked={currentSort === "1"} onChange={(e) => updateURL(undefined, undefined, undefined, e.target.value)} />
+                    <span className="text-sm font-medium text-slate-600 group-hover:text-primary">Fiyat: Azalan</span>
+                </label>
+                <label className="flex items-center gap-2 cursor-pointer hover:text-primary transition-colors group">
+                    <input type="radio" name="sortBy" value="2" className="accent-primary w-4 h-4 cursor-pointer" checked={currentSort === "2"} onChange={(e) => updateURL(undefined, undefined, undefined, e.target.value)} />
+                    <span className="text-sm font-medium text-slate-600 group-hover:text-primary">Puana Göre</span>
+                </label>
+            </div>
+            <Separator className="my-5" />
+
+            <h2 className="font-bold mb-3 text-slate-800">Minimum Puan</h2>
+            <div className="flex flex-col gap-3 mb-5">
+                <div className="flex justify-between items-center h-8">
+                    <span className="text-sm font-medium text-slate-600">Filtrele</span>
+                    {ratingValue > "0" ? (
+                        <div className="flex items-center gap-1.5 bg-yellow-50 text-yellow-700 px-2.5 py-1 rounded-md border border-yellow-200">
+                            <Star className="w-3.5 h-3.5 fill-yellow-500 text-yellow-500" />
+                            <span className="text-sm font-bold">{Number(ratingValue).toFixed(1)}</span>
+                            <span className="text-xs font-medium opacity-80">ve üzeri</span>
+                        </div>
+                    ) : (
+                        <div className="flex items-center bg-slate-100 text-slate-500 px-2.5 py-1 rounded-md border">
+                            <span className="text-xs font-medium">Tümü</span>
+                        </div>
+                    )}
+                </div>
+                <div className="relative pt-2 pb-1">
+                    <input 
+                        type="range" 
+                        min="0" 
+                        max="5" 
+                        step="0.1" 
+                        value={ratingValue}
+                        onChange={(e) => setRatingValue(e.target.value)}
+                        onMouseUp={(e) => updateURL(undefined, undefined, undefined, undefined, (e.target as HTMLInputElement).value)}
+                        onTouchEnd={(e) => updateURL(undefined, undefined, undefined, undefined, (e.target as HTMLInputElement).value)}
+                        className="w-full h-1.5 bg-slate-200 rounded-lg appearance-none cursor-pointer accent-primary hover:accent-primary/80 transition-all outline-none focus:ring-2 focus:ring-primary/20 focus:ring-offset-2"
+                        style={{
+                            background: `linear-gradient(to right, #16a34a ${(Number(ratingValue) / 5) * 100}%, #e2e8f0 ${(Number(ratingValue) / 5) * 100}%)`
+                        }}
+                    />
+                </div>
+            </div>
+            
+            <Separator className="my-5" />
+
+            <h2 className="font-bold mb-3 text-slate-800">Platformlar</h2>
+            <div className="flex flex-col gap-3">
+                {platforms.map((p)=>(
+                    <label key={p.platformID} className="flex items-center gap-3 py-1 cursor-pointer hover:text-primary transition-colors group">
+                    
+                        <input  type="checkbox" className="accent-primary h-4 w-4 rounded border-slate-300 cursor-pointer"
+                                name="platform" 
+                                value={p.platform}
+                                checked={selectedPlatforms.includes(p.platform)}
+                                onChange={()=> handlePlatformChange(p.platform)}
+                        />
+                        {platformLogos[p.platform] && (
+                            <Image src={platformLogos[p.platform]} alt={p.platform} width={24} height={24} className="rounded-md object-contain" />
+                        )}
+                        <span className="text-sm font-medium text-slate-600 group-hover:text-primary">{p.platform}</span>
+                    </label>
                 ))} 
             </div>
-            <h2 className="font-bold mt-4 mb-2">Fiyat Aralığı</h2>
-            <div className="flex gap-2">
-                <input  type="number" placeholder="Min"
-                        value={searchParams.get("minPrice") ?? ""}
-                        onChange={(e)=> updateURL(undefined,e.target.value,undefined,undefined)}
-                        className="border p-1 w-full rounded"
-                /> 
-                <span className="self-center">-</span>
-                <input type="number" placeholder="Max"
-                value={searchParams.get("maxPrice") ?? ""}
-                onChange={(e) => updateURL(undefined,undefined,e.target.value,undefined)}
-                className="border p-1 w-full rounded"
-                />
+            
+            <Separator className="my-5" />
 
+            <h2 className="font-bold mb-3 text-slate-800">Fiyat Aralığı</h2>
+            <div className="flex gap-2 items-center">
+                <div className="relative w-full">
+                    <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium">₺</span>
+                    <input  type="number" placeholder="Min"
+                            value={searchParams.get("minPrice") ?? ""}
+                            onChange={(e)=> updateURL(undefined,e.target.value,undefined,undefined)}
+                            className="border border-slate-200 pl-6 pr-2 py-1.5 w-full rounded-md text-sm outline-none focus:border-primary focus:ring-1 focus:ring-primary transition-all"
+                    /> 
+                </div>
+                <span className="text-slate-300 font-bold">-</span>
+                <div className="relative w-full">
+                    <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-slate-400 text-sm font-medium">₺</span>
+                    <input type="number" placeholder="Max"
+                    value={searchParams.get("maxPrice") ?? ""}
+                    onChange={(e) => updateURL(undefined,undefined,e.target.value,undefined)}
+                    className="border border-slate-200 pl-6 pr-2 py-1.5 w-full rounded-md text-sm outline-none focus:border-primary focus:ring-1 focus:ring-primary transition-all"
+                    />
+                </div>
             </div>
-            <div className="mt-4 w-full bg-red-500 text-white p-2 rounded text-center">
-                <button className="w-full text-white font-bold" onClick={() => resetFilters()}>Filtreleri Sıfırla</button>
+            <div className="mt-6">
+                <button className="w-full text-white bg-slate-800 hover:bg-slate-900 font-medium py-2.5 rounded-lg text-sm transition-colors flex items-center justify-center gap-2" onClick={() => resetFilters()}>
+                    <RotateCcw className="w-4 h-4" />
+                    Filtreleri Sıfırla
+                </button>
             </div>
 
         </div>)       
-        
-    
 }
-
-

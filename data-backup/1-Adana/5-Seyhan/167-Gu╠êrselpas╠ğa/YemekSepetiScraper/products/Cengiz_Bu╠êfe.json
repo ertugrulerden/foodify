@@ -1,0 +1,451 @@
+{
+  "link_hash": "526cb7d4",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Cengiz Büfe",
+  "link": "https://www.yemeksepeti.com/restaurant/r8m6/cengiz-bufe",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Muzlu Süt (1 L.)",
+          "price": 230.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333161/5cb741f6-8b1e-48e9-adf4-bb1bad1f4484.jpg?width=128&height=128"
+        },
+        {
+          "name": "Jumbo Yengen Tost",
+          "price": 230.0,
+          "description": "Sucuk, kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53350777/8dde3190-0576-40dd-9af2-92d67843de6f.jpg?width=128&height=128"
+        },
+        {
+          "name": "Jumbo Kaşarlı Tost",
+          "price": 180.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53357922/600e3f4e-bbc1-4453-b07b-fded1b9eda43.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Karışık Tost",
+          "price": 230.0,
+          "description": "Kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53546352/7c8ce670-36e3-4590-83fc-8ccc719d28d8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Portakal Suyu (1 L.)",
+          "price": 350.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333149/814aa938-bd41-4109-8bff-e02e042c9c4c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Meyve Suyu (1 L.)",
+          "price": 350.0,
+          "description": "Portakal, elma, havuç",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333157/6be275fc-2b4d-4442-ac6c-d2ab96ffe14a.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Jumbo Yengen Tost",
+          "price": 230.0,
+          "description": "Sucuk, kaşar peyniri, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Jumbo Kaşarlı Tost",
+          "price": 180.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53357922/600e3f4e-bbc1-4453-b07b-fded1b9eda43.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Antakya Tost",
+          "price": 230.0,
+          "description": "Sucuk, kaşar peyniri, domates, acılı salçalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45506330.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Karışık Tost",
+          "price": 230.0,
+          "description": "Kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53546352/7c8ce670-36e3-4590-83fc-8ccc719d28d8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Sucuklu Tost",
+          "price": 180.0,
+          "description": "Sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53656781/ea4c3cfb-51c0-427c-8211-472202184f60.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Salamlı Yengen Tost",
+          "price": 230.0,
+          "description": "Salam, kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53669966/194f4fa5-ff22-4d9f-acee-d85e7e245f0d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Salamlı Tost",
+          "price": 180.0,
+          "description": "Salam",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53679954/3ef1d0eb-c008-4abe-a867-e06e447870fc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Salamlı Kaşarlı Tost",
+          "price": 230.0,
+          "description": "Salam, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53689752/ec14d3c1-e253-479a-80f2-911f3a56e796.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Beyaz Peynirli Tost",
+          "price": 180.0,
+          "description": "Beyaz peynir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/54033221/246960a6-9d07-4af0-b8b1-2c4dfc51ec77.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Kaşarlı & Domatesli Tost",
+          "price": 180.0,
+          "description": "Kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/54554007/44f45c88-92b9-42dd-a347-593a4d7de9ba.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Ekmeği Arası Karışık Tost",
+          "price": 200.0,
+          "description": "Sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56115660/fab8bcc2-c15c-4536-a48b-9e28841a3bfc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Ekmeği Arası Sucuklu Tost",
+          "price": 160.0,
+          "description": "Sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56115715/1da1d1c6-f830-4331-8688-a0d037dd588e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Ekmeğinde Salamlı Karışık Tost",
+          "price": 200.0,
+          "description": "Salam, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56115741/867be981-d294-4c0f-8529-e06a0c844a60.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yengen Tost (Hamburger Ekmeği)",
+          "price": 200.0,
+          "description": "Sucuk, kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56116476/c008dd7a-eb24-4b50-9277-0347a57659cd.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Tost (Hamburger Ekmeği)",
+          "price": 160.0,
+          "description": "Kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Antakya Tost (Hamburger Ekmeği)",
+          "price": 200.0,
+          "description": "Sucuk, kaşar peyniri, domates, acı sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56116490/9cf7f51c-9094-47ce-b244-7b47e9c80299.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Kaşarlı Domatesli Tost",
+          "price": 160.0,
+          "description": "Kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56116645/7b1a1897-9f3f-46e6-9428-8c37324b75bd.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Ekmeğine Salamlı Tost",
+          "price": 160.0,
+          "description": "Salam",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hamburger Ekmeğe Salamlı Yengen Tost",
+          "price": 200.0,
+          "description": "Salam, kaşar peyniri, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kepekli Kaşarlı Tost",
+          "price": 160.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/57148659/f138ef99-d357-4ece-a6fa-b1311de7521a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Ekmeğine Çift Kaşarlı Karışık Tost",
+          "price": 220.0,
+          "description": "Çift kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/57148760/e2e65904-bdc9-42e4-9fd1-852099dbf15c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kepek Ekmeğinde Kaşarlı Dometesli Tost",
+          "price": 160.0,
+          "description": "Kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/57258552/17f3301d-9a5e-428d-9965-b7ac92e6621b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Çift Kaşarlı Sucuklu Tost",
+          "price": 260.0,
+          "description": "Çift kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/57276635/5b8d0fb0-cc2a-4d1f-87a1-ed7c7df93a88.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kepek Ekmek Arası Karışık Tost",
+          "price": 200.0,
+          "description": "Kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/57388043/9b5cc70c-bdf5-476d-830c-3a19ba8e6337.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Çift Kaşarlı Tost",
+          "price": 230.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/76568394/3ebb3248-eb44-4342-b34c-4792a2ed2e50.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jumbo Çift Sucuklu Tost",
+          "price": 230.0,
+          "description": "Sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/76724167/ef332d18-5601-45f9-b7bc-b612afed956e.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Soda (20 cl.)",
+          "price": 25.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/30509902.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (2 L.)",
+          "price": 160.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/30509905.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (3 L.)",
+          "price": 200.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/30509908.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (5 L.)",
+          "price": 270.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/30509910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Saka Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71486658.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Vitamin Bar",
+      "products": [
+        {
+          "name": "Çilekli Muzlu Süt",
+          "price": 270.0,
+          "description": "Çilek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/e49379d9-9c3c-4e41-9b1c-bf6cb6a9f7a6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Süt (Şekersiz)",
+          "price": 220.0,
+          "description": "Muz, süt",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/76263456/f1f19e5c-7241-41aa-91a5-15c6fa65b82b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Muzlu Süt",
+          "price": 250.0,
+          "description": "Bardak",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/86122328/eba84017-5007-45ea-be89-a8b173a7d07e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Havuç Suyu (1 L.)",
+          "price": 350.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333139/29f63d1a-eca1-42bd-b690-08c97f880e6d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elma Suyu (1 L.)",
+          "price": 350.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333141/02fcba05-c0fc-497a-8a61-7d3891c7c102.jpg?width=150&height=150"
+        },
+        {
+          "name": "Greyfurt Suyu (1 L.)",
+          "price": 350.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333144/eda9e2ec-1221-4988-94fb-b520237b31b9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Portakal Suyu (1 L.)",
+          "price": 350.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333149/814aa938-bd41-4109-8bff-e02e042c9c4c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (1 L.)",
+          "price": 160.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333153/2ac60dba-1aa8-4196-bf0e-5bbcd4c86403.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişne Suyu (1 L.)",
+          "price": 160.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333155/eba0ce30-4292-4b47-bb78-9380cac3b8b4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Meyve Suyu (1 L.)",
+          "price": 350.0,
+          "description": "Portakal, elma, havuç",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333157/6be275fc-2b4d-4442-ac6c-d2ab96ffe14a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Süt (1 L.)",
+          "price": 230.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/38333161/5cb741f6-8b1e-48e9-adf4-bb1bad1f4484.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Süt",
+          "price": 210.0,
+          "description": "Karton kutu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53633570/1f0f2100-2e25-419d-99d0-8c33f890ce4d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Muzlu Süt",
+          "price": 260.0,
+          "description": "Bal, süt, muz",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/53666807/10407b2e-67f5-45e2-beca-c50ed2927348.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Sıkma Portakal Suyu (50 cl.)",
+          "price": 175.0,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56112681/ee90657a-78e9-48b3-bf6f-5b847800d51e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Portakal Suyu (30 cl.)",
+          "price": 110.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Elma Suyu (30 cl.)",
+          "price": 110.0,
+          "description": "taze sıkma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Elma Suyu (50 cl.)",
+          "price": 175.0,
+          "description": "Ev yapımı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Havuç Suyu (50 cl.)",
+          "price": 175.0,
+          "description": "Ev yapımı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56116671/f6f6ac52-7e86-4a05-85a6-7c4bed7fae4f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Greyfurt Suyu (50 cl.)",
+          "price": 175.0,
+          "description": "Taze sıkma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sıkma Greyfurt Suyu (30 cl.)",
+          "price": 110.0,
+          "description": "Bardak",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/56236585/c2db5138-8773-4ac7-9f45-7313d3b49c4f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıkma Havuç Suyu (30 cl.)",
+          "price": 110.0,
+          "description": "Bardak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Elma (1 kg.)",
+          "price": 70.0,
+          "description": "Amasya elması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Amasya Elması (3 kg.)",
+          "price": 210.0,
+          "description": "Amasya",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Amasya Elması (2 kg.)",
+          "price": 140.0,
+          "description": "Amasya",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Taze Sıkma Karışık Meyve Suyu (50 cl.)",
+          "price": 175.0,
+          "description": "Elma, havuç, portakal",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Meyve Suyu (30 cl.)",
+          "price": 110.0,
+          "description": "Bardak",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/r8m6/product/86122327/ce3ac955-0efe-4911-a44b-f43205fb167c.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Muz (3 kg.)",
+          "price": 480.0,
+          "description": "3 kg. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Meyveler",
+      "products": [
+        {
+          "name": "Çikita Muz (1 kg.)",
+          "price": 200.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Muz (2 kg.)",
+          "price": 400.0,
+          "description": "İthal muz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

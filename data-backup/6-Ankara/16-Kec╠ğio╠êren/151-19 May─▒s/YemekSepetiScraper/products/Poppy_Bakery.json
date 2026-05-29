@@ -1,0 +1,371 @@
+{
+  "link_hash": "4164c37b",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Poppy Bakery",
+  "link": "https://www.yemeksepeti.com/restaurant/to0k/poppy-bakery",
+  "categories": [
+    {
+      "name": "Poğaçalar & Simitler & Açmalar",
+      "products": [
+        {
+          "name": "Tereyağlı Susamlı Kandil Simidi",
+          "price": 36.0,
+          "description": "Adet olarak servis edilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77399410.jpg?width=128&height=128"
+        },
+        {
+          "name": "Patatesli Poğaça",
+          "price": 29.6,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756757.jpg?width=128&height=128"
+        },
+        {
+          "name": "Zeytinli Poğaça",
+          "price": 29.6,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756758.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Poğaça",
+          "price": 29.6,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756767.jpg?width=150&height=150"
+        },
+        {
+          "name": "Simit",
+          "price": 24.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756793.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosyete Simidi",
+          "price": 56.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70756782.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Poğaça",
+          "price": 29.6,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pizza",
+          "price": 64.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550610.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sandviç",
+          "price": 88.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550634.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Karamelli Trileçe",
+          "price": 120.0,
+          "description": "Dilim olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756742.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Trileçe",
+          "price": 120.0,
+          "description": "Dilim olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756744.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Adet Pastalar",
+      "products": [
+        {
+          "name": "Frambuazlı Beyaz Pasta",
+          "price": 200.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70756745.jpg?width=150&height=150"
+        },
+        {
+          "name": "Alman Pastası",
+          "price": 120.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756752.jpg?width=150&height=150"
+        },
+        {
+          "name": "Draje Fıstıklı Pasta (Adet)",
+          "price": 200.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550633.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bella Vista (Adet)",
+          "price": 200.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550783.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Pasta (Adet)",
+          "price": 200.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551415.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Çilekli Pasta",
+          "price": 200.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551555.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Meyveli Pasta",
+          "price": 200.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551585.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pastalar (4-6 Kişilik)",
+      "products": [
+        {
+          "name": "Frambuazlı Beyaz Pasta (4-6 Kişilik)",
+          "price": 680.0,
+          "description": "Beyaz çikolata, frambuaz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı & Muzlu Pasta (4-6 Kişilik)",
+          "price": 680.0,
+          "description": "Çikolata, muz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fıstık Drajeli Pasta (4-6 Kişilik)",
+          "price": 680.0,
+          "description": "Fıstıklı draje",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756721.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Pasta Pasta (4-6 Kişilik)",
+          "price": 680.0,
+          "description": "4-6 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550578.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotuslu Çilekli Pasta (4-6 Kişilik)",
+          "price": 680.0,
+          "description": "4-6 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551004.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pastalar (6-8 Kişilik)",
+      "products": [
+        {
+          "name": "Frambuazlı Beyaz Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "Beyaz çikolata, frambuaz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Drajeli Çikolatalı Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "6-8 kişilik olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyaz Çilekli Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "6-8 kişilik olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Muzlu Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "6-8 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550583.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Meyveli Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "6-8 kişilik olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550699.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Çilekli Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "6-8 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551593.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotuslu Çilekli Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "6-8 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551661.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Pasta (6-8 Kişilik)",
+          "price": 800.0,
+          "description": "6-8 kişilik olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71552211.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Börekler",
+      "products": [
+        {
+          "name": "Peynirli Su Böreği (500 gr.)",
+          "price": 240.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Su Böreği (1 kg.)",
+          "price": 480.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Tatlılar",
+      "products": [
+        {
+          "name": "Ekler (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Tartolet (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cevizli Baklava (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cevizli Baklava (1 kg.)",
+          "price": 640.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cevizli Ev Baklavası (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cevizli Ev Baklavası (1 kg.)",
+          "price": 640.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğuk Baklava (500 gr.)",
+          "price": 480.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756641.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Baklava (1 kg.)",
+          "price": 960.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756643.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Dilim Pasta (1 kg.)",
+          "price": 640.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550312.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuaz Dilim Pasta (1 kg.)",
+          "price": 640.0,
+          "description": "Frambuaz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550497.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Dilim Pasta (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71550611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Dilim Pasta (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr. servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71551677.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Petibör Tatlısı (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Kuru Pastalar",
+      "products": [
+        {
+          "name": "Tatlı Kuru Pasta (500 gr.)",
+          "price": 280.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tatlı Kuru Pasta (1 kg.)",
+          "price": 560.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tuzlu Kuru Pasta (500 gr.)",
+          "price": 280.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756653.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tuzlu Kuru Pasta (1 kg.)",
+          "price": 560.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756697.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı & Tuzlu Karışık Kuru Pasta (500 gr.)",
+          "price": 280.0,
+          "description": "500 gr. olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756701.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı & Tuzlu Karışık Kuru Pasta (1 kg.)",
+          "price": 560.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70756702.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

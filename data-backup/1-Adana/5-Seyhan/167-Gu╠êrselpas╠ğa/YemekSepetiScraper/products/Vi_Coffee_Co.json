@@ -1,0 +1,669 @@
+{
+  "link_hash": "9faa4637",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Vi Coffee Co",
+  "link": "https://www.yemeksepeti.com/restaurant/maj8/vi-coffee-co",
+  "categories": [
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Uvava Sahanda Yumurta",
+          "price": 560.0,
+          "description": "2 adet, yumurta, eski kaşar peyniri. Rafine şekersiz orman meyve reçeli, ev yapımı fıstık ezmesi, tereyağlı kızarmış Brioche ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380437.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çılbır",
+          "price": 540.0,
+          "description": "Çırpılmış süzme yoğurt, limon zest, kuşkonmaz, poşe yumurta, tereyağı. Ekşi mayalı ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380487.jpg?width=128&height=128"
+        },
+        {
+          "name": "Egg Benedict",
+          "price": 570.0,
+          "description": "Tereyağında kızarmış brioche ekmeği, 2 adet poşe yumurta, karamelize soğan, ıspanak, avokado",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380491.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Karamelize Soğanlı Omlet",
+          "price": 560.0,
+          "description": "Mevsim salata, ekşi mayalı ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380512.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ispanaklı Mantarlı Omlet",
+          "price": 540.0,
+          "description": "Mevsim salata, ekşi mayalı ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380539.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüf Mantarlı Kurutulmuş Domatesli Omlet",
+          "price": 590.0,
+          "description": "Mevsim salata, ekşi mayalı ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380553.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yeşil Omlet",
+          "price": 570.0,
+          "description": "3 adet yumurta beyazı, yulaf ezmesi, ıspanak, fesleğenli domates sote. Mevsim salata, ekşi mayalı ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380564.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "3 Peynirli Trüflü Tava Tostu",
+          "price": 680.0,
+          "description": "Külek peyniri, trüf ezmesi. Mevsim salata, soğan turşusu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pestolu Domatesli Tost",
+          "price": 630.0,
+          "description": "Ekşi maya ekmek, gouda peyniri, domates, kaju, pesto, mevsim salata, soğan turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Organik Salçalı Gouda Peynirli Tost",
+          "price": 590.0,
+          "description": "Ekşi maya ekmek, organik domates salçası, füme et, zahter, gouda peyniri, kornişon turşu, mevsim salata, soğan turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "PB & Jam Tost",
+          "price": 610.0,
+          "description": "Orman meyveli reçel, tarçın, muz, yer fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "French Toast",
+          "price": 580.0,
+          "description": "Brioche ekmeğine; mascarpone kreması, şekersiz orman meyveli reçel, mevsim meyveleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77477825.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Veggie Sandviç",
+          "price": 500.0,
+          "description": "Sotelenmiş ıspanak, kurutulmuş domates, kabak. Mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Füme Etli Peynirli Sandviç",
+          "price": 590.0,
+          "description": "Gouda peyniri, füme et, beyaz peynir, kurutulmuş domates, soğan turşusu. Mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Füme Somonlu Avokadolu Sandviç",
+          "price": 630.0,
+          "description": "Burrata peyniri, füme somon, avokado, kaju, pesto sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Üstü Lezzetler",
+      "products": [
+        {
+          "name": "Ekmek Üstü Poşe Yumurta & Avokado",
+          "price": 560.0,
+          "description": "Mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Üstü Füme Somon",
+          "price": 660.0,
+          "description": "Mevsim salata, soğan turşusu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Üstü Füme Et & Gouda",
+          "price": 640.0,
+          "description": "Mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Üstü Kaju Peynirli Ispanak & Mantar",
+          "price": 600.0,
+          "description": "Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76380829.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Cacio Peppe",
+          "price": 480.0,
+          "description": "Spagetti makarna, kajun kreması",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Günaydın Bowl",
+          "price": 580.0,
+          "description": "2 adet haşlanmış yumurta, kabak spaghetti, avokado, mevsim salata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sıcak Bowl",
+          "price": 620.0,
+          "description": "3 adet çırpılmış yumurta, fırınlanmış patates, istiridye mantarı, dana füme et, labne peynir, mevsim salata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381179.jpg?width=150&height=150"
+        },
+        {
+          "name": "Quicky Bowl",
+          "price": 560.0,
+          "description": "3 adet çırpılmış yumurta, kaju peyniri, avokado, ceviz, yaban mersini, mevsim salata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381185.jpg?width=150&height=150"
+        },
+        {
+          "name": "Uvava Bowl",
+          "price": 560.0,
+          "description": "2 adet poşe yumurta, kaşar peyniri, orman meyveli reçel, fıstık ezmesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381187.jpg?width=150&height=150"
+        },
+        {
+          "name": "Porridge Bowl",
+          "price": 525.0,
+          "description": "Badem sütü ile pişmiş yulaf, fıstık ezmesi, kakaolu fındık ezmesi, muz, çilek, yaban mersini",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381457.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acai Bowl",
+          "price": 595.0,
+          "description": "Muz, çilek, yaban mersini, böğürtlen, frambuaz, Vi granola",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381460.jpg?width=150&height=150"
+        },
+        {
+          "name": "Blue Majik Bowl",
+          "price": 595.0,
+          "description": "Blue spirulina, muz, ananas, badem sütü, Vi granola",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381464.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pumpkin Pie Bowl",
+          "price": 575.0,
+          "description": "Muz, mango, bal kabağı, tarçın, Vi granola",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381466.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Tatlı Patates Kızartması",
+          "price": 462.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pancarlı Avokadolu Humus",
+          "price": 437.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Füme Etli Humus",
+          "price": 575.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382095.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Büş Peynirli Kale Salata",
+          "price": 700.0,
+          "description": "Kale otu, beyaz peynir, büş peyniri, füme et, nar, file badem",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Burrata Salata",
+          "price": 720.0,
+          "description": "Burrata peyniri, cherry domates, avokado, taze fesleğen, balsamik sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/85147217/72c196ab-68ab-4814-b3b3-49cb3a548152.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kış Salatası",
+          "price": 610.0,
+          "description": "Siyah pirinç, fırınlanmış pancar, havuç, kabak, yeşil elma, nar, kaju sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/85147221/2c62b534-6cdd-42a9-9ab6-4f1d4645a266.jpg?width=150&height=150"
+        },
+        {
+          "name": "Füme Somon Salata",
+          "price": 720.0,
+          "description": "Avokado, füme somon, kapari turşusu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/85147226/c5b96c7e-b79a-4c85-b5f1-14879e108c46.jpg?width=150&height=150"
+        },
+        {
+          "name": "3 Peynirli Salata",
+          "price": 590.0,
+          "description": "Gouda peyniri, kaşar peyniri, lor peyniri, mevsim yeşillikleri, kabak",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/85147231/3d2ee2cb-5239-48d2-af0e-66a76c2d81f4.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Orman meyveli tart",
+          "price": 475.0,
+          "description": "Pastacı kreması ,nutella çilek yaban Mersin’i ve fıstık ile süslenmiştir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mangomisu",
+          "price": 687.0,
+          "description": "Zencefil, mango",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/e118ebfa-c8b3-4fa8-a219-e9f3cc1d8d69.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gofy",
+          "price": 300.0,
+          "description": "Portakal, çiğ badem",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/27a3a67e-9892-4d7c-b76a-d80912a54cab.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salted Caramel Raw Tart",
+          "price": 550.0,
+          "description": "Dilim olarak servis edilir. (Şekersiz, glütensiz)",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/ab5e85de-cb36-4978-b6d7-5422e3cffd63.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bademli Kek",
+          "price": 487.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/bdd1a99d-c33f-4d32-b444-bef4ce21a603.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limoncello (Alkolsüz)",
+          "price": 300.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/c26efbb2-dad1-4073-8a39-2abffb537b94.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahini",
+          "price": 300.0,
+          "description": "Badem unu, yulaf unu, akçaağaç şurubu, tahinli sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/6273bf95-8b31-460d-bc9d-0ed7553996c0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spirulina Raw Ball",
+          "price": 287.0,
+          "description": "Spirulina, kaju, hurma, Hindistan cevizi",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/3f5c2fca-dad6-40b3-9a49-be81a2d3e75d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orman Meyveli Tart",
+          "price": 550.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/fe3a582c-4399-44b3-a604-e5c2f094b4b1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chocolate raw tart",
+          "price": 550.0,
+          "description": "Tabanında hurma ve badem çikolatalı şekersiz glütensiz tart",
+          "img": null
+        },
+        {
+          "name": "Pistachio raw tart",
+          "price": 550.0,
+          "description": "Tabanında hurma ve badem fıstıklı şekersiz glütensiz",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Pancakes",
+      "products": [
+        {
+          "name": "Vi Pancake (5 Adet)",
+          "price": 570.0,
+          "description": "Nutella, orman meyveli reçel, muz, çilek, yaban mersini",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vegan & Glütensiz Pancake (5 Adet)",
+          "price": 570.0,
+          "description": "Kakaolu fındık ezmesi, fıstık ezmesi, elma suyu, muz, çilek, yaban mersini",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Uludağ Premium",
+          "price": 90.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Uludağ Premium",
+          "price": 70.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382014.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahveler",
+      "products": [
+        {
+          "name": "Espresso",
+          "price": 185.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Double Espresso",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381705.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte",
+          "price": 225.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381710.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 225.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Espresso Macchiato",
+          "price": 190.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381713.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Espresso Macchiato",
+          "price": 250.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381716.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cortado",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381718.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White",
+          "price": 220.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381720.jpg?width=150&height=150"
+        },
+        {
+          "name": "Americano",
+          "price": 200.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381740.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Americano",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381742.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381778.jpg?width=150&height=150"
+        },
+        {
+          "name": "V60",
+          "price": 225.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381781.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chemex",
+          "price": 225.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381783.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Latte",
+          "price": 240.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381860.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salted Caramel Latte",
+          "price": 250.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381862.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pumpkin Spice Latte",
+          "price": 250.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381865.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pistachio Latte",
+          "price": 260.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381877.jpg?width=150&height=150"
+        },
+        {
+          "name": "Toffee Nut Latte",
+          "price": 260.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381892.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peanut Latte",
+          "price": 250.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381893.jpg?width=150&height=150"
+        },
+        {
+          "name": "Golden Latte",
+          "price": 230.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381895.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mocha",
+          "price": 250.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Matcha Latte",
+          "price": 255.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381897.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced Americano",
+          "price": 210.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 240.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Cortado",
+          "price": 220.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Salted Caramel Latte",
+          "price": 265.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381928.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Pumpkin Spice Latte",
+          "price": 265.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381931.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caramel Latte",
+          "price": 260.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381933.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Pistachio Latte",
+          "price": 275.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381935.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Toffee Nut Latte",
+          "price": 275.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381976.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Peanut Latte",
+          "price": 265.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381979.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Golden Latte",
+          "price": 245.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381985.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Matcha Latte",
+          "price": 270.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76381987.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Sıcak Çikolata",
+          "price": 240.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Churchill",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Smoothies",
+      "products": [
+        {
+          "name": "Blue Majik Smoothie",
+          "price": 430.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acai Smoothie",
+          "price": 420.0,
+          "description": "Muz, çilek, elma, böğürtlen",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382021.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acai Peanut Butter Smoothie",
+          "price": 450.0,
+          "description": "Muz, çilek, elma, böğürtlen, fıstık ezmesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382024.jpg?width=150&height=150"
+        },
+        {
+          "name": "Green Power Smoothie",
+          "price": 400.0,
+          "description": "Ispanak, ananas, lime, elma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382027.jpg?width=150&height=150"
+        },
+        {
+          "name": "Protein Smoothie",
+          "price": 430.0,
+          "description": "Muz, fıstık ezmesi, yulaf",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/85147140/4d984042-45ea-4f01-ba14-cd3d7267164c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiramisu Smoothie",
+          "price": 430.0,
+          "description": "Espresso, badem sütü, kaju, Hindistan cevizi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382031.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pomegranate Smoothie",
+          "price": 410.0,
+          "description": "Nar, böğürtlen, çilek, yaban mersini",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/maj8/product/85147146/011c76ac-e66d-4a20-90e3-e4dcb89cf951.jpg?width=150&height=150"
+        },
+        {
+          "name": "Matcha Passion Smoothie",
+          "price": 420.0,
+          "description": "Matcha tozu, badem sütü, muz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382037.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pumpkin Spice Smoothie",
+          "price": 430.0,
+          "description": "Bal kabağı püresi, tarçın",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76382043.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

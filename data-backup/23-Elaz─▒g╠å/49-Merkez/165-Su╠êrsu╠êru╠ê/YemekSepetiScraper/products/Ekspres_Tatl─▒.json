@@ -1,0 +1,474 @@
+{
+  "link_hash": "1ae1130d",
+  "scraped_at": "260528_0034",
+  "restaurant_name": "Ekspres Tatlı",
+  "link": "https://www.yemeksepeti.com/restaurant/s257/ekspres-tatli-s257",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Chocolate Bowl (XL)",
+          "price": 380.0,
+          "description": "Devil's kek, krokan, sütlü callebaut çikolatası, Ekspres pastacı kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/abeec075-ba2b-4d3e-af79-54beec229e22.jpg?width=128&height=128"
+        },
+        {
+          "name": "Dubai Chocolate Bowl",
+          "price": 400.0,
+          "description": "Ekspres Callebaut çikolatası, tel kadayıf, Antep fıstıklı sos, Devils kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Bowl (XL)",
+          "price": 380.0,
+          "description": "Devil's kek, Lotus bisküvi, Ekpress kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066454.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chocolate Bowl",
+          "price": 330.0,
+          "description": "Devil's kek, krokan, sütlü callebaut çikolatası, Ekspres pastacı kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/9c2f676d-ea2b-4f27-b506-0f9e4ac32d04.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Çikolatalı mag",
+          "price": 340.0,
+          "description": "Vişne, çikolata, ekspres kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/87519929/906070f3-8269-4d95-bcdd-f688b07f95a5.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Brownie Cookie",
+          "price": 160.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dondurma Blu Sky (1 Top)",
+          "price": 120.0,
+          "description": "1 top olarak servis edilir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/64340d98-92bf-4771-a94c-bb469d6a8ace.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Sade (1 Top)",
+          "price": 120.0,
+          "description": "1 top olarak servis edilir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/b67bd2ab-93e9-402a-9c65-1fe2927973a1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Patrisse (1 Top)",
+          "price": 120.0,
+          "description": "1 top olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/33318f8c-83b0-4186-ba64-64deb2599aab.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Çilek (1 Top)",
+          "price": 120.0,
+          "description": "Taze çilek aroması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/568582a3-a190-4816-a28e-10869d3923e6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Antep Fıstık (1 Top)",
+          "price": 120.0,
+          "description": "1 top olarak servis edilir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/4affe715-8677-4bfa-bd35-85f7632214ba.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Muz (1 Top)",
+          "price": 120.0,
+          "description": "Muz dilimli",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/4cf80c58-b324-41c3-9046-d8730c213acd.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Bal Badem (1 Top)",
+          "price": 120.0,
+          "description": "Kreamy dondurma topuyla sunulan bal ve badem aromalı tatlı. Yumuşak tekstürü ve doğal tatları ile damağınızı şenlendirecek lezzetli bir seçim",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/a456b2fc-fd15-4836-8d4d-9091ff2f5954.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Mango (1 Top)",
+          "price": 120.0,
+          "description": "Taze mango meyvesinin lezzetli kombinasyonuyla hazırlanan yumuşak dondurma. Bir top olarak servis edilir ve tropik tatların sevenleri için ideal bir tercih.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/89431544/51d4a6b0-361c-4738-a8b3-52791dd34066.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Karadut",
+          "price": 120.0,
+          "description": "Karadutlu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/c37c7b6a-540b-4393-8835-9934880e63ab.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Çikolata (1 Top)",
+          "price": 120.0,
+          "description": "Lezzetli çikolata dondurması tek top olarak servis edilir. Yumuşak ve kremsi yapısı ile damağınızda erir. Tatlı anlarınız için mükemmel seçim.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/89431539/a4537992-5887-452f-bd2b-b6aef3394a1a.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Special Tatlılar",
+      "products": [
+        {
+          "name": "Böğürtlenli Mag",
+          "price": 340.0,
+          "description": "İtalyan karameli, böğürtlen ganaj, Ekspres kreması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kahveli Mag",
+          "price": 300.0,
+          "description": "Kahve çekirdeği, mag kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/f6828ca4-9937-4480-90a4-cc16b48e4143.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyan Maremeli Mag",
+          "price": 330.0,
+          "description": "İtalyan karameli, ekpres pastacı kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/d7a7dfd5-4c51-4002-bbfc-0eace94025ec.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pumpkin Mag",
+          "price": 330.0,
+          "description": "Bal kabaklı ekspres kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/87519730/97b07afa-a2c3-4637-bcf4-508ff59be157.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Çikolatalı mag",
+          "price": 340.0,
+          "description": "Vişne, çikolata, ekspres kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/87519929/906070f3-8269-4d95-bcdd-f688b07f95a5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orman Meyveli Mag",
+          "price": 300.0,
+          "description": "Frambuaz, karadut, çilek, Ekspress mag kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/86913856/ded5b2f7-fec4-44fb-a1dd-b506c79de442.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nutellalı Mag",
+          "price": 340.0,
+          "description": "Nutella, Ekspress mag kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066483.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Mag",
+          "price": 300.0,
+          "description": "Çilek, Ekspress mag kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066484.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakızlı Mag",
+          "price": 340.0,
+          "description": "Damla sakızı, pirinç patlağı, Ekspress mag kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066485.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Fıstıklı Mag",
+          "price": 340.0,
+          "description": "Antep fıstıklı ganaj, Ekspress mag kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066486.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Mag",
+          "price": 340.0,
+          "description": "Lotus kreması, Ekspress Mag kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066488.jpg?width=150&height=150"
+        },
+        {
+          "name": "Portakallı Mag",
+          "price": 300.0,
+          "description": "Portakal, Ekspress mag kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066489.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oreolu Mag",
+          "price": 340.0,
+          "description": "Oreo bisküvisi, krema",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/491859ff-4522-4aae-8fd2-4c003e02ac92.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlı Bowls",
+      "products": [
+        {
+          "name": "Chocolate Bowl (XL)",
+          "price": 380.0,
+          "description": "Devil's kek, krokan, sütlü callebaut çikolatası, Ekspres pastacı kreması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chocolate Bowl",
+          "price": 330.0,
+          "description": "Devil's kek, krokan, sütlü callebaut çikolatası, Ekspres pastacı kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/9c2f676d-ea2b-4f27-b506-0f9e4ac32d04.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Profiterol",
+          "price": 400.0,
+          "description": "Pataşu,pastacı kreması,çikolata sos,Antep fıstığı sosu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/ec7fd478-d455-42d3-8ac9-7d4d46e55174.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol Bowl",
+          "price": 340.0,
+          "description": "Callebaut çikolatası, profiterol topları, Antep Fıstığı parçacıkları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066461.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Bowl",
+          "price": 330.0,
+          "description": "Devil's kek, Lotus bisküvi, Ekpress kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066472.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Bowl (XL)",
+          "price": 380.0,
+          "description": "Devil's kek, Lotus bisküvi, Ekpress kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066454.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Chocolate Bowl",
+          "price": 400.0,
+          "description": "Ekspres Callebaut çikolatası, tel kadayıf, Antep fıstıklı sos, Devils kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Chocolate Bowl (XL)",
+          "price": 440.0,
+          "description": "Ekspres Callebaut çikolatası, tel kadayıf, Antep fıstıklı sos Devils Kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066457.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Bowl",
+          "price": 400.0,
+          "description": "Fındık ezmesi, tel kadayıflı Ekspres Callebaut çikolatası, ekspres kreması Devils kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066458.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Bowl (XL)",
+          "price": 440.0,
+          "description": "Fındık ezmesi, tel kadayıflı Ekspres Callebaut çikolatası, ekspres kreması Devils kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066469.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coconut Bowl",
+          "price": 330.0,
+          "description": "Hindistan cevizli, pastacı kreması, beyaz çikolatalı pastacı sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066477.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coconut Bowl (XL)",
+          "price": 380.0,
+          "description": "Hindistan cevizi, pastacı kreması, beyaz çikolatalı pastacı sosu Devils kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066459.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lime Bowl",
+          "price": 330.0,
+          "description": "Kek, limon özlü Ekspress pastacı kreması, limon sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066474.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lime Bowl (XL)",
+          "price": 380.0,
+          "description": "Kek, limon özlü Ekspress pastacı kreması, limon sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066460.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bowl",
+          "price": 330.0,
+          "description": "Kırmızı kek, Ekspress pastacı kreması, frambuaz, Hindistan cevizi dolgusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066462.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bowl (XL)",
+          "price": 380.0,
+          "description": "Kadife kırmızı kek, Ekspress pastacı kreması, frambuaz, Hindistan cevizi dolgusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066478.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Bowl",
+          "price": 400.0,
+          "description": "Ekspres Callebaut çikolata, Snickers, yer fıstığı, Ekspress kreması, Devils kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066475.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Bowl (XL)",
+          "price": 440.0,
+          "description": "Ekspres Callebaut Çikolata Snickers, yer fıstığı, Ekspress kreması Devils kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066468.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ruby Chocolate Bowl",
+          "price": 330.0,
+          "description": "Devil's kek, çilekli Callebaut çikolatası, Ekspress pastacı kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066470.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ruby Chocolate Bowl (XL)",
+          "price": 380.0,
+          "description": "Ruby Callebaut çikolatası, Ekspress pastacı kreması, Devil`s kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066479.jpg?width=150&height=150"
+        },
+        {
+          "name": "KitKat Spread Bowl",
+          "price": 330.0,
+          "description": "Devil's kek, KitKat, Ekpress kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066455.jpg?width=150&height=150"
+        },
+        {
+          "name": "KitKat Spread Bowl (XL)",
+          "price": 380.0,
+          "description": "KitKat spread, Ekspres kreması, Devil's kek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066476.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dark Chocolate Bowl",
+          "price": 330.0,
+          "description": "Bitter Callebaut çikolatası, Devil`s kek, Ekspress pastacı kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066481.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dark Chocolate Bowl (XL)",
+          "price": 380.0,
+          "description": "Bitter Callebaut çikolatası, Devil`s kek, Ekspress pastacı kreması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066480.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Sky Mix",
+          "price": 130.0,
+          "description": "Mavi turunç, limonata özü",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Strawberry Mix",
+          "price": 130.0,
+          "description": "Nar, limonata",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/1405b84a-6e0b-4a8f-aa89-1702989119ad.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Mix",
+          "price": 130.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/ccf51f00-9097-4e1b-b12b-c380aa1176c2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/87503248/26b45c20-7453-4790-ade7-d36172bf3348.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/bb6a54ee-49ae-44da-92e1-ef93e9e4014b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/882d0cf0-4f25-4263-a5c0-46e1b9b074d8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tropicana Karışık (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/e0a2060a-bd3b-4bf0-ad6f-5ac6842615c9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/57847a17-0278-4842-b570-c94708df094b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Şeftali (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/41eaf6d4-4e08-4678-b905-47a50163c6fa.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/9b14f604-680e-4713-9645-6be5377faf8f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata",
+          "price": 110.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066464.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 130.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78066465.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced Americano",
+          "price": 130.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Dondurmalar",
+      "products": [
+        {
+          "name": "Belçika Rüyası Dondurma (1 Top)",
+          "price": 120.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kavunlu Dondurma (1 Top)",
+          "price": 120.0,
+          "description": "1 top olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Meyve Şöleni Dondurma (1 Top)",
+          "price": 120.0,
+          "description": "Orman meyveli",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/s257/product/05eddf62-3c06-4893-87a5-94ad20c07d8e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma Limon (1 Top)",
+          "price": 120.0,
+          "description": "Limon aromalı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

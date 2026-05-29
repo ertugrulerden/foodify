@@ -1,0 +1,408 @@
+{
+  "link_hash": "9639f33f",
+  "scraped_at": "260528_1139",
+  "restaurant_name": "Ata Ciğer Özal",
+  "link": "https://www.yemeksepeti.com/restaurant/d30e/ata-ciger-ozal",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Adana Lahmacun (15 Adet)",
+          "price": 562.5,
+          "description": "15 adet lahmacun, söğüş domates, soğan salatası, mevsi̇m salata, maydanoz li̇mon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774300.jpg?width=128&height=128"
+        },
+        {
+          "name": "(3 Adet) Tavuk Kıyma Dürüm + 1 lt şalgam",
+          "price": 360.0,
+          "description": "Mevsi̇m salata, maydanoz, li̇mon ile + 1 lt şalgam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774312.jpg?width=128&height=128"
+        },
+        {
+          "name": "3'lü Adana Dürüm Menü",
+          "price": 562.5,
+          "description": "3 Adet Adana Dürüm + Mevsi̇m Salata + Maydanoz + Li̇mon + Şalgam Suyu (1 L.)",
+          "img": null
+        },
+        {
+          "name": "5'li Tavuk Kıyma Dürüm Menü",
+          "price": 472.5,
+          "description": "5 Adet Tavuk Kıyma Dürüm + 2 Adet Mevsim Salata + (Maydanoz, limon, közlenmiş biber) + Şalgam (1 L.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Fırın Ürünleri",
+      "products": [
+        {
+          "name": "Adana Lahmacun (5 Adet)",
+          "price": 225.0,
+          "description": "Mevsim salata, söğüş domates, maydanoz, limon ve közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79107946.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Lahmacun Sarımsaklı (3 Adet)",
+          "price": 225.0,
+          "description": "Mevsim salata, söğüş domates, maydanoz, limon ve közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79107940.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Pide",
+          "price": 225.0,
+          "description": "Mevsim salata, söğüş domates, maydanoz, limon ve közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79107944.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide",
+          "price": 292.5,
+          "description": "Mevsim salata, söğüş domates, maydanoz, limon ve közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79107945.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 292.5,
+          "description": "Mevsim salata, söğüş domates, maydanoz, limon ve közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79107943.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Kaşarlı Pide",
+          "price": 337.5,
+          "description": "Mevsim salata, söğüş domates, maydanoz, limon ve közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79107941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşı Kaşarlı Pide",
+          "price": 337.5,
+          "description": "Mevsim salata, söğüş domates, maydanoz, limon ve közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79107942.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kebaplar & Izgaralar",
+      "products": [
+        {
+          "name": "Ata Karışık Kebap",
+          "price": 375.0,
+          "description": "Adana kebap, 2 şiş ci̇ğer, kemi̇ksi̇z tavuk şiş, çoban salatası, mevsi̇m salatası, soğan salatası, ezme salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydonoz, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarma Beyti (Et Şişten)",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pirzola",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyti (Kebaptan)",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yağlı Kara",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarma Beyti (Kebaptan)",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78555485.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Kebap",
+          "price": 375.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78489588.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşı Şiş",
+          "price": 450.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78489592.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ciğer Şiş",
+          "price": 450.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78489597.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Sarma",
+          "price": 375.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78489601.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Kanat",
+          "price": 375.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78489604.jpg?width=150&height=150"
+        },
+        {
+          "name": "Küşleme",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": null
+        },
+        {
+          "name": "Külbastı",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": null
+        },
+        {
+          "name": "Kuzu Sırt",
+          "price": 600.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": null
+        },
+        {
+          "name": "Kuzu Kaburga",
+          "price": 450.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": null
+        },
+        {
+          "name": "Izgara Kemiksiz Tavuk",
+          "price": 375.0,
+          "description": "Soğan salatası, çoban salata, ezme salata, mevsim salata, pişmiş soğan, pişmiş domates, pişmiş biber, maydanoz, limon ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Adana Dürüm",
+          "price": 187.5,
+          "description": "Mevsim salata, limon, maydanoz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuşbaşı Şiş Dürüm",
+          "price": 187.5,
+          "description": "Mevsim salata, maydanoz, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuzu Kaburga Dürüm",
+          "price": 187.5,
+          "description": "Mevsim salata, maydanoz, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ciğer Dürüm",
+          "price": 187.5,
+          "description": "Mevsim salata, maydanoz, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Kemiksiz Tavuk Dürüm",
+          "price": 187.5,
+          "description": "Mevsim salata, maydanoz, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Kıyma Dürüm",
+          "price": 135.0,
+          "description": "Mevsim salata, maydanoz, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Mezeler",
+      "products": [
+        {
+          "name": "Mevsim Salata",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çoban Salata",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ezme Salata",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Salatası",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Tablacı Salatası",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Közlenmiş Soğan",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Közlenmiş Biber & Közlenmiş Domates",
+          "price": 45.0,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 50.25,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 50.25,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 35.25,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78773375.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 35.25,
+          "description": "Küçük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78773381.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.25,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78773380.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (1 L.)",
+          "price": 75.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78773377.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "KİLOLUK ÜRÜNLER PİŞİRİLMİŞ",
+      "products": [
+        {
+          "name": "Adana Kebap (8 Şiş) (1 kg.)",
+          "price": 1.05,
+          "description": "2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Adana Kebap (1 kg.) & Lahmacun (10 Adet)",
+          "price": 1.275,
+          "description": "10 adet lahmacun, 2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kemi̇ksi̇z Tavuk (1 kg.) & Lahmacun (10 Adet)",
+          "price": 937.5,
+          "description": "10 adet lahmacun 2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Sarma (1 kg.)",
+          "price": 675.0,
+          "description": "2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774335.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Sarma (1 kg.) & Lahmacun (10 Adet)",
+          "price": 937.5,
+          "description": "10 adet lahmacun, 2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774331.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat (1 kg.)",
+          "price": 600.0,
+          "description": "2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanat (1 kg.) & Lahmacun (10 Adet)",
+          "price": 937.5,
+          "description": "10 adet lahmacun, 2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774313.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Kıyma (1 kg.) & Lahmacun (10 Adet",
+          "price": 937.5,
+          "description": "10 adet adana lahmacun, 2 adet mevsi̇m salata, çoban salata, soğan salata, maydanoz, li̇mon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774247.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pirzola (1 kg.)",
+          "price": 1.275,
+          "description": "2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78774334.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemi̇ksi̇z Tavuk (1 kg.)",
+          "price": 675.0,
+          "description": "2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": null
+        },
+        {
+          "name": "Tavuk Kıyma (8 Şi̇ş) (1 kg.)",
+          "price": 675.0,
+          "description": "2 adet mevsi̇m salata, 1 adet çoban salata, 1 adet soğan salata, maydanoz, li̇mon ile",
+          "img": null
+        },
+        {
+          "name": "Çıtır Lahmacun Menü",
+          "price": 150.0,
+          "description": "2 Adet Büyük Boy Lahmacun (Soğan salatası, mevsi̇m salata, söğüş domates, maydonoz, limon ile) İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

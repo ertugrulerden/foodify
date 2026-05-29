@@ -1,0 +1,563 @@
+{
+  "link_hash": "6009ccfa",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Kalite Fırın & Pasta",
+  "link": "https://www.yemeksepeti.com/restaurant/ujvg/kalite-firin-and-pasta",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Tereyağlı Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411545.jpg?width=128&height=128"
+        },
+        {
+          "name": "Pizza (Büyük Boy)",
+          "price": 120.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78948247.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kazan Gevrek Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411590.jpg?width=150&height=150"
+        },
+        {
+          "name": "Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791501.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pide Kayseri Ekmek",
+          "price": 35.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78410933.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytinli Açma",
+          "price": 55.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404223.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Peynirli Poğaça",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791501.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sigara Böreği",
+          "price": 70.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791535.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Açmalar",
+      "products": [
+        {
+          "name": "Acılı Açma (Küçük Boy)",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Açma (Büyük Boy)",
+          "price": 90.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78410800.jpg?width=150&height=150"
+        },
+        {
+          "name": "Klasik Pizza (Küçük Boy)",
+          "price": 100.0,
+          "description": "Kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78410641.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pizza (Büyük Boy)",
+          "price": 120.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78948247.jpg?width=150&height=150"
+        },
+        {
+          "name": "Klasik Pizza",
+          "price": 100.0,
+          "description": "Kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78410603.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Açma",
+          "price": 70.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404232.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Açma",
+          "price": 70.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404226.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı Açma",
+          "price": 70.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404233.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Açma",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404235.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Açma",
+          "price": 70.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404225.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytinli Açma",
+          "price": 55.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404223.jpg?width=150&height=150"
+        },
+        {
+          "name": "Serpme Kaşarlı Açma",
+          "price": 75.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404236.jpg?width=150&height=150"
+        },
+        {
+          "name": "Serpme Zeytinli Açma",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404237.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poğaçalar",
+      "products": [
+        {
+          "name": "Zeytinli Poğaça",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Poğaça",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411578.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Poğaça",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411577.jpg?width=150&height=150"
+        },
+        {
+          "name": "Labneli Poğaça",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dereotlu Poğaça",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411568.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Poğaça",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411557.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Poğaça",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411556.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Börekler",
+      "products": [
+        {
+          "name": "Patatesli Sigara Böreği",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sigara Böreği Peynirli",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tahinli Çörek",
+          "price": 100.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Simitler",
+      "products": [
+        {
+          "name": "Ankara Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tereyağlı Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411545.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taban Adana Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411594.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kazan Gevrek Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411590.jpg?width=150&height=150"
+        },
+        {
+          "name": "İstanbul Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78411583.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pideler",
+      "products": [
+        {
+          "name": "Sucuklu Kaşarlı Pide",
+          "price": 400.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yumurtalı Kaşarlı Pide",
+          "price": 400.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Double Kaşarlı Pide",
+          "price": 400.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ekmekler",
+      "products": [
+        {
+          "name": "Sade Sandviç Ekmeği",
+          "price": 15.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pide Kayseri Ekmek",
+          "price": 35.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78410933.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pide Ekmek",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78410914.jpg?width=150&height=150"
+        },
+        {
+          "name": "Somun Ekmek",
+          "price": 28.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78410880.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cibata Ekmeği Zeytinyağlı",
+          "price": 25.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Sade Hamburger Ekmeği",
+          "price": 15.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Ekşi Mayalı Ekmek",
+          "price": 100.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Çavdar Ekmeği",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Tahıllı Tam Ekmek",
+          "price": 70.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Kepekli Yuvarlak Ekmek",
+          "price": 50.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Tam Buğday Ekmek",
+          "price": 70.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Mini Ekler Çikolatalı",
+          "price": 60.0,
+          "description": "(Günlük hazırlanmaktadır.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karamelli Trileçe",
+          "price": 140.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791454.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol",
+          "price": 170.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791473.jpg?width=150&height=150"
+        },
+        {
+          "name": "İzmir Bomba Tatlısı",
+          "price": 110.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791480.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pastalar",
+      "products": [
+        {
+          "name": "Çilekli Pasta (8 Kişilik)",
+          "price": 1.0,
+          "description": "8 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Pasta (10 Kişilik)",
+          "price": 1.2,
+          "description": "10 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Pasta (10 Kişilik)",
+          "price": 1.2,
+          "description": "10 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78394550.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Pasta (6 Kişilik)",
+          "price": 1.2,
+          "description": "Çikolatalı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791404.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Pasta (6 Kişilik)",
+          "price": 1.2,
+          "description": "Mevsim meyveleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791414.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Pasta (10 Kişilik)",
+          "price": 1.3,
+          "description": "10 kişilik olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Çilekli Pasta (6 Kişilik)",
+          "price": 1.2,
+          "description": "Adet olarak servis edilir",
+          "img": null
+        },
+        {
+          "name": "Çikolatalı Pasta (8 Kişilik)",
+          "price": 1.2,
+          "description": "Adet olarak servis edilir",
+          "img": null
+        },
+        {
+          "name": "Muzlu Pasta (8 Kişilik)",
+          "price": 1.25,
+          "description": "8 kişilik",
+          "img": null
+        },
+        {
+          "name": "Muzlu Pasta (10 Kişilik)",
+          "price": 1.2,
+          "description": "10 kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Mono Pastalar",
+      "products": [
+        {
+          "name": "Çilekli Mono Pasta",
+          "price": 200.0,
+          "description": "(Günlük hazırlanmaktadır.)",
+          "img": null
+        },
+        {
+          "name": "Çikolatalı Mono Pasta",
+          "price": 190.0,
+          "description": "(Günlük hazırlanmaktadır.)",
+          "img": null
+        },
+        {
+          "name": "Panda Mono Çikolatalı",
+          "price": 180.0,
+          "description": "(Günlük hazırlanmaktadır.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kuru Pastalar",
+      "products": [
+        {
+          "name": "Tuzlu Kuru Pasta",
+          "price": 600.0,
+          "description": "Karışık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78394983.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı Kuru Pasta",
+          "price": 600.0,
+          "description": "Karışık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78394989.jpg?width=150&height=150"
+        },
+        {
+          "name": "Portakallı Kek",
+          "price": 100.0,
+          "description": "Portakallı",
+          "img": null
+        },
+        {
+          "name": "Tatlı Tuzlu Karışık Pasta",
+          "price": 600.0,
+          "description": "Günün çeşitleri",
+          "img": null
+        },
+        {
+          "name": "Double Tuzlu Karışık Pasta",
+          "price": 600.0,
+          "description": "Günün çeşitleri",
+          "img": null
+        },
+        {
+          "name": "Şekerli Karışık Duble Kuru Pasta",
+          "price": 600.0,
+          "description": "(Günlük hazırlanmaktadır.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 100.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (28 cl.)",
+          "price": 80.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791518.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 20.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404244.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78404245.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Börekler (Pişirilmiş)",
+      "products": [
+        {
+          "name": "Su Böreği (1 Kg.)",
+          "price": 1.7,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77791531.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

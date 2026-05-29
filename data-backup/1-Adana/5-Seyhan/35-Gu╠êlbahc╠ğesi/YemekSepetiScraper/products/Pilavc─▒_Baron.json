@@ -1,0 +1,703 @@
+{
+  "link_hash": "ab60b27c",
+  "scraped_at": "260528_1139",
+  "restaurant_name": "Pilavcı Baron",
+  "link": "https://www.yemeksepeti.com/restaurant/b9vn/pilavci-baron",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Nohutlu Tavuklu Pilav",
+          "price": 304.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/52819628/0555530e-aed3-490f-9fb1-f9d44b9754ec.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuklu Mısırlı Pilav",
+          "price": 304.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/52819636/4bef25b3-4bdf-4014-9982-468bc1cba770.jpg?width=128&height=128"
+        },
+        {
+          "name": "Körili Tavuklu Kremalı Pilav",
+          "price": 296.0,
+          "description": "Özel soslu tavuk, pilav. Salata, yoğurt, turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65544247.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Köri Soslu Penne",
+          "price": 304.0,
+          "description": "Tavuk, mantar, köri sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49968998.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Solu Mantarlı Tavuk",
+          "price": 360.0,
+          "description": "Salata, yoğurt, ekmek, pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45190698.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nugget (24 Adet)",
+          "price": 264.0,
+          "description": "24 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72725908.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 144.0,
+          "description": "Havuç, domates, kırmızı biber, soğan, mercimek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Çorba",
+          "price": 144.0,
+          "description": "Krema, un, mantar, özel baharat",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76020604.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuklu Çorba",
+          "price": 144.0,
+          "description": "Un, mantar, tavuk, krema. Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76020605.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Tavuklu Mantarlı Kremalı Penne",
+          "price": 304.0,
+          "description": "Tavuk, krema, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45188714.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı & Barbekü Soslu & Tavuklu Penne",
+          "price": 304.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/46467699.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Köri Soslu Penne",
+          "price": 280.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49967682.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Soslu Kremalı Penne (Mantarsız)",
+          "price": 280.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49967687.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Kremalı Mantarlı Penne",
+          "price": 304.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49968443.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Köri Soslu Penne",
+          "price": 304.0,
+          "description": "Tavuk, mantar, köri sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49968998.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Kremalı Penne",
+          "price": 280.0,
+          "description": "Mantar, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49969002.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Pesto Soslu Penne",
+          "price": 320.0,
+          "description": "Tavuk, mantar, pesto sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49969007.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Soslu Domatesli Penne",
+          "price": 280.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49970631.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domatesli Penne",
+          "price": 280.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49970642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Köfteli Domatesli Spagetti",
+          "price": 360.0,
+          "description": "Dana köfte, domates sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/61610670.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Tavuklu Mantarlı & Mısırlı Makarna",
+          "price": 360.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76111986.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Tavuklu Noodle",
+          "price": 320.0,
+          "description": "Tavuklu, Sebzeli, Noodle",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/2661f113-6209-46e1-89ae-9542b9c1f28e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Soslu Spagetti",
+          "price": 280.0,
+          "description": "Domates sosu, spagetti makarna, mevsim salatası ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/502d00a1-0f26-4bbb-b2e0-53d1ad08ee0a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Soslu Spagetti",
+          "price": 272.0,
+          "description": "Acı soslu, spagetti makarna, mevsim salatası ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/4f8f1f0b-df44-4295-bbcb-f7e75a8dbc9b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Penne (Sade)",
+          "price": 280.0,
+          "description": "Pesto Soslu Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/d036725a-b842-427b-9051-c1bccb67b81d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Pesto Soslu Penne",
+          "price": 320.0,
+          "description": "Tavuklu, Mantarlı, Pesto Soslu Penne, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantarlı Pesto Soslu Penne",
+          "price": 296.0,
+          "description": "Mantarlı, Pesto Soslu Penne, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantarlı Mısırlı Kaşarlı Pesto Soslu Penne",
+          "price": 336.0,
+          "description": "Mantarlı, Mısırlı, Kaşarlı,Pesto Soslu Penne",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mantarlı Mısırlı Kaşarlı Pesto Soslu Penne",
+          "price": 360.0,
+          "description": "Tavuklu, Mantarlı, Mısırlı, Kaşarlı, Pesto Soslu Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/11e9ff88-d64f-4507-81dd-78a5ce23bd30.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Peynirli Mantarlı Mısırlı Penne",
+          "price": 288.0,
+          "description": "Cheddar Peynirli, Mantarlı, Mısırlı, Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/7a38bd43-14c0-4e89-88b0-3a9a24a61d3e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Peynirli Mantarlı Mısırlı Spagetti",
+          "price": 288.0,
+          "description": "Cheddar Peynirli, Mantarlı, Mısırlı, Spagetti, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/b7253cfc-10c5-4187-9dff-84d88e84bb43.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Soslu Penne",
+          "price": 280.0,
+          "description": "Domates Soslu, Penne Mevsim Salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/56b13949-b225-45ce-b8f5-f1b858fc7a3f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Köfteli Domatesli Spagetti",
+          "price": 360.0,
+          "description": "Dana Köfteli, Domatesli, Spagetti, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/0fce1e2b-60ca-4ea7-91b1-9d0932ca9de5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Köfteli Domatesli Penne",
+          "price": 360.0,
+          "description": "Dana Köfteli, Domatesli, Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/27e31eb6-1a69-45be-86bf-844a304c71a4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Domates Soslu Penne",
+          "price": 304.0,
+          "description": "Kaşarlı, Domates Soslu, Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/a0a68a8e-5761-49e5-b119-ab526baf7f51.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Domates Soslu Spagetti",
+          "price": 304.0,
+          "description": "Kaşarlı, Domates Soslu, Spagetti, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/b83c5f63-95bb-4339-b4c5-db3e3f50eaf3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Mantarlı Mısırlı Kremalı Penne",
+          "price": 320.0,
+          "description": "Kaşarlı, Mantarlı, Mısırlı, Kremalı Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/669e7229-352c-4453-9442-ab4a82f631ee.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Mantarlı Mısırlı Kremalı Spagetti",
+          "price": 320.0,
+          "description": "Kaşarlı, Mantarlı, Mısırlı, Kremalı, Spagetti, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/b071d534-96a0-4285-9bc1-83d4d71f9151.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Soslu Kremalı Penne (Mantarsız)",
+          "price": 280.0,
+          "description": "Barbekü Soslu, Kremalı, Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/c7705b96-1160-49cd-acc3-4d470c48587b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Soslu Mantarlı Kremalı Penne",
+          "price": 296.0,
+          "description": "Barbekü Soslu, Mantarlı, Kremalı, Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/e5a7b994-b469-4642-8fa1-e228e5d11b1a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Barbekü Soslu Mantarlı Kremalı Penne",
+          "price": 304.0,
+          "description": "Tavuklu, Barbekü Soslu, Mantarlı, Kremalı Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/09de8929-544d-48c0-a9a7-423b861cfd98.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Köri Soslu Penne",
+          "price": 304.0,
+          "description": "Tavuklu, Mantarlı, Köri Soslu, Penne Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/43c54b18-79b0-4b4c-b772-3b893552b9ca.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Penne",
+          "price": 280.0,
+          "description": "Kremalı, Mantarlı, Penne, Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/16dac744-5250-4160-aabf-ca61e58c0e6d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Kremalı Mantarlı Penne",
+          "price": 304.0,
+          "description": "Tavuklu, Kremalı, Mantarlı, Penne Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/d3f90d02-c9a7-4481-8335-8b3aaf4f1429.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Köri Soslu Penne",
+          "price": 280.0,
+          "description": "Mantarlı, Köri Soslu, Penne Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/be5efbc9-116d-400c-96bd-cbe923307aac.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Kremalı Mantarlı Penne",
+          "price": 320.0,
+          "description": "Kaşarlı, Kremalı, Mantarlı, Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/b443e473-d5d8-42bf-b98c-9b6ac72e6443.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bolonez Soslu Spagetti",
+          "price": 360.0,
+          "description": "Bolonez Soslu, Spagetti mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/f773504c-ea3b-4770-a6f6-129db0e2d2cb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Ev Makarnası Penne",
+          "price": 272.0,
+          "description": "Yoğurtlu Ev Penne Makarna Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/cd25230a-1663-44c0-acca-09fd73b9dd8c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Domates Soslu Spagetti",
+          "price": 304.0,
+          "description": "Sosisli, Domatesli Soslu, Spagetti, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/5460ca73-3dff-4d04-96c7-aa8c0b531448.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Domates Soslu Penne",
+          "price": 304.0,
+          "description": "Sosisli, Domates Soslu, Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/dc90c6e4-6979-4336-a8f9-37cd6bce6864.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Spagetti",
+          "price": 280.0,
+          "description": "Kremalı, Mantarlı, Spagetti Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/b38007e1-efc8-422a-acae-efb562a2ab55.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Kremalı Mantarlı Penne",
+          "price": 344.0,
+          "description": "Ton Balıklı, Kremalı, Mantarlı Penne, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/5a4d2cea-0119-4463-9dd6-f087842c79d8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Spagetti (Sade)",
+          "price": 280.0,
+          "description": "Pesto Soslu, Spagetti , mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/6b22f61f-1127-43ae-b6b9-07b731839e36.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Mantarlı Spagetti",
+          "price": 296.0,
+          "description": "Pesto Soslu, Mantarlı, Spagetti, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/74bac168-755c-405b-be39-6ccbc30100a8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Pesto Soslu Spagetti",
+          "price": 320.0,
+          "description": "Tavuklu, Mantarlı, Pesto Soslu, Spagetti mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/a000c5a6-e14c-4ac7-8d07-99da5ff15e56.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Tavuklu Mantarlı Mısırlı Kaşarlı Spagetti",
+          "price": 360.0,
+          "description": "Pesto Soslu, Tavuklu, Mantarlı, Mısırlı, Kaşarlı, Spagetti mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/7e98d258-ffbe-45e5-809c-280aae631420.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Mantarlı Mısırlı Kaşarlı Spagetti",
+          "price": 336.0,
+          "description": "Pesto Soslu, Mantarlı, Mısırlı, Kaşarlı, Spagetti mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/89598314/211845e7-f8b2-4565-ac16-b60ef464a01b.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ana Yemekler",
+      "products": [
+        {
+          "name": "Tavuk Sac Tava",
+          "price": 360.0,
+          "description": "Soğan, biber, mantar, tavuk. Pilav, salata, ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Soslu Mantarlı Biberli Kremalı Tavuk",
+          "price": 360.0,
+          "description": "Salata, ekmek, pilav ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuk",
+          "price": 360.0,
+          "description": "Tavuk, mantar, krema, prinç pilavı, mevsim salata",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/88187178/42321977-afe0-4635-8c61-e79fecb8c8cb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Solu Mantarlı Tavuk",
+          "price": 360.0,
+          "description": "Salata, yoğurt, ekmek, pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45190698.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Tavuk Sote",
+          "price": 360.0,
+          "description": "Tavuk, mantar, soğan, biber, pilav, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/9870a5a0-d2e2-4a9e-915e-a4bf950ec89c.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Nohutlu Tavuklu Pilav",
+          "price": 304.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mısırlı Pilav",
+          "price": 304.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/52819636/4bef25b3-4bdf-4014-9982-468bc1cba770.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mısırlı Pilav",
+          "price": 208.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/52819781/fcabc8cc-2fe4-4648-bc0b-2d7811b9a8d0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nohutlu Pilav",
+          "price": 208.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/52819801/fe6aac21-6cc3-4673-80ea-c9c850fd018c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Körili Tavuklu Kremalı Pilav",
+          "price": 296.0,
+          "description": "Özel soslu tavuk, pilav. Salata, yoğurt, turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65544247.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Pilav",
+          "price": 280.0,
+          "description": "Özel soslu kremalı pilav. Salata, yoğurt, turşu ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/73860032/71816656-b6ba-4aa3-af54-6a2116b63104.jpg?width=150&height=150"
+        },
+        {
+          "name": "Körili Kremalı Pilav",
+          "price": 280.0,
+          "description": "Körili, Kremalı Pilav Yoğurt ve Mevsim Salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/eefaff2b-0f89-4980-8ee9-7c40baab2bb8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Tavuklu Pilav",
+          "price": 296.0,
+          "description": "Kremalı, Tavuklu, Yoğurt ve Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/97628573-01c4-4b46-adf3-1a99b25b59fd.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Kaşık Salata",
+          "price": 144.0,
+          "description": "Domates, salatalık",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mevsim Salata",
+          "price": 104.0,
+          "description": "Mevsim yeşillikleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45883397.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tablacı Salatası",
+          "price": 144.0,
+          "description": "Domates, soğan, maydanoz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45883826.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Nugget (24 Adet)",
+          "price": 264.0,
+          "description": "24 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72725908.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (12 Adet)",
+          "price": 112.0,
+          "description": "12 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72725913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sigara Böreği (50 Adet)",
+          "price": 400.0,
+          "description": "50 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72725914.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sigara Böreği (24 Adet)",
+          "price": 240.0,
+          "description": "24 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72725916.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cacık",
+          "price": 88.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45884463.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması (Mega Boy)",
+          "price": 136.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72319681.jpg?width=150&height=150"
+        },
+        {
+          "name": "Öğrenci Dostu Patso Sandviç (5 Kişilik Menü)",
+          "price": 800.0,
+          "description": "Öğrenci Dostu Patso Sandviç + 5 Adet Coca-Cola (20 cl.)",
+          "img": null
+        },
+        {
+          "name": "Öğrenci Dostu Patso Sandviç (4 Kişilik Menü)",
+          "price": 680.0,
+          "description": "Öğrenci Dostu Patso Sandviç + 4 Adet Coca-Cola (20 cl.)",
+          "img": null
+        },
+        {
+          "name": "Izgara Sosis (24 Adet)",
+          "price": 240.0,
+          "description": "24 adet olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Profiterol",
+          "price": 160.0,
+          "description": "İçi krema dolu hamur toplarının çikolata sosuyla servis edildiği bir tatlıdır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44685067.jpg?width=150&height=150"
+        },
+        {
+          "name": "Brownie",
+          "price": 104.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44685118.jpg?width=150&height=150"
+        },
+        {
+          "name": "Brownie (2 Kişilik)",
+          "price": 168.0,
+          "description": "2 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44685153.jpg?width=150&height=150"
+        },
+        {
+          "name": "İrmik Helvası",
+          "price": 104.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44685208.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlaç",
+          "price": 120.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74476332.jpg?width=150&height=150"
+        },
+        {
+          "name": "ORJİNAL TİRAMİSU",
+          "price": 192.0,
+          "description": "EV YAPIMI",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75679338.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Trileçe",
+          "price": 120.0,
+          "description": "karemel",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/b9vn/product/85693463/096064fb-8ede-465b-a40a-b499923199c1.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685736.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 76.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685752.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685754.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütaş Ayran (30 cl.)",
+          "price": 48.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65391303.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65391523.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Sıkma Portakal Suyu",
+          "price": 80.0,
+          "description": "Taze sıkma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65392491.jpg?width=150&height=150"
+        },
+        {
+          "name": "El Yapımı Acısız Şalgam Suyu (30 cl.)",
+          "price": 40.0,
+          "description": "Acısız",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/67751533.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Vitamin Bar",
+      "products": [
+        {
+          "name": "Ev Yapmı Limonata",
+          "price": 52.0,
+          "description": "Limon, su, şeker",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Tatlılar",
+      "products": [
+        {
+          "name": "Karamelli Trileçe (1 kg.)",
+          "price": 640.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Dondurmalar",
+      "products": [
+        {
+          "name": "Çikolatalı Dondurma (500 gr.)",
+          "price": 240.0,
+          "description": "500 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Meyveli Dondurma (500 gr.)",
+          "price": 240.0,
+          "description": "500 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Limonlu Dondurma (500 gr.)",
+          "price": 200.0,
+          "description": "500 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685549.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Dondurma (500 gr.)",
+          "price": 200.0,
+          "description": "500 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44685628.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Maraş Dondurması (1 kg.)",
+          "price": 480.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72533765.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

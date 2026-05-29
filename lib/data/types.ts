@@ -58,6 +58,8 @@ export interface Campaign {
 }
 export interface User {
     userID: number
+    firstName: string
+    lastName: string
     email: string
     passwordHash: string
     lastRegionID: number
@@ -67,7 +69,16 @@ export interface UserFav {
     userID: number
     productID: number
 }
+export interface UserAddress {
+    addressID: number
+    userID: number
+    regionID: number
+    title: string
+    detail: string | null
+}
 export interface SearchResult {
+    productID: number
+    restaurantID: number
     productName:string
     restaurantName: string
     platform:string

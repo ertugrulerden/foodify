@@ -1,0 +1,536 @@
+{
+  "link_hash": "730b8c1c",
+  "scraped_at": "260528_1235",
+  "restaurant_name": "Usta Pideci",
+  "link": "https://www.yemeksepeti.com/restaurant/u90c/usta-pideci-u90c",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Dilediğin İkili",
+          "price": 450.0,
+          "description": "Seçeceğiniz 2 Adet Pide + 1L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748871.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide",
+          "price": 340.0,
+          "description": "Dana kuşbaşı parçaları, domates, yeşil biber, maydanoz, kaşar peyniri, tuz, tereyağı, karabiber, kimyon, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748912.jpg?width=128&height=128"
+        },
+        {
+          "name": "2'li Lahmacun Menü",
+          "price": 330.0,
+          "description": "2 Adet Lahmacun + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24383651.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı & Sucuklu Kaşarlı Menü",
+          "price": 610.0,
+          "description": "Kuşbaşılı Pide (50 cm.) + Sucuklu Kaşarlı Pide (50 cm.) + 1L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748876.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Pide",
+          "price": 325.0,
+          "description": "Dana sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748906.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 340.0,
+          "description": "Dana kuşbaşı parçaları, domates, yeşil biber, maydanoz, tereyağı, tuz, karabiber, kimyon, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748904.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Coca-Cola Fırsat Menüleri",
+      "products": [
+        {
+          "name": "Kuşbaşılı & Sucuklu Kaşarlı Menü",
+          "price": 610.0,
+          "description": "Kuşbaşılı Pide (50 cm.) + Sucuklu Kaşarlı Pide (50 cm.) + 1L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748876.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı & Kaşarlı Menü",
+          "price": 550.0,
+          "description": "Kıymalı Pide (50 cm.) + Kaşarlı Pide (50 cm.) + 1L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748875.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Algida Menüsü",
+      "products": [
+        {
+          "name": "Algida Menüsü (Algida’lı Fırsat)",
+          "price": 325.0,
+          "description": "Kıymalı Patatesli Pide + Algida Maraş Usulü Cup Dondurma + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72769508.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kampanyalar",
+      "products": [
+        {
+          "name": "2'li Lahmacun Menü",
+          "price": 330.0,
+          "description": "2 Adet Lahmacun + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24383651.jpg?width=150&height=150"
+        },
+        {
+          "name": "Usta Pideci® Süper Ekonomik Menü",
+          "price": 300.0,
+          "description": "Kıymalı Pide + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68337457.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dilediğin İkili",
+          "price": 450.0,
+          "description": "Seçeceğiniz 2 Adet Pide + 1L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748871.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı & Patatesli Menü",
+          "price": 500.0,
+          "description": "Kıymalı Pide (50 cm.) + Patatesli Pide (50 cm.) + 1L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748874.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kova Kanat Kampanyası",
+          "price": 760.0,
+          "description": "Tavuk Kanat (20'li) + Tırnak Pide + 1L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32416711.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Lahmacun Menü",
+          "price": 560.0,
+          "description": "Lahmacun (4'lü) + 1 L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748878.jpg?width=150&height=150"
+        },
+        {
+          "name": "8'li Lahmacun Menü",
+          "price": 990.0,
+          "description": "Lahmacun (8'li) + 1 L. İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748879.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlı Kampanyaları",
+      "products": [
+        {
+          "name": "2'li Sufle Kampanyası",
+          "price": 150.0,
+          "description": "2 Adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748882.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Sufle Kampanyası",
+          "price": 270.0,
+          "description": "4 Adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748883.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Algida Classic Kampanyası",
+          "price": 60.0,
+          "description": "2 Adet Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72739031.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Sufle + Algida Kampanyası",
+          "price": 135.0,
+          "description": "Çikolatalı Sufle + Algida Maraş Usulü Cup Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72739041.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Kıymalı Patatesli Pide Menü",
+          "price": 310.0,
+          "description": "Kıymalı Patatesli Pide + Ayran (20 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Pide Menü",
+          "price": 325.0,
+          "description": "Kıymalı Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27571673.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide Menü",
+          "price": 360.0,
+          "description": "Kuşbaşılı Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27571772.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Pide Menü",
+          "price": 305.0,
+          "description": "Kaşarlı Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27571147.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide Menü",
+          "price": 360.0,
+          "description": "Kuşbaşılı Kaşarlı Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27575614.jpg?width=150&height=150"
+        },
+        {
+          "name": "Usta Karışık Pide Menü",
+          "price": 350.0,
+          "description": "Usta Karışık Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27574790.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pide Menü",
+          "price": 315.0,
+          "description": "Tavuklu Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27571457.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ispanaklı Pide Menü",
+          "price": 290.0,
+          "description": "Ispanaklı Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27571068.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Pide Menü",
+          "price": 280.0,
+          "description": "Patatesli Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27570432.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Pide Menü",
+          "price": 345.0,
+          "description": "Sucuklu Kaşarlı Pide (50 cm.) + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27572890.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pideler",
+      "products": [
+        {
+          "name": "Kıymalı Patatesli Pide",
+          "price": 290.0,
+          "description": "Kıyma, patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54422651.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide",
+          "price": 305.0,
+          "description": "Dana kıyma, rendelenmiş domates, kuru soğan, yeşil biber, tuz, karabiber, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748909.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 340.0,
+          "description": "Dana kuşbaşı parçaları, domates, yeşil biber, maydanoz, tereyağı, tuz, karabiber, kimyon, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Pide",
+          "price": 285.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748903.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Pide",
+          "price": 325.0,
+          "description": "Dana sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748906.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide",
+          "price": 340.0,
+          "description": "Dana kuşbaşı parçaları, domates, yeşil biber, maydanoz, kaşar peyniri, tuz, tereyağı, karabiber, kimyon, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748912.jpg?width=150&height=150"
+        },
+        {
+          "name": "Usta Karışık Pide",
+          "price": 330.0,
+          "description": "Kaşar peyniri, dana sucuk, dana kıyma, dana kuşbaşı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748905.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pide",
+          "price": 295.0,
+          "description": "Tavuk bonfile, domates, yeşil biber, kekik, tuz, soya sosu, karabiber, kimyon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748908.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ispanaklı Pide",
+          "price": 270.0,
+          "description": "Ispanak, kaşar peyniri, kuru soğan, yeşil biber, tuz, karabiber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Pide",
+          "price": 260.0,
+          "description": "Kaşar peyniri ile hazırlanan patates püresi, kuru soğan, yeşil çarliston biber, maydanoz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748911.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Lahmacunlar",
+      "products": [
+        {
+          "name": "Acısız Lahmacun",
+          "price": 150.0,
+          "description": "Yeşil biber, maydanoz, soğan, salça, ayçiçek yağı, tuz, karabiber, kekik. Domates, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Lahmacun",
+          "price": 150.0,
+          "description": "Yeşil biber, maydanoz, soğan, salça, ayçiçek yağı, tuz, karabiber, kekik. Domates, maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748919.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Kova Kanat",
+          "price": 700.0,
+          "description": "Tavuk Kanat (20'li) + Tırnak Pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "4'lü Izgara Kanat",
+          "price": 230.0,
+          "description": "4 Pieces",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748924.jpg?width=150&height=150"
+        },
+        {
+          "name": "6'lı Izgara Kanat",
+          "price": 265.0,
+          "description": "6 Adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748925.jpg?width=150&height=150"
+        },
+        {
+          "name": "8'li Izgara Kanat",
+          "price": 350.0,
+          "description": "8 Adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748926.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı Fırın Patates (Küçük)",
+          "price": 85.0,
+          "description": "Küçük Boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748922.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı Fırın Patates (Büyük)",
+          "price": 95.0,
+          "description": "Büyük Boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748921.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlı ve Dondurmalar",
+      "products": [
+        {
+          "name": "Sufle",
+          "price": 95.0,
+          "description": "1 Adet",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Algida Max Classics Antep Fıstıklı",
+          "price": 35.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72737873.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Max Classics Kakao",
+          "price": 35.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72737875.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Max Classics Vanilya",
+          "price": 30.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72737887.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Carte d'Or Mini Cup Meyve Rüyası",
+          "price": 65.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72738555.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Carte d'Or Mini Cup Çikolata Karnavalı",
+          "price": 60.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72738574.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Maraş Usulü Cup Dondurma (100 ml.)",
+          "price": 65.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72738837.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Mini Nogger Sandwich",
+          "price": 65.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72738861.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Magnum Mini Badem (58 ml.)",
+          "price": 70.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72738876.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Magnum Mini Cookie",
+          "price": 70.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72738887.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748948.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748947.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Light (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24383723.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748953.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748952.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748951.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 50.0,
+          "description": "30 cl.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748962.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 40.0,
+          "description": "20 cl.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24049417.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (1 L.)",
+          "price": 75.0,
+          "description": "Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748956.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 75.0,
+          "description": "Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748955.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Light (1 L.)",
+          "price": 75.0,
+          "description": "Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748957.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (1 L.)",
+          "price": 75.0,
+          "description": "Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748960.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (1 L.)",
+          "price": 75.0,
+          "description": "Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748961.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 75.0,
+          "description": "Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748958.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 75.0,
+          "description": "Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748959.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 30.0,
+          "description": "50 cl.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748963.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap",
+          "price": 6.0,
+          "description": "1 Adet Sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748968.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 6.0,
+          "description": "1 Adet Sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748965.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 6.0,
+          "description": "1 Adet Sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10748970.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

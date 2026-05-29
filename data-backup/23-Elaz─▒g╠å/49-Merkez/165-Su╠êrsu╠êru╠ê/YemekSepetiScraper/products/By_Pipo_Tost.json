@@ -1,0 +1,575 @@
+{
+  "link_hash": "e4323fc9",
+  "scraped_at": "260528_0034",
+  "restaurant_name": "By Pipo Tost",
+  "link": "https://www.yemeksepeti.com/restaurant/dna9/by-pipo-tost-dna9",
+  "categories": [
+    {
+      "name": "Coca-Cola Fırsat Menüleri",
+      "products": [
+        {
+          "name": "Coca-Cola Fırsatı (Full Karışık Tost)",
+          "price": 249.26,
+          "description": "Full Karışık Tost + Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69442153.jpg?width=128&height=128"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Kaşarlı Menemen",
+          "price": 195.5,
+          "description": "Yumurta, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943649.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Menemen",
+          "price": 212.5,
+          "description": "Yumurta, kavurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943654.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Menemen",
+          "price": 212.5,
+          "description": "Yumurta, kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943656.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Menemen",
+          "price": 153.0,
+          "description": "Yumurta, sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943660.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Menemen",
+          "price": 170.0,
+          "description": "1 kişilik olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943663.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Yumurta",
+          "price": 195.5,
+          "description": "Yumurta, sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943698.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Omlet",
+          "price": 127.5,
+          "description": "1 kişilik olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943703.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Yumurta",
+          "price": 170.0,
+          "description": "Dana kavurma, yumurta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943709.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Kaşarlı Tost",
+          "price": 187.0,
+          "description": "Kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Full Karışık Tost",
+          "price": 242.25,
+          "description": "Sucuk, kaşar peyniri, domates, biber, özel sos, yumurta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940101.jpg?width=150&height=150"
+        },
+        {
+          "name": "Atom Tost",
+          "price": 246.5,
+          "description": "Somun ekmek arasına; sucuk, kaşar peyniri, yumurta, cheddar peyniri, domates, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940110.jpg?width=150&height=150"
+        },
+        {
+          "name": "Full Atom Tost",
+          "price": 263.5,
+          "description": "Kavurma, dana sucuk, yumurta, kaşar peyniri, domates, kornişon turşu, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940113.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Tost",
+          "price": 187.0,
+          "description": "Sucuk, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940118.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Tost",
+          "price": 204.0,
+          "description": "Kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940123.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Tost",
+          "price": 178.5,
+          "description": "Tam ekmek arasına; patates kızartması, cheddar peyniri, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940171.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Kaşarlı Tost",
+          "price": 202.3,
+          "description": "Tam ekmek arasına; kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940194.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vejetaryen Tost",
+          "price": 202.3,
+          "description": "Tam ekmek arasına; patates kızartması, kaşar peyniri, domates, biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940207.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patso Tost",
+          "price": 195.5,
+          "description": "Tam ekmek arasına; patates kızartması, cheddar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940213.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Tost",
+          "price": 255.0,
+          "description": "Tam ekmek arasına; kavurma, kaşar peyniri, kekik, pul biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kendi Tostunu Yarat",
+          "price": 229.5,
+          "description": "Seçeceğiniz 5 adet malzeme",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65944096.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bazlama Tostlar",
+      "products": [
+        {
+          "name": "Kavurmalı Bazlama Tost",
+          "price": 255.0,
+          "description": "150 gr. bazlama ekmeği arasına; dana kavurma, kaşar peyniri, pul biber, kekik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Bazlama Tost",
+          "price": 212.5,
+          "description": "150 gr. bazlama ekmeği arasına; kaşar peyniri, ketçap, mayonez, pul biber, kekik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Atom Bazlama Tost",
+          "price": 246.5,
+          "description": "150 gr. bazlama ekmeği arasına; sucuk, kaşar peyniri, domates, yumurta, cheddar peyniri, ketçap, mayonez, pul biber, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939951.jpg?width=150&height=150"
+        },
+        {
+          "name": "Full Karışık Bazlama Tost",
+          "price": 246.5,
+          "description": "150 gr. bazlama ekmeği arasına; sucuk, kaşar peyniri, domates, biberli özel sos, yumurta, pul biber, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939954.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Bazlama Tost",
+          "price": 212.5,
+          "description": "150 gr. bazlama ekmeği arasına; sucuk, ketçap, mayonez, pul biber, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939961.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Bazlama Tost",
+          "price": 225.25,
+          "description": "150 gr. bazlama ekmeği arasına; sucuk, kaşar peyniri, ketçap, mayonez, pul biber, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939966.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pizza Bazlama Tost",
+          "price": 272.0,
+          "description": "150 gr. bazlama ekmeği arasına; sucuk, kaşar peyniri, siyah zeytin, mısır, sosis, salam, domates, kornişon turşu, ketçap",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939981.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Bazlama Tost",
+          "price": 280.5,
+          "description": "150 gr. bazlama ekmeği arasına; kıyma, domates, biber, yumurta, kaşar peyniri, maydanoz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939996.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Bazlama Tost",
+          "price": 242.25,
+          "description": "150 gr. bazlama ekmeği arasına; sosis, kaşar peyniri, sucuk, domates, kornişon turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940028.jpg?width=150&height=150"
+        },
+        {
+          "name": "Full Atom Bazlama Tost",
+          "price": 272.0,
+          "description": "150 gr. bazlama ekmeği arasına; yumurta, sucuk, kaşar peyniri, kavurma, domates, kornişon turşu, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65940064.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ayvalık Tostları",
+      "products": [
+        {
+          "name": "Ayvalık Tostu",
+          "price": 238.0,
+          "description": "Sucuk, kaşar peyniri, salam, sosis, kornişon turşu, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Full Atom Ayvalık Tostu",
+          "price": 255.0,
+          "description": "Sucuk, kaşar peyniri, yumurta, kavurma, ketçap",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939734.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Ayvalık Tostu",
+          "price": 242.25,
+          "description": "Sucuk, kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939747.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Lavaş Tostlar",
+      "products": [
+        {
+          "name": "Dürüm Tost",
+          "price": 246.5,
+          "description": "Dana sucuk, cheddar peyniri, kaşar peyniri, ketçap, mayonez, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sebzeli Dürüm Tost",
+          "price": 212.5,
+          "description": "Dana sucuk, cheddar peyniri, domates, biber, kekik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kumru Dürüm Tost",
+          "price": 229.5,
+          "description": "Salam, sosis, sucuk, cheddar peyniri, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939768.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Dürüm Tost",
+          "price": 272.0,
+          "description": "Kavurma, kaşar peyniri, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939771.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pizza Dürüm Tost",
+          "price": 238.0,
+          "description": "Sucuk, kaşar peyniri, zeytin, domates, biber, mısır, sosis, cheddar peyniri, kekik, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65939773.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Nugget Tostlar",
+      "products": [
+        {
+          "name": "Atom Nugget Tost",
+          "price": 238.0,
+          "description": "Nugget, sosis, kaşar peyniri, patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sade Nugget Tost",
+          "price": 229.5,
+          "description": "Nugget, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942902.jpg?width=150&height=150"
+        },
+        {
+          "name": "Full Atom Nugget Tost",
+          "price": 255.0,
+          "description": "Nugget, sosis, kaşar peyniri, patates kızartması, domates, kornişon turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Nugget Tost",
+          "price": 272.0,
+          "description": "Kaşar peyniri, tavuk nugget, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942935.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Nugget Tost",
+          "price": 229.5,
+          "description": "Sosis, nugget, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942945.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Nugget Tost",
+          "price": 246.5,
+          "description": "Nugget, sosis, kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942961.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Kumru Sandviç",
+          "price": 246.5,
+          "description": "Sandviç ekmeği arasına; dana sucuk, salam, sosis, kaşar peyniri, kornişon turşu, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Patso Sandviçler",
+      "products": [
+        {
+          "name": "Sade Patso Sandviç",
+          "price": 161.5,
+          "description": "Sandviç ekmeği arasına; patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Patso Sandviç",
+          "price": 170.0,
+          "description": "Sandviç ekmeği arasına; patates kızartması, kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943144.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Patso Sandviç",
+          "price": 170.0,
+          "description": "Sandviç ekmeği arasına; sosis, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943167.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Patso Sandviç",
+          "price": 204.0,
+          "description": "Sandviç ekmeği arasına; patates kızartması, kaşar peyniri, sosis, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943171.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Patso Dürümler",
+      "products": [
+        {
+          "name": "Atom Patso Dürüm",
+          "price": 212.5,
+          "description": "Lavaş arasına; patates kızartması, cheddar peyniri, kaşar peyniri, domates, kornişon turşu, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sade Patso Dürüm",
+          "price": 170.0,
+          "description": "Lavaş arasına; patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Domatesli Patso Dürüm",
+          "price": 187.0,
+          "description": "Lavaş arasına; patates kızartması, domates, kornişon turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943326.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Patso Dürüm",
+          "price": 212.5,
+          "description": "Lavaş arasına; patates kızartması, kaşar peyniri, sosis, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943342.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Patso Dürüm",
+          "price": 195.5,
+          "description": "Lavaş arasına; patates kızartması, kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943354.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Arası Ürünler",
+      "products": [
+        {
+          "name": "Tam Ekmek Arası Köfte",
+          "price": 255.0,
+          "description": "Soğan, maydanoz, salça sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "3/4 Ekmek Arası Köfte",
+          "price": 238.0,
+          "description": "Soğan, maydanoz, salça sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yarım Ekmek Arası Köfte",
+          "price": 161.5,
+          "description": "Soğan, maydanoz, salça sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942990.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfteler",
+      "products": [
+        {
+          "name": "Double Çiğ Köfte Dürüm",
+          "price": 136.0,
+          "description": "150 gr. çiğ köfte, yeşillik, turp, domates, karalahana, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.) (Garnitürsüz)",
+          "price": 382.5,
+          "description": "1 kg. çiğ köfte olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mega Çiğ Köfte Dürüm",
+          "price": 127.5,
+          "description": "Çift lavaş arasına; yeşillik, domates, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942759.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritoslu Çiğ Köfte Dürüm",
+          "price": 110.5,
+          "description": "Doritos, yeşillik, domates, zeytinyağı, cheddar sos, ranch sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942803.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sushi Çiğ Köfte",
+          "price": 255.0,
+          "description": "8-10 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942806.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (300 gr.)",
+          "price": 212.5,
+          "description": "Yeşillik, domates, biber turşusu, kornişon turşu, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942818.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (500 gr.)",
+          "price": 212.5,
+          "description": "Yeşillik, domates, biber turşusu, kornişon turşu, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942824.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.)",
+          "price": 382.5,
+          "description": "Yeşillik, domates, biber turşusu, kornişon turşu, lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942850.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte Dürüm",
+          "price": 110.5,
+          "description": "100 gr. çiğ köfte, yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65942858.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 93.5,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (10 Adet)",
+          "price": 127.5,
+          "description": "10 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 119.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943112.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kızartma Tabağı",
+          "price": 204.0,
+          "description": "Patates kızartması, 8 adet soğan halkası, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943123.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantı",
+          "price": 187.0,
+          "description": "Yoğurt, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68373078.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kızartma İçli Köfte (8 Adet)",
+          "price": 272.0,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68373644.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 51.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 51.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943372.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (18 cl.)",
+          "price": 25.5,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943381.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Soda (20 cl.)",
+          "price": 25.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943387.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 34.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943578.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 12.75,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943583.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 59.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943597.webp?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 59.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65943616.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

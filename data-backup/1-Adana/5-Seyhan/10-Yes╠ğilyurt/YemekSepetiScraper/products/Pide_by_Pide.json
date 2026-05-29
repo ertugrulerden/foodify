@@ -1,0 +1,411 @@
+{
+  "link_hash": "77f00986",
+  "scraped_at": "260528_1209",
+  "restaurant_name": "Pide by Pide",
+  "link": "https://www.yemeksepeti.com/restaurant/bycb/pide-by-pide-bycb",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Dilediğin 2'li Pide Menü",
+          "price": 700.0,
+          "description": "Seçeceğiniz 2 Adet Pide (45 cm.) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54391246.JPG?width=128&height=128"
+        },
+        {
+          "name": "2'li Lahmacun Menü",
+          "price": 400.0,
+          "description": "2 Lahmacun + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391244.jpg?width=128&height=128"
+        },
+        {
+          "name": "Dilediğin Pide Menü",
+          "price": 330.0,
+          "description": "Seçeceğiniz Pide (45 cm) + İçecek (33 cl.) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79768131.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 430.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391259.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pide Menü",
+          "price": 370.0,
+          "description": "Tavuklu Pide (45 cm.) + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65265988.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Karışık Pide Menü",
+          "price": 400.0,
+          "description": "3'lü Karışık Pide (45 cm.) + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65265990.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menü",
+      "products": [
+        {
+          "name": "Dilediğin Pide Menü",
+          "price": 330.0,
+          "description": "Seçeceğiniz Pide (45 cm) + İçecek (33 cl.) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79768131.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dilediğin 2'li Pide Menü",
+          "price": 700.0,
+          "description": "Seçeceğiniz 2 Adet Pide (45 cm.) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54391246.JPG?width=150&height=150"
+        },
+        {
+          "name": "2'li Patatesli Leziz Menü",
+          "price": 375.0,
+          "description": "2 Adet Patatesli Pide + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77860124.jpg?width=150&height=150"
+        },
+        {
+          "name": "Efsane 2'li Pide Menü",
+          "price": 750.0,
+          "description": "Kıymalı Pide (45 cm.) + Tavuklu Pide (45 cm.) + 2 Adet Bomba + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67773657.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Lahmacun Menü",
+          "price": 400.0,
+          "description": "2 Lahmacun + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391244.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kampanya Menüleri",
+      "products": [
+        {
+          "name": "Kıymalı Pide Menü",
+          "price": 360.0,
+          "description": "Kıymalı Pide (45 cm.) + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65265989.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pide Menü",
+          "price": 370.0,
+          "description": "Tavuklu Pide (45 cm.) + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65265988.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Pide Menü",
+          "price": 335.0,
+          "description": "Patatesli Pide (45 cm.) + İçecek (330 ml) veya Ayran",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "3'lü Karışık Pide Menü",
+          "price": 400.0,
+          "description": "3'lü Karışık Pide (45 cm.) + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65265990.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Pide Menü",
+          "price": 345.0,
+          "description": "Peynirli Pide (45cm.) + İçecek (330 ml) veya Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79983383.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Lahmacunlu Menüler",
+      "products": [
+        {
+          "name": "Lahmacun & Çorba Menü",
+          "price": 365.0,
+          "description": "Lahmacun (Garnitür ile) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (330 ml) veya Ayran",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "4'lü Lahmacun Menü",
+          "price": 730.0,
+          "description": "4 Adet Lahmacun + İçecek (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "6’lı Lahmacun Menü",
+          "price": 1.08,
+          "description": "6 Adet Lahmacun + İçecek (1L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "10’lu Lahmacun Menü",
+          "price": 1.8,
+          "description": "10 Adet Lahmacun + İçecek (1L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lahmacun Menü",
+          "price": 265.0,
+          "description": "Lahmacun (Garnitür ile) + Ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79688308.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Patatesli Leziz Menüler",
+      "products": [
+        {
+          "name": "Patatesli Leziz Menü",
+          "price": 360.0,
+          "description": "Patatesli Pide (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (330 ml) veya Ayran",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı & Patatesli Leziz Menü",
+          "price": 400.0,
+          "description": "Kıymalı & Patatesli Pide (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (330 ml) veya Ayran",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu & Patatesli Leziz Menü",
+          "price": 360.0,
+          "description": "Tavuklu & Patatesli Pide (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (330 ml) veya Ayran",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 130.0,
+          "description": "Tırnaklı Pide ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Lahmacunlar",
+      "products": [
+        {
+          "name": "Lahmacun",
+          "price": 195.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Pideler",
+      "products": [
+        {
+          "name": "Tavuklu Pide",
+          "price": 325.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Pide",
+          "price": 370.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391257.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Kaşarlı Pide",
+          "price": 410.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79526836.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Yumurtalı Pide",
+          "price": 395.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79526843.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 430.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391259.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide",
+          "price": 470.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79526846.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Yumurtalı Pide",
+          "price": 450.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/79526851.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Pide",
+          "price": 355.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79983312.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Karışık Pide",
+          "price": 400.0,
+          "description": "Kıyma, kaşar peyniri, kuşbaşı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54391253.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı & Patatesli Pide",
+          "price": 300.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66342180.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu & Patatesli Pide",
+          "price": 315.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66342199.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Pide",
+          "price": 355.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69594943.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Karışık Pide",
+          "price": 355.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69594948.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Pide",
+          "price": 280.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391256.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Turşu",
+          "price": 65.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Biberiye Turşusu",
+          "price": 70.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Roka Salatası",
+          "price": 70.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391261.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Sufle",
+          "price": 130.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "By Bomba Tatlısı",
+          "price": 75.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "2'li Sufle",
+          "price": 210.0,
+          "description": "2 Adet Sufle",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78582371.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391270.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54391271.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 65.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31956855.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 50.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31956857.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (33 cl.)",
+          "price": 35.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31956858.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391277.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391278.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391279.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/54391281.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

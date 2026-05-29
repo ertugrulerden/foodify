@@ -1,0 +1,789 @@
+{
+  "link_hash": "6ef94ba9",
+  "scraped_at": "260528_1202",
+  "restaurant_name": "Dodo Pizza",
+  "link": "https://www.yemeksepeti.com/restaurant/pv1p/dodo-pizza-pv1p",
+  "categories": [
+    {
+      "name": "Kampanyalar",
+      "products": [
+        {
+          "name": "Çift Kişilik Menü",
+          "price": 649.0,
+          "description": "2 Adet Orta Boy Pizza + 1 Adet İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/c79b74d00dd39e72803e6ac3cbbb7342.jpg?width=128&height=128"
+        },
+        {
+          "name": "2 Orta Boy Pizza",
+          "price": 555.0,
+          "description": "İhtiyacınız olan bir çift: 2 orta boy pizza. Menü fiyatı, seçilen ürünlere göre farklılık gösterebilir.",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/479597285c3d1eab26a777a3309ce4b3.jpg?width=128&height=128"
+        },
+        {
+          "name": "3 Orta Boy Pizza",
+          "price": 759.0,
+          "description": "Damak tadınıza uygun olanı seçebileceğiniz menü. 3 Adet Orta Boy Pizza. Menü fiyatı seçilen ürünlere bağlı olarak değişiklik gösterebilir.",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/3792dcb9fdab5f2b64f26571c96e1ff6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bayram Menüsü",
+          "price": 569.0,
+          "description": "Büyük boy Sucuklu pizza + 1 Adet İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/a017903a870e16a1a7dad9124df1f700.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Menü",
+          "price": 439.0,
+          "description": "1 Adet 25 cm Pizza + Coca-Cola (0,33 lt.)",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/a976ac21c908fa37f61210dca2fb791d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tek Kişilik Orta Boy Menü",
+          "price": 479.0,
+          "description": "1 Adet 25 cm. Pizza + 1 Adet Orta Boy Fırında Patates + Coca-Cola (0,33 lt.)",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/5b9bda6b3236ed423a23d6533791bff9.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'ü Bir Arada Menü",
+          "price": 519.0,
+          "description": "1 Adet 25 cm. Pizza + 1 Adet Sufle + Coca-Cola (0,33 lt.)",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/81a3580e68dba5a1deb8da64c0566854.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Dodo Çocuk Menü",
+          "price": 419.0,
+          "description": "1 Adet seçeceğiniz Orta Boy Teddy Pizza + 1 Adet İçecek (20 cl.) + 1 Mini Dodo oyuncağı",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/eb7dd482c42ecd83c8e75a745426f7e3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Menü",
+          "price": 559.0,
+          "description": "1 Adet 30 cm Pizza + Coca-Cola (1 L.)",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6aab7d37b889f951b672e9dc74d79635.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Çift Kişilik Menü",
+          "price": 849.0,
+          "description": "2 Adet Büyük Boy Pizza + 1 Adet İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/bc32d1c1587a2e1950cdb0725bf19e56.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Büyük Boy Menü",
+          "price": 799.0,
+          "description": "2 Adet 30 cm Pizza",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/3093eefc1b3ba2ba6b020e4d9f5816e8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Aile Menüsü",
+          "price": 999.0,
+          "description": "Ailenizi mutlu edecek özel menü! 2 Adet Büyük Boy Pizza + 2 Adet Yan Ürün + 2 Adet İçecek (1 L.). Seçiminize göre menü fiyatı değişiklik gösterebilir.",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/534efb23271da8b1f6b9feeed5999d22.jpg?width=150&height=150"
+        },
+        {
+          "name": "İkili Dodster",
+          "price": 419.0,
+          "description": "2 adet Dodster, iki kat lezzet, iki kat keyif! Paylaşmak ya da sonra yemek için birebir",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/74f7f47e267ee38a0acbd5e04afdbe54.jpg?width=150&height=150"
+        },
+        {
+          "name": "2’li Sos",
+          "price": 35.0,
+          "description": "Seçeceğiniz 2 adet sos: Cheddar Sos, Ranch Sos, Barbekü Sos, Tatlı Chili Sos",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/ce9756319c66556935169a8a3df1500f.jpg?width=150&height=150"
+        },
+        {
+          "name": "4’lü Sos",
+          "price": 70.0,
+          "description": "Seçeceğiniz 4 adet sos: Cheddar Sos, Ranch Sos, Barbekü Sos, Tatlı Chili Sos",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6c52d07851dcc3a5d97bf312c228853b.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çocuklara Özel Pizzalar",
+      "products": [
+        {
+          "name": "Tavuklu Teddy (Orta)",
+          "price": 329.0,
+          "description": "Çocukların pizzanın sevimliliğinden yemeye kıyamayacağı, bol tavuklu ve mısırlı enfes Teddy Pizza!",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/24659eedbc30b4ae3b015815222ba1b8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Teddy (Orta)",
+          "price": 329.0,
+          "description": "Bu Teddy hem sevimli hem de bol sucuklu! Küçüklerin bayıldığı, büyüklerin gizlice tattığı pizza.",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/89a00d3cc246bc84fa7b9d32f156e754.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Küçük Boy Pizzalar",
+      "products": [
+        {
+          "name": "Tavuklu Köri (Küçük)",
+          "price": 329.0,
+          "description": "Alfredo sosu, döner tavuk, mozzarella peyniri, mantar, köri sosı",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/61f7dbc425dc71f815daf4582f1dad7d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Sucuk (Küçük)",
+          "price": 285.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, taze domates. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/b395429b787e4a97c89078f9a46b3d63.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita (Küçük)",
+          "price": 285.0,
+          "description": "Domates sosu, mozzarella peyniri, domates, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/1f9736776dc71da326818bac9fa933ec.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu (Küçük)",
+          "price": 329.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk . Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/2a6772dbc2949f78ee428cc82af94c6f.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyan (Küçük)",
+          "price": 329.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, siyah zeytin, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/132983a8267b4d748a4424b59f066c8e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jambon ve Peynirli (Küçük)",
+          "price": 379.0,
+          "description": "Alfredo sos, hindi jambon, mozzarella peyniri, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/a497b410a6de5246dafa4988011c4407.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantar (Küçük)",
+          "price": 329.0,
+          "description": "Alfredo sos, baharat, mozzarella peyniri, mantar, ranch sos. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/7b39cc7e79b16468b785f516480cc087.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebze ve Mantar (Küçük)",
+          "price": 329.0,
+          "description": "Domates sosu, baharat, mozarella peyniri, kırmızı soğan, yeşil biber, domates, mantar, taze peynir, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6c9e1676bf2852e7ece2589b29fa58c7.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Tavuk (Küçük)",
+          "price": 379.0,
+          "description": "Domates sosu, tavuk, mozzarella peyniri, kırmızı soğan, yeşil biber, domates, barbekü sos. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/1bc47c093ca2aabb2ebce123f9147699.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hawaii Karışık (Küçük)",
+          "price": 429.0,
+          "description": "Alfredo sos, mozzarella peyniri, sosis, kırmızı soğan, mısır, ananas, tatlı biber sosu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/197341775339a8bb1cdfd3c4dbb6d70f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jambon ve Mantarlı (Küçük)",
+          "price": 329.0,
+          "description": "Domates sosu, hindi jambon, mozzarella peyniri, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/9dae31a5736ee062e8a01017c6a70534.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık (Küçük)",
+          "price": 379.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, sosis, siyah zeytin, mısır. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/ce18fe906f034602abe8451e2006a21f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Sucuk (Küçük)",
+          "price": 379.0,
+          "description": "Domates sosu, mozzarella peyniri, pesto sos, sucuk, kırmızı soğan, domates. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/ce6adb13af4aa9f8d604d5a01131378b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Ranch (Küçük)",
+          "price": 379.0,
+          "description": "Alfredo sos, jambon, tavuk, mozzarella peyniri, domates, kuru sarımsak, ranch sos",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/7a1454266316bb68923828d10164e0de.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dodo (Küçük)",
+          "price": 479.0,
+          "description": "Domates sosu, mozzarella peyniri, kavurma, sucuk, tavuk, kırmızı soğan, yeşil biber, domates, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/a8b84defda3df7702226b889809d5f18.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Tavuk Döner (Küçük)",
+          "price": 429.0,
+          "description": "Domates sosu, baharat, kuru sarımsak, döner tavuk, mozarella peyniri, kırmızı soğan, domates",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/7c5a9f400c7a4fc40f22884ea6392b69.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Tavuk (Küçük)",
+          "price": 429.0,
+          "description": "Alfredo sos, tavuk, mozzarella peyniri, pesto sos, domates, taze peynir. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/ff44f63d19cf0bccb3a63e1d3314c640.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Bomboni (Küçük)",
+          "price": 379.0,
+          "description": "Alfredo sos, tavuk topları, mozzarella peyniri, kırmızı soğan, yeşil biber, tatlı biber sosu. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/7225c7a45dcddc374fccbcea85e5faec.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli (Küçük)",
+          "price": 379.0,
+          "description": "Alfredo sos, mozarella peyniri, taze peynir, pulbiber, kekikli, çörekotlu sepet peyniri. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/e620037b1b2d8026ede3bed97aae6c12.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı (Küçük)",
+          "price": 479.0,
+          "description": "Domates sosu, mozzarella peyniri, kavurma, kırmızı soğan, yeşil biber, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/369f8d35bc066d7f23b64b82824398e5.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Orta Boy Pizzalar",
+      "products": [
+        {
+          "name": "Tavuklu Köri (Orta)",
+          "price": 435.0,
+          "description": "Alfredo sosu, döner tavuk, mozzarella peyniri, mantar, köri sosı",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6be2c24bf3d739d4693438e3f6abdca0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Sucuk (Orta)",
+          "price": 385.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, taze domates. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/cbfa36f064dad923f47e87a817a71ca8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita (Orta)",
+          "price": 385.0,
+          "description": "Domates sosu, mozzarella peyniri, domates, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/712ed5a924ef8dc78aa94ac5bf1dbb47.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu (Orta)",
+          "price": 435.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk . Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/b594f3742639c6847ada5dec14bb61e7.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyan (Orta)",
+          "price": 435.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, siyah zeytin, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/f759281debe33b4af937937ee59fa09e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jambon ve Peynirli (Orta)",
+          "price": 489.0,
+          "description": "Alfredo sos, hindi jambon, mozzarella peyniri, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/9c6cd46b1e48da8dbeaa60a0a0164616.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantar (Orta)",
+          "price": 435.0,
+          "description": "Alfredo sos, baharat, mozzarella peyniri, mantar, ranch sos. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/a71c1aee6340e0566aa1687fe6b5706e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebze ve Mantar (Orta)",
+          "price": 435.0,
+          "description": "Domates sosu, baharat, mozarella peyniri, kırmızı soğan, yeşil biber, domates, mantar, taze peynir, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/dc6d633305fab3de48a097d6256a7e71.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Tavuk (Orta)",
+          "price": 489.0,
+          "description": "Domates sosu, tavuk, mozzarella peyniri, kırmızı soğan, yeşil biber, domates, barbekü sos. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/d3d44060e7691f7f2fa2c0fec8ad031c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hawaii Karışık (Orta)",
+          "price": 549.0,
+          "description": "Alfredo sos, mozzarella peyniri, sosis, kırmızı soğan, mısır, ananas, tatlı biber sosu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/b6bb9b2607ea7dda9d90961e6090f2fc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jambon ve Mantarlı (Orta)",
+          "price": 435.0,
+          "description": "Domates sosu, hindi jambon, mozzarella peyniri, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6361af0363a491cf88e4acb9ffc9bebf.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık (Orta)",
+          "price": 489.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, sosis, siyah zeytin, mısır. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/2014ee11e2954ec5e1133d3504aecf6f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Sucuk (Orta)",
+          "price": 489.0,
+          "description": "Domates sosu, mozzarella peyniri, pesto sos, sucuk, kırmızı soğan, domates. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/17c6c69e06aa8886d0fc43217b902d51.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Ranch (Orta)",
+          "price": 489.0,
+          "description": "Alfredo sos, jambon, tavuk, mozzarella peyniri, domates, kuru sarımsak, ranch sos",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/cc5e6ac9ed355278155795d54ae50462.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dodo (Orta)",
+          "price": 610.0,
+          "description": "Domates sosu, mozzarella peyniri, kavurma, sucuk, tavuk, kırmızı soğan, yeşil biber, domates, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/88408b557cce68a7031c43e32011c316.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Tavuk Döner (Orta)",
+          "price": 549.0,
+          "description": "Domates sosu, baharat, kuru sarımsak, döner tavuk, mozarella peyniri, kırmızı soğan, domates",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/359b836e4427116515308b56c68b39d4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Tavuk (Orta)",
+          "price": 549.0,
+          "description": "Alfredo sos, tavuk, mozzarella peyniri, pesto sos, domates, taze peynir. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/bc598873f180a9e13cae747097f669a8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Bomboni (Orta)",
+          "price": 489.0,
+          "description": "Alfredo sos, tavuk topları, mozzarella peyniri, kırmızı soğan, yeşil biber, tatlı biber sosu. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/8ed55801c884460d8203139603e2d4fb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli (Orta)",
+          "price": 489.0,
+          "description": "Alfredo sos, mozarella peyniri, taze peynir, pulbiber, kekikli, çörekotlu sepet peyniri. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/d0b370db621b4aa96ed59dcc79a83ca1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı (Orta)",
+          "price": 610.0,
+          "description": "Domates sosu, mozzarella peyniri, kavurma, kırmızı soğan, yeşil biber, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/038f77b8024a4bd8c5814fffad54b3a6.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Büyük Boy Pizzalar",
+      "products": [
+        {
+          "name": "Tavuklu Köri (Büyük)",
+          "price": 539.0,
+          "description": "Alfredo sosu, döner tavuk, mozzarella peyniri, mantar, köri sosı",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/0dce3edaf683f84b1b151762c6899c6e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Sucuk (Büyük)",
+          "price": 479.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, taze domates. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/531c0c49d60834762fea591151395d1c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita (Büyük)",
+          "price": 479.0,
+          "description": "Domates sosu, mozzarella peyniri, domates, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/a3b260d541ade749690a1aab92b848c6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu (Büyük)",
+          "price": 539.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk . Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/525c8b2c12a4cee673dca6d1cf705b79.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyan (Büyük)",
+          "price": 539.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, siyah zeytin, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/d11f79a39b23efd65062e64359080f2e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jambon ve Peynirli (Büyük)",
+          "price": 599.0,
+          "description": "Alfredo sos, hindi jambon, mozzarella peyniri, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/2a0c14161acd57df9db1352860cc83ae.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantar (Büyük)",
+          "price": 539.0,
+          "description": "Alfredo sos, baharat, mozzarella peyniri, mantar, ranch sos. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/8e9266291f8227ce7758a5106231d276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebze ve Mantar (Büyük)",
+          "price": 539.0,
+          "description": "Domates sosu, baharat, mozarella peyniri, kırmızı soğan, yeşil biber, domates, mantar, taze peynir, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/db1bb460ab787cc50c96c3db33d0f9bb.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Tavuk (Büyük)",
+          "price": 599.0,
+          "description": "Domates sosu, tavuk, mozzarella peyniri, kırmızı soğan, yeşil biber, domates, barbekü sos. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6ae2d9011e216837bd06cc7712f4e75f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hawaii Karışık (Büyük)",
+          "price": 665.0,
+          "description": "Alfredo sos, mozzarella peyniri, sosis, kırmızı soğan, mısır, ananas, tatlı biber sosu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/ffb25c0ba5dbdd6373b9fcf637a024a9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jambon ve Mantarlı (Büyük)",
+          "price": 539.0,
+          "description": "Domates sosu, hindi jambon, mozzarella peyniri, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/1ec4187ba35cc1b1fbaec2a3d34c2875.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık (Büyük)",
+          "price": 599.0,
+          "description": "Domates sosu, mozzarella peyniri, sucuk, sosis, siyah zeytin, mısır. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/77f0af39d988889768038258eb6e37a9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Sucuk (Büyük)",
+          "price": 599.0,
+          "description": "Domates sosu, mozzarella peyniri, pesto sos, sucuk, kırmızı soğan, domates. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6a68cfaf1ff1ded8850eef33a9f316a0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Ranch (Büyük)",
+          "price": 599.0,
+          "description": "Alfredo sos, jambon, tavuk, mozzarella peyniri, domates, kuru sarımsak, ranch sos",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/c9ec9ebdfed08100ac7c6161a56d616e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dodo (Büyük)",
+          "price": 735.0,
+          "description": "Domates sosu, mozzarella peyniri, kavurma, sucuk, tavuk, kırmızı soğan, yeşil biber, domates, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6a11692cd06c4ec521925bc1aac1d776.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Tavuk Döner (Büyük)",
+          "price": 665.0,
+          "description": "Domates sosu, baharat, kuru sarımsak, döner tavuk, mozarella peyniri, kırmızı soğan, domates",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/374b18945498e1ec2587c7d74ca98ca4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Tavuk (Büyük)",
+          "price": 665.0,
+          "description": "Alfredo sos, tavuk, mozzarella peyniri, pesto sos, domates, taze peynir. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/06019d5028a1a5e7a467d417917750de.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Bomboni (Büyük)",
+          "price": 599.0,
+          "description": "Alfredo sos, tavuk topları, mozzarella peyniri, kırmızı soğan, yeşil biber, tatlı biber sosu. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/f776aeb853b502b5a92ce71fba6139c6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli (Büyük)",
+          "price": 599.0,
+          "description": "Alfredo sos, mozarella peyniri, taze peynir, pulbiber, kekikli, çörekotlu sepet peyniri. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/dac09e6dec992adb416c6d5346bebcd7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı (Büyük)",
+          "price": 735.0,
+          "description": "Domates sosu, mozzarella peyniri, kavurma, kırmızı soğan, yeşil biber, mantar, kekik. Alerjen içerebilir: glüten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/09034ce83302f3bf4116b08fcc34f724.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yarı Yarıya Pizza",
+      "products": [
+        {
+          "name": "Karışık + İtalyan (Büyük)",
+          "price": 629.0,
+          "description": "İki efsane birleşti! En sevdiğin iki tat bir arada, seçim yapmana gerek yok",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BBQ Tavuk + Dodo (Büyük)",
+          "price": 739.0,
+          "description": "BBQ Tavuk’un dumanlı aroması ve Dodo’nun efsane lezzeti tek pizzada",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/601f29e1dd05e755126b91e12b5ff36a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Sucuk + Pesto Tavuk (Büyük)",
+          "price": 699.0,
+          "description": "Pesto tutkunlarına özel, Pesto Sucuk ve Pesto Tavuk tek pizzada",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/ad08b2705e9fa551f060613571cd4287.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Peynirli + Sucuklu (Büyük)",
+          "price": 629.0,
+          "description": "Dört Peynirli'nin zengin tadı ile sucuklu pizzanın bol etli lezzetinin enfes birleşimi",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/8e7d0f917b4013be00459a91a57cecfc.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Tatlı Chilli Mısır (1 Adet)",
+          "price": 75.0,
+          "description": "Tatlı mısır, özel Alfredo sosu, eritilmiş mozzarella ve hafif acı tatlı sos içeren sıcak kremalı bir atıştırmalık. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dodster (1 Adet)",
+          "price": 239.0,
+          "description": "Fırında çıtır çıtır pişmiş domatesli, mozzarellalı, ranch soslu, baharatlı tavuk dürüm. Alerjen içerebilir: gluten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/779df3808165f209aa8e652e85e94d74.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Tavuklu Mısır (1 Adet)",
+          "price": 75.0,
+          "description": "Tatlı mısır, özel Alfredo sosu, mozzarella ve tavuk içeren sıcak kremalı bir atıştırmalık. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/f215d5ed293fc9a8ccd328a68762e892.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Parçaları (5 Adet)",
+          "price": 145.0,
+          "description": "Dışı çıtır çıtır içi yumuşacık ve sulu tavuk fileto parçaları. Alerjen içerebilir: gluten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/7183b0e2e207ff97b6d99fcd034486f6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Peynirli Rolls (8 Adet)",
+          "price": 169.0,
+          "description": "Hamur, ranch sos, mozzarella, sucuk",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/d15c975d5f30feb05fee4b3c1d132aae.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsaklı Peynirli Rolls (8 Adet)",
+          "price": 149.0,
+          "description": "Hamur, ranch sos, mozzarella, sarımsak tozu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/3445ab0653ec92bc1c2280c86d18cdf8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Parçaları (8 Adet)",
+          "price": 235.0,
+          "description": "Dışı çıtır çıtır içi yumuşacık ve sulu tavuk fileto parçaları. Alerjen içerebilir: gluten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/e2dfbbd48e95ec8689a111a5f7e7a1c7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Topları (Büyük)",
+          "price": 175.0,
+          "description": "Fırından yeni çıkmış, tek lokmalık çıtır tavuk topları. Alerjen içerebilir: gluten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/339c3b0a972588ff7f21a5aeb481a8ba.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırında Baharatlı Patates (Büyük)",
+          "price": 105.0,
+          "description": "Fırında pişirilmiş baharatlı patates, üzerinde baharat çeşnisi — ev yapımı tadında, yumuşak dokulu ve hafif lezzetli",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/76f9d153da73c532ae526de08bda2d24.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırında Patates (Büyük)",
+          "price": 105.0,
+          "description": "Fırında pişirilmiş patates — ev yapımı tadında, yumuşak dokulu ve hafif lezzetli",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/50c9e46f08a2020f7cd1cf1a440e838f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Topları (Orta)",
+          "price": 135.0,
+          "description": "Fırından yeni çıkmış, tek lokmalık çıtır tavuk topları. Alerjen içerebilir: gluten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/c910bd11febd366296ac95164e17759f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırında Baharatlı Patates (Orta)",
+          "price": 85.0,
+          "description": "Fırında pişirilmiş baharatlı patates, üzerinde baharat çeşnisi — ev yapımı tadında, yumuşak dokulu ve hafif lezzetli",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/c64516a8775e625c2228d7a8751ccb36.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırında Patates (Orta)",
+          "price": 85.0,
+          "description": "Fırında pişirilmiş patates — ev yapımı tadında, yumuşak dokulu ve hafif lezzetli",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/2b096cf0269c96195f7babd5808055a7.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Sufle (1 Adet)",
+          "price": 139.0,
+          "description": "Çıtır çıtır kabuğu ve eritilmiş çikolata dolgulu efsanevi çikolatalı tatlı. Alerjen içerebilir: gluten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/1c3a920e8c9717666ec3a60edd438953.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sufle (2 Adet)",
+          "price": 229.0,
+          "description": "Çıtır çıtır kabuğu ve eritilmiş çikolata dolgulu efsanevi çikolatalı tatlı. Alerjen içerebilir: gluten, süt ve süt ürünleri",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/b9282452b21301f5fb92d2f75a35bc66.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Çikolatalı Rolls (8 Adet)",
+          "price": 169.0,
+          "description": "Hamur, antep fıstık sosu, kadayıf, sütlü çikolata",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/ccd818dfda9dae06f693c7fc38887cbe.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Tarçınlı Rolls (8 Adet)",
+          "price": 149.0,
+          "description": "Hamur, şeker, tarçın, sütlü çikolata",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/50691195a7979e26978d83beb24661a0.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Cappy Karışık (20 cl.)",
+          "price": 55.0,
+          "description": "Meyve suyu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Portakal (20 cl.)",
+          "price": 55.0,
+          "description": "Meyve suyu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/6411a5717b77a3f7233f5e094fde253a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limmo Limonata (25 cl.)",
+          "price": 89.0,
+          "description": "Doğal limon aromalı içecek",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/2bd6fc942662e8e9e7855f065283e4ba.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (28.5 cl.)",
+          "price": 55.0,
+          "description": "Ayran içeceği",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/bcd257c2b0f4a73b71dea1cb50b97e0a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 99.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/af598d577d0076d44842899a2d0d96ab.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero (33 cl.)",
+          "price": 99.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/bd25c232d4f0878560e2514b76a9e115.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 99.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/d52ff3ebf8983d64bb26669047d26e82.jpg?width=150&height=150"
+        },
+        {
+          "name": "FuseTea Limon (33 cl.)",
+          "price": 99.0,
+          "description": "Soğuk çay",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/c02977303e76b59cc9b216878affca54.jpg?width=150&height=150"
+        },
+        {
+          "name": "FuseTea Şeftali (33 cl.)",
+          "price": 99.0,
+          "description": "Soğuk çay",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/e0d306bac5c4c9e99b667f9dd1a44ba9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Su (50 cl.)",
+          "price": 35.0,
+          "description": "İçme suyu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/9177ebaa276563666e750250ae2a25f4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 129.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/abe406aae75e92580a1342caebb434f2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero (1 L.)",
+          "price": 129.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/c39c20d6b878c7a17a017dc45023b4a0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 129.0,
+          "description": "Gazlı içecek",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/4ecf68eec6a0b84b9995c248acd66d26.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Karışık (1 L.)",
+          "price": 159.0,
+          "description": "Meyve suyu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/7e58649ccdbd71f276390543dcd80b17.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Portakal (1 L.)",
+          "price": 159.0,
+          "description": "Meyve suyu",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/e07e650db16a0563452c0071e296f7a1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 129.0,
+          "description": "Ayran içeceği",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap (1 Adet)",
+          "price": 5.0,
+          "description": "Paket Sos. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/0f8e8b60c155cf5acd50e2b719988ef7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez (1 Adet)",
+          "price": 5.0,
+          "description": "Paket Sos. Alerjen içerebilir: glüten, süt ve süt ürünleri, laktoz dahil",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/fe1d14f52dd036eda3e20e5ea18c75dd.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Sos (1 Adet)",
+          "price": 30.0,
+          "description": "Izgara ateşinin tadı",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/276514efa044c22632dfdb77fb17d27f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Sos (1 Adet)",
+          "price": 30.0,
+          "description": "Pürüzsüz cheddar lezzeti",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/e5b1637c5ad0776fc5e1c2bb4850f06f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos (1 Adet)",
+          "price": 30.0,
+          "description": "Hafif ekşimsi, ferahlatıcı bir tat",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/7c1dea463106e1d3f1e3544dc64fe04a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı Chilli Sos (1 Adet)",
+          "price": 30.0,
+          "description": "Hafif tatlı, hafif yakıcı",
+          "img": "https://images.deliveryhero.io/image/menu-import-gateway-prd/regions/TR/chains/h1iWEI8L/8a92016f14bd4f4bdcb384e6a1314740.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Baharatlar",
+      "products": [
+        {
+          "name": "Baharat (1 Parça)",
+          "price": 10.0,
+          "description": "Pizza baharatı paketi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

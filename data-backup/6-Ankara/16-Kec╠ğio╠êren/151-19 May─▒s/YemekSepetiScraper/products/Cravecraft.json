@@ -1,0 +1,401 @@
+{
+  "link_hash": "8e45c2d3",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Cravecraft",
+  "link": "https://www.yemeksepeti.com/restaurant/qh6c/cravecraft",
+  "categories": [
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Karışık Bazlama Tost",
+          "price": 240.0,
+          "description": "Dana sucuk, kaşar peyniri, domates, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77902659.jpg?width=128&height=128"
+        },
+        {
+          "name": "Süper Ayvalık Tostu",
+          "price": 260.0,
+          "description": "Ayvalık tost ekmeğine; dana sucuk, dana sosis, kaşar peyniri, Rus salatası, kornişon turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77902719.jpg?width=128&height=128"
+        },
+        {
+          "name": "Atom Tost",
+          "price": 336.0,
+          "description": "Dana sucuk, dana salam, kaşar peyniri, dana kavurma, domates, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77902836.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Tost",
+          "price": 240.0,
+          "description": "Dana sucuk, kaşar peyniri, domates, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77902850.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 228.0,
+          "description": "Kaşar peyniri, domates, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77905996.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salamlı Tost",
+          "price": 232.0,
+          "description": "Dana salam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906009.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chef Ayvalık Tostu",
+          "price": 340.0,
+          "description": "Dana kavurma, dana sucuk, dana salam, Rus salatası, kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906056.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chef Pastırmalı Ayvalık Tostu",
+          "price": 340.0,
+          "description": "Dana pastırma, dana sucuk, dana salam, kaşar peyniri, Rus salatası, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906085.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pastırmalı Tost",
+          "price": 340.0,
+          "description": "Dana pastırma, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906145.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sanayi Tostu",
+          "price": 240.0,
+          "description": "Dana sucuk, dana salam, domates, yeşil biber, yumurta, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77909874.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Süper Kumru Sandviç (XL)",
+          "price": 260.0,
+          "description": "Kumru ekmeğine; dana sosis, dana sucuk, kaşar peyniri, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Sade Patso Sandviç",
+          "price": 228.0,
+          "description": "Çıtır ekmek arasına; kızarmış biber, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77899134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Patso Sandviç",
+          "price": 240.0,
+          "description": "Kumru sandviç ekmeğine; patates kızartması, kaşar peyniri, ızgara dana sucuk, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906257.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Patso Sandviç",
+          "price": 240.0,
+          "description": "Çıtır ekmek arasına; dana sucuk, kızarmış biber, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906521.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek Arası Salamlı Patso Sandviç",
+          "price": 240.0,
+          "description": "Dana salam, kızarmış biber, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906585.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek Arası Kaşarlı Patso Sandviç",
+          "price": 240.0,
+          "description": "Kızarmış biber, patates kızartması, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77909965.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Yumurtalı Sandviç",
+          "price": 340.0,
+          "description": "Dana kavurma, yumurta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77911143.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Ekmek Arası Ankara Usulü Tavuk Döner",
+          "price": 176.0,
+          "description": "Çıtır ekmek arasına; tavuk döner, soğan, domates, kornişon turşu, kekik, pul biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hatay Usulü Tavuk Döner Dürüm",
+          "price": 192.0,
+          "description": "Çıtır lavaş içerisine; tavuk döner, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Süper Ayvalık Tostu Menü 1",
+          "price": 400.0,
+          "description": "Süper Ayvalık Tostu (Ayvalık tost ekmeğine; dana sucuk, dana sosis, kaşar peyniri, Rıus salatası, kornişon turşu, ketçap, mayonez) + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Süper Ayvalık Tostu Menü 2",
+          "price": 400.0,
+          "description": "Süper Ayvalık Tostu (Ayvalık tost ekmeğine; dana sucuk, dana sosis, kaşar peyniri, Rıus salatası, kornişon turşu, ketçap, mayonez) + Coca-Cola (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Süper Kumru Sandviç (XL) Menü 1",
+          "price": 400.0,
+          "description": "Süper Kumru Sandviç (XL) (Kumru ekmeğine; dana sosis, dana sucuk, kaşar peyniri, ketçap, mayonez) + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Süper Kumru Sandviç (XL) Menü 2",
+          "price": 400.0,
+          "description": "Süper Kumru Sandviç (XL) (Kumru ekmeğine; dana sosis, dana sucuk, kaşar peyniri, ketçap, mayonez) + Coca-Cola (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Atom Tost Menü 1",
+          "price": 440.0,
+          "description": "Atom Tost (Dana sucuk, dana salam, kaşar peyniri, dana kavurma, domates, yeşil biber) + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Atom Tost Menü 2",
+          "price": 360.0,
+          "description": "Atom Tost Atom Tost (Dana sucuk, dana salam, kaşar peyniri, dana kavurma, domates, yeşil biber) + Coca-Cola (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Doyuran Ayvalık Tostu Menü",
+          "price": 400.0,
+          "description": "Doyuran Ayvalık Tostu (Dana sucuk, dana sosis, kaşar peyniri, ketçap, mayonez) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Ekmek Arası Sade Patso Sandviç Menü",
+          "price": 320.0,
+          "description": "Yarım Ekmek Arası Sade Patso Sandviç (Çıtır ekmek arasına; kızarmış biber, patates kızartması, ketçap, mayonez) + Coca-Cola (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Sucuklu Kaşarlı Patso Sandviç Menü",
+          "price": 400.0,
+          "description": "Sucuklu Kaşarlı Patso Sandviç (Kumru sandviç ekmeğine; patates kızartması, kaşar peyniri, ızgara dana sucuk, ketçap, mayonez) + Coca-Cola (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Yarım Ekmek Arası Izgara Sucuk Menü",
+          "price": 400.0,
+          "description": "Yarım Ekmek Arası Izgara Sucuk (Dana sucuk, domates, yeşil biber, kornişon turşu, sumaklı soğan) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Kaşarlı Tost Menü",
+          "price": 360.0,
+          "description": "Kaşarlı Tost (Kaşar peyniri, domates, yeşil biber) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Salamlı Patso Sandviç Menü",
+          "price": 400.0,
+          "description": "Salamlı Patso Sandviç (Dana salam) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Ekmek Arası Ankara Usulü Tavuk Döner Menü",
+          "price": 300.0,
+          "description": "Yarım Ekmek Arası Ankara Usulü Tavuk Döner (Çıtır ekmek arasına; tavuk döner, soğan, domates, kornişon turşu, kekik, pul biber) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Sandviç Ekmek Arası Ciğer Menü",
+          "price": 320.0,
+          "description": "Sandviç Ekmek Arası Ciğer (Çıtır sandviç ekmeğine; ciğer kavurma, maydanoz, soğan) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Doyuran Kumru Sandviç Menü",
+          "price": 400.0,
+          "description": "Doyuran Kumru Sandviç (Dana sosis, dana sucuk, kaşar peyniri, ketçap, mayonez) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Karışık Tost Menü",
+          "price": 380.0,
+          "description": "Karışık Tost (Dana sucuk, kaşar peyniri, domates, yeşil biber) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Sandviç Ekmek Arası Köfte Menü",
+          "price": 460.0,
+          "description": "Sandviç Ekmek Arası Köfte (Sandviç ekmeğine; dana köfte, mevsim yeşillikleri) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Salamlı Kaşarlı Patso Sandviç Menü",
+          "price": 380.0,
+          "description": "Salamlı Kaşarlı Patso Sandviç (Dana salam, kaşar peyniri, patates kızartması) + Patates Kızartmsı + Kutu İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Hatay Usulü Tavuk Döner Dürüm Menü",
+          "price": 316.0,
+          "description": "Hatay Usulü Tavuk Döner Dürüm (Çıtır lavaş içerisine; tavuk döner, özel sos) + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Arası Ürünler",
+      "products": [
+        {
+          "name": "Ekmek Arası Izgara Sucuk",
+          "price": 260.0,
+          "description": "Dana sucuk, domates, yeşil biber, kornişon turşu, sumaklı soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sandviç Ekmek Arası Köfte",
+          "price": 340.0,
+          "description": "Sandviç ekmeğine; dana köfte, mevsim yeşillikleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906190.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek Arası Köfte & Sucuk",
+          "price": 340.0,
+          "description": "Dana köfte, dana sucuk, domates, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77906304.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sandviç Ekmek Arası Ciğer",
+          "price": 180.0,
+          "description": "Çıtır sandviç ekmeğine; ciğer kavurma, maydanoz, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77909664.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması (Küçük Boy)",
+          "price": 176.0,
+          "description": "Ketçap, mayonez ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması (Büyük Boy)",
+          "price": 280.0,
+          "description": "Ketçap, mayonez ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903211.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903238.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903272.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903287.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903299.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77898744.jpg?width=150&height=150"
+        },
+        {
+          "name": "Niğde Gazozu (25 cl.)",
+          "price": 80.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77898773.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 80.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903328.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Soda (20 cl.)",
+          "price": 64.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903384.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 64.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903394.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 36.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77903416.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 128.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77911790.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Paketli Ürünler",
+      "products": [
+        {
+          "name": "Kangal Sucuk (1 kg.) (Pişirilmemiş)",
+          "price": 600.0,
+          "description": "Paket olarak servias edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

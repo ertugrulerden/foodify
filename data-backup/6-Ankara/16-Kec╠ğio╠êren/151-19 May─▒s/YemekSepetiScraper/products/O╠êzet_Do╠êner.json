@@ -1,0 +1,504 @@
+{
+  "link_hash": "d046ba49",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Özet Döner",
+  "link": "https://www.yemeksepeti.com/restaurant/hfqz/ozet-doner",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Et Döner (130 gr.)",
+          "price": 480.0,
+          "description": "Soğan, bulgur pilavı, tırnak pide, mevsim salata, ezme, yoğurtlu patlıcan ezmesi, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83519142/11fb2287-8c24-4ba7-9603-d52996353a11.jpg?width=128&height=128"
+        },
+        {
+          "name": "Lahmacun",
+          "price": 184.0,
+          "description": "Mevsim salata, ezme, maydanoz ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83436772/0725d781-7669-4bf2-896c-15a465bedace.jpg?width=128&height=128"
+        },
+        {
+          "name": "Et Döner Dürüm (130 gr.)",
+          "price": 480.0,
+          "description": "Mevsim salata, közlenmiş biber, ezme, yoğurtlu patlıcan ezmesi ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83801469/5968a212-7e99-40a0-b2a3-36b7827e4e68.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gobit Ekmek Arası Et Döner (130 gr.)",
+          "price": 480.0,
+          "description": "Mevsim salata, ezme, patlıcan mezesi ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83801468/ca55e2bf-fa8f-438b-bd1f-4ae674a78ebb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (500 gr.) (Pişirilmiş)",
+          "price": 1.44,
+          "description": "3 adet tırnak pide, mevsim salata, ezme, yoğurtlu patlıcan ezmesi, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83519137/c96642d4-de38-4166-a0ca-f101298ba78a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırında Sütlaç",
+          "price": 156.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/84623602/5bb756da-ba07-49bf-a731-a0438a4f648f.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Aile Boyu Menüler",
+      "products": [
+        {
+          "name": "10'lu Kıymalı Pide Menü",
+          "price": 2.712,
+          "description": "10 Adet Kıymalı Pide (Salata, ezme ile.) + İçecek (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "5'li Kıymalı Pide Menü",
+          "price": 1.4,
+          "description": "5 Adet Kıymalı Pide + İçecek (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Combo Tatlılı Menüler",
+      "products": [
+        {
+          "name": "Ekmek Arası Et Döner (130 gr.) Menü",
+          "price": 720.0,
+          "description": "Ekmek Arası Et Döner (130 gr. et döner. Salata, ezme, patlıcan mezesi, seçeceğiniz tatlı ile.) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide Combo Menü",
+          "price": 744.0,
+          "description": "Kuşbaşılı Kaşarlı Pide (Seçeceğiniz tatlı, salata, ezme ile.) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Pide Combo Menü",
+          "price": 512.0,
+          "description": "Kıymalı Pide (Seçeceğiniz tatlı, salata, ezme ile.) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78019170.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bıçakarası & Kuşbaşı Kaşarlı Pide Menü",
+          "price": 1.08,
+          "description": "1 Adet Bıçak Arası + 1 Adet Kuşbaşı Kaşarlı Pide + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78019573.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Menüler",
+      "products": [
+        {
+          "name": "2'li Lahmacun Menü",
+          "price": 464.0,
+          "description": "2 Adet Lahmacun (Salata, ezme ile.) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner (130 gr.) Menü",
+          "price": 560.0,
+          "description": "Et Döner (130 gr.) (Salata, ezme ile.) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Et Döner (130 gr.) Menü",
+          "price": 560.0,
+          "description": "Ekmek Arası Et Döner (130 gr. Et döner. Salata, patlıcan mezesi, ezme ile.) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78017898.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide Menü",
+          "price": 584.0,
+          "description": "Kuşbaşılı Kaşarlı Pide (Salata, ezme ile.) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78018068.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti Döner (130 gr.) Menü",
+          "price": 640.0,
+          "description": "Beyti Döner (130 gr. beyti döner. Salata, ezme, patlıcan mezesi ile.) +",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78018430.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (130 gr.) Menü",
+          "price": 640.0,
+          "description": "İskender (130 gr. iskender. Salata, ezme, palıcan mezesi ile.) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78018500.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide Menü",
+          "price": 384.0,
+          "description": "Kıymalı Pide + Mevsim Salata + Ezme + Seçeceğiniz İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78065162.jpg?width=150&height=150"
+        },
+        {
+          "name": "10'lu Lahmacun & Salata Menü",
+          "price": 2.0,
+          "description": "10 Adet Lahmacun (Lütfen acı seçiminizi sipariş notu kısmında belirtiniz.) (Salata, maydanoz ile) + İçecek (1 L.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Eko Menüler",
+      "products": [
+        {
+          "name": "Servis Et Döner Eko Menü",
+          "price": 480.0,
+          "description": "Et Döner (100 gr.) + Kutu İçecek (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Döner Eko Menü",
+          "price": 480.0,
+          "description": "Et Döner (100 gr.) + (Salata, ezme, patlıcan mezesi) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Gobit Ekmek Arası Et Döner Eko Menü",
+          "price": 592.0,
+          "description": "Gobit Ekmek Arası Et Döner (100 gr.) (Salata, ezme, patlıcan mezesi ile) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "2'li Menüler",
+      "products": [
+        {
+          "name": "2'li Lahmacun Combo Menü",
+          "price": 680.0,
+          "description": "2 Adet Lahmacun + Seçeceğiniz Tatlı (Salata, ezme ile.) + İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "2'li Et Döner Dürüm Menü",
+          "price": 1.2,
+          "description": "2 Adet Seçeceğiniz Et Dürüm + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78019593.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı & Kaşarlı Pide Menü",
+          "price": 760.0,
+          "description": "1 Adet Kıymalı Pide + 1 Adet Kaşarlı Pide + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78019628.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Lahmacun Menü",
+          "price": 960.0,
+          "description": "4 Adet Lahmacun (Salata, ezme ile.) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78019484.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Lahmacun Menü",
+          "price": 504.0,
+          "description": "2 Adet Lahmacun (Lütfen acı seçimini sipariş notu bölümünde belirtiniz.) + Seçeceğiniz İçecek + Mevsim Salata + Ezme",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78063904.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 128.0,
+          "description": "Tırnak pide, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Et Dönerler",
+      "products": [
+        {
+          "name": "Et Döner (500 gr.) (Pişirilmiş)",
+          "price": 1.44,
+          "description": "3 adet tırnak pide, mevsim salata, ezme, yoğurtlu patlıcan ezmesi, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83519137/c96642d4-de38-4166-a0ca-f101298ba78a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (1 kg.) (Pişirilmiş)",
+          "price": 2.8,
+          "description": "6 adet tırnak pide, mevsim salata, ezme, yoğurtlu patlıcan ezmesi, közlenmiş biber ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyti Döner",
+          "price": 544.0,
+          "description": "Bulgur pilavı, tava yoğurdu, mevsim salata, ezme, yoğurtlu patlıcan ezmesi, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83519139/af072713-90a4-4de8-9191-9bece3b297a3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (130 gr.)",
+          "price": 480.0,
+          "description": "Soğan, bulgur pilavı, tırnak pide, mevsim salata, ezme, yoğurtlu patlıcan ezmesi, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83519142/11fb2287-8c24-4ba7-9603-d52996353a11.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Et Dönerden) (130 gr.)",
+          "price": 544.0,
+          "description": "Bulgur pilavı, tava yoğurdu, mevsim salata, ezme, yoğurtlu patlıcan ezmesi, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83519143/149d650a-224e-445a-97f9-6a0c77b77eb6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Dürüm (130 gr.)",
+          "price": 480.0,
+          "description": "Mevsim salata, közlenmiş biber, ezme, yoğurtlu patlıcan ezmesi ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83801469/5968a212-7e99-40a0-b2a3-36b7827e4e68.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Et Döner",
+          "price": 516.0,
+          "description": "Dana etinden, meşe odunu ateşinde pişmiş döner. Pirinç pilavı, salata, ezme, patlıcan mezesi, tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/84868424/5b0e5c0e-a55d-4982-abd6-d0f71bb3be15.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (750 gr.) (Pişirilmiş)",
+          "price": 2.12,
+          "description": "5 adet tırnak pide, mevsim salata, ezme, patlıcan mezesi ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/86180920/bfa9cdbb-38ca-4d03-8a6f-7b0558ba0c11.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fırın Ürünleri",
+      "products": [
+        {
+          "name": "Lahmacun",
+          "price": 184.0,
+          "description": "Mevsim salata, ezme, maydanoz ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Pide",
+          "price": 288.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Pide",
+          "price": 276.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83436778/fc421578-4c98-4571-b21c-67c95c480d22.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 480.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83436869/2b97ee03-1eef-4de7-ab9a-2704f2115aa4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pide",
+          "price": 480.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83437005/866c47ef-04e0-4fc1-a108-6c4894f358a7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Kaşarlı Pide",
+          "price": 320.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83437078/c8876196-cd5c-4930-bf16-0e5b5efcb647.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Dönerli Kaşarlı Pide",
+          "price": 480.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83437144/91bf9a52-4966-466d-8a05-d1fb118874c3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Pide",
+          "price": 460.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83437124/1420da44-b71b-4e49-8c19-47a0b395bb52.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Kaşarlı Pide",
+          "price": 360.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/84162636/7b5ededd-9a7e-4fa0-8e52-62a987d0a2db.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Dönerli Pide",
+          "price": 480.0,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/84162762/1d5df42d-4572-4038-aa0a-63cdeab16d3d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide (5 Adet)",
+          "price": 1.4,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/85759693/5dcc512c-5f32-418d-b804-c54bd82c293b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide (10 Adet)",
+          "price": 2.64,
+          "description": "Mevsim salata, ezme, közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/85759700/b3e721a0-7e1f-41bf-8c52-f74f0628d757.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lahmacun (10 Adet)",
+          "price": 1.76,
+          "description": "Mevsim salata, maydanoz ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/85759712/c51fd860-833d-4b1f-80b6-f94fdbb4cf50.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Pide",
+          "price": 440.0,
+          "description": "Mevsim salata, ezme közlenmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/86031590/a92090c8-a8a6-4e02-882a-927570070b1c.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Arası Dönerler",
+      "products": [
+        {
+          "name": "Gobit Ekmek Arası Et Döner (130 gr.)",
+          "price": 480.0,
+          "description": "Mevsim salata, ezme, patlıcan mezesi ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/83801468/ca55e2bf-fa8f-438b-bd1f-4ae674a78ebb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tam Ekmek Arası Et Döner (130 gr.)",
+          "price": 480.0,
+          "description": "Mevsim salata, günün ezmesi, patlıcan ezmesi ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Tırnak Pide",
+          "price": 40.0,
+          "description": "Taş fırında, odun ateşinde pişirilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lavaş",
+          "price": 40.0,
+          "description": "Taş fırında, odun ateşinde pişirilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Fırında Sütlaç",
+          "price": 156.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/84623602/5bb756da-ba07-49bf-a731-a0438a4f648f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Kadayıf",
+          "price": 156.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/hfqz/product/84623606/a8b76e96-9458-4e1c-a54a-9d7139c291b3.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 104.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77977481.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74723210.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eker Ayran (29,3 cl.)",
+          "price": 64.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74723217.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (33 cl.)",
+          "price": 32.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74723223.jpg?width=150&height=150"
+        },
+        {
+          "name": "Niğde Gazozu (25 cl.)",
+          "price": 48.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74723230.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beypazarı Soda (20 cl.)",
+          "price": 36.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74723240.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 76.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74723250.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75459611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Şeftali (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75459612.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Mango (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75459616.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tropicana Karışık (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75459618.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tropicana Şeftali (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75459650.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yayık Ayran (33 cl.)",
+          "price": 76.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76498417.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "link_hash": "5989053f",
+  "scraped_at": "260528_1139",
+  "restaurant_name": "Köşk Közde Döner",
+  "link": "https://www.yemeksepeti.com/restaurant/uig3/kosk-kozde-doner",
+  "categories": [
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Tavuk Döner Servis",
+          "price": 290.0,
+          "description": "Salata, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75522587.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Döner Dürüm",
+          "price": 150.0,
+          "description": "Turşu, patates kızartması, sos, mayonez, ketçap, baharat",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uig3/product/84256314/61b5f4e3-a3af-4d06-bdc8-3565fab59664.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kaşarlı Tavuk Döner Dürüm",
+          "price": 200.0,
+          "description": "Turşu, patates kızartması, sos, mayonez, ketçap, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uig3/product/84256343/9623cc19-8642-4a8e-a3a2-83bf83b60292.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Tavuk Döner Dürüm",
+          "price": 250.0,
+          "description": "Turşu, patates kızartması, sos, mayonez, ketçap, baharat",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uig3/product/84256318/2ddecca6-c00d-4402-91ab-f8baf974345d.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Et Dönerler",
+      "products": [
+        {
+          "name": "İskender (Et Dönerden)",
+          "price": 420.0,
+          "description": "Salata, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75522640.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Dürüm",
+          "price": 240.0,
+          "description": "Domates, turşu, sos, mayonez",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uig3/product/84256368/3a041b78-b76d-4c08-aa3d-a613a32a2332.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Et Döner Dürüm",
+          "price": 320.0,
+          "description": "Domates, turşu, sos, mayonez",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uig3/product/84256370/6360eaae-d4eb-4072-a43a-a389e7bdbdb2.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburger",
+          "price": 160.0,
+          "description": "Turşu, domates, ketçap, mayonez, burger köftesi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "link_hash": "cd67d1d7",
+  "scraped_at": "260528_0112",
+  "restaurant_name": "Waffle Padişah",
+  "link": "https://www.yemeksepeti.com/restaurant/kfnh/waffle-padisah",
+  "categories": [
+    {
+      "name": "Waffles",
+      "products": [
+        {
+          "name": "Beyaz Çikolata Soslu Waffle",
+          "price": 344.0,
+          "description": "Beyaz çikolata sosu, muz, çilek, fındık",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/kfnh/product/587f35d6-8870-455e-b479-0900c45d69fd.jpg?width=128&height=128"
+        },
+        {
+          "name": "Frambuazlı Waffle",
+          "price": 336.0,
+          "description": "Frambuaz, frambuazlı sos, mevsim meyveleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76083653.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çilekli Waffle",
+          "price": 320.0,
+          "description": "Çilek, sütlü çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76083654.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Waffle",
+          "price": 352.0,
+          "description": "Lotus parçaları, sütlü çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76083655.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Waffle",
+          "price": 352.0,
+          "description": "Çikolata sos, sütlü çikolata, mevsim meyveleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76083656.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Katlı Duble Waffle",
+          "price": 760.0,
+          "description": "Kivi, muz, çilek, karışık sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76215302.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kivilim Waffle",
+          "price": 320.0,
+          "description": "Kivi, çilek, soslar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76215310.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kap tatlılar",
+      "products": [
+        {
+          "name": "Beyaz Cup",
+          "price": 312.0,
+          "description": "Beyaz soslu çilek, muz, draje, çikolata parçacıkları",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Cup",
+          "price": 312.0,
+          "description": "Çikolata sosu, muz, çilek, draje çikolata parçacıkları",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuaz Cup",
+          "price": 312.0,
+          "description": "Frambuaz sos, çilek, muz, draje çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Niğde gazoz",
+          "price": 72.0,
+          "description": "gazoz (250 ml.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca cola zero",
+          "price": 72.0,
+          "description": "Coca cola zero (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütaş ayran küçük",
+          "price": 36.0,
+          "description": "Sütaş ayran (20 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "cappy karışık",
+          "price": 76.0,
+          "description": "Cappy karışık (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76253720.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütaş ayran Büyük",
+          "price": 52.0,
+          "description": "Sütaş ayran (30cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76253721.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite",
+          "price": 72.0,
+          "description": "Limon aramalı gazoz (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76253722.jpg?width=150&height=150"
+        },
+        {
+          "name": "cappy vişne",
+          "price": 72.0,
+          "description": "cappy vişne (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sütlü tatlılar",
+      "products": [
+        {
+          "name": "Kadayıflı Muhallebi",
+          "price": 151.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kazandibi",
+          "price": 151.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Cup",
+          "price": 151.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fıstıklı Cup",
+          "price": 151.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Oreo Cup",
+          "price": 151.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fırın Sütlaç",
+          "price": 160.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İncirli Muhallebi",
+          "price": 151.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Datça Bademli Muhallebi",
+          "price": 160.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Profiterol",
+          "price": 159.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fıstıklı Kazandibi",
+          "price": 111.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

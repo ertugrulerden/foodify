@@ -1,0 +1,809 @@
+{
+  "link_hash": "e5acec0b",
+  "scraped_at": "260528_0114",
+  "restaurant_name": "Little Caesars Pizza",
+  "link": "https://www.yemeksepeti.com/restaurant/he33/little-caesars-pizza-he33",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Karışık (Orta)",
+          "price": 540.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sosis, sucuk, mısır, siyah zeytin, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780136.jpg?width=128&height=128"
+        },
+        {
+          "name": "Büyük Boy Pizza Fırsatı",
+          "price": 520.0,
+          "description": "Büyük boy Fırsat grubu pizza için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43415538.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sezar Patates (Orta)",
+          "price": 135.0,
+          "description": "Fırınlanmış orta boy patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/31442918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Pizza Fırsatı",
+          "price": 440.0,
+          "description": "Orta boy Fırsat grubu pizza için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43415670.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Topları (75 gr.)",
+          "price": 135.0,
+          "description": "Fırınlanmış özel kaplamalı çıtır tavuk topları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780090.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 115.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780276.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Algida Menüleri",
+      "products": [
+        {
+          "name": "Algida Menüsü (Orta Boy Pizza)",
+          "price": 540.0,
+          "description": "Orta Boy Pizza + Çıtır Tavuk Topları (75 gr.) + Algida Maraş Cup + İçecek (33 cl.) (Fırsat pizzalar için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/48649016.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Menüsü (Küçük Boy Pizza)",
+          "price": 430.0,
+          "description": "Küçük Boy Fırsat Grubu Pizza + Algida Maraş Cup + İçecek (33 cl.) için geçerlidir. Klasik grubu pizzalar 15 TL, Ekstra grubu pizzalar 25 TL, Premium grubu pizzalar 45 TL, Gurme grubu pizzalar 70 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/48649856.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menü",
+      "products": [
+        {
+          "name": "Orta Boy Pizza + Seçili Yan Ürün + İçecek (33 cl.)",
+          "price": 370.0,
+          "description": "Orta Boy Fırsat Grubu Pizza + Seçili Yan Ürün + İçecek (33 cl.) için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72674317.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ayın Ürünü",
+      "products": [
+        {
+          "name": "2 Adet Orta Boy Pizza + İçecek (1 L.)",
+          "price": 495.0,
+          "description": "2 Adet Orta Boy Pizza + İçecek (1 L.)) için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80107026.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Orta Boy Pizza + Helva Puffs 4'lü + İçecek (1 L.)",
+          "price": 650.0,
+          "description": "2 Adet Orta Boy Fırsat Grubu Pizza + Helva Puffs 4'lü ve 1 L. içecek için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78551731.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Orta Boy Pizza Fırsatı",
+          "price": 520.0,
+          "description": "2 Adet Orta Boy Fırsat grubu pizza için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52345529.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Pizza + İçecek (33 cl.)",
+          "price": 460.0,
+          "description": "Orta boy fırsat grubu pizza ve 33 cl içecek için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72673851.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nefis Kenar Süper Sezar (Orta) Fırsatı",
+          "price": 495.0,
+          "description": "Orta Boy Nefis Kenar Süper Sezar pizza için geçerlidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72667339.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Pizza Fırsatı",
+          "price": 520.0,
+          "description": "Büyük boy Fırsat grubu pizza için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43415538.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Pizza + Seçili Yan Ürün + İçecek (1 L.)",
+          "price": 540.0,
+          "description": "Orta Boy Fırsat Grubu Pizza + Seçili Yan Ürün + İçecek (1 L.) için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72673395.jpg?width=150&height=150"
+        },
+        {
+          "name": "3 Adet Orta Boy Pizza + İçecek (1 L.)",
+          "price": 900.0,
+          "description": "3 Adet Orta Boy Fırsat Pizza + Litrelik İçecek için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72675982.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Parçaları 6'lı",
+          "price": 125.0,
+          "description": "125 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78551519.jpg?width=150&height=150"
+        },
+        {
+          "name": "Helva Puffs 4'lü",
+          "price": 180.0,
+          "description": "Taze günlük hamur, tahin helvası, susam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78551495.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yılın Puff Noktası!",
+      "products": [
+        {
+          "name": "12'li Sezar Puff",
+          "price": 475.0,
+          "description": "12'li Sezar Puff ürünleri için geçerlidir. Sezar Puffs 4’lü (Sucuklu), Sezar Puffs 4’lü (Etli), Sezar Puffs 4’lü (Peynirli), Sezar Puffs 4’lü (Sebzeli) ve Sezar Puffs 4’lü (BBQ Soslu Tavuklu) ürünleri ücretsiz olarak seçilebilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73799308.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Puffs 4'lü (BBQ Soslu Tavuklu)",
+          "price": 180.0,
+          "description": "BBQ sos, mozzarella peyniri, baharatlı tavuk, yeşil biber, soğan, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66621402.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Puffs 4'lü (Sebzeli)",
+          "price": 180.0,
+          "description": "Özel Sezar sos, mozzarella peyniri, zeytin, domates, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/28316786.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Puffs 4'lü (Etli)",
+          "price": 180.0,
+          "description": "Özel Sezar sos, mozzarella peyniri, dilim sucuk, küp sucuk, sosis",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/28395941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Puffs 4'lü (Peynirli)",
+          "price": 180.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73434957.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Puffs 4'lü (Sucuklu)",
+          "price": 180.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73434948.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Orta Boy Kampanyalar",
+      "products": [
+        {
+          "name": "2 Adet Orta Boy Pizza + 2 Adet Seçili Yan Ürün + İçecek (1 L.)",
+          "price": 765.0,
+          "description": "2 Adet Orta Boy Fırsat Pizza + 2 Seçili Yan Ürün + Litrelik İçecek için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72675226.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Pizza + İçecek (1 L.)",
+          "price": 480.0,
+          "description": "Orta Boy Fırsat Grubu Pizza + Litrelik İçecek için geçerlidir. Klasik Pizzalar 55 TL, Ekstra Pizzalar 75 TL, Premium Pizzalar 95 TL, Gurme Pizzalar 115 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43416159.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Pizza Fırsatı",
+          "price": 440.0,
+          "description": "Orta boy Fırsat grubu pizza için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43415670.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Büyük Boy Kampanyalar",
+      "products": [
+        {
+          "name": "2 Adet Büyük Boy Pizza + 2 Adet Seçili Yan Ürün + İçecek (1 L.)",
+          "price": 1.08,
+          "description": "2 Adet Büyük Boy Fırsat Pizza + 2 Seçili Yan Ürün + Litrelik İçecek için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72676606.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Pizza + İçecek (1 L.)",
+          "price": 575.0,
+          "description": "Büyük boy fırsat grubu pizza ve 1 L içecek için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43397188.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Pizza + Seçili Yan Ürün + İçecek (1 L.)",
+          "price": 660.0,
+          "description": "Büyük Boy Fırsat Grubu Pizza + Seçili Yan Ürün + 1 L içecek için geçerlidir. Klasik Pizzalar 80 TL, Ekstra Pizzalar 100 TL, Premium Pizzalar 120 TL, Gurme Pizzalar 160 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72674039.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Büyük Boy Pizza + İçecek (1 L.)",
+          "price": 920.0,
+          "description": "2 Adet Büyük Boy Fırsat grubu pizza + Litrelik İçecek için geçerlidir. Klasik grubu pizzalar 50 TL, Ekstra grubu pizzalar 70 TL, Premium grubu pizzalar 95 TL, Gurme grubu pizzalar 135 TL farkla alınabilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72674349.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Küçük Boy Kampanyalar",
+      "products": [
+        {
+          "name": "Küçük Boy Pizza Fırsatı",
+          "price": 360.0,
+          "description": "Küçük Boy Fırsat grubu pizza için geçerlidir. Klasik grubu pizzalar 15 TL, Ekstra grubu pizzalar 25 TL, Premium grubu pizzalar 45 TL, Gurme grubu pizzalar 70 TL farkla alınabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780046.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekstra Lezzetler",
+      "products": [
+        {
+          "name": "Çıtır Tavuk Topları (75 gr.)",
+          "price": 135.0,
+          "description": "Fırınlanmış özel kaplamalı çıtır tavuk topları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780090.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Patates (Orta)",
+          "price": 135.0,
+          "description": "Fırınlanmış orta boy patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/31442918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çılgın Ekmek (6'lı)",
+          "price": 135.0,
+          "description": "Sarımsak aromalı özel sos üzerinde parmesan peyniri ve yanına enfes sosuyla çılgın ekmek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780095.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Et Döner",
+          "price": 200.0,
+          "description": "Tereyağı aromalı yağ sürülmüş hamur içinde özel Sezar sos, mozzarella peyniri ve döner eti. Jalapeno acı biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/27583487.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk Ekmek",
+          "price": 180.0,
+          "description": "Mozzarella peyniri üzerine yayılmış dilim sucuklar. Sarımsak aromalı sos ve parmesanlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780098.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Ekmek",
+          "price": 180.0,
+          "description": "Peynirli ekmek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780085.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Orta Pizzalar (6 Dilim)",
+      "products": [
+        {
+          "name": "Margarita (Peynir Pizza) (Orta)",
+          "price": 440.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780125.jpg?width=150&height=150"
+        },
+        {
+          "name": "Piknik (Orta)",
+          "price": 520.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, jambon, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780126.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsak Soslu Sucukbol (Orta)",
+          "price": 540.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk, sarımsaklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604530.jpg?width=150&height=150"
+        },
+        {
+          "name": "Parti (Orta)",
+          "price": 520.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sosis, mısır, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780128.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepperoni (Orta)",
+          "price": 520.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pepperoni",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780129.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucukbol (Orta)",
+          "price": 520.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780132.jpg?width=150&height=150"
+        },
+        {
+          "name": "Akdeniz (Orta)",
+          "price": 540.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, beyaz peynir, mantar, siyah zeytin, yeşil biber, domates, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık (Orta)",
+          "price": 540.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sosis, sucuk, mısır, siyah zeytin, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780136.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çok Karışık (Orta)",
+          "price": 560.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sucuk, sosis, jambon, mantar, mısır, siyah zeytin, yeşil biber, parmesan peyniri, baharat karışımı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780139.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caesars Italiano (Orta)",
+          "price": 540.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, beyaz peynir, közlenmiş biber, siyah zeytin, küp sucuk, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780141.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acımasız Tavuk (Orta)",
+          "price": 560.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, özel baharatlı fırınlanmış tavuk, közlenmiş kırmızıbiber, jalapeno acı biber, ekstra tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780142.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Sezar (Orta)",
+          "price": 560.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pepperoni, sosis, küp sucuk, yeşil biber, siyah zeytin, mantar, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780143.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Sezar (Orta)",
+          "price": 600.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, soğan, kavurma, yeşil biber, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780148.jpg?width=150&height=150"
+        },
+        {
+          "name": "Turkish Mix (Orta)",
+          "price": 600.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pastırma, küp sucuk, mantar, yeşil biber, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604525.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etibol (Orta)",
+          "price": 600.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, jambon, sosis, küp sucuk, pastırma, pepperoni, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45604520.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Soslu Tavuklu (Orta)",
+          "price": 560.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, BBQ sos, soğan, yeşil biber, baharatlı tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/59977599.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk - Mısır (Orta)",
+          "price": 440.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk, mısır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77473104.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Ranch (Orta)",
+          "price": 520.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, çıtır tavuk topu, jalapeno biber, mısır, ranch sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79353540.jpg?width=150&height=150"
+        },
+        {
+          "name": "Veggie (Orta)",
+          "price": 480.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden sezar sos, mantar, siyah zeytin, yeşil biber, soğan, mısır, susam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79353628.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yanar Döner (Orta)",
+          "price": 560.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, döner (et), jalapeno biber, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79353657.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Büyük Pizzalar (8 Dilim)",
+      "products": [
+        {
+          "name": "Margarita (Peynir Pizza) (Büyük)",
+          "price": 520.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780180.jpg?width=150&height=150"
+        },
+        {
+          "name": "Piknik (Büyük)",
+          "price": 600.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, jambon, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780181.jpg?width=150&height=150"
+        },
+        {
+          "name": "Parti (Büyük)",
+          "price": 600.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sosis, mısır, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780182.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepperoni (Büyük)",
+          "price": 600.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pepperoni",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780183.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucukbol (Büyük)",
+          "price": 600.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780186.jpg?width=150&height=150"
+        },
+        {
+          "name": "Akdeniz (Büyük)",
+          "price": 620.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, beyaz peynir, mantar, siyah zeytin, yeşil biber, domates, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780188.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık (Büyük)",
+          "price": 620.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sosis, sucuk, mısır, siyah zeytin, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780190.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çok Karışık (Büyük)",
+          "price": 640.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sucuk, sosis, jambon, mantar, mısır, siyah zeytin, yeşil biber, parmesan peyniri, baharat karışımı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780193.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caesars Italiano (Büyük)",
+          "price": 620.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, beyaz peynir, közlenmiş biber, siyah zeytin, küp sucuk, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780195.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acımasız Tavuk (Büyük)",
+          "price": 640.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, özel baharatlı fırınlanmış tavuk, közlenmiş kırmızıbiber, jalapeno acı biber, ekstra tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780196.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Sezar (Büyük)",
+          "price": 640.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pepperoni, sosis, küp sucuk, yeşil biber, siyah zeytin, mantar, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780197.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Sezar (Büyük)",
+          "price": 680.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, soğan, kavurma, yeşil biber, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780202.jpg?width=150&height=150"
+        },
+        {
+          "name": "Turkish Mix (Büyük)",
+          "price": 680.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pastırma, küp sucuk, mantar, yeşil biber, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604548.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etibol (Büyük)",
+          "price": 680.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, jambon, sosis, küp sucuk, pastırma, pepperoni, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604541.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsak Soslu Sucukbol (Büyük)",
+          "price": 620.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk, sarımsaklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604649.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Soslu Tavuklu (Büyük)",
+          "price": 640.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, BBQ sos, soğan, yeşil biber, baharatlı tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/59977608.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk - Mısır (Büyük)",
+          "price": 520.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk, mısır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77473107.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yanar Döner (Büyük)",
+          "price": 680.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, döner (et), jalapeno biber, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79353664.jpg?width=150&height=150"
+        },
+        {
+          "name": "Veggie (Büyük)",
+          "price": 550.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden sezar sos, mantar, siyah zeytin, yeşil biber, soğan, mısır, susam",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Ranch (Büyük)",
+          "price": 550.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, çıtır tavuk topu, jalapeno biber, mısır, ranch sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79353602.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Küçük Pizzalar (4 Dilim)",
+      "products": [
+        {
+          "name": "Margarita (Peynir Pizza) (Küçük)",
+          "price": 360.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780208.jpg?width=150&height=150"
+        },
+        {
+          "name": "Piknik (Küçük)",
+          "price": 375.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, jambon, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780209.jpg?width=150&height=150"
+        },
+        {
+          "name": "Parti (Küçük)",
+          "price": 375.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sosis, mısır, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780210.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepperoni (Küçük)",
+          "price": 375.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pepperoni",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780211.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucukbol (Küçük)",
+          "price": 375.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780214.jpg?width=150&height=150"
+        },
+        {
+          "name": "Akdeniz (Küçük)",
+          "price": 385.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, beyaz peynir, mantar, siyah zeytin, yeşil biber, domates, kekik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780216.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık (Küçük)",
+          "price": 385.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sosis, sucuk, mısır, siyah zeytin, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780218.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çok Karışık (Küçük)",
+          "price": 405.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, sucuk, sosis, jambon, mantar, mısır, siyah zeytin, yeşil biber, parmesan peyniri, baharat karışımı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780222.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caesars Italiano (Küçük)",
+          "price": 385.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, beyaz peynir, közlenmiş biber, siyah zeytin, küp sucuk, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acımasız Tavuk (Küçük)",
+          "price": 405.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, özel baharatlı fırınlanmış tavuk, közlenmiş kırmızıbiber, jalapeno acı biber, ekstra tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780225.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Sezar (Küçük)",
+          "price": 405.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pepperoni, sosis, küp sucuk, yeşil biber, siyah zeytin, mantar, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780226.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Sezar (Küçük)",
+          "price": 430.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, soğan, kavurma, yeşil biber, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Turkish Mix (Küçük)",
+          "price": 430.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, pastırma, küp sucuk, mantar, yeşil biber, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604382.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etibol (Küçük)",
+          "price": 430.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, jambon, sosis, küp sucuk, pastırma, pepperoni, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604131.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsak Soslu Sucukbol (Küçük)",
+          "price": 385.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, özenle seçilmiş domateslerden Sezar sos, dilim sucuk, sarımsaklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45604392.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Soslu Tavuklu (Küçük)",
+          "price": 405.0,
+          "description": "Taze günlük hamur, gerçek mozzarella peyniri, BBQ sos, soğan, yeşil biber, baharatlı tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/59977597.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Sezar Sufle",
+          "price": 170.0,
+          "description": "Sıcak akışkan, ev yapımı tadında çikolatalı sufle",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780258.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Maraş Cup",
+          "price": 75.0,
+          "description": "Paket dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/48649353.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Sezar Sufle",
+          "price": 300.0,
+          "description": "2 adet Sezar Sufle için geçerlidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69986823.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 95.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780265.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Zero Sugar (33 cl.)",
+          "price": 95.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780267.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 95.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780270.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fruko (33 cl.)",
+          "price": 95.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780268.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (33 cl.)",
+          "price": 95.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780271.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 95.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780272.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütaş Ayran (30 cl.)",
+          "price": 65.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780274.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 35.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780275.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 115.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Zero Sugar (1 L.)",
+          "price": 115.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780278.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (1 L.)",
+          "price": 115.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780281.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (1 L.)",
+          "price": 115.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780283.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (1 L.)",
+          "price": 115.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780284.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (1 L.)",
+          "price": 115.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780280.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap",
+          "price": 5.0,
+          "description": "Ketçap sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780285.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 5.0,
+          "description": "Mayonez sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780286.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 40.0,
+          "description": "Acı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780287.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bin Ada Sos",
+          "price": 40.0,
+          "description": "Bin Ada sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780288.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çılgın Sos",
+          "price": 40.0,
+          "description": "Çılgın sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jalapeno Acı Biber Turşu (25 gr.)",
+          "price": 40.0,
+          "description": "Jalapeno acı biber turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780290.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch (Çiftlik) Sos",
+          "price": 40.0,
+          "description": "Çiftlik sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/10780292.jpg?width=150&height=150"
+        },
+        {
+          "name": "3’lü Sos Paketi",
+          "price": 105.0,
+          "description": "3 adet sos için geçerlidir. Ranch (Çiftlik) Sos, Acı Sos, Bin Ada Sos, Çılgın Sos, Jalapeno Acı Biber Turşu (25 gr.), Ketçap ve Mayonez seçilebilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69986859.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "link_hash": "8b21cd24",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Köfte Co",
+  "link": "https://www.yemeksepeti.com/restaurant/nkxo/kofte-co-nkxo",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Köfte & Co Kasap Köfte",
+          "price": 649.95,
+          "description": "7 adet kasap köfte, pirinç pilavı, çoban salata, havuç tarator, köz biber, acı sos ve tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60899902.jpeg?width=128&height=128"
+        },
+        {
+          "name": "Köfte & Co'dan İnegöl Köfte",
+          "price": 649.95,
+          "description": "7 adet İnegöl köfte, pirinç pilavı, çoban salata, havuç tarator, köz biber, acı sos ve tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60899904.jpeg?width=128&height=128"
+        },
+        {
+          "name": "Köfte & Co Spesiyal Köfte",
+          "price": 649.95,
+          "description": "7 adet spesiyal köfte, pirinç pilavı, çoban salata, havuç tarator, acı sos, köz biber ve tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60899906.jpeg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Köfte & Co Doyuran Menü",
+          "price": 799.95,
+          "description": "Seçeceğiniz Çorba & Köfte",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55700344.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Köfteler",
+      "products": [
+        {
+          "name": "Köfte & Co Kasap Köfte",
+          "price": 649.95,
+          "description": "7 adet kasap köfte, pirinç pilavı, çoban salata, havuç tarator, köz biber, acı sos ve tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60899902.jpeg?width=150&height=150"
+        },
+        {
+          "name": "Köfte & Co'dan İnegöl Köfte",
+          "price": 649.95,
+          "description": "7 adet İnegöl köfte, pirinç pilavı, çoban salata, havuç tarator, köz biber, acı sos ve tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60899904.jpeg?width=150&height=150"
+        },
+        {
+          "name": "Köfte & Co Pideli Köfte",
+          "price": 649.95,
+          "description": "7 adet köfte, tereyağlı pide, köz biber ve yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414170.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte & Co Spesiyal Köfte",
+          "price": 649.95,
+          "description": "7 adet spesiyal köfte, pirinç pilavı, çoban salata, havuç tarator, acı sos, köz biber ve tırnak pide ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60899906.jpeg?width=150&height=150"
+        },
+        {
+          "name": "Yalancı Çökertme Köfte",
+          "price": 649.95,
+          "description": "Köfte, patataes kızartması, yoğurt, mor lahana turşusu, havuç tarator, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79771472.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 179.95,
+          "description": "Sofraların vazgeçilmezi, iç ısıtan sağlıklı ve lezzet dolu bir başlangıç (Tavuk suyu içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414162.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Suyu Çorbası",
+          "price": 189.95,
+          "description": "Tavuk suyu ile hazırlanan besleyici, sağlıklı ve lezzet dolu bir başlangıç (Maydanoz içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414163.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Çorbası",
+          "price": 179.95,
+          "description": "Domates ve kaşar peynirinin muhteşem uyumuyla, sağlıklı ve lezzet dolu bir başlangıç (Rendelenmiş kaşar peyniri ve sarımsak içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414164.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yayla Çorbası",
+          "price": 179.95,
+          "description": "Yoğurt ve nane ile zenginleştirilmiş, hafif, sağlıklı ve lezzet dolu bir başlangıç (Tereyağı ve yumurta içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414165.jpg?width=150&height=150"
+        },
+        {
+          "name": "Brokoli Çorbası",
+          "price": 179.95,
+          "description": "Taptaze sebzelerle hazırlanan, sağlıklı ve lezzet dolu bir başlangıç (Süt içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414166.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran Aşı Çorbası",
+          "price": 179.95,
+          "description": "Yaz sofralarının vazgeçilmezi, serinletici ve doyurucu geleneksel bir lezzet (Soğuk servis edilir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73330498.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Izgaralar",
+      "products": [
+        {
+          "name": "Köfte Co'dan Sebzeli Pilavlı Köfte Tabağı",
+          "price": 619.95,
+          "description": "Kasap köfte, pirinç pilavı ve haşlanmış sebze eşliğinde sunulur.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfte Co'dan Sebzeli Makarnalı Köfte Tabağı",
+          "price": 619.95,
+          "description": "Kasap köfte, penne makarna ve haşlanmış sebze eşliğinde sunulur.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Köfte Co 'dan Köfteli Salata",
+          "price": 569.95,
+          "description": "Kasap köfte, göbek marul, domates, salatalık, mısır, kapya biber, zeytinyağlı limon sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Izgara Köfte Kasesi",
+          "price": 649.95,
+          "description": "Izgara köfte, tercihe göre tereyağlı Türk pilavı veya zerdeçallı basmati pilav (Pilav tercihinizi ürün not alanında iletmenizi rica ederiz.) , mısır, köz biber, salatalık turşusu, mor lahana turşusu, domates, salatalık, havuç tarator (~745 kcal.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Etli Bowl",
+          "price": 669.95,
+          "description": "Kasap köfte, haşlanmış sebze, mısır, köz biber, mor lahana turşusu, Meksika fasulyesi, guacamole sos, basmati pilav, kokteyl domates, salatalık, süzme yoğurt, -690 kcal-",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfteli Makarnalı Bowl Kase",
+          "price": 669.95,
+          "description": "Kasap köfte, haşlanmış sebze, mısır, köz biber, mor lahana turşusu, Meksika fasulyesi, guacamole sos, penne makarna, kokteyl domates, salatalık, süzme yoğurt, -750 kcal-",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77694887.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Mezeler",
+      "products": [
+        {
+          "name": "Humus",
+          "price": 239.95,
+          "description": "Nohut, tahin ve sarımsağın harika uyumuyla hazırlanan nefis bir meze",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Havuç Tarator",
+          "price": 239.95,
+          "description": "Taze rendelenmiş havuç, dereotu ve yoğurdun muhteşem uyumuyla hazırlanan mükemmel bir meze",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54994681.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şakşuka",
+          "price": 239.95,
+          "description": "Taze sebzelerin eşsiz uyumuyla hazırlanan geleneksel bir meze",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Pirinç Pilavı",
+          "price": 179.95,
+          "description": "Özenle pişirilmiş tane tane ayrılan tereyağlı pirinç pilavı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kızartma İçli Köfte (Adet)",
+          "price": 159.95,
+          "description": "İçi ceviz ve baharatlarla harmanlanan kıyma dolgulu, ağızda dağılan, çıtır çıtır içli köfte",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 139.95,
+          "description": "İsteğe göre baharatlı çıtır çıtır patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414175.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tırnak Pide",
+          "price": 59.95,
+          "description": "Günlük hazırlanmaktadır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60899924.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek",
+          "price": 39.95,
+          "description": "Ekmek, pide veya roll ekmek ile uygunluğa göre servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60899925.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurt",
+          "price": 69.95,
+          "description": "İpeksi dokusuyla süzme yoğurt",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54996432.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çoban Salata",
+          "price": 99.95,
+          "description": "Domates, salatalık ve biberin yağ ve limon suyuyla tatlandırılmasıyla hazırlanan çoban salata, soğan yer almamaktadır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55000162.jpg?width=150&height=150"
+        },
+        {
+          "name": "Haşlanmış Sebze",
+          "price": 149.95,
+          "description": "Haşlanmış Sebze, taze sebzelerle hazırlanmış sağlıklı bir eşlikçi.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77694889.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Lotus Mag",
+          "price": 349.95,
+          "description": "Lotus kreması, bisküvi katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fırın Sütlaç",
+          "price": 249.95,
+          "description": "Özel tarifle üstü kızarmış, mükemmel kıvamda fırın sütlaç",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Muzlu & Çikolatalı Mag",
+          "price": 339.95,
+          "description": "Özel mag kreması ve Nutella içeren özel krema arasında; yulaflı bisküvi, muz parçaları ve çikolata parçaları. Cam kavanozda servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414179.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli & Çikolatalı Mag",
+          "price": 349.95,
+          "description": "Özel mag kreması ve bol Nutella içeren özel krema arasında; yulaflı bisküvi, taze çilekler ve çikolata parçaları eşliğinde cam kavanozda servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414180.jpg?width=150&height=150"
+        },
+        {
+          "name": "İzmir Bomba (Adet)",
+          "price": 129.95,
+          "description": "İçi bol akışkan çikolatalı patlayan lezzet İzmir Bomba.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52414184.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol",
+          "price": 279.95,
+          "description": "Yumuşacık pate a choux topları içinde özel pastacı kreması, çikolatalı sos ve bitter çikolata parçaları ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54994569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 349.95,
+          "description": "Nemli, bol çikolatalı devils food cake arasına mascarpone peynirli krema ve üzerinde kakao tozu ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55000152.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ricottalı Frambuazlı Cheesecake",
+          "price": 319.95,
+          "description": "Tereyağı ile hazırlanmış bisküvi tabanı üstüne İtalyan kökenli ricotta peynirli yoğun krema ve frambuaz sos ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55000271.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bask Cheesecake",
+          "price": 349.95,
+          "description": "Kremsi dokusuyla benzersiz bir tat sunar, isteğe bağlı çikolata sos ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55000289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orman Meyveli Mag",
+          "price": 349.95,
+          "description": "Orman meyveli kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77291097.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Mag",
+          "price": 379.95,
+          "description": "Kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77291110.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oreo Mag",
+          "price": 349.95,
+          "description": "Kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77291129.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cevizli Brownie",
+          "price": 349.95,
+          "description": "Yoğun çikolatalı, içi yumuşak brownie ve çıtır ceviz parçalarıyla hazırlanan bir tatlı.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400777.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400785.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400787.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 109.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400789.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55000279.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 119.95,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/55000255.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özerhisar Ayran (30 cl.)",
+          "price": 99.95,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400808.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 79.95,
+          "description": "Büyük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 59.95,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 49.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 129.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400822.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Şekersiz (1 L.)",
+          "price": 129.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400826.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 139.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400827.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (1 L.)",
+          "price": 139.95,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52400829.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

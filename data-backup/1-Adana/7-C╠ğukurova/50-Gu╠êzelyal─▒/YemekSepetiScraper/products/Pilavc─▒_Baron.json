@@ -1,0 +1,410 @@
+{
+  "link_hash": "d7893c39",
+  "scraped_at": "260528_1219",
+  "restaurant_name": "Pilavcı Baron",
+  "link": "https://www.yemeksepeti.com/restaurant/c2ct/pilavci-baron-c2ct",
+  "categories": [
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 180.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/51600803.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kremalı Mantarlı Çorba",
+          "price": 180.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80547080.jpg?width=128&height=128"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Nohutlu Tavuklu Pilav",
+          "price": 380.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80547105.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mısırlı Pilav",
+          "price": 380.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44684722.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mısırlı Pilav",
+          "price": 260.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44684867.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nohutlu Pilav",
+          "price": 260.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44684887.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Izgara Köfte",
+          "price": 350.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Köri Soslu Tavuk",
+          "price": 350.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Pirinç Pilavı",
+          "price": 260.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": null
+        },
+        {
+          "name": "Kremalı Tavuklu Pilav",
+          "price": 350.0,
+          "description": "Mevsim salata, yoğurt ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Tavuklu Mantarlı Kremalı Penne",
+          "price": 380.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Soslu Tavuklu Penne",
+          "price": 380.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Kremalı Mantarlı Penne",
+          "price": 380.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantarlı Kremalı Penne",
+          "price": 350.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Domatesli Penne",
+          "price": 350.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Köri Soslu Penne",
+          "price": 350.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Tavuklu Mantarlı Pesto Soslu Penne",
+          "price": 400.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Dana Köfteli Domatesli Spagetti",
+          "price": 450.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Dana Köfteli Domatesli Spagetti",
+          "price": 450.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Kremalı Mantarlı Penne Bolognese",
+          "price": 430.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Cheddarlı Tavuklu Mantarlı Mısırlı Spaghetti",
+          "price": 450.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Cheddarlı Mantarlı Mısırlı Penne",
+          "price": 400.0,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Ana Yemekler",
+      "products": [
+        {
+          "name": "Tavuk Sac Tava",
+          "price": 450.0,
+          "description": "Pirinç pilavı, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Soslu Mantarlı Biberli Kremalı Tavuk",
+          "price": 450.0,
+          "description": "Pirinç pilavı, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Solu Mantarlı Tavuk",
+          "price": 450.0,
+          "description": "Pirinç pilavı, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45190698.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Sote",
+          "price": 450.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Tavuk Nugget (24 Adet)",
+          "price": 330.0,
+          "description": "24 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72725908.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (12 Adet)",
+          "price": 270.0,
+          "description": "12 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (12 Adet)",
+          "price": 140.0,
+          "description": "12 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72725913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cacık",
+          "price": 110.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45884463.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 170.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72319681.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Mevsim Salata",
+          "price": 130.0,
+          "description": "Mevsim yeşillikleri, havuç, mor lahana",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/45883397.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşık Salata",
+          "price": 180.0,
+          "description": "Domates, salatalık, marul",
+          "img": null
+        },
+        {
+          "name": "Tablacı Salatası",
+          "price": 180.0,
+          "description": "Domates, soğan, maydanoz",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Profiterol",
+          "price": 200.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Brownie",
+          "price": 130.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İrmik Helvası",
+          "price": 130.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kazandibi",
+          "price": 120.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlaç",
+          "price": 150.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 240.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75679338.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Trileçe",
+          "price": 150.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685736.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65391523.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 95.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685754.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütaş Ayran (30 cl.)",
+          "price": 60.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65391303.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65391341.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Vitamin Bar",
+      "products": [
+        {
+          "name": "Limonata",
+          "price": 65.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685790.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıkma Portakal Suyu",
+          "price": 100.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65392491.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Tatlılar",
+      "products": [
+        {
+          "name": "Karamelli Trileçe (1 kg.)",
+          "price": 800.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Dondurmalar",
+      "products": [
+        {
+          "name": "Çikolatalı Dondurma (500 gr.)",
+          "price": 300.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Dondurma (500 gr.)",
+          "price": 250.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44685549.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Dondurma (500 gr.)",
+          "price": 250.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44685628.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Maraş Dondurması (1 kg.)",
+          "price": 600.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72533765.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44686218.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

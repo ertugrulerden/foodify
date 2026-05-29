@@ -1,0 +1,553 @@
+{
+  "link_hash": "1677d748",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Salad Bar",
+  "link": "https://www.yemeksepeti.com/restaurant/sofq/salad-bar-sofq",
+  "categories": [
+    {
+      "name": "Kampanyalı Menüler",
+      "products": [
+        {
+          "name": "Çorba & Wrap Menü",
+          "price": 479.2,
+          "description": "Seçeceğiniz Çorba + Seçeceğiniz Wrap + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50684266.jpg?width=128&height=128"
+        },
+        {
+          "name": "Makarna Salata Menü",
+          "price": 503.2,
+          "description": "Seçeceğiniz Makarna + Seçeceğiniz Salata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50684884.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sandwich Salata Menü",
+          "price": 503.2,
+          "description": "Seçeceğiniz Sandviç + Seçeceğiniz Salad + Coca-Cola (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Wrap Salata Menü",
+          "price": 503.2,
+          "description": "Seçeceğiniz Wrap + Seçeceğiniz Salad + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "Çorba & Salata Menü",
+          "price": 479.2,
+          "description": "Seçeceğiniz Çorba + Seçeceğiniz Salata + Kutu İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Tavuk Suyu Çorbası",
+          "price": 119.2,
+          "description": "Ekmek, turşu, baharat ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mercimek Çorbası",
+          "price": 119.2,
+          "description": "Ekmek, turşu, baharat ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Çorba",
+          "price": 119.2,
+          "description": "Ekmek, turşu, baharat ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Domates Çorbası",
+          "price": 119.2,
+          "description": "Ekmek, turşu, baharat ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yüksük Çorbası",
+          "price": 239.2,
+          "description": "Ekmek, turşu, baharat ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Ton Balıklı Pilav",
+          "price": 263.2,
+          "description": "Pirinç pilavı üstüne; ton balığı. Turşu, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Pilav (150 gr.)",
+          "price": 199.2,
+          "description": "Pirinç pilavı, tavuk. Turşu, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sporcu (350 gr.)",
+          "price": 287.2,
+          "description": "350 gr. prinç , 150 gr. tavuk, turşu, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sporcu Tavuk Pilav (250 gr.)",
+          "price": 239.2,
+          "description": "250 gr. pirinç, 100 gr. tavuk. Turşu, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Pilav (250 gr.)",
+          "price": 239.2,
+          "description": "Turşu, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salads",
+      "products": [
+        {
+          "name": "Chicken Sezar Salad",
+          "price": 311.2,
+          "description": "Tavuk dilimleri, Akdeniz yeşillikleri, havuç, cherry domates, kruton ekmek, Sezar salata sosu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Somunlu Avokadolu Salad",
+          "price": 335.2,
+          "description": "Füme somon, avokado, Akdeniz yeşillikleri, kapari, limon, balsamik sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Grill Hellim Peynirli Salad",
+          "price": 311.2,
+          "description": "Izgara hellim peynir dilimleri, Akdeniz yeşillikleri, kokteyl, domates, havuç , kruton ekmek, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Avokadolu Chicken Salad",
+          "price": 335.2,
+          "description": "Izgara tavuk parçaları, avokado, Akdeniz yeşillikleri, cherry domates, domates, havuç, kruton ekmek, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50527234.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Kajun Salad",
+          "price": 311.2,
+          "description": "Çıtır kaplamalı tavuk dilimleri, Akdeniz yeşillikleri, havuç, havuç, cherry domates, kruton ekmek, parmesan peyniri, sezar salata sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50527485.jpg?width=150&height=150"
+        },
+        {
+          "name": "Veggie Salad",
+          "price": 311.2,
+          "description": "Izgara kabak, havuç, patlıcan, Akdeniz yeşillikleri, brokoli, cherry domates, kavrulmuş badem, mısır, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50527821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 311.2,
+          "description": "Ton balığı, Akdeniz yeşillikleri, turşu, kırmızı soğan, kruton ekmek, cherry domates, mısır, kapari, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50527869.jpg?width=150&height=150"
+        },
+        {
+          "name": "Akdeniz Salad",
+          "price": 311.2,
+          "description": "Akdeniz yeşillikleri, Ezine peyniri, yeşil zeytin, cherry domates, havuç, salatalık, mısır, kruton ekmek, kavrulmuş badem, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50527884.jpg?width=150&height=150"
+        },
+        {
+          "name": "3 Peynirli Salad",
+          "price": 311.2,
+          "description": "Akdeniz yeşillikleri, Ezine peynir, hellim peynir, lor peynir, cherry domates, havuç, salatalık, kruton ekmek, kavrulmuş badem, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50528001.jpg?width=150&height=150"
+        },
+        {
+          "name": "Makaronia Salad",
+          "price": 231.2,
+          "description": "Haşlanmış penne makarna, mevsim sebzeleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50528035.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karidesli Salata",
+          "price": 399.2,
+          "description": "Karides, Akdeniz yeşillikleri, turşu, kırmızı soğan, kruton ekmek, cherry domates, mısır, kapari, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/61662508.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meksika Salata",
+          "price": 335.2,
+          "description": "Meksika soslu tavuk parçaları, avokado, Akdeniz yeşillikleri, cherry domates, domates, havuç, kruton ekmek, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/61662520.jpg?width=150&height=150"
+        },
+        {
+          "name": "Viyana Salata",
+          "price": 335.2,
+          "description": "Schnitzel tavuk ,avokado, Akdeniz yeşillikleri, cherry domates, domates, havuç, kruton ekmek, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kavurmalı Salata",
+          "price": 399.2,
+          "description": "Dana kavurma, Akdeniz yeşillikleri, turşu, kırmızı soğan, kruton ekmek, cherry domates, mısır, kapari, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tahinli Falafel Salata",
+          "price": 311.2,
+          "description": "Falafel topları, Akdeniz yeşillikleri, kornişon turşu, kırmızı soğan, kruton ekmek, cherry domates, mısır, kapari, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Tavuk Salata",
+          "price": 335.2,
+          "description": "Acılı tavuk parçaları, avokado, Akdeniz yeşillikleri, cherry domates, domates, havuç, kruton ekmek, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Tavuk Pirzola Salata",
+          "price": 311.2,
+          "description": "Izgara tavuk pirzola, Akdeniz yeşillik, havuç, cherry domates, kruton ekmek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Köfteli Salata",
+          "price": 399.2,
+          "description": "4 adet ızgara köfte, Akdeniz yeşillik, havuç, cherry domates, kruton ekmek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Izgara Chicken Bowl",
+          "price": 335.2,
+          "description": "Marine edilmiş tavuk bonfile, nohut, basmati pirinç, Akdeniz yeşilliği, coleslaw salata, soğan turşusu, kokteyl domates, susam",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kajun Bowl",
+          "price": 335.2,
+          "description": "Marine edilmiş tavuk bonfile, Meksika fasulyesi, baby corn, basmati pirinç, Akdeniz yeşilliği, karamelize soğan, kokteyl domates, salsa sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Meaty Bowl",
+          "price": 383.2,
+          "description": "Dana köfte, nohut, Akdeniz yeşilliği, coleslaw salata, soğan turşusu, kokteyl domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Bowl",
+          "price": 335.2,
+          "description": "Akdeniz yeşilliği, basmati pirinç, ton balığı, coleslaw salata, mısır, kornişon turşu, cherry domates, mor lahana turşusu, balsamik sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50555104.jpg?width=150&height=150"
+        },
+        {
+          "name": "Veggie Bowl",
+          "price": 335.2,
+          "description": "Falafel, mercimek, Akdeniz yeşilliği, humus, corn, havuç, kokteyl domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50555114.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Yemekleri",
+      "products": [
+        {
+          "name": "Acılı Köri Soslu Tavuk",
+          "price": 327.2,
+          "description": "Özel soslu makarna, Akdeniz salata, ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Tavuk",
+          "price": 327.2,
+          "description": "Özel soslu makarna, Akdeniz salata, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68389687.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kekikli Tavuk",
+          "price": 327.2,
+          "description": "Özel soslu makarna, Akdeniz salata, ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuk",
+          "price": 327.2,
+          "description": "Özel soslu makarna, Akdeniz salata, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68389709.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Soslu Tavuk",
+          "price": 327.2,
+          "description": "Özel soslu makarna, Akdeniz salata, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68389713.jpg?width=150&height=150"
+        },
+        {
+          "name": "Café de Paris Soslu Tavuk",
+          "price": 335.2,
+          "description": "Özel soslu makarna, Akdeniz salata, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68389735.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Kremalı Mantarlı Penne",
+          "price": 199.2,
+          "description": "Krema, mantar, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuklu Penne",
+          "price": 223.2,
+          "description": "Tavuk, krema, mantar, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Napolitan Penne Makarna",
+          "price": 199.2,
+          "description": "Napolitan sos, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Penne",
+          "price": 199.2,
+          "description": "Köri sos, krema, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Penne",
+          "price": 223.2,
+          "description": "Tavuk, köri sos,salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50683599.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Noodles",
+      "products": [
+        {
+          "name": "Chicken Noodle",
+          "price": 263.2,
+          "description": "Salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Veggie Noodle",
+          "price": 239.2,
+          "description": "Salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tuna Noodle",
+          "price": 263.2,
+          "description": "Salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "products": [
+        {
+          "name": "Izgara Tavuklu Wrap",
+          "price": 287.2,
+          "description": "Izgara tavuk, marul, parmesan peyniri, Sezar sos. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Meaty Wrap",
+          "price": 383.2,
+          "description": "Dana köfte, iceberg marul, cheddar sos, ızgara mantar, ızgara biber, ızgara soğan, 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Crispy Wrap",
+          "price": 287.2,
+          "description": "Çıtır tavuk parçaları, çıtır soğan, marul, coleslaw salata, cheddar peyniri sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/56776079.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tuna Wrap",
+          "price": 287.2,
+          "description": "Ton balığı, coleslaw salata, mısır, kornişon turşu, kırmızı soğan, karamelize soğan. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/56776389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Falafel Wrap",
+          "price": 287.2,
+          "description": "Falafel topları, coleslaw salata, salatalık turşusu, salsa sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/56776614.jpg?width=150&height=150"
+        },
+        {
+          "name": "Asian Chicken Wrap",
+          "price": 287.2,
+          "description": "Izgara tavuk, marul, parmesan peyniri, jalapeno biberi, mısır, buffalo sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/56780757.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vegan Wrap",
+          "price": 287.2,
+          "description": "Kırmızıbiber, yeşil biber, mantar, nohut tabule, özel sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/56791798.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Tavuklu Sandviç",
+          "price": 303.2,
+          "description": "Lalorein 130 gr. rustik baget ekmeğine, tavuk, susam, dilimlenmiş kaşar peyniri, közlenmiş biber, Akdeniz yeşilliği, 200 gr. patates kızartması, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Sandviç",
+          "price": 303.2,
+          "description": "Lalorein 130 gr. rustik baget ekmeğine, ton balığı, mısır, közlenmiş biber, 200 gr. patates, soğan turşu, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "3 Peynirli Sandviç",
+          "price": 303.2,
+          "description": "Lalorein 130 gr. rustik baget ekmeğine, dilimlenmiş kaşar peyniri, cheddar peyniri, ızgara hellim peyniri, kurutulmuş domates, Akdeniz yeşilliği, zeytin ezmesi. 200 gr. patates kızartması, özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50577750.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meaty Sandviç",
+          "price": 383.2,
+          "description": "Lalorein 130 gr. rustik baget ekmeğine, dana köfte, Akdeniz yeşilliği, soğan turşusu, 200 gr. patates kızartması, kurutulmuş domates, salsa sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50616297.jpg?width=150&height=150"
+        },
+        {
+          "name": "Falafel Sandviç",
+          "price": 303.2,
+          "description": "Lalorein 130 gr. rustik baget ekmeğine, falafel, Akdeniz yeşilliği, soğan turşusu, 200 gr. patates kızartması, kurutulmuş domates, süzme yoğurt",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50623515.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Nugget (6 Adet)",
+          "price": 87.2,
+          "description": "Tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Homemade Soğan Halkası (6 Adet)",
+          "price": 71.2,
+          "description": "Çıtır soğan halkası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Sticks (5 Adet)",
+          "price": 135.2,
+          "description": "Mozzarella peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 71.2,
+          "description": "200 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuk Topları (8 Adet)",
+          "price": 111.2,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Falafel Topları (6 Adet)",
+          "price": 87.2,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67329435.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Sepeti",
+          "price": 175.2,
+          "description": "2 adet nugget, 2 adet soğan halkası, 2 adet mozzarella stick, patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74584782.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Juse Tea (25 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50683952.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 36.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50683958.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 36.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50683956.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50683960.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50683963.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

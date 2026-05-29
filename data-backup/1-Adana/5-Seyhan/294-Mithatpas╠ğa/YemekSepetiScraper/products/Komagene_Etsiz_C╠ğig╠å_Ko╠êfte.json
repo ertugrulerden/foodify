@@ -1,0 +1,755 @@
+{
+  "link_hash": "b0dd8309",
+  "scraped_at": "260528_0059",
+  "restaurant_name": "Komagene Etsiz Çiğ Köfte",
+  "link": "https://www.yemeksepeti.com/restaurant/omw7/komagene-etsiz-cig-kofte-omw7",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Çiğ Köfte (500 gr.) Joker Porsiyon",
+          "price": 375.0,
+          "description": "(395 TL yerine 360 TL) Yarım göbek marul, limon, 4 adet lavaş, 2 adet çiğ köfte sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37359858.jpg?width=128&height=128"
+        },
+        {
+          "name": "Mega Dürüm Menü",
+          "price": 160.0,
+          "description": "Mega Çiğ Köfte Dürüm (125 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756714.jpg?width=128&height=128"
+        },
+        {
+          "name": "Mega Çiğ Köfte Dürüm",
+          "price": 130.0,
+          "description": "125 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756752.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Mega Çiğ Köfte Dürüm Menü",
+          "price": 180.0,
+          "description": "Doritos'lu Mega Çiğ Köfte Dürüm (125 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756710.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Ayran (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756944.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Double Dürüm Menü",
+          "price": 200.0,
+          "description": "Doritos'lu Double Dürüm (175 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756709.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümlü Menüler",
+      "products": [
+        {
+          "name": "Doritos'lu Çiğ Köfte Dürüm Menü",
+          "price": 170.0,
+          "description": "Doritos'lu Çiğ Köfte Dürüm (90 gr. çiğ köfte, Doritos tako, tek lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756708.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Double Dürüm Menü",
+          "price": 200.0,
+          "description": "Doritos'lu Double Dürüm (175 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756709.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Mega Çiğ Köfte Dürüm Menü",
+          "price": 180.0,
+          "description": "Doritos'lu Mega Çiğ Köfte Dürüm (125 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756710.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Ultra Mega Dürüm Menü",
+          "price": 190.0,
+          "description": "Doritos'lu Ultra Mega Dürüm (150 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756711.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Dürüm Menü",
+          "price": 190.0,
+          "description": "Double Dürüm (175 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756712.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dürüm Menü",
+          "price": 150.0,
+          "description": "Çiğ Köfte Dürüm (90 gr. çiğ köfte, tek lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756713.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Dürüm Menü",
+          "price": 160.0,
+          "description": "Mega Çiğ Köfte Dürüm (125 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756714.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ultra Mega Dürüm Menü",
+          "price": 170.0,
+          "description": "Ultra Mega Dürüm (150 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756716.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Çiğ Köfte Dürüm Menü",
+          "price": 160.0,
+          "description": "Eti Crax - Chili Lime Çiğ Köfte Dürüm (90 gr. çiğ köfte, Eti Crax Chili lime, tek lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68172982.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Mega Çiğ Köfte Dürüm Menü",
+          "price": 175.0,
+          "description": "Eti Crax - Chili Lime Mega Çiğ Köfte Dürüm (125 gr. çiğ köfte, Eti Crax Chili lime, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68172988.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Ultra Mega Çiğ Köfte Dürüm Menü",
+          "price": 185.0,
+          "description": "Eti Crax - Chili Lime Ultra Mega Çiğ Köfte Dürüm (150 gr. çiğ köfte, Eti Crax Chili lime, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68173001.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Double Çiğ Köfte Dürüm Menü",
+          "price": 195.0,
+          "description": "Eti Crax - Chili Lime Double Çiğ Köfte Dürüm (175 gr. çiğ köfte, Eti Crax Chili lime, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68173007.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Mega Çiğ Köfte Dürüm Fırsatı 2",
+          "price": 340.0,
+          "description": "(350 TL yerine 340 TL) 2 Adet Mega Çiğ Köfte Dürüm (125 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24974391.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfte Porsiyon Menüler",
+      "products": [
+        {
+          "name": "Çiğ Köfte Menü (600 gr.)",
+          "price": 550.0,
+          "description": "Çiğ Köfte (600 gr.) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974401.jpg?width=150&height=150"
+        },
+        {
+          "name": "Aile Menü 1",
+          "price": 790.0,
+          "description": "Çiğ Köfte (1 kg.) + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974402.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte Menü (200 gr.)",
+          "price": 225.0,
+          "description": "Çiğ Köfte (200 gr.) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24974403.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Doritos'lu Double Dürüm",
+          "price": 175.0,
+          "description": "175 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756745.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Çiğ Köfte Dürüm",
+          "price": 140.0,
+          "description": "90 gr. çiğ köfte, Doritos tako, tek lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756746.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Ultra Mega Dürüm",
+          "price": 160.0,
+          "description": "150 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756747.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte Dürüm",
+          "price": 120.0,
+          "description": "90 gr. çiğ köfte, tek lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756748.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Mega Çiğ Köfte Dürüm",
+          "price": 150.0,
+          "description": "125 gr. çiğ köfte, Doritos tako, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756749.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Dürüm",
+          "price": 150.0,
+          "description": "175 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756750.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Çiğ Köfte Dürüm",
+          "price": 130.0,
+          "description": "125 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756752.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ultra Mega Dürüm",
+          "price": 140.0,
+          "description": "150 gr. çiğ köfte, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756753.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Çiğ Köfte Dürüm",
+          "price": 130.0,
+          "description": "90 gr. çiğ köfte, Eti Crax Chili lime, tek lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68172639.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Mega Çiğ Köfte Dürüm",
+          "price": 160.0,
+          "description": "125 gr. çiğ köfte, Eti Crax Chili lime, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68172644.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Ultra Mega Çiğ Köfte Dürüm",
+          "price": 170.0,
+          "description": "150 gr. çiğ köfte, Eti Crax Chili lime, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68172649.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Double Çiğ Köfte Dürüm",
+          "price": 180.0,
+          "description": "175 gr. çiğ köfte, Eti Crax Chili lime, çift lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68172655.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfteler",
+      "products": [
+        {
+          "name": "Ambalajında Çiğ Köfte (600 gr.)",
+          "price": 440.0,
+          "description": "3 çeyrek göbek marul, limon, 6 adet lavaş, 3 adet çiğ köfte sosu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24974417.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (200 gr.)",
+          "price": 195.0,
+          "description": "Çeyrek göbek marul, limon, 2 adet lavaş, 1 adet çiğ köfte sosu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974419.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (400 gr.)",
+          "price": 325.0,
+          "description": "Yarım göbek marul, limon, 4 adet lavaş, 2 adet çiğ köfte sosu. 2 adet acılı ekşi çiğ köfte sosu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24974420.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (600 gr.)",
+          "price": 450.0,
+          "description": "3 çeyrek göbek marul, limon, 6 adet lavaş, 3 adet çiğ köfte sosu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974421.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (800 gr.)",
+          "price": 590.0,
+          "description": "1 adet göbek marul, limon, 8 adet lavaş, 4 adet çiğ köfte sosu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974422.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.)",
+          "price": 690.0,
+          "description": "5 çeyrek göbek marul, limon, 10 adet lavaş, 5 adet çiğ köfte sosu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974423.jpg?width=150&height=150"
+        },
+        {
+          "name": "Parti Boy Çiğ Köfte (1 kg. + 500 gr.)",
+          "price": 895.0,
+          "description": "(965 TL yerine 895 TL) (5 adet çeyrek göbek marul, limon, 10 adet lavaş ekmeği, 5 adet çiğ köfte sosu)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/40568862.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ayın Ürünü",
+      "products": [
+        {
+          "name": "Çiğ Köfte (500 gr.) Joker Porsiyon (Yeşilliksiz)",
+          "price": 325.0,
+          "description": "4 adet lavaş, 2 adet çiğ köfte sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974373.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (500 gr.) Joker Porsiyon",
+          "price": 375.0,
+          "description": "(395 TL yerine 360 TL) Yarım göbek marul, limon, 4 adet lavaş, 2 adet çiğ köfte sosu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37359858.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Catering Menüleri",
+      "products": [
+        {
+          "name": "Catering Menü 1",
+          "price": 1.11,
+          "description": "10 Adet Çiğ Köfte Dürüm (90 gr. çiğ köfte, tek lavaş, seçeceğiniz 5 çeşit garnitür, seçeceğiniz 2 çeşit sos) + 10 Adet Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/56542813.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfte Takolar",
+      "products": [
+        {
+          "name": "Çiğ Köfte Tako Menü 1",
+          "price": 225.0,
+          "description": "2 Adet Çiğ Köfte Tako + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756722.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte Tako Menü 2",
+          "price": 460.0,
+          "description": "4 Adet Çiğ Köfte Tako + Pepsi (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974407.jpg?width=150&height=150"
+        },
+        {
+          "name": "2’li Çiğ Köfte Tako Paketi",
+          "price": 190.0,
+          "description": "2 Adet Çiğ Köfte Tako (Tako lavaşı, çiğ köfte, tako peyniri, Meksika fasulyesi, burger sos)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756724.jpg?width=150&height=150"
+        },
+        {
+          "name": "2’li Doritos'lu Çiğ Köfte Tako Paketi",
+          "price": 210.0,
+          "description": "2 Adet Doritos'lu Çiğ Köfte Tako (Tako lavaşı, çiğ köfte, tako peyniri, Meksika fasulyesi, burger sos, Doritos tako)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756726.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Çiğ Köfte Tako Menü 1",
+          "price": 240.0,
+          "description": "2 Adet Doritos'lu Çiğ Köfte Tako + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756727.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Çiğ Köfte Tako Menü 2",
+          "price": 500.0,
+          "description": "4 Adet Doritos'lu Çiğ Köfte Tako + Pepsi (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24974412.jpg?width=150&height=150"
+        },
+        {
+          "name": "2’li Eti Crax - Chili Lime Çiğ Köfte Tako Paketi",
+          "price": 210.0,
+          "description": "2 Adet Eti Crax Chili Lime Çiğ Köfte Tako (Tako lavaşı, çiğ köfte, tako peyniri, Meksika fasulyesi, burger sos, Eti Crax Chili Lime)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68173811.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Çiğ Köfte Tako Menü 1",
+          "price": 240.0,
+          "description": "2 Adet Eti Crax Chili Lime Çiğ Köfte Tako + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68173847.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax - Chili Lime Çiğ Köfte Tako Menü 2",
+          "price": 500.0,
+          "description": "4 Adet Eti Crax Chili Lime Çiğ Köfte Tako + Pepsi (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68173855.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Nohutlu Pilav (150 gr.)",
+          "price": 115.0,
+          "description": "(150 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756795.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nohut Pilav Menü",
+          "price": 145.0,
+          "description": "Nohut Pilav (150 gr.) + Komagene Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29341017.jpg?width=150&height=150"
+        },
+        {
+          "name": "Proteini Yüksek Tavuklu Pilav (400 gr.)",
+          "price": 285.0,
+          "description": "250 gr. pilav, 150 gr. tavuk (47 gr. protein içerir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35213904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Pilav (300 gr.)",
+          "price": 375.0,
+          "description": "Bereket Döner Dana Kavurma (100 gr.) + Nohutlu Pilav (200 gr.). Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80541648.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Mezeler",
+      "products": [
+        {
+          "name": "Antep Kuru Patlıcan Dolması (200 gr.)",
+          "price": 175.0,
+          "description": "Pirinç, kuru patlıcan, biber salçası, domates salçası, baharat",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756777.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Kuru Biber Dolması (200 gr.)",
+          "price": 175.0,
+          "description": "Pirinç, kuru biber, biber salçası, domates salçası, baharat",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756778.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbunya Pilaki (150 gr.)",
+          "price": 125.0,
+          "description": "150 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756805.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şakşuka (150 gr.)",
+          "price": 125.0,
+          "description": "150 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756811.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytinyağlı Yaprak Sarma (200 gr.)",
+          "price": 245.0,
+          "description": "200 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756812.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bereket Döner - Dana Kavurma (100 gr.)",
+          "price": 215.0,
+          "description": "Paketli dana kavurma (100 gr.) (Soğuk servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79328470.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekstralar",
+      "products": [
+        {
+          "name": "Tako Lavaşı (10 Adet)",
+          "price": 95.0,
+          "description": "10 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekstra Limon (1 Adet)",
+          "price": 23.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yeşillik (Büyük)",
+          "price": 60.0,
+          "description": "Karışık yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756822.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yeşillik (Küçük)",
+          "price": 50.0,
+          "description": "Karışık yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756823.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger Sos (16 gr.)",
+          "price": 10.0,
+          "description": "Paket sos",
+          "img": null
+        },
+        {
+          "name": "Çiğ Köfte Sos (18 gr.)",
+          "price": 10.0,
+          "description": "Çiğ köfte sos",
+          "img": null
+        },
+        {
+          "name": "Çok Acı Sos (18 gr.)",
+          "price": 10.0,
+          "description": "Acı sos",
+          "img": null
+        },
+        {
+          "name": "Lavaş (2 Adet)",
+          "price": 15.0,
+          "description": "2 adet",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Danette Çikolatalı (100 gr.)",
+          "price": 50.0,
+          "description": "100 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756694.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kadife Tatlısı (140 gr.)",
+          "price": 90.0,
+          "description": "140 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756853.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırın Sütlaç",
+          "price": 90.0,
+          "description": "Pirinç, süt, şeker gibi malzemelerin birleşimiyle yapılan hafif puding kıvamında bir tatlıdır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756869.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cipsler",
+      "products": [
+        {
+          "name": "Doritos Taco Mısır Cipsi (218 gr.)",
+          "price": 110.0,
+          "description": "218 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756893.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Ülker Coco Star Hindistan Cevizli Bar (25 gr.)",
+          "price": 30.0,
+          "description": "25 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756884.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Brownie Gold Çikolatalı Kek (45 gr.)",
+          "price": 35.0,
+          "description": "45 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756891.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Brownie İntense Çikolatalı Kek (50 gr.)",
+          "price": 50.0,
+          "description": "50 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756892.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Canga",
+          "price": 50.0,
+          "description": "45 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31643819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Karam Gurme (50 gr.)",
+          "price": 50.0,
+          "description": "50 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31643826.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Brownie Gold Vişneli (45 gr.)",
+          "price": 35.0,
+          "description": "45 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37293184.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eti Crax Chili-Lime Aromalı Patlaklar (80 gr.)",
+          "price": 60.0,
+          "description": "Acı biberli ve misket limon aromalı çeşnili mısır patlağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74526689.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 70.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Zero Sugar (33 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün Portakal (33 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756919.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fruko Gazoz (33 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756920.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 70.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756921.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (33 cl.)",
+          "price": 70.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756922.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dimes Meyve Suyu Şeftali (25 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756930.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Acılı Şalgam Suyu (30 cl.)",
+          "price": 35.0,
+          "description": "Acılı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31644065.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Acısız Şalgam Suyu (30 cl.)",
+          "price": 35.0,
+          "description": "Acısız",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31644066.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Ayran (27 cl.)",
+          "price": 45.0,
+          "description": "Büyük ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756923.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Ayran (17 cl.)",
+          "price": 35.0,
+          "description": "Küçük ayran",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756924.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bull (25 cl.)",
+          "price": 150.0,
+          "description": "On sekiz yaşından küçüklere enerji içeceklerinin satışı yapılmamaktadır. Alkol ile karıştırılarak veya beraber tüketilmemelidir. Çocuklar, 18 yaş altı kişiler, yaşlılar, diyabetikler, yüksek tansiyonu olanlar, gebe ve emzikli kadınlar, metabolik hastalığı olanlar, böbrek yetmezliği olanlar ile kafeine hassas kişiler için tavsiye edilmez. Sporcu içeceği değildir, yoğun fiziksel aktivite öncesinde, sırasında veya sonrasında tüketilmemelidir. Günlük 500 ml’den fazla tüketilmesi tavsiye edilmez.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756692.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bardakta Turşu Suyu",
+          "price": 35.0,
+          "description": "Bardakta (Acısız)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756824.JPG?width=150&height=150"
+        },
+        {
+          "name": "Kızılay Sade Soda (20 cl.)",
+          "price": 25.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756932.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kızılay Limonlu Soda (20 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34763248.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bardak Limonata (24 cl.)",
+          "price": 25.0,
+          "description": "Bardak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756934.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756936.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756937.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Zero Sugar (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756938.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün Portakal (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756939.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/24974625.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756942.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756943.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Ayran (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10756944.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Acısız Şalgam Suyu (1 L.)",
+          "price": 75.0,
+          "description": "Acısız",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31644067.jpg?width=150&height=150"
+        },
+        {
+          "name": "Komagene Acılı Şalgam Suyu (1 L.)",
+          "price": 75.0,
+          "description": "Acılı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31644068.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jacobs Icepresso (25 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66738894.jpg?width=150&height=150"
+        },
+        {
+          "name": "Jacobs Icepresso Latte (25 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66738899.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali Kutu (33 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75587213.jpg?width=150&height=150"
+        },
+        {
+          "name": "Capri-Sun Safari (20 cl.)",
+          "price": 30.0,
+          "description": "Karışık meyveli içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79144758.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

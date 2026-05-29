@@ -1,0 +1,601 @@
+{
+  "link_hash": "b542aace",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Panna Coffee & Dessert",
+  "link": "https://www.yemeksepeti.com/restaurant/d0dd/panna-coffee-and-dessert",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Bask Cheesecake",
+          "price": 370.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782039.jpg?width=128&height=128"
+        },
+        {
+          "name": "İtalyan Karışık Pizza (Orta Boy)",
+          "price": 630.0,
+          "description": "Pizza sos, 150 gr. rende mozzarella, sucuk, yeşil biber, kapya biber, mısır, dilimli siyah zeytin, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782026.jpg?width=128&height=128"
+        },
+        {
+          "name": "Ti̇rami̇su",
+          "price": 430.0,
+          "description": "Mascarpone peyniri, kedi dili, kakao",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782053.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Bowl",
+          "price": 350.0,
+          "description": "Marul, lolorosso, roka, kurutulmuş domates, tavuk, humus, avokado püresi, kızartılmış biberler, domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782055.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çi̇lekli Kruvasan",
+          "price": 375.0,
+          "description": "Çilek dolgulu krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782058.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstık",
+          "price": 480.0,
+          "description": "Fıstıklı beyaz çikolatalı krema, fıstıklı kek, fıstık ezmesi, çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782049.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "BBQ Soslu Tavuklu Sandviç",
+          "price": 390.0,
+          "description": "Sandviç ekmeğine; domates sos, acı sos, roka, cheddar peyniri, tavuk, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Suda Mozzarella Sandviç",
+          "price": 390.0,
+          "description": "Sandviç ekmeğine; mozzarella peyniri, pesto sos, limon sos, kıvırcık marul, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hi̇ndi̇ Fümeli Sandviç",
+          "price": 360.0,
+          "description": "Sandviç ekmeğine; peynir sos, hindi füme, kıvırcık marul, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Üç Peyni̇rli̇ Sandviç",
+          "price": 380.0,
+          "description": "Sandviç ekmeğine; rokfor peyniri, keçi peyniri, mozzarella peyniri, peynir sos, domates sos, roka",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782034.jpg?width=150&height=150"
+        },
+        {
+          "name": "Light Hot Füme Sandvi̇ç",
+          "price": 405.0,
+          "description": "Sandviç ekmeğine; özel sos, füme antrikot, roka, mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782035.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli̇ Kaburga Etli̇ Sandviç",
+          "price": 425.0,
+          "description": "Özel sandviç ekmeğine; Füme kaburga, közlenmiş patlıcan, közlenmiş yeşil biber, kabak, balzamik sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782036.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kruvasanlar",
+      "products": [
+        {
+          "name": "Çi̇lekli Kruvasan",
+          "price": 375.0,
+          "description": "Çilek dolgulu krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782058.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotuslu Kruvasan",
+          "price": 390.0,
+          "description": "Lotus dolgulu krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782059.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Kruvasan",
+          "price": 395.0,
+          "description": "Fıstık dolgulu krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782060.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Kruvasan",
+          "price": 290.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782129.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pizzalar (Orta Boy)",
+      "products": [
+        {
+          "name": "İtalyan Karışık Pizza (Orta Boy)",
+          "price": 630.0,
+          "description": "Pizza sos, 150 gr. rende mozzarella, sucuk, yeşil biber, kapya biber, mısır, dilimli siyah zeytin, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BBQ Soslu Tavuklu Pizza (Orta Boy)",
+          "price": 610.0,
+          "description": "Pizza sos, 150 gr. rende mozzarella peyniri, tavuk, yeşil biber, kapya biber, mısır, Bbq sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acımasız Etli Pizza (Orta Boy)",
+          "price": 665.0,
+          "description": "Pizza sos, 150 gr. rende mozzarella peyniri, yeşil biber, kapya biberi, 60 gr. füme antrikot",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782028.jpg?width=150&height=150"
+        },
+        {
+          "name": "4 Peyni̇rli̇ Pizza (Orta Boy)",
+          "price": 635.0,
+          "description": "Pizza sos, 150 gr. rende mozzarella peyniri, rokfor peyniri, keçi peynir, isli peynir, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782029.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita Pizza (Orta Boy)",
+          "price": 630.0,
+          "description": "Pizza sos, 150 gr. rende mozzarella peyniri, suda top mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782030.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Tavuklu Bowl",
+          "price": 350.0,
+          "description": "Marul, lolorosso, roka, kurutulmuş domates, tavuk, humus, avokado püresi, kızartılmış biberler, domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782055.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Bowl",
+          "price": 295.0,
+          "description": "Marul, lolorosso, roka, kurutulmuş domates, tahıl mix, falafel, Rus salatası, humus, domates, salatalık, beyaz peynir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalık",
+      "products": [
+        {
+          "name": "Züber Fıstık Kakao",
+          "price": 92.0,
+          "description": "40 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Züber Yer Fıstığı Kakao",
+          "price": 80.0,
+          "description": "40 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Züber Collagen Fruit",
+          "price": 85.0,
+          "description": "40 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Züber Collagen Kakao",
+          "price": 85.0,
+          "description": "40 gr. olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Muzlu Pasta",
+          "price": 395.0,
+          "description": "Muz, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Portakallı Kahveli Cake",
+          "price": 390.0,
+          "description": "Portakal, kahve",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Profi̇terol",
+          "price": 395.0,
+          "description": "Pate a choux, krema, profiterol sos, toz fıstık",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bask Cheesecake",
+          "price": 370.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782039.jpg?width=150&height=150"
+        },
+        {
+          "name": "No Bake Cream Cheesecake",
+          "price": 380.0,
+          "description": "Beyaz çikolatalı krema, çilek, kırmızı kek, Lotus kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/d0dd/product/86616710/3d9c55a3-bab7-4987-a409-67186b403d6f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cup Dubai",
+          "price": 395.0,
+          "description": "Krema, fıstık ezmesi, kadayıf, sütlü çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782041.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cup Oreo",
+          "price": 360.0,
+          "description": "Oreo tozu, Oreo bisküvisi, muzlu krema, muz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782042.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pate A Choux",
+          "price": 370.0,
+          "description": "Fransız krema, yaban mersini",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782043.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstık",
+          "price": 480.0,
+          "description": "Fıstıklı beyaz çikolatalı krema, fıstıklı kek, fıstık ezmesi, çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782049.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ti̇rami̇su",
+          "price": 430.0,
+          "description": "Mascarpone peyniri, kedi dili, kakao",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782053.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kırmızı Kek",
+          "price": 345.0,
+          "description": "Krema, çilek, fıstık ezmesi, kırmızı kek tozu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782054.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 430.0,
+          "description": "Mascarpone peyniri, kedi dili bisküvi, kakao",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/d0dd/product/25af6472-1953-4a23-9b8d-c6bad8eb26c2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Pay",
+          "price": 290.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Elmalı Pay",
+          "price": 275.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyoğlu Klasik Gazoz (25 cl.)",
+          "price": 110.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782113.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyoğlu Zencefi̇ll Gazoz (25 cl.)",
+          "price": 110.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782114.png?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782116.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 45.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782095.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fresh Drink",
+      "products": [
+        {
+          "name": "Hibiscus",
+          "price": 255.0,
+          "description": "Soğuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mango - Şeftali̇",
+          "price": 245.0,
+          "description": "Soğuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Portakal Suyu",
+          "price": 275.0,
+          "description": "Soğuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78139165.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çi̇lekli̇ Li̇monata",
+          "price": 270.0,
+          "description": "Soğuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78139182.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cool Lavanta",
+          "price": 245.0,
+          "description": "Soğuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78139193.jpg?width=150&height=150"
+        },
+        {
+          "name": "Li̇monata",
+          "price": 225.0,
+          "description": "Soğuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78139203.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Sicak Çi̇kolata",
+          "price": 250.0,
+          "description": "Yoğun ve lezzetli sıcak çikolata.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hibiscus Tea",
+          "price": 110.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Caramel Bubble Tea",
+          "price": 275.0,
+          "description": "Buz, limonata, espresso, karamel",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Mango & Şeftali̇ Suyu",
+          "price": 245.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çi̇lekli̇ Li̇monata",
+          "price": 265.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Li̇monata",
+          "price": 225.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Americano",
+          "price": 190.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Flat White",
+          "price": 235.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 225.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782066.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vegan Latte",
+          "price": 220.0,
+          "description": "Bitkisel süt, espresso",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782068.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bal Kabaklı Latte",
+          "price": 260.0,
+          "description": "Bal kabağı, süt, espresso",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782069.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tuzlu Karamel Latte",
+          "price": 250.0,
+          "description": "Espresso, süt, tuzlu karamel",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782071.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "price": 250.0,
+          "description": "Espresso, süt, karamel",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782073.jpg?width=150&height=150"
+        },
+        {
+          "name": "Berry Beyaz Mocha",
+          "price": 275.0,
+          "description": "Beyaz çikolata, espresso",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782075.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nutella Latte",
+          "price": 280.0,
+          "description": "Nutella, espresso",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782079.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Latte",
+          "price": 285.0,
+          "description": "Espresso, süt, lotus bisküvi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782081.jpg?width=150&height=150"
+        },
+        {
+          "name": "Popcorn Latte",
+          "price": 250.0,
+          "description": "Espresso, süt, mısır aroması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782083.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coconut Latte",
+          "price": 270.0,
+          "description": "Espresso, süt, Hindistan cevizi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782085.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cookie White Mocha",
+          "price": 270.0,
+          "description": "Kurabiye, beyaz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782088.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte",
+          "price": 220.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782094.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced Americano",
+          "price": 205.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Flat White",
+          "price": 235.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782064.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 235.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782067.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Bal Kabaklı Latte",
+          "price": 260.0,
+          "description": "Bal kabağı, süt, espresso, buz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782070.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Tuzlu Karamel Latte",
+          "price": 260.0,
+          "description": "Buz, espresso, süt, tuzlu karamel",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782072.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Karamel Macchiato",
+          "price": 260.0,
+          "description": "Espresso, süt, karamel, buz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782074.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Berry Beyaz Mocha",
+          "price": 280.0,
+          "description": "Espresso, beyaz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782076.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 265.0,
+          "description": "Espresso, süt, muz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782077.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Muzlu Mocha",
+          "price": 280.0,
+          "description": "Espresso, süt, muz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782078.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Nutella Latte",
+          "price": 285.0,
+          "description": "Nutella, espresso, buz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782080.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Lotus Latte",
+          "price": 290.0,
+          "description": "Espresso, süt, lotus bisküvi, buz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782082.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Mısırlı Latte",
+          "price": 270.0,
+          "description": "Espresso, süt, mısır, buz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782084.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Hindistan Cevizi Latte",
+          "price": 270.0,
+          "description": "Espresso, süt, Hindistan cevizi, buz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782086.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Cookie White Mocha",
+          "price": 275.0,
+          "description": "Kurabiye, beyaz çikolata, buz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77782089.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

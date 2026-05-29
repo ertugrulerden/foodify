@@ -1,7 +1,6 @@
 import { searchProducts, getAllPlatforms } from "@/lib/data/queries"
 import type { SearchResult, Platform } from "@/lib/data/types"
 import {FilterSidebar} from "./filter-sidebar"
-import {SortSelect} from "./sort-select"
 import MenuCard from "@/components/Homepage/MenuCard"
 import Navbar from "@/components/Navbar/Navbar"
 
@@ -27,6 +26,7 @@ export default async function SearchPage({
 
 	function grouping(data: SearchResult[]) {
 		const groups: {
+			productID: number; restaurantID: number;
 			restaurantName: string; productName: string; image: string | null;
 							address:string ;avgRating:number;
 			platforms: { name: string; price: number; bestPrice?: boolean }[];
@@ -40,6 +40,8 @@ export default async function SearchPage({
 				
 			} else {
 				groups.push({
+					productID: r.productID,
+					restaurantID: r.restaurantID,
 					restaurantName: r.restaurantName,
 					productName: r.productName,
 					image: r.image,
@@ -78,7 +80,6 @@ export default async function SearchPage({
 			<div className="flex-1">
 				<div className="flex justify-between items-center mb-4">
 					<h2 className="text-sm text-gray-500">{groups.length} Sonuç Bulundu</h2>
-					<SortSelect />
 				</div>
 				<div className="flex flex-wrap gap-2 justify-start">
 				{groups.map((item,index)=>{
@@ -96,6 +97,8 @@ export default async function SearchPage({
 					return (
 					<div key={index} className="flex-[1_1_220px] max-w-[300px]" >
 					<MenuCard
+						id={String(item.restaurantID)}
+						productID={item.productID}
 						name={item.restaurantName}
 						location={item.address}
 						image={item.image ?? "/placeholder.svg"}

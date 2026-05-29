@@ -1,0 +1,483 @@
+{
+  "link_hash": "0bcb349f",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Must Bowl by Migros",
+  "link": "https://www.yemeksepeti.com/restaurant/rg9r/must-bowl-by-migros-rg9r",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Chicken Katsu Bowl",
+          "price": 445.0,
+          "description": "Schnitzel, göbek marul, Akdeniz yeşillikleri, zerdeçallı basmati, mor lahana turşusu, sour cream, soslu havuç, mısır, ballı hardallı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753147.jpg?width=128&height=128"
+        },
+        {
+          "name": "Izgara Tavuk Bowl",
+          "price": 445.0,
+          "description": "Izgara tavuk, göbek marul ve Akdeniz yeşilliği, zerdeçallı basmati, mor lahana turşusu, sour cream, soslu havuç, mısır ve ballı hardal sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753146.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sebze Köfteli Schnitzel Bowl",
+          "price": 435.0,
+          "description": "4 adet Sebze köftesi, schnitzel, kokteyl domates, mısır, yeşillik, mor lahana turşusu, sour cream (ekşi krema), zerdeçallı basmati pirinci, soslu havuç, zerdeçallı fırın karnabahar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753153.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Katsu Bowl Menü",
+          "price": 760.0,
+          "description": "2 Adet Chicken Katsu Bowl + 2 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77416968.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Falafel Bowl",
+          "price": 567.0,
+          "description": "Falafel + Seçeceğiniz Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75282046.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Schnitzel Pilav Kış Bowl",
+          "price": 553.0,
+          "description": "2 Adet Schnitzel + Pilav + Seçeceğiniz 1 Adet Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75281705.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Coca-Cola Fırsat Menüleri",
+      "products": [
+        {
+          "name": "Coca-Cola Fırsatı (Chicken Katsu Bowl)",
+          "price": 480.0,
+          "description": "Chicken Katsu Bowl + Coca-Cola (25 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Fırsatı (Izgara Tavuk Bowl)",
+          "price": 480.0,
+          "description": "Izgara Tavuk Bowl + Coca-Cola (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79702070.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menüler",
+      "products": [
+        {
+          "name": "Chicken Katsu & Churros Menü",
+          "price": 499.0,
+          "description": "Chicken Katsu Bowl + 5 Adet Çikolata Dolgulu Mini Churros + Seçeceğiniz İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "2'li Fırsat Menüleri",
+      "products": [
+        {
+          "name": "2 Adet Schnitzel Pilav Kış Bowl",
+          "price": 553.0,
+          "description": "2 Adet Schnitzel + Pilav + Seçeceğiniz 1 Adet Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75281705.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Falafel Bowl",
+          "price": 567.0,
+          "description": "Falafel + Seçeceğiniz Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75282046.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fırsat Menüler",
+      "products": [
+        {
+          "name": "Yeşil Bowl + Çorba Menü",
+          "price": 550.0,
+          "description": "Seçeceğin Çorba & Dilediğin Yeşil Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70269697.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Bowl + Cacık Menü",
+          "price": 560.0,
+          "description": "Dilediğin Pilav Üstü Bowl & Cacık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70269975.jpg?width=150&height=150"
+        },
+        {
+          "name": "Katsu Sweet Menü",
+          "price": 538.99,
+          "description": "Chicken Katsu Bowl + Mini Churros + Seçeceğiniz Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77415888.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Katsu Bowl Menü",
+          "price": 760.0,
+          "description": "2 Adet Chicken Katsu Bowl + 2 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77416968.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Ezogelin Çorbası",
+          "price": 135.0,
+          "description": "İsteğe göre ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mercimek Çorbası",
+          "price": 135.0,
+          "description": "İsteğe göre ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66347368.jpg?width=150&height=150"
+        },
+        {
+          "name": "Terbiyeli Şehriyeli Tavuk Çorbası",
+          "price": 185.0,
+          "description": "Ekmek ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68758978.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zerdaçallı Sebze Çorbası",
+          "price": 135.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71258021.jpg?width=150&height=150"
+        },
+        {
+          "name": "Brokoli Çorbası",
+          "price": 155.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71258023.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yayla Çorbası",
+          "price": 135.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71258025.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Çorbası",
+          "price": 135.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71258028.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilav Üstü Bowls",
+      "products": [
+        {
+          "name": "Köri Soslu Tavuklu Pilav Bowl",
+          "price": 420.0,
+          "description": "Tereyağlı pirinç pilavı, köri soslu tavuk parçaları, haşlanmış nohut, mor lahana turşusu, kokteyl domates, salatalık, jalapeno turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Soslu Tavuklu Pilav Bowl",
+          "price": 420.0,
+          "description": "Tereyağlı pirinç pilavı, barbekü soslu tavuk parçaları, haşlanmış nohut, mor lahana turşusu, kokteyl domates, salatalık, jalapeno turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfte Pilav Bowl",
+          "price": 430.0,
+          "description": "4 adet Izgara köfte, tereyağlı pirinç pilavı, jalapeno turşu, salatalık, kokteyl domates, mor lahana turşusu, salatalık,domates. Jalapeno turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Schnitzel Pilav Bowl",
+          "price": 400.0,
+          "description": "Schnitzel, pirinç pilavı, nohut Salatası, mor lahana turşusu, salatalık, domates. jalapeno turşu.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Tavuk Pilav Bowl",
+          "price": 479.0,
+          "description": "Izgara tavuk, pirinç pilavı, nohut salatası, mor lahana turşusu, salatalık, domates. Jalapeno turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753144.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yeşil Bowls",
+      "products": [
+        {
+          "name": "Deniz Mahsullü Bowl",
+          "price": 699.0,
+          "description": "Deniz mahsulleri salatası, mısır, yeşillik, mor lahana turşusu, guacamole, zerdeçallı basmati pirinci, soslu havuç, zerdeçallı fırın karnabahar, ballı hardal salata sosu, turşu kapari ve limon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Somon Füme Bowl",
+          "price": 699.0,
+          "description": "Somon füme, mısır, turşu kapari, iceberg marul, Akdeniz yeşillikleri, mor lahana turşusu, ekşi krema (Sour cream), zerdeçallı basmati pirinci, soslu havuç, ballı hardal salata sosu, tuz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sebze Köfteli Schnitzel Bowl",
+          "price": 435.0,
+          "description": "4 adet Sebze köftesi, schnitzel, kokteyl domates, mısır, yeşillik, mor lahana turşusu, sour cream (ekşi krema), zerdeçallı basmati pirinci, soslu havuç, zerdeçallı fırın karnabahar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753153.jpg?width=150&height=150"
+        },
+        {
+          "name": "Falafel Bowl",
+          "price": 445.0,
+          "description": "Falafel, göbek marul ve Akdeniz yeşilliği, zerdeçallı basmati, mor lahana turşusu, sour cream, soslu havuç, mısır ve ballı hardal sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753148.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Katsu Bowl",
+          "price": 445.0,
+          "description": "Schnitzel, göbek marul, Akdeniz yeşillikleri, zerdeçallı basmati, mor lahana turşusu, sour cream, soslu havuç, mısır, ballı hardallı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753147.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Bowl",
+          "price": 445.0,
+          "description": "Izgara tavuk, göbek marul ve Akdeniz yeşilliği, zerdeçallı basmati, mor lahana turşusu, sour cream, soslu havuç, mısır ve ballı hardal sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753146.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Bowl",
+          "price": 470.0,
+          "description": "Ton balığı, mısır, yeşillik, mor lahana turşusu, guacamole, zerdeçallı basmati pirinci, soslu havuç, zerdeçallı fırın karnabahar, kapari turşusu, limon ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753151.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Köfte Bowl",
+          "price": 470.0,
+          "description": "Izgara köfte, göbek marul, Akdeniz yeşillikleri, zerdeçallı basmati, mor lahana turşusu, sour cream, soslu havuç, mısır, ballı hardal sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753145.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karides Bowl",
+          "price": 699.0,
+          "description": "Karides salatası, mısır, yeşillik, mor lahana turşusu, guacamole, zerdeçallı basmati pirinci, soslu havuç, zerdeçallı fırın karnabahar, kapari turşusu ve limon ile hazırlanır. Ballı hardal sos ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753150.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebze Köfteli Bowl",
+          "price": 475.0,
+          "description": "Sebze köftesi, göbek marul ve Akdeniz yeşilliği, zerdeçallı basmati, mor lahana turşusu, sour cream, soslu havuç, mısır ve ballı hardal sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76753152.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurt",
+          "price": 70.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66011565.jpg?width=150&height=150"
+        },
+        {
+          "name": "Breakfast Bowl",
+          "price": 355.0,
+          "description": "Yumurta, siyah zeytin, beyaz peynir, salatalık, kokteyl domates, mevsim yeşillikleri, guacamole ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 89.0,
+          "description": "180 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chicken Tenders (140 gr.)",
+          "price": 129.0,
+          "description": "(140 gr.) Adet sayısı gramaja bağlı olarak değişkenlik gösterebilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54992927.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dynamit Soslu Chicken Tenders",
+          "price": 160.0,
+          "description": "(140 gr.) Adet sayısı gramaja bağlı olarak değişkenlik gösterebilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67163080.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chipotle Soslu Chicken Tenders",
+          "price": 160.0,
+          "description": "(140 gr.) Adet sayısı gramaja bağlı olarak değişkenlik gösterebilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/67163088.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası",
+          "price": 89.0,
+          "description": "(8 adet) Sweet chili Sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70417674.jpg?width=150&height=150"
+        },
+        {
+          "name": "Paçanga Böreği",
+          "price": 155.0,
+          "description": "Sweet chili Sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70417682.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mac & Cheese Topları",
+          "price": 130.0,
+          "description": "120 gr. (Adet sayısı gramaja göre değişim gösterebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70417698.png?width=150&height=150"
+        },
+        {
+          "name": "Kroket Cheddar Dolgulu Çıtır Patates",
+          "price": 119.0,
+          "description": "105 gr. (Adet sayısı gramaja bağlı değişim gösterebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70417705.png?width=150&height=150"
+        },
+        {
+          "name": "Kaplamalı Peynirli Acılı Patates Kroket",
+          "price": 105.0,
+          "description": "105 gr. (Adet sayısı gramaja bağlı değişim gösterebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70417711.png?width=150&height=150"
+        },
+        {
+          "name": "Tortilla Chips & Guacomole",
+          "price": 170.0,
+          "description": "Avokado püresi, domates, kırmızı soğan, limon suyu, zeytinyağı ve Sriracha sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78352606.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coleslaw Salatası (150 gr.)",
+          "price": 99.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/rugc/product/88bfd959-4de9-4abf-98ac-974bd3b514b2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cacık",
+          "price": 130.0,
+          "description": "Yoğurt, salatalık, kuru nane, su, ve tuz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54992516.jpg?width=150&height=150"
+        },
+        {
+          "name": "Falafel",
+          "price": 125.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54992519.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebze Köftesi (6 Adet)",
+          "price": 140.0,
+          "description": "Mevsim sebzeleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54992521.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Spoonful Cup",
+          "price": 359.0,
+          "description": "Yoğun krema ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjro/product/ff4ab922-0e19-44f8-bafc-c1f26e9ea7d4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Cup",
+          "price": 359.0,
+          "description": "Çilek püresi ve çilek aromalı krema ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tiramisu Cup",
+          "price": 359.0,
+          "description": "Tiramisu katları ve kahveli krema ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjro/product/4da78b1e-71be-453f-bcab-44381309c689.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Cup",
+          "price": 359.0,
+          "description": "Lotus bisküvisi ve karamelli krema ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjro/product/f759ead4-e2c7-45f5-b824-e9a80bd1d420.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kadayıflı Cup",
+          "price": 359.0,
+          "description": "Çıtır kadayıf ve kremalı karışım ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjro/product/eefb09ac-9f3b-42ba-bddf-84f78cfb79a7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaban Mersinli Limonlu Cup",
+          "price": 359.0,
+          "description": "Yaban mersini sosu ve limon kreması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjro/product/d8511057-8794-44ed-b566-3dba8ad9a2b4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Tiramusulu Cup",
+          "price": 359.0,
+          "description": "Kedidili bisküvi, krema",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjro/product/b99197f4-be13-4685-ad4f-ab3aa26fe81a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mangolu Cup",
+          "price": 359.0,
+          "description": "Mango püresi ve mango aromalı krema ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjro/product/49dde80b-32a6-4111-9db3-0c7ae98bcce0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolata Dolgulu Mini Churros",
+          "price": 145.0,
+          "description": "Çikolata dolgulu (5 adet servis edilmektedir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59946942.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54993231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (25 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54993232.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54993234.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (33 cl.)",
+          "price": 70.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54993242.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 50.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54993244.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54993245.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

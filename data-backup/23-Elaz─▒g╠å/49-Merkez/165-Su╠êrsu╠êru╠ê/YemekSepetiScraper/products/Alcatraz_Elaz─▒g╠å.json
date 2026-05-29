@@ -1,0 +1,417 @@
+{
+  "link_hash": "b2b4e57c",
+  "scraped_at": "260528_0034",
+  "restaurant_name": "Alcatraz Elazığ",
+  "link": "https://www.yemeksepeti.com/restaurant/xofw/alcatraz-elazig",
+  "categories": [
+    {
+      "name": "Waffles",
+      "products": [
+        {
+          "name": "Kare Karadenizlim Waffle (Yarım)",
+          "price": 395.0,
+          "description": "Fındıklı çikolata, muz, kivi, çilek, fındık, fındıklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73305521.jpg?width=128&height=128"
+        },
+        {
+          "name": "Papatya Karadenizlim Waffle",
+          "price": 470.0,
+          "description": "Fındıklı çikolata, muz, kivi, çilek, fındık, fındıklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73305522.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kare Anteplim Waffle (Yarım)",
+          "price": 410.0,
+          "description": "Antep fıstıklı çikolata, muz, kivi, çilek, Antep fıstığı, Antep fıstıklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73305525.jpg?width=150&height=150"
+        },
+        {
+          "name": "Papatya Anteplim Waffle",
+          "price": 480.0,
+          "description": "Antep fıstıklı çikolata, muz, kivi, çilek, Antep fıstığı, Antep fıstıklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73305540.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kampanyalı Menüler",
+      "products": [
+        {
+          "name": "Bazlama Tost Menü",
+          "price": 865.0,
+          "description": "Bazlama Tost + Waffle + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74452725.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Kaşarlı Bazlama Tost",
+          "price": 400.0,
+          "description": "Salça, kaşar peyniri. Patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sucuklu Bazlama Tost",
+          "price": 380.0,
+          "description": "Salça, sucuk. Patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Bazlama Tost",
+          "price": 405.0,
+          "description": "Salça, kaşar peyniri, sucuk. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73121336.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Bazlama Tost",
+          "price": 435.0,
+          "description": "Salça, kavurma, kaşar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73121337.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pizza Bazlama Tost",
+          "price": 430.0,
+          "description": "Salça, kaşar peyniri, siyah zeytin, yeşil zeytin, mısır, sosis, sucuk, domates, jalapeno biberi. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73305518.jpg?width=150&height=150"
+        },
+        {
+          "name": "Special Bazlama Tost",
+          "price": 410.0,
+          "description": "Salça, kaşar peyniri, sucuk, sosis, kavurma. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73305536.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kumpirler",
+      "products": [
+        {
+          "name": "Kendi Kumpirini Kendin Yarat",
+          "price": 425.0,
+          "description": "Seçeceğiniz malzemeler ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Süper Karışık Kumpir",
+          "price": 430.0,
+          "description": "Tereyağı, kaşar peyniri, Rus salatası, sosis, yeşil zeytin, siyah zeytin, mısır, turşu, kısır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Kumpir",
+          "price": 425.0,
+          "description": "Tereyağı, kaşar peyniri, Rus salatası, sosis, yeşil zeytin, siyah zeytin, mısır, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73363288.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Muhallebiler",
+      "products": [
+        {
+          "name": "Muzlu San Fracisco",
+          "price": 390.0,
+          "description": "Muhallebi, Oreo, süt reçeli, muz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Paris",
+          "price": 440.0,
+          "description": "Muhallebi, Belçika çikolatası, Fransız bisküvi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "4'lü Muhallebi Kutusu",
+          "price": 1.05,
+          "description": "Seçeceğiniz 4 adet muhallebi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Miss Cup",
+          "price": 475.0,
+          "description": "Bol çilek, Fransız bisküvi, Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199328.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Muhallebi Kutusu",
+          "price": 535.0,
+          "description": "Seçeceğiniz 2 adet muhallebi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199330.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Ankara",
+          "price": 390.0,
+          "description": "Muhallebi, Cicibebe, çilek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73199331.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli San Francisco",
+          "price": 395.0,
+          "description": "Muhallebi, Oreo, çilek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73199336.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Ankara",
+          "price": 365.0,
+          "description": "Muhallebi, Cicibebe, süt reçeli, muz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73199338.jpg?width=150&height=150"
+        },
+        {
+          "name": "California",
+          "price": 400.0,
+          "description": "Muhallebi, brownie kek, vişne sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73199344.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tallin",
+          "price": 465.0,
+          "description": "Muhallebi, Lotus çikolata, Lotus bisküvi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73716993.jpg?width=150&height=150"
+        },
+        {
+          "name": "Berlin",
+          "price": 400.0,
+          "description": "İncir, Burçak bisküvü, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/74452050.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kruvasanlar",
+      "products": [
+        {
+          "name": "Sade Kruvasan",
+          "price": 260.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Domatesli Kruvasan",
+          "price": 395.0,
+          "description": "Beyaz peynir, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karaorman Meyveli Kruvasan",
+          "price": 395.0,
+          "description": "Orman meyvesi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotus Kruvasan",
+          "price": 415.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73121254.jpg?width=150&height=150"
+        },
+        {
+          "name": "Belçika Kruvasan",
+          "price": 415.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73121256.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstık Roll Kruvasan",
+          "price": 455.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73121257.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Kruvasan Tabağı",
+          "price": 415.0,
+          "description": "Belçika çikolatalı kruvasan, Lotuslu kruvasan, pudralı kruvasan, kara orman meyveli kruvasan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73716996.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "XL Mutluluk Tabağı",
+          "price": 1.515,
+          "description": "Waffle, pankek, brownie, kruvasan, profiterol, ananas, muz, çilek, seçeceğiniz 5 adet çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mutluluk Tabağı",
+          "price": 1.035,
+          "description": "Waffle, pankek, brownie, kruvasan, profiterol, ananas, muz, çilek, seçeceğiniz 3 adet çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kakaolu Cookie",
+          "price": 170.0,
+          "description": "3 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73305530.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cookie",
+          "price": 170.0,
+          "description": "3 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73305538.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Pankek",
+          "price": 405.0,
+          "description": "Seçeceğiniz malzemeler ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73305539.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Su (50 cl.)",
+          "price": 45.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 70.0,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73121187.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Soda (20 cl.)",
+          "price": 70.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73121189.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (33 cl.)",
+          "price": 170.0,
+          "description": "Bardak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73121190.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199317.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199318.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 150.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199322.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199323.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199327.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 70.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199332.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73199343.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 105.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73199345.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Limonlu Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73592966.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Mango & Ananas Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73716978.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Cool Lime (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73716981.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Elmalı Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73716988.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Düşes Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": null
+        },
+        {
+          "name": "Avşar Frenk Üzümü Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 300.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Vitamin Bar",
+      "products": [
+        {
+          "name": "Taze Sıkma Portakal Suyu",
+          "price": 230.0,
+          "description": "Bardak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}
