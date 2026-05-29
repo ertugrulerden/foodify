@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Work_Sans, Inter } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
+import { AddressProvider } from "@/components/AddressContext";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
@@ -31,7 +32,10 @@ export default function RootLayout({
         "font-sans"
       )}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        {/* AddressProvider: Adres bilgisini tüm uygulamaya sağlayan context */}
+        <AddressProvider>{children}</AddressProvider>
+      </body>
     </html>
   );
 }

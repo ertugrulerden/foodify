@@ -54,8 +54,11 @@ export function getAllUserFavs(): UserFav[] {
     return db.prepare("SELECT * FROM userFavs").all() as UserFav[]
 }
 
+// Ürün arama fonksiyonu — tüm filtreler opsiyonel
+// regionID: Adres seçiminden gelen bölge filtresi (restaurantRegion tablosuyla eşleşir)
 export function searchProducts(query?:string,platforms?:string[],minPrice?:number,
-                                maxPrice?:number,sortBy?:number):SearchResult[]{
+                                maxPrice?:number,sortBy?:number,minRating?:number,
+                                regionID?:number):SearchResult[]{
     const conditions : string[] = []
     const parameters : unknown[] = []
     if(query){
@@ -74,6 +77,15 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
     if(maxPrice && maxPrice >= 0){
         conditions.push("prices.price <= ?")
         parameters.push(`${maxPrice}`)
+    }
+    if(minRating && minRating >= 0 && minRating <= 5){
+        conditions.push("details.rating >= ?")
+        parameters.push(`${minRating}`)
+    }
+    // Adres filtresi: seçilen bölgeye (mahalle) ait restoranları göster
+    if(regionID && regionID > 0){
+        conditions.push("restaurantregion.regionID = ?")
+        parameters.push(regionID)
     }
 
     let searchQuery = 'SELECT'
