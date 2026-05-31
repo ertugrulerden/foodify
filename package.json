@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "import:yemeksepeti": "node import-yemeksepeti-backup.mjs"
   },
   "dependencies": {
     "better-sqlite3": "^12.9.0",

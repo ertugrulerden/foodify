@@ -4,13 +4,17 @@ import React, { createContext, useContext, useState } from "react"
 import LoginModal from "./Navbar/LoginModal"
 import RegisterModal from "./Navbar/RegisterModal"
 import WelcomeModal from "./Navbar/WelcomeModal"
+import AddressModal from "./Navbar/AddressModal"
+
+type AuthUser = { userID: number; firstName: string; lastName: string; email: string }
 
 type AuthModalContextType = {
   openWelcome: () => void
   openLogin: () => void
   openRegister: () => void
+  openAddress: () => void
   closeAll: () => void
-  onAuthSuccess: (user: any) => void
+  onAuthSuccess: (user: AuthUser) => void
 }
 
 const AuthModalContext = createContext<AuthModalContextType | undefined>(undefined)
@@ -19,46 +23,58 @@ export function AuthModalProvider({ children }: { children: React.ReactNode }) {
   const [welcomeOpen, setWelcomeOpen] = useState(false)
   const [loginOpen, setLoginOpen] = useState(false)
   const [registerOpen, setRegisterOpen] = useState(false)
+  const [addressOpen, setAddressOpen] = useState(false)
 
   const openWelcome = () => setWelcomeOpen(true)
   const openLogin = () => {
     setWelcomeOpen(false)
     setRegisterOpen(false)
+    setAddressOpen(false)
     setLoginOpen(true)
   }
   const openRegister = () => {
     setWelcomeOpen(false)
     setLoginOpen(false)
+    setAddressOpen(false)
     setRegisterOpen(true)
+  }
+  const openAddress = () => {
+    setWelcomeOpen(false)
+    setLoginOpen(false)
+    setRegisterOpen(false)
+    setAddressOpen(true)
   }
   const closeAll = () => {
     setWelcomeOpen(false)
     setLoginOpen(false)
     setRegisterOpen(false)
+    setAddressOpen(false)
   }
 
-  // Giriş başarılı olunca çalışan ortak fonksiyon
-  const onAuthSuccess = (user: { userID: number; firstName: string; lastName: string; email: string }) => {
+  const onAuthSuccess = (user: AuthUser) => {
     localStorage.setItem("foodify_user", JSON.stringify(user))
-    closeAll()
-    // Sayfayı yenile ki UserMenu gibi bileşenler localStorage'daki yeni değeri alsın
+    // Giris/kayit sonrasi eski misafir adres secimini temizliyoruz; kullanici kendi DB adreslerini gorsun.
+    localStorage.removeItem("foodify_address")
+    localStorage.removeItem("foodify_guest_addresses")
+    setWelcomeOpen(false)
+    setLoginOpen(false)
+    setRegisterOpen(false)
     window.dispatchEvent(new Event("storage"))
-    window.location.reload()
+    // Giris/kayit sonrasi adres zorunlu; kayitli adres varsa liste, yoksa yeni adres formu acilir.
+    setAddressOpen(true)
   }
 
   return (
-    <AuthModalContext.Provider value={{ openWelcome, openLogin, openRegister, closeAll, onAuthSuccess }}>
+    <AuthModalContext.Provider value={{ openWelcome, openLogin, openRegister, openAddress, closeAll, onAuthSuccess }}>
       {children}
-      
-      {/* 1. Hoş Geldin Modalı */}
+
       <WelcomeModal
         open={welcomeOpen}
         onOpenChange={setWelcomeOpen}
         onLoginClick={openLogin}
-        onContinueAsGuest={closeAll} // Sadece modalları kapatır, asıl adres açma işi tetiklenen yerden yapılabilir
+        onContinueAsGuest={openAddress}
       />
 
-      {/* 2. Giriş Modalı */}
       <LoginModal
         open={loginOpen}
         onOpenChange={setLoginOpen}
@@ -66,13 +82,14 @@ export function AuthModalProvider({ children }: { children: React.ReactNode }) {
         onLoginSuccess={onAuthSuccess}
       />
 
-      {/* 3. Kayıt Modalı */}
       <RegisterModal
         open={registerOpen}
         onOpenChange={setRegisterOpen}
         onSwitchToLogin={openLogin}
         onRegisterSuccess={onAuthSuccess}
       />
+
+      <AddressModal open={addressOpen} onOpenChange={setAddressOpen} />
     </AuthModalContext.Provider>
   )
 }

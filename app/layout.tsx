@@ -1,27 +1,26 @@
-import type { Metadata } from "next";
-import { Work_Sans, Inter } from "next/font/google";
-import "./globals.css";
-import { cn } from "@/lib/utils";
-import { AddressProvider } from "@/components/AddressContext";
-import { AuthModalProvider } from "@/components/AuthModalContext";
+import type { Metadata } from "next"
+import { Work_Sans, Inter } from "next/font/google"
+import "./globals.css"
+import { cn } from "@/lib/utils"
+import { AddressProvider } from "@/components/AddressContext"
+import { AuthModalProvider } from "@/components/AuthModalContext"
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
+const inter = Inter({ subsets: ["latin"], variable: "--font-sans" })
 
 const workSans = Work_Sans({
   subsets: ["latin"],
   variable: "--font-heading",
-});
+})
 
 export const metadata: Metadata = {
   title: "Foodify - Compare Food Prices Across Platforms",
-  description:
-    "Find the best price for your favorite food. Compare all the platforms in one place.",
-};
+  description: "Find the best price for your favorite food. Compare all the platforms in one place.",
+}
 
 export default function RootLayout({
   children,
 }: Readonly<{
-  children: React.ReactNode;
+  children: React.ReactNode
 }>) {
   return (
     <html
@@ -34,12 +33,11 @@ export default function RootLayout({
       )}
     >
       <body className="min-h-full flex flex-col">
-        {/* AuthModalProvider: Giriş/Kayıt modallarını yöneten context */}
-        <AuthModalProvider>
-          {/* AddressProvider: Adres bilgisini tüm uygulamaya sağlayan context */}
-          <AddressProvider>{children}</AddressProvider>
-        </AuthModalProvider>
+        {/* AddressProvider disarida kalir; auth akisi da adres modalini acabilsin. */}
+        <AddressProvider>
+          <AuthModalProvider>{children}</AuthModalProvider>
+        </AddressProvider>
       </body>
     </html>
-  );
+  )
 }

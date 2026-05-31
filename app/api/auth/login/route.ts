@@ -1,32 +1,30 @@
-// Giriş yapma API endpoint'i
-// POST /api/auth/login → { email, password }
-// Başarılı: kullanıcı bilgilerini döner (passwordHash hariç)
-// Hata: email/şifre yanlışsa 401 döner
+import { hashPassword, verifyPassword } from "@/lib/auth/password"
+import { getUserByEmail, updateUserPassword } from "@/lib/data/queries"
 import { NextRequest, NextResponse } from "next/server"
-import { getUserByEmail } from "@/lib/data/queries"
 
 export async function POST(req: NextRequest) {
   const body = await req.json()
   const { email, password } = body
 
-  // Basit doğrulama
   if (!email || !password) {
-    return NextResponse.json({ error: "Email ve şifre zorunludur" }, { status: 400 })
+    return NextResponse.json({ error: "Email ve sifre zorunludur" }, { status: 400 })
   }
 
-  // Email ile kullanıcıyı bul
   const user = getUserByEmail(email)
   if (!user) {
-    return NextResponse.json({ error: "Email veya şifre hatalı" }, { status: 401 })
+    return NextResponse.json({ error: "Email veya sifre hatali" }, { status: 401 })
   }
 
-  // Şifre kontrolü (demo için düz metin karşılaştırma)
-  // Production'da bcrypt.compare() kullanılmalıdır
-  if (user.passwordHash !== password) {
-    return NextResponse.json({ error: "Email veya şifre hatalı" }, { status: 401 })
+  const passwordCheck = verifyPassword(password, user.passwordHash)
+  if (!passwordCheck.valid) {
+    return NextResponse.json({ error: "Email veya sifre hatali" }, { status: 401 })
   }
 
-  // Hassas bilgiyi çıkarıp döndür
+  // Eski duz metin sifreli kullanici basarili giris yaparsa kaydi otomatik hash formatina tasiyoruz.
+  if (passwordCheck.needsRehash) {
+    updateUserPassword(user.userID, hashPassword(password))
+  }
+
   return NextResponse.json({
     userID: user.userID,
     firstName: user.firstName,

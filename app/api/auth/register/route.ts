@@ -1,36 +1,29 @@
-// Kayıt olma API endpoint'i
-// POST /api/auth/register → { firstName, lastName, email, password }
-// Başarılı: kullanıcı bilgilerini döner (passwordHash hariç)
-// Hata: email zaten kayıtlıysa 400 döner
-import { NextRequest, NextResponse } from "next/server"
+import { hashPassword } from "@/lib/auth/password"
 import { createUser, getUserByEmail } from "@/lib/data/queries"
+import { NextRequest, NextResponse } from "next/server"
 
 export async function POST(req: NextRequest) {
   const body = await req.json()
   const { firstName, lastName, email, password } = body
 
-  // Basit doğrulama
   if (!firstName || !lastName || !email || !password) {
-    return NextResponse.json({ error: "Tüm alanlar zorunludur" }, { status: 400 })
+    return NextResponse.json({ error: "Tum alanlar zorunludur" }, { status: 400 })
   }
 
-  // Email daha önce kayıtlı mı kontrol et
   const existing = getUserByEmail(email)
   if (existing) {
-    return NextResponse.json({ error: "Bu email adresi zaten kayıtlı" }, { status: 400 })
+    return NextResponse.json({ error: "Bu email adresi zaten kayitli" }, { status: 400 })
   }
 
-  // Kullanıcıyı oluştur (demo için şifre düz metin olarak saklanıyor)
-  // Production'da bcrypt/argon2 ile hashlenmelidir
   const user = createUser({
     firstName,
     lastName,
     email,
-    passwordHash: password,
-    lastRegionID: 1, // Varsayılan bölge, adres seçince güncellenecek
+    // Yeni kullanicilar icin sifre artik veritabanina hashlenmis olarak yaziliyor.
+    passwordHash: hashPassword(password),
+    lastRegionID: 1,
   })
 
-  // Hassas bilgiyi çıkarıp döndür
   return NextResponse.json({
     userID: user.userID,
     firstName: user.firstName,

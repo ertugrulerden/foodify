@@ -1,6 +1,7 @@
 import Database from 'better-sqlite3';
 
 const db = new Database('./foodify.db');
+db.pragma("foreign_keys = ON")
 
 try {
   console.log("Adding userAddresses table...");
@@ -18,4 +19,6 @@ try {
   console.log("Successfully created userAddresses table.");
 } catch (error) {
   console.error("Migration failed:", error);
+} finally {
+  db.close()
 }

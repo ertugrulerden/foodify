@@ -3,10 +3,12 @@
 import { useState } from "react";
 import { Heart, Clock, MapPin, ShoppingBag, Star, Bike } from "lucide-react";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { PopularRestaurants } from "@/lib/data/homepage";
+import { getProductImageOrDefault } from "@/lib/data/images";
+import { useAuthModals } from "@/components/AuthModalContext";
 import { Button } from "@/components/ui/button";
-import Link from "next/link";
 
 const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
   getir: { label: "Getir", logo: "/getir52.png" },
@@ -14,6 +16,18 @@ const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
   ubereats: { label: "Uber Eats", logo: "/ubereats52.png" },
   migros: { label: "Migros", logo: "/migros52.png" },
 };
+
+function hasStoredUser() {
+  try {
+    const storedUser = localStorage.getItem("foodify_user")
+    if (!storedUser) return false
+    const parsed = JSON.parse(storedUser) as { userID?: unknown }
+    return typeof parsed.userID === "number"
+  } catch {
+    localStorage.removeItem("foodify_user")
+    return false
+  }
+}
 
 const RestaurantCard = ({
   id,
@@ -28,21 +42,38 @@ const RestaurantCard = ({
   currency = "₺",
   isFavorited = false,
   href,
+  platformLinks,
 }: PopularRestaurants & { href?: string }) => {
+  const router = useRouter()
+  const { openLogin } = useAuthModals()
   const [favorited, setFavorited] = useState(isFavorited);
+  const displayImage = getProductImageOrDefault(image)
+  const displayPlatforms = Array.from(new Set(platforms))
+  const formattedDeliveryTime = deliveryTime
+    ? /(?:min|dk)/i.test(deliveryTime) ? deliveryTime : `${deliveryTime} dk`
+    : null
 
   const linkHref = href ?? (id ? `/restaurant/${id}` : null);
+  const openPlatformLink = (e: React.MouseEvent, link?: string) => {
+    e.preventDefault()
+    e.stopPropagation()
+    if (link) window.open(link, "_blank", "noopener,noreferrer")
+  }
 
   const card = (
     <div
       className="group shrink-0 w-64 rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all duration-200 hover:shadow-md active:scale-[0.98] active:shadow-sm cursor-pointer"
       role="article"
+      onClick={() => {
+        if (linkHref) router.push(linkHref)
+      }}
     >
       <div className="relative h-36 w-full overflow-hidden bg-muted">
         <Image
-          src={image}
+          src={displayImage}
           alt={name}
           fill
+          sizes="256px"
           className="object-cover transition-transform duration-300 group-hover:scale-105"
         />
 
@@ -52,6 +83,11 @@ const RestaurantCard = ({
           aria-label={favorited ? "Favorilerden çıkar" : "Favorilere ekle"}
           onClick={(e) => {
             e.preventDefault();
+            e.stopPropagation();
+            if (!hasStoredUser()) {
+              openLogin()
+              return
+            }
             setFavorited(!favorited);
           }}
           className="absolute right-2 top-2 h-7 w-7 rounded-full bg-white/90 shadow-sm backdrop-blur-sm hover:bg-white"
@@ -87,7 +123,7 @@ const RestaurantCard = ({
           {deliveryTime && (
             <span className="flex items-center gap-1">
               <Clock className="h-3 w-3 shrink-0" />
-              {deliveryTime} dk
+              {formattedDeliveryTime}
             </span>
           )}
           {fee != null && (
@@ -107,14 +143,21 @@ const RestaurantCard = ({
         <div className="h-px bg-border/60" />
 
         <div className="flex items-center gap-1.5">
-          {platforms.map((p) => {
+          {displayPlatforms.map((p) => {
             const platform = PLATFORM_MAP[p];
             if (!platform) return null;
+            const platformLink = platformLinks?.[p]
             return (
-              <div
+              <button
                 key={p}
-                title={platform.label}
-                className="h-6 w-6 shrink-0 overflow-hidden rounded-md bg-white"
+                type="button"
+                title={platformLink ? `${platform.label} sayfasina git` : platform.label}
+                onClick={(e) => openPlatformLink(e, platformLink)}
+                className={cn(
+                  "h-6 w-6 shrink-0 overflow-hidden rounded-md bg-white",
+                  platformLink ? "cursor-pointer hover:ring-2 hover:ring-primary/20" : "cursor-default"
+                )}
+                disabled={!platformLink}
               >
                 <Image
                   src={platform.logo}
@@ -123,17 +166,13 @@ const RestaurantCard = ({
                   height={24}
                   className="h-full w-full object-contain"
                 />
-              </div>
+              </button>
             );
           })}
         </div>
       </div>
     </div>
   );
-
-  if (linkHref) {
-    return <Link href={linkHref} className="block">{card}</Link>;
-  }
 
   return card;
 };

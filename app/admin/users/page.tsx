@@ -10,7 +10,7 @@ const Page = () => {
     firstName: u.firstName,
     lastName: u.lastName,
     email: u.email,
-    passwordHash: u.passwordHash,
+    password: "",
     lastRegionID: u.lastRegionID,
     _region: `${u.lastRegionID} - ${regMap[u.lastRegionID] ?? u.lastRegionID}`,
   }))
@@ -25,12 +25,12 @@ const Page = () => {
         { header: "Email", accessor: "email" },
         { header: "Last Region ID", accessor: "_region" },
       ]}
-      emptyItem={{ userID: 0, firstName: "", lastName: "", email: "", passwordHash: "", lastRegionID: 0, _region: "" }}
+      emptyItem={{ userID: 0, firstName: "", lastName: "", email: "", password: "", lastRegionID: 0, _region: "" }}
       fields={[
         { name: "firstName", label: "First Name", type: "text", required: true },
         { name: "lastName", label: "Last Name", type: "text", required: true },
         { name: "email", label: "Email", type: "text", required: true },
-        { name: "passwordHash", label: "Password Hash", type: "text", required: true },
+        { name: "password", label: "Password", type: "text" },
         { name: "lastRegionID", label: "Region", type: "select", required: true, options: regions.map(r => ({ value: r.regionID, label: r.region })) },
       ]}
       idField="userID"

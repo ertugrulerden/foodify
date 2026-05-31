@@ -8,12 +8,14 @@ export async function GET(request:NextRequest){
     const minPriceStr = request.nextUrl.searchParams.get("minPrice")
     const maxPriceStr = request.nextUrl.searchParams.get("maxPrice")
     const sortByStr = request.nextUrl.searchParams.get("sortBy")
+    const regionIDStr = request.nextUrl.searchParams.get("regionID")
 
     const results = searchProducts(q || undefined,
         platformsStr ? platformsStr.split(",") : undefined,
         minPriceStr ? Number(minPriceStr) : undefined,
         maxPriceStr ? Number(maxPriceStr) : undefined,
-        sortByStr ? Number(sortByStr) : undefined
+        sortByStr !== null ? Number(sortByStr) : undefined,
+        regionIDStr !== null ? Number(regionIDStr) : undefined
     )
     return Response.json(results)
 }

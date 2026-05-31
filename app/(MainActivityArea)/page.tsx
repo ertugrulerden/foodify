@@ -1,13 +1,11 @@
 import HeroSection from "@/components/Homepage/HeroSection"
-import PopularMenus from "@/components/Homepage/PopularMenus"
-import PopularRestaurants from "@/components/Homepage/PopularRestaurants"
+import HomepageFeed from "@/components/Homepage/HomepageFeed"
 
 const HomePage = () => {
   return (
     <main>
       <HeroSection />
-      <PopularRestaurants />
-      <PopularMenus />
+      <HomepageFeed />
 
     </main>
   )

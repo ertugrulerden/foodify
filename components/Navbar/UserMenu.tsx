@@ -26,7 +26,7 @@ const UserMenu = () => {
       if (storedUser) {
         try {
           setUser(JSON.parse(storedUser))
-        } catch (e) {
+        } catch {
           console.error("Kullanıcı bilgisi okunamadı")
         }
       } else {
@@ -41,7 +41,10 @@ const UserMenu = () => {
 
   // Çıkış yap: localStorage'dan sil ve sayfayı yenile
   const handleLogout = () => {
+    // Cikis sonrasi secili adres ekranda kalmasin; tekrar adres secmesi istenir.
     localStorage.removeItem("foodify_user")
+    localStorage.removeItem("foodify_address")
+    localStorage.removeItem("foodify_guest_addresses")
     window.location.href = "/" // Anasayfaya yönlendir ve yenile
   }
 

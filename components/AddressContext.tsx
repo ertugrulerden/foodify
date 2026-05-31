@@ -1,6 +1,7 @@
 "use client"
 
 import { createContext, useContext, useState, useEffect, ReactNode } from "react"
+import { repairTurkishText } from "@/lib/text/repair-turkish"
 
 // Kullanıcının seçtiği adres bilgisini temsil eden tip
 export interface AddressInfo {
@@ -24,6 +25,15 @@ const AddressContext = createContext<AddressContextType | undefined>(undefined)
 // localStorage anahtarı
 const STORAGE_KEY = "foodify_address"
 
+function repairAddressInfo(address: AddressInfo): AddressInfo {
+  return {
+    ...address,
+    cityName: repairTurkishText(address.cityName),
+    districtName: repairTurkishText(address.districtName),
+    regionName: repairTurkishText(address.regionName),
+  }
+}
+
 // Tüm uygulamayı saran provider bileşeni
 export function AddressProvider({ children }: { children: ReactNode }) {
   const [address, setAddressState] = useState<AddressInfo | null>(null)
@@ -33,7 +43,9 @@ export function AddressProvider({ children }: { children: ReactNode }) {
     const saved = localStorage.getItem(STORAGE_KEY)
     if (saved) {
       try {
-        setAddressState(JSON.parse(saved))
+        const repaired = repairAddressInfo(JSON.parse(saved) as AddressInfo)
+        setAddressState(repaired)
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(repaired))
       } catch {
         localStorage.removeItem(STORAGE_KEY)
       }
@@ -42,8 +54,9 @@ export function AddressProvider({ children }: { children: ReactNode }) {
 
   // Adres kaydet: hem state'i hem localStorage'ı güncelle
   const setAddress = (a: AddressInfo) => {
-    setAddressState(a)
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(a))
+    const repaired = repairAddressInfo(a)
+    setAddressState(repaired)
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(repaired))
   }
 
   // Adresi temizle

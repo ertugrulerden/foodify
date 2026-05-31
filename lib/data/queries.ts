@@ -1,5 +1,6 @@
 import db from "./db";
-import type { Restaurant, Platform, Product, Price, Detail, SearchResult, City, District, Region, RestaurantRegion, User, UserFav } from "./types";
+import type { Restaurant, Platform, Product, Price, Detail, SearchResult, City, District, Region, RestaurantRegion, User, UserFav, UserAddressWithLocation } from "./types";
+import { isStandaloneNonListableProductName } from "./product-filters"
 export function getAllRestaurants(): Restaurant[]{
     const getAllRest = db.prepare("SELECT * FROM restaurants")
     const restaurants = getAllRest.all() as Restaurant[]
@@ -10,6 +11,18 @@ export function getAllPlatforms(): Platform[] {
     const getAllPlat = db.prepare("SELECT * FROM platforms")
     const platforms = getAllPlat.all() as Platform[]
     return platforms
+}
+
+export function getSearchPlatforms(): Platform[] {
+    // Kullanici aramasinda sadece gercek kaynak linki olan platformlar gosterilir; eski demo fiyatlari filtreye karismaz.
+    return db.prepare(`
+        SELECT DISTINCT platforms.*
+        FROM platforms
+        JOIN details ON details.platformID = platforms.platformID
+        WHERE details.sourceLink IS NOT NULL
+          AND TRIM(details.sourceLink) != ''
+        ORDER BY platforms.platform
+    `).all() as Platform[]
 }
 
 export function getAllProducts(): Product[] {
@@ -36,6 +49,17 @@ export function getAllRegions(): Region[] {
 export function getAllRestaurantRegions(): RestaurantRegion[] {
     return db.prepare("SELECT rowid AS id, * FROM restaurantRegion").all() as RestaurantRegion[]
 }
+
+function fullAddressSelect(regionID?: number) {
+    if (regionID && regionID > 0) {
+        return "(SELECT city.city || ' / ' || district.district || ' - ' || region.region FROM region JOIN district ON region.districtID = district.districtID JOIN city ON district.cityID = city.cityID WHERE region.regionID = ?) AS address"
+    }
+
+    return "(SELECT city.city || ' / ' || district.district || ' - ' || region.region FROM restaurantregion rr JOIN region ON rr.regionID = region.regionID JOIN district ON region.districtID = district.districtID JOIN city ON district.cityID = city.cityID WHERE rr.restaurantID = restaurants.restaurantID LIMIT 1) AS address"
+}
+
+const nonListableProductCondition = "products.name NOT LIKE '%Poşet%' AND products.name NOT LIKE '%Poset%'"
+
 //RestaurantRegion
 export function createRestaurantRegion(data: {restaurantID: number, regionID: number}): RestaurantRegion{
     const result = db.prepare("INSERT INTO restaurantRegion (restaurantID, regionID) VALUES (?, ?) RETURNING rowid AS id, *").get(data.restaurantID, data.regionID) as RestaurantRegion
@@ -54,39 +78,41 @@ export function getAllUserFavs(): UserFav[] {
     return db.prepare("SELECT * FROM userFavs").all() as UserFav[]
 }
 
-// Ürün arama fonksiyonu — tüm filtreler opsiyonel
-// regionID: Adres seçiminden gelen bölge filtresi (restaurantRegion tablosuyla eşleşir)
+// Urun arama fonksiyonu: query, platform, fiyat ve adres filtrelerini tek SQL'de toplar.
+// Rating artik restoran/platform detayindan gelir; kartta platformlarin ortalamasi gosterilir.
 export function searchProducts(query?:string,platforms?:string[],minPrice?:number,
-                                maxPrice?:number,sortBy?:number,minRating?:number,
+                                maxPrice?:number,sortBy?:number,
                                 regionID?:number):SearchResult[]{
     const conditions : string[] = []
+    const selectParameters : unknown[] = []
     const parameters : unknown[] = []
     if(query){
         conditions.push("products.name LIKE ?")
         parameters.push(`%${query}%`)
     }
+    conditions.push(nonListableProductCondition)
+    conditions.push("details.sourceLink IS NOT NULL AND TRIM(details.sourceLink) != ''")
     if(platforms && platforms.length > 0){
         conditions.push(`platforms.platform IN (${platforms.map(()=> "?").join(", ")})`)
         parameters.push(...platforms)
     }
 
-    if(minPrice && minPrice >= 0){
+    if(minPrice !== undefined && minPrice >= 0){
         conditions.push("prices.price >= ?")
-        parameters.push(`${minPrice}`)
+        parameters.push(minPrice)
     }
-    if(maxPrice && maxPrice >= 0){
+    if(maxPrice !== undefined && maxPrice >= 0){
         conditions.push("prices.price <= ?")
-        parameters.push(`${maxPrice}`)
+        parameters.push(maxPrice)
     }
-    if(minRating && minRating >= 0 && minRating <= 5){
-        conditions.push("details.rating >= ?")
-        parameters.push(`${minRating}`)
-    }
-    // Adres filtresi: seçilen bölgeye (mahalle) ait restoranları göster
+    // Adres filtresi secilen mahalle/region icindeki restoranlari dondurur.
     if(regionID && regionID > 0){
-        conditions.push("restaurantregion.regionID = ?")
+        conditions.push("EXISTS (SELECT 1 FROM restaurantregion rr WHERE rr.restaurantID = restaurants.restaurantID AND rr.regionID = ?)")
         parameters.push(regionID)
     }
+
+    const addressSelect = fullAddressSelect(regionID)
+    if (regionID && regionID > 0) selectParameters.push(regionID)
 
     let searchQuery = 'SELECT products.productID, restaurants.restaurantID, products.name AS productName, restaurants.name AS restaurantName,'
                         +' platforms.platform,'
@@ -94,22 +120,23 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
                         +' products.image,'
                         +' products.description,'
                         +' details.fee,'
+                        +' details.deliveryTime,'
+                        +' details.minCart,'
+                        +' details.sourceLink,'
                         +' details.rating,'
-                        +' region.region AS address'
+                        +` ${addressSelect}`
                         +' FROM products'
                         +' JOIN restaurants ON products.restaurantID = restaurants.restaurantID'
                         +' JOIN prices ON products.productID = prices.productID'
                         +' JOIN platforms ON prices.platformID = platforms.platformID'
-                        +' LEFT JOIN restaurantregion ON restaurants.restaurantID = restaurantregion.restaurantID'
-                        +' LEFT JOIN region ON restaurantregion.regionID = region.regionID'
                         +' LEFT JOIN details ON restaurants.restaurantID = details.restaurantID AND platforms.platformID = details.platformID'
     if(conditions.length > 0){
         searchQuery += ' WHERE ' + conditions.join(" AND ")
     }
-    if(sortBy){
-            searchQuery += " ORDER BY prices.price DESC"
-        }
-    return db.prepare(searchQuery).all(...parameters) as SearchResult[]
+    // sortBy=1 fiyat azalan, diger tum durumlarda fiyat artan siralama. Sonuclari sinirlayarak SSR arama sayfasini hizli tutuyoruz.
+    searchQuery += sortBy === 1 ? " ORDER BY prices.price DESC" : " ORDER BY prices.price ASC"
+    searchQuery += " LIMIT 300"
+    return db.prepare(searchQuery).all(...selectParameters, ...parameters) as SearchResult[]
     
 }
 
@@ -126,11 +153,12 @@ export function deletePlatform(id: number): void{
 }
 
 //Restaurants
-export function createRestaurant(name: string): Restaurant{
-    return db.prepare("INSERT INTO restaurants (name) VALUES (?) RETURNING *").get(name) as Restaurant
+export function createRestaurant(name: string, isActive = true): Restaurant{
+    return db.prepare("INSERT INTO restaurants (name, isActive) VALUES (?, ?) RETURNING *").get(name, isActive ? 1 : 0) as Restaurant
 }
-export function updateRestaurant(id: number, name: string): Restaurant{
-    return db.prepare("UPDATE restaurants SET name = ? WHERE restaurantID = ? RETURNING *").get(name, id) as Restaurant
+export function updateRestaurant(id: number, name: string, isActive: boolean): Restaurant{
+    // Admin panelindeki Active secimi artik gercek isActive kolonuna yaziliyor.
+    return db.prepare("UPDATE restaurants SET name = ?, isActive = ? WHERE restaurantID = ? RETURNING *").get(name, isActive ? 1 : 0, id) as Restaurant
 }
 export function deleteRestaurant(id: number): void{
     db.prepare("DELETE FROM restaurants WHERE restaurantID = ?").run(id)
@@ -143,6 +171,8 @@ export function updateProduct(id: number, data: {restaurantID: number, name: str
     return db.prepare("UPDATE products SET restaurantID = ?, name = ?, image = ?, description = ? WHERE productID = ? RETURNING *").get(data.restaurantID, data.name, data.image, data.description, id) as Product
 }
 export function deleteProduct(id: number): void{
+    // Kategori iliskisi urune bagli oldugu icin urun silinmeden once koparilir.
+    db.prepare("DELETE FROM productCategories WHERE productID = ?").run(id)
     db.prepare("DELETE FROM products WHERE productID = ?").run(id)
 }
 
@@ -158,11 +188,11 @@ export function deletePrice(id: number): void{
 }
 
 //Details
-export function createDetail(data: {restaurantID: number, platformID: number, rating: number, fee: number}): Detail{
-    return db.prepare("INSERT INTO details (restaurantID, platformID, rating, fee) VALUES (?, ?, ?, ?) RETURNING *").get(data.restaurantID, data.platformID, data.rating, data.fee) as Detail
+export function createDetail(data: {restaurantID: number, platformID: number, rating: number | null, fee: number | null, deliveryTime?: string | null, minCart?: number | null, sourceLink?: string | null}): Detail{
+    return db.prepare("INSERT INTO details (restaurantID, platformID, rating, fee, deliveryTime, minCart, sourceLink) VALUES (?, ?, ?, ?, ?, ?, ?) RETURNING *").get(data.restaurantID, data.platformID, data.rating, data.fee, data.deliveryTime ?? null, data.minCart ?? null, data.sourceLink ?? null) as Detail
 }
-export function updateDetail(id: number, data: {restaurantID: number, platformID: number, rating: number, fee: number}): Detail{
-    return db.prepare("UPDATE details SET restaurantID = ?, platformID = ?, rating = ?, fee = ? WHERE id = ? RETURNING *").get(data.restaurantID, data.platformID, data.rating, data.fee, id) as Detail
+export function updateDetail(id: number, data: {restaurantID: number, platformID: number, rating: number | null, fee: number | null, deliveryTime?: string | null, minCart?: number | null, sourceLink?: string | null}): Detail{
+    return db.prepare("UPDATE details SET restaurantID = ?, platformID = ?, rating = ?, fee = ?, deliveryTime = ?, minCart = ?, sourceLink = ? WHERE id = ? RETURNING *").get(data.restaurantID, data.platformID, data.rating, data.fee, data.deliveryTime ?? null, data.minCart ?? null, data.sourceLink ?? null, id) as Detail
 }
 export function deleteDetail(id: number): void{
     db.prepare("DELETE FROM details WHERE id = ?").run(id)
@@ -210,6 +240,9 @@ export function createUser(data: {firstName: string, lastName: string, email: st
 export function updateUser(id: number, data: {firstName: string, lastName: string, email: string, passwordHash: string, lastRegionID: number}): User{
     return db.prepare("UPDATE users SET firstName = ?, lastName = ?, email = ?, passwordHash = ?, lastRegionID = ? WHERE userID = ? RETURNING *").get(data.firstName, data.lastName, data.email, data.passwordHash, data.lastRegionID, id) as User
 }
+export function updateUserPassword(id: number, passwordHash: string): User{
+    return db.prepare("UPDATE users SET passwordHash = ? WHERE userID = ? RETURNING *").get(passwordHash, id) as User
+}
 export function deleteUser(id: number): void{
     db.prepare("DELETE FROM users WHERE userID = ?").run(id)
 }
@@ -231,7 +264,7 @@ export function deleteUserFav(favID: number): void{
 }
 
 export function toggleUserFav(userID: number, productID: number): { added: boolean } {
-    const existing = db.prepare("SELECT * FROM userFavs WHERE userID = ? AND productID = ?").get(userID, productID) as any
+    const existing = db.prepare("SELECT * FROM userFavs WHERE userID = ? AND productID = ?").get(userID, productID) as UserFav | undefined
     if (existing) {
         db.prepare("DELETE FROM userFavs WHERE favID = ?").run(existing.favID)
         return { added: false }
@@ -244,22 +277,89 @@ export function toggleUserFav(userID: number, productID: number): { added: boole
 export function getUserFavProducts(userID: number): import('./types').SearchResult[] {
     const query = `
         SELECT products.productID, restaurants.restaurantID, products.name AS productName, restaurants.name AS restaurantName,
-               platforms.platform, prices.price, products.image, products.description, details.fee, details.rating, region.region AS address
+               platforms.platform, prices.price, products.image, products.description,
+               details.fee, details.deliveryTime, details.minCart, details.sourceLink, details.rating,
+               ${fullAddressSelect()} 
         FROM userFavs
         JOIN products ON userFavs.productID = products.productID
         JOIN restaurants ON products.restaurantID = restaurants.restaurantID
         JOIN prices ON products.productID = prices.productID
         JOIN platforms ON prices.platformID = platforms.platformID
-        LEFT JOIN restaurantregion ON restaurants.restaurantID = restaurantregion.restaurantID
-        LEFT JOIN region ON restaurantregion.regionID = region.regionID
         LEFT JOIN details ON restaurants.restaurantID = details.restaurantID AND platforms.platformID = details.platformID
-        WHERE userFavs.userID = ?
+        WHERE userFavs.userID = ? AND ${nonListableProductCondition}
     `
     return db.prepare(query).all(userID) as import('./types').SearchResult[]
 }
 
+export function getHomepageMenuRows(limit = 800, regionID?: number): SearchResult[] {
+    // Populer Menuler scrape'deki Menuler kategorisine baglanir; urun adinda "menu" gecmesine guvenmeyiz.
+    const regionFilter = regionID && regionID > 0
+        ? "AND EXISTS (SELECT 1 FROM restaurantregion rr WHERE rr.restaurantID = restaurants.restaurantID AND rr.regionID = ?)"
+        : ""
+    const params: unknown[] = []
+    if (regionID && regionID > 0) params.push(regionID)
+    if (regionID && regionID > 0) params.push(regionID)
+    params.push(limit)
+
+    const rows = db.prepare(`
+        SELECT products.productID, restaurants.restaurantID, products.name AS productName, restaurants.name AS restaurantName,
+               platforms.platform, prices.price, products.image, products.description,
+               details.fee, details.deliveryTime, details.minCart, details.sourceLink, details.rating,
+               ${fullAddressSelect(regionID)}
+        FROM products
+        JOIN restaurants ON products.restaurantID = restaurants.restaurantID
+        JOIN prices ON products.productID = prices.productID
+        JOIN platforms ON prices.platformID = platforms.platformID
+        JOIN productCategories ON productCategories.productID = products.productID
+        JOIN categories ON categories.categoryID = productCategories.categoryID
+        LEFT JOIN details ON restaurants.restaurantID = details.restaurantID AND platforms.platformID = details.platformID
+        WHERE restaurants.isActive = 1
+          AND categories.normalizedName IN ('menuler', 'menu')
+          AND products.image IS NOT NULL
+          AND TRIM(products.image) != ''
+          AND prices.price >= 100
+          AND ${nonListableProductCondition}
+          ${regionFilter}
+        ORDER BY COALESCE(details.rating, 0) DESC, prices.price ASC
+        LIMIT ?
+    `).all(...params) as SearchResult[]
+
+    return rows.filter((row) => !isStandaloneNonListableProductName(row.productName))
+}
+
+export function getHomepageRestaurantRows(limit = 220, regionID?: number): SearchResult[] {
+    // Populer restoran karti urun degil restoran odaklidir; restoran/listing gorseli ve platform detaylari kullanilir.
+    const regionFilter = regionID && regionID > 0
+        ? "AND EXISTS (SELECT 1 FROM restaurantregion rr WHERE rr.restaurantID = restaurants.restaurantID AND rr.regionID = ?)"
+        : ""
+    const params: unknown[] = []
+    if (regionID && regionID > 0) params.push(regionID)
+    if (regionID && regionID > 0) params.push(regionID)
+    params.push(limit)
+
+    return db.prepare(`
+        SELECT 0 AS productID, restaurants.restaurantID, '' AS productName, restaurants.name AS restaurantName,
+               platforms.platform, 0 AS price,
+               COALESCE(restaurants.image, (SELECT products.image FROM products WHERE products.restaurantID = restaurants.restaurantID AND products.image IS NOT NULL AND TRIM(products.image) != '' LIMIT 1)) AS image,
+               NULL AS description,
+               details.fee, details.deliveryTime, details.minCart, details.sourceLink, details.rating,
+               ${fullAddressSelect(regionID)}
+        FROM restaurants
+        JOIN details ON restaurants.restaurantID = details.restaurantID
+        JOIN platforms ON details.platformID = platforms.platformID
+        WHERE restaurants.isActive = 1
+          AND (
+            restaurants.image IS NOT NULL
+            OR EXISTS (SELECT 1 FROM products WHERE products.restaurantID = restaurants.restaurantID AND products.image IS NOT NULL AND TRIM(products.image) != '')
+          )
+          ${regionFilter}
+        ORDER BY COALESCE(details.rating, 0) DESC, restaurants.restaurantID ASC
+        LIMIT ?
+    `).all(...params) as SearchResult[]
+}
+
 // User Addresses
-export function getUserAddresses(userID: number): any[] {
+export function getUserAddresses(userID: number): UserAddressWithLocation[] {
     return db.prepare(`
         SELECT ua.*, 
                r.region as _regionName, 
@@ -270,7 +370,7 @@ export function getUserAddresses(userID: number): any[] {
         JOIN district d ON r.districtID = d.districtID
         JOIN city c ON d.cityID = c.cityID
         WHERE ua.userID = ?
-    `).all(userID) as any[]
+    `).all(userID) as UserAddressWithLocation[]
 }
 export function createUserAddress(data: {userID: number, regionID: number, title: string, detail: string | null}): import('./types').UserAddress {
     return db.prepare("INSERT INTO userAddresses (userID, regionID, title, detail) VALUES (?, ?, ?, ?) RETURNING *").get(data.userID, data.regionID, data.title, data.detail) as import('./types').UserAddress

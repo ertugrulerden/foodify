@@ -8,7 +8,7 @@ export async function GET(req: NextRequest) {
   try {
     const addresses = getUserAddresses(parseInt(userID, 10))
     return NextResponse.json(addresses)
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: "Adresler getirilemedi" }, { status: 500 })
   }
 }
@@ -24,7 +24,7 @@ export async function POST(req: NextRequest) {
 
     const newAddress = createUserAddress({ userID, regionID, title, detail })
     return NextResponse.json(newAddress)
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: "Adres eklenemedi" }, { status: 500 })
   }
 }
@@ -36,7 +36,7 @@ export async function DELETE(req: NextRequest) {
   try {
     deleteUserAddress(parseInt(addressID, 10))
     return NextResponse.json({ success: true })
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: "Adres silinemedi" }, { status: 500 })
   }
 }

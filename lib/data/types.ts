@@ -16,6 +16,8 @@ export interface Restaurant {
     restaurantID: number
     name: string
     isActive: boolean
+    sourceHash: string | null
+    image: string | null
 }
 export interface RestaurantRegion{
     id: number
@@ -44,8 +46,11 @@ export interface Detail {
     id: number
     restaurantID: number
     platformID: number
-    rating: number
-    fee: number
+    rating: number | null
+    fee: number | null
+    deliveryTime: string | null
+    minCart: number | null
+    sourceLink: string | null
 }
 export interface Campaign {
     id: number
@@ -76,6 +81,13 @@ export interface UserAddress {
     title: string
     detail: string | null
 }
+export interface UserAddressWithLocation extends UserAddress {
+    _regionName: string
+    _districtName: string
+    districtID: number
+    _cityName: string
+    cityID: number
+}
 export interface SearchResult {
     productID: number
     restaurantID: number
@@ -84,9 +96,11 @@ export interface SearchResult {
     platform:string
     price: number
     fee:(number | null)
+    deliveryTime: string | null
+    minCart: number | null
+    sourceLink: string | null
     address:(string | null)
-    avgRating:(number)
-    rating: number
+    rating: number | null
     image:(string | null)
     description:(string | null)
 }

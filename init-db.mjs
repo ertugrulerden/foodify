@@ -27,7 +27,9 @@ db.exec(`
   CREATE TABLE IF NOT EXISTS restaurants (
     restaurantID INTEGER PRIMARY KEY,
     name TEXT,
-    isActive INTEGER DEFAULT 1
+    isActive INTEGER DEFAULT 1,
+    sourceHash TEXT,
+    image TEXT
   );
 
   CREATE TABLE IF NOT EXISTS restaurantRegion (
@@ -48,7 +50,22 @@ db.exec(`
     restaurantID INTEGER,
     name TEXT,
     image TEXT,
-    description TEXT
+    description TEXT,
+    FOREIGN KEY (restaurantID) REFERENCES restaurants(restaurantID)
+  );
+
+  CREATE TABLE IF NOT EXISTS categories (
+    categoryID INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    normalizedName TEXT NOT NULL UNIQUE
+  );
+
+  CREATE TABLE IF NOT EXISTS productCategories (
+    productID INTEGER NOT NULL,
+    categoryID INTEGER NOT NULL,
+    PRIMARY KEY (productID, categoryID),
+    FOREIGN KEY (productID) REFERENCES products(productID),
+    FOREIGN KEY (categoryID) REFERENCES categories(categoryID)
   );
 
   CREATE TABLE IF NOT EXISTS prices (
@@ -56,7 +73,9 @@ db.exec(`
     productID INTEGER,
     platformID INTEGER,
     price REAL,
-    lastUpdated TEXT
+    lastUpdated TEXT,
+    FOREIGN KEY (productID) REFERENCES products(productID),
+    FOREIGN KEY (platformID) REFERENCES platforms(platformID)
   );
 
   CREATE TABLE IF NOT EXISTS details (
@@ -64,11 +83,18 @@ db.exec(`
     restaurantID INTEGER,
     platformID INTEGER,
     rating REAL,
-    fee REAL
+    fee REAL,
+    deliveryTime TEXT,
+    minCart REAL,
+    sourceLink TEXT,
+    FOREIGN KEY (restaurantID) REFERENCES restaurants(restaurantID),
+    FOREIGN KEY (platformID) REFERENCES platforms(platformID)
   );
 
   CREATE TABLE IF NOT EXISTS users (
     userID INTEGER PRIMARY KEY,
+    firstName TEXT NOT NULL DEFAULT '',
+    lastName TEXT NOT NULL DEFAULT '',
     email TEXT NOT NULL,
     passwordHash TEXT NOT NULL,
     lastRegionID INTEGER NOT NULL,
@@ -81,6 +107,16 @@ db.exec(`
     productID INTEGER NOT NULL,
     FOREIGN KEY (userID) REFERENCES users(userID),
     FOREIGN KEY (productID) REFERENCES products(productID)
+  );
+
+  CREATE TABLE IF NOT EXISTS userAddresses (
+    addressID INTEGER PRIMARY KEY,
+    userID INTEGER NOT NULL,
+    regionID INTEGER NOT NULL,
+    title TEXT NOT NULL,
+    detail TEXT,
+    FOREIGN KEY (userID) REFERENCES users(userID),
+    FOREIGN KEY (regionID) REFERENCES region(regionID)
   );
 `)
 
@@ -111,7 +147,7 @@ db.exec(`
     (2, 'Uber Eats'),
     (3, 'GetirYemek');
 
-  INSERT OR IGNORE INTO restaurants VALUES
+  INSERT OR IGNORE INTO restaurants (restaurantID, name, isActive) VALUES
     (1, 'Urfalı Usta', 1),
     (2, 'Halil Kebap', 1),
     (3, 'Pizza City', 1),
@@ -225,7 +261,7 @@ db.exec(`
     (47, 20, 1, 55, '2026-05-15'),
     (48, 20, 2, 50, '2026-05-15');
 
-  INSERT OR IGNORE INTO details VALUES
+  INSERT OR IGNORE INTO details (id, restaurantID, platformID, rating, fee) VALUES
     -- Urfalı Usta
     (1, 1, 1, 4.5, 20),
     (2, 1, 2, 4.3, 15),

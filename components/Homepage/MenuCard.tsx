@@ -3,10 +3,15 @@
 import { useState, useEffect } from "react";
 import { Heart, Clock, MapPin, ShoppingBag, Star, Bike } from "lucide-react";
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { PopularRestaurants } from "@/lib/data/homepage";
+import { getProductImageOrDefault } from "@/lib/data/images";
+import { useAuthModals } from "@/components/AuthModalContext";
 import { Button } from "@/components/ui/button";
-import Link from "next/link";
+import type { SearchResult } from "@/lib/data/types";
+
+type StoredUser = { userID: number }
 
 const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
 	getir: { label: "Getir", logo: "/getir52.png" },
@@ -14,6 +19,18 @@ const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
 	ubereats: { label: "Uber Eats", logo: "/ubereats52.png" },
 	migros: { label: "Migros", logo: "/migros52.png" },
 };
+
+function getStoredUser(): StoredUser | null {
+  try {
+    const storedUser = localStorage.getItem("foodify_user")
+    if (!storedUser) return null
+    const parsed = JSON.parse(storedUser) as Partial<StoredUser>
+    return typeof parsed.userID === "number" ? { userID: parsed.userID } : null
+  } catch {
+    localStorage.removeItem("foodify_user")
+    return null
+  }
+}
 
 const MenuCard = ({
   id,
@@ -31,18 +48,25 @@ const MenuCard = ({
   href,
   productName,
   platformPrices,
-}: PopularRestaurants & { href?: string; productName?: string; platformPrices?: Record<string, number>; productID?: number }) => {
+  platformLinks,
+}: PopularRestaurants & { href?: string; productName?: string; platformPrices?: Record<string, number>; platformLinks?: Record<string, string>; productID?: number }) => {
+  const router = useRouter()
+  const { openLogin } = useAuthModals()
   const [favorited, setFavorited] = useState(isFavorited);
+  const displayImage = getProductImageOrDefault(image)
+  const displayPlatforms = Array.from(new Set(platforms))
+  const formattedDeliveryTime = deliveryTime
+    ? /(?:min|dk)/i.test(deliveryTime) ? deliveryTime : `${deliveryTime} dk`
+    : null
 
   useEffect(() => {
-    const storedUser = localStorage.getItem("foodify_user")
-    if (storedUser && productID) {
-      const user = JSON.parse(storedUser)
+    const user = getStoredUser()
+    if (user && productID) {
       // Basit bir cache veya direkt fetch ile kontrol
       fetch(`/api/favorites?userID=${user.userID}`)
         .then(res => res.json())
-        .then(favs => {
-          if (Array.isArray(favs) && favs.some((f: any) => f.productID === productID)) {
+        .then((favs: SearchResult[]) => {
+          if (Array.isArray(favs) && favs.some((f) => f.productID === productID)) {
             setFavorited(true)
           }
         })
@@ -54,12 +78,12 @@ const MenuCard = ({
 
   const handleFavoriteClick = async (e: React.MouseEvent) => {
     e.preventDefault();
-    const storedUser = localStorage.getItem("foodify_user")
-    if (!storedUser) {
-      alert("Favorilere eklemek için giriş yapmalısınız.")
+    e.stopPropagation();
+    const user = getStoredUser()
+    if (!user) {
+      openLogin()
       return
     }
-    const user = JSON.parse(storedUser)
     if (!productID) return
 
     try {
@@ -72,9 +96,15 @@ const MenuCard = ({
         const data = await res.json()
         setFavorited(data.added)
       }
-    } catch (error) {
+    } catch {
       console.error("Favori işlemi başarısız")
     }
+  }
+
+  const openPlatformLink = (e: React.MouseEvent, link?: string) => {
+    e.preventDefault()
+    e.stopPropagation()
+    if (link) window.open(link, "_blank", "noopener,noreferrer")
   }
 
   const card = (
@@ -82,12 +112,16 @@ const MenuCard = ({
       className="group shrink-0 w-64 h-full rounded-xl border border-border/60 bg-card shadow-sm overflow-hidden transition-all 
       duration-200 hover:shadow-md active:scale-[0.98] active:shadow-sm cursor-pointer"
       role="article"
+      onClick={() => {
+        if (linkHref) router.push(linkHref)
+      }}
     >
       <div className="relative h-36 w-full overflow-hidden bg-muted">
         <Image
-          src={image}
+          src={displayImage}
           alt={name}
           fill
+          sizes="256px"
           className="object-cover transition-transform duration-300 group-hover:scale-105"
         />
         <Button
@@ -132,7 +166,7 @@ const MenuCard = ({
           {deliveryTime && (
             <span className="flex items-center gap-1">
               <Clock className="h-3 w-3 shrink-0" />
-              {deliveryTime} dk
+              {formattedDeliveryTime}
             </span>
           )}
           {fee != null && (
@@ -152,13 +186,15 @@ const MenuCard = ({
         <div className="h-px bg-border/60" />
 
         <div className="space-y-2">
-          {platforms.map((p) => {
+          {displayPlatforms.map((p) => {
             const platform = PLATFORM_MAP[p];
             if (!platform) return null;
             const price = platformPrices?.[p] ?? null
             const isBest = price !== null && price === Math.min(...Object.values(platformPrices ?? {}))
-            return (
-              <div key={p} className="flex items-center justify-between">
+            const platformLink = platformLinks?.[p]
+            const rowClassName = "flex w-full items-center justify-between text-left"
+            const rowContent = (
+              <>
                 <div className="flex items-center gap-2">
                   <div className="h-5 w-5 shrink-0 overflow-hidden rounded bg-white">
                     <Image
@@ -176,17 +212,24 @@ const MenuCard = ({
                     <b>{price}TL</b>
                   </span>
                 )}
-              </div>
+              </>
+            )
+            return (
+              platformLink ? (
+                <button key={p} type="button" onClick={(e) => openPlatformLink(e, platformLink)} className={`${rowClassName} cursor-pointer hover:text-primary`}>
+                  {rowContent}
+                </button>
+              ) : (
+                <div key={p} className={`${rowClassName} cursor-default`}>
+                  {rowContent}
+                </div>
+              )
             )
           })}
         </div>
       </div>
     </div>
   );
-
-  if (linkHref) {
-    return <Link href={linkHref} className="block">{card}</Link>;
-  }
 
   return card;
 };

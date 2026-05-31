@@ -6,10 +6,11 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
-import { User, MapPin, Heart, ShoppingBag, Settings, LogOut, Home, Trash2, Plus, Bell } from "lucide-react"
-import type { UserAddress } from "@/lib/data/types"
+import { MapPin, Heart, Settings, LogOut, Home, Trash2, Plus } from "lucide-react"
+import type { SearchResult, UserAddress } from "@/lib/data/types"
 import AddressModal from "@/components/Navbar/AddressModal"
 import MenuCard from "@/components/Homepage/MenuCard"
+import { useAddress } from "@/components/AddressContext"
 import {
   AlertDialog, AlertDialogAction, AlertDialogCancel, AlertDialogContent, AlertDialogDescription, AlertDialogFooter, AlertDialogHeader, AlertDialogTitle,
 } from "@/components/ui/alert-dialog"
@@ -17,6 +18,7 @@ import {
 function ProfileContent() {
   const router = useRouter()
   const searchParams = useSearchParams()
+  const { address, clearAddress } = useAddress()
   const tabParam = searchParams.get("tab")
 
   const [user, setUser] = useState<{ userID: number; firstName: string; lastName: string; email: string } | null>(null)
@@ -35,7 +37,7 @@ function ProfileContent() {
   
   // URL'den tab parametresini oku ve değiştiğinde state'i güncelle
   useEffect(() => {
-    if (tabParam) {
+    if (tabParam && ["settings", "addresses", "favorites"].includes(tabParam)) {
       setActiveTab(tabParam)
     }
   }, [tabParam])
@@ -47,14 +49,8 @@ function ProfileContent() {
   const [addressToDelete, setAddressToDelete] = useState<number | null>(null)
 
   // Favori state'leri
-  const [favorites, setFavorites] = useState<any[]>([])
+  const [favorites, setFavorites] = useState<SearchResult[]>([])
   const [loadingFavorites, setLoadingFavorites] = useState(false)
-
-  // Bildirim state'leri
-  const [notifications, setNotifications] = useState([
-    { id: 1, title: "Hoş Geldiniz!", message: "Foodify'a kayıt olduğunuz için teşekkür ederiz.", date: "Az önce", read: false },
-    { id: 2, title: "Yeni Kampanya", message: "Seçili restoranlarda %20 indirim fırsatını kaçırmayın.", date: "1 saat önce", read: true },
-  ])
 
   useEffect(() => {
     const storedUser = localStorage.getItem("foodify_user")
@@ -65,7 +61,7 @@ function ProfileContent() {
         setFirstName(parsed.firstName)
         setLastName(parsed.lastName)
         setEmail(parsed.email)
-      } catch (e) {
+      } catch {
         console.error("Kullanıcı bilgisi okunamadı")
       }
     } else {
@@ -133,7 +129,7 @@ function ProfileContent() {
       setMessage({ text: "Profilin başarıyla güncellendi!", type: "success" })
       
       setTimeout(() => setMessage({ text: "", type: "" }), 3000)
-    } catch (error) {
+    } catch {
       setMessage({ text: "Sunucu bağlantı hatası.", type: "error" })
     } finally {
       setSaving(false)
@@ -146,12 +142,17 @@ function ProfileContent() {
 
   const confirmDeleteAddress = async () => {
     if (!addressToDelete) return
+    const deletedAddress = addresses.find((a) => a.addressID === addressToDelete)
     try {
       const res = await fetch(`/api/address/user-addresses?addressID=${addressToDelete}`, { method: 'DELETE' })
       if (res.ok) {
         setAddresses(prev => prev.filter(a => a.addressID !== addressToDelete))
+        if (deletedAddress && address?.regionID === deletedAddress.regionID) {
+          // Profil uzerinden secili adres silinirse localStorage'daki aktif adres de temizlenir.
+          clearAddress()
+        }
       }
-    } catch (e) {
+    } catch {
       console.error("Adres silinemedi")
     } finally {
       setAddressToDelete(null)
@@ -159,7 +160,10 @@ function ProfileContent() {
   }
 
   const handleLogout = () => {
+    // Profil sayfasindan cikista da navbar ile ayni adres temizligi yapilir.
     localStorage.removeItem("foodify_user")
+    localStorage.removeItem("foodify_address")
+    localStorage.removeItem("foodify_guest_addresses")
     window.location.href = "/"
   }
 
@@ -167,7 +171,6 @@ function ProfileContent() {
     { id: "settings", label: "Ayarlar ve Profil", icon: Settings },
     { id: "addresses", label: "Kayıtlı Adreslerim", icon: MapPin },
     { id: "favorites", label: "Favorilerim", icon: Heart },
-    { id: "notifications", label: "Bildirimler", icon: Bell },
   ]
 
   if (loading || !user) {
@@ -342,45 +345,18 @@ function ProfileContent() {
                           id={String(fav.restaurantID)}
                           productID={fav.productID}
                           name={fav.restaurantName}
-                          location={fav.address}
+                          location={fav.address ?? ""}
                           image={fav.image ?? "/placeholder.svg"}
-                          rating={fav.rating}
+                          rating={fav.rating ?? undefined}
+                          fee={fav.fee ?? undefined}
+                          deliveryTime={fav.deliveryTime ?? undefined}
+                          minCart={fav.minCart ?? undefined}
                           platforms={[fav.platform.toLowerCase()]}
                           productName={fav.productName}
                           platformPrices={{ [fav.platform.toLowerCase()]: fav.price }}
+                          platformLinks={fav.sourceLink ? { [fav.platform.toLowerCase()]: fav.sourceLink } : {}}
                           isFavorited={true}
                         />
-                      </div>
-                    ))}
-                  </div>
-                )}
-              </CardContent>
-            </Card>
-          )}
-
-          {activeTab === "notifications" && (
-            <Card className="border-0 shadow-sm ring-1 ring-slate-200">
-              <CardHeader className="border-b bg-slate-50/50 pb-6">
-                <CardTitle className="text-xl">Bildirimler</CardTitle>
-                <CardDescription>Hesabınız ve siparişlerinizle ilgili son güncellemeler.</CardDescription>
-              </CardHeader>
-              <CardContent className="pt-6">
-                {notifications.length === 0 ? (
-                  <div className="text-center py-8 text-muted-foreground border-2 border-dashed rounded-xl">
-                    Henüz hiç bildiriminiz yok.
-                  </div>
-                ) : (
-                  <div className="space-y-4">
-                    {notifications.map((notif) => (
-                      <div key={notif.id} className={`p-4 rounded-lg border flex gap-4 ${notif.read ? 'bg-white' : 'bg-slate-50 border-primary/20'}`}>
-                        <div className={`mt-1 shrink-0 w-2.5 h-2.5 rounded-full ${notif.read ? 'bg-transparent' : 'bg-primary'}`}></div>
-                        <div className="flex-1">
-                          <div className="flex items-center justify-between gap-2 mb-1">
-                            <h4 className="font-semibold text-sm">{notif.title}</h4>
-                            <span className="text-xs text-muted-foreground whitespace-nowrap">{notif.date}</span>
-                          </div>
-                          <p className="text-sm text-slate-600">{notif.message}</p>
-                        </div>
                       </div>
                     ))}
                   </div>

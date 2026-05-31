@@ -9,11 +9,11 @@ export async function saveRestaurantAction(prevState: unknown, formData: FormDat
   const isActive = formData.get("isActive") === "on"
   try {
     if (id) {
-      updateRestaurant(Number(id), name)
+      updateRestaurant(Number(id), name, isActive)
       revalidatePath("/admin/restaurants")
       return { success: true, msg: `Updated '${name}'` }
     }
-    createRestaurant(name)
+    createRestaurant(name, isActive)
     revalidatePath("/admin/restaurants")
     return { success: true, msg: `Created '${name}'` }
   } catch {

@@ -9,6 +9,7 @@ export interface PopularRestaurants {
     location: string
     image: string
     platforms: string[]
+    platformLinks?: Record<string, string>
     rating?: number
     fee?: number
     id?: string
@@ -26,6 +27,7 @@ export interface PopularMenu {
   image: string
   platforms: string[]
   platformPrices: Record<string, number>
+  platformLinks?: Record<string, string>
   rating?: number
   fee?: number
   deliveryTime?: string

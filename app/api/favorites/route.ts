@@ -8,7 +8,7 @@ export async function GET(req: NextRequest) {
   try {
     const favorites = getUserFavProducts(parseInt(userID, 10))
     return NextResponse.json(favorites)
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: "Favoriler getirilemedi" }, { status: 500 })
   }
 }
@@ -24,7 +24,7 @@ export async function POST(req: NextRequest) {
 
     const result = toggleUserFav(userID, productID)
     return NextResponse.json(result)
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: "Favori işlemi başarısız" }, { status: 500 })
   }
 }

@@ -7,7 +7,7 @@ const Page = () => {
     restaurantID: r.restaurantID,
     name: r.name,
     isActive: r.isActive ? "Yes" : "No",
-    _isActive: r.isActive,
+    _isActive: r.isActive ? "on" : "off",
   }))
   return (
     <CrudPage
@@ -18,10 +18,10 @@ const Page = () => {
         { header: "Name", accessor: "name" },
         { header: "Active", accessor: "isActive" },
       ]}
-      emptyItem={{ restaurantID: 0, name: "", isActive: "No", _isActive: true }}
+      emptyItem={{ restaurantID: 0, name: "", isActive: "Yes", _isActive: "on" }}
       fields={[
         { name: "name", label: "Name", type: "text", required: true },
-        { name: "isActive", label: "Active", type: "select", required: true, options: [{ value: "on", label: "Yes" }, { value: "", label: "No" }] },
+        { name: "isActive", label: "Active", type: "select", required: true, entityField: "_isActive", options: [{ value: "on", label: "Yes" }, { value: "off", label: "No" }] },
       ]}
       idField="restaurantID"
       displayField="name"
