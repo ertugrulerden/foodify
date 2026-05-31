@@ -1,0 +1,508 @@
+{
+  "link_hash": "cc776968",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Tost & Kahvaltı Garage",
+  "link": "https://www.yemeksepeti.com/restaurant/vjrv/tost-and-kahvalti-garage",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Patatesli Gözleme",
+          "price": 150.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88327029/7dd199e5-9f49-4f27-896e-da1225011733.jpg?width=128&height=128"
+        },
+        {
+          "name": "Patatesli Kaşarlı Gözleme",
+          "price": 180.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326992/5a258956-6927-4dce-80ec-a325dbc0b216.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kaşarlı Gözleme",
+          "price": 170.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88327012/005037b0-7980-418f-af8c-b7abc5d8fd97.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (27,5 cl.)",
+          "price": 50.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44368493.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Haşlanmış Yumurta (1 Adet)",
+          "price": 50.0,
+          "description": "1 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 150.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyaz Peynir (25 gr.)",
+          "price": 30.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Vişne Reçeli (30 gr.)",
+          "price": 40.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Çeçil Peyniri 25 Gram",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Kahvaltılık Sos 20 gram",
+          "price": 30.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Bal (20 gr.)",
+          "price": 30.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Dil Peyniri (25 gr.)",
+          "price": 60.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Domates Söğüş",
+          "price": 150.0,
+          "description": "Domates, salatalık, baharat",
+          "img": null
+        },
+        {
+          "name": "Nutella (15 gr.)",
+          "price": 60.0,
+          "description": "15 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Tahin & Pekmez (30 gr.)",
+          "price": 30.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Tereyağı (15 gr.)",
+          "price": 60.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Çilek Reçeli (30 gr.)",
+          "price": 30.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Çeçil Peyniri",
+          "price": 50.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Helva (20 gr.)",
+          "price": 40.0,
+          "description": "Paketli ürün",
+          "img": null
+        },
+        {
+          "name": "Siyah Zeytin",
+          "price": 50.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Örgü Peyniri (25 gr.)",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Kaşar Peyniri (25 gr.)",
+          "price": 40.0,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltı Tabakları",
+      "products": [
+        {
+          "name": "Karadeniz Tabağı",
+          "price": 540.0,
+          "description": "Dil peyniri, beyaz peynir, kaşar peyniri, helva, bal & tereyağı, nutella, vişne reçeli, zeytin, kahvaltılık sos, domates söğüş, haşlanmış yumurta, 2 adet pişi, patates kızartması. 2 dilim ekmek ile",
+          "img": null
+        },
+        {
+          "name": "Güney Doğu Anadolu Tabağı",
+          "price": 540.0,
+          "description": "Beyaz peynir, kaşar peyniri, çeçil peyniri, bal & tereyağı, vişne reçeli, çilek reçeli, helva, zeytin, kahvaltılık sos, domates söğüş, haşlanmış yumurta, 2 adet pişi, patates kızartması. 2 dilim ekmek ile",
+          "img": null
+        },
+        {
+          "name": "Ege Tabağı",
+          "price": 540.0,
+          "description": "Beyaz peynir, kaşar peyniri, örgü peyniri, çilek reçeli, vişne reçeli, tahin, pekmez, nutella, zeytin, kahvaltılık sos, domates söğüş, haşlanmış yumurta, 2 adet pişi, patates kızartması. 2 dilim ekmek ile",
+          "img": null
+        },
+        {
+          "name": "İç Anadolu Tabağı",
+          "price": 540.0,
+          "description": "Çeçil peyniri, beyaz peynir, kaşar peyniri, çilek reçeli, vişne reçeli, tahin & pekmez, bal & tereyağı, zeytin, kahvaltılık sos, domates söğüş, haşlanmış yumurta, 2 adet pişi, patates kızartması. 2 dilim ekmek ile",
+          "img": null
+        },
+        {
+          "name": "Akdeniz Tabağı",
+          "price": 540.0,
+          "description": "Beyaz Peynir,Dil Peyniri. Örgü Peyniri ,Bal- Tereyağ, Çilek Reçeli, Vişne Reçeli,Helva Zeytin, Kahvaltılık sos, Domates Söğüş, Haşlanmış Yumurta,2 adet Pişi, Patates Kızartması ve Yanında 2 Dilim Ekmek",
+          "img": null
+        },
+        {
+          "name": "Marmara Tabağı",
+          "price": 540.0,
+          "description": "Dil peyniri, kaşar peynir, örgü peyniri, nutella, çilek reçeli, vişne reçeli, tahin & pekmez, zeytin, kahvaltılık sos, domates söğüş, haşlanmış yumurta, 2 adet pişi, patates kızartması. 2 dilim ekmek ile",
+          "img": null
+        },
+        {
+          "name": "Doğu Anadolu Tabağı",
+          "price": 540.0,
+          "description": "Dil peyniri, beyaz peynir, kaşar peyniri, helva, bal & tereyağı, nutella, vişne reçeli, zeytin, kahvaltılık sos, domates söğüş, haşlanmış yumurta, 2 adet pişi, patates kızartması. 2 dilim ekmek ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Gözlemeler",
+      "products": [
+        {
+          "name": "Soğanlı Gözleme",
+          "price": 160.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Yumurtalı Gözleme",
+          "price": 350.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Gözleme",
+          "price": 150.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Sucuklu Gözleme",
+          "price": 210.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88327016/7d2a4344-07ca-4307-adf7-e861d5d47210.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Gözleme",
+          "price": 170.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88327012/005037b0-7980-418f-af8c-b7abc5d8fd97.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Gözleme",
+          "price": 225.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88766978/36b78e01-fd56-467e-9c75-bd79959a85d6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pizza Gözleme",
+          "price": 250.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88766977/0a078dcc-2e74-4f97-bc5b-738b8f324768.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Gözleme",
+          "price": 170.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88766976/87db1a69-82f2-473c-820b-0c76a209876c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Gözleme",
+          "price": 225.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88766975/2d930750-1da4-4c81-ac05-9ea11105c52f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Kaşarlı Gözleme",
+          "price": 250.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88766974/7f0cb589-7043-4d67-b349-c966c6db722b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yumurtalı Gözleme",
+          "price": 160.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326990/ec50c6fb-f205-4847-bc95-7711dab9135a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Kaşarlı Gözleme",
+          "price": 180.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326992/5a258956-6927-4dce-80ec-a325dbc0b216.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Gözleme",
+          "price": 130.0,
+          "description": "Patates kızartması, domates, zeytin ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326989/42c14ba2-29c7-4840-92a0-cb6f444f6d93.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pişiler",
+      "products": [
+        {
+          "name": "Sade Pişi (3 Adet)",
+          "price": 200.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sade Pişi 5 Adet",
+          "price": 375.0,
+          "description": "Patates kızartması, zeytin, domates ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Bazlama Tostlar",
+      "products": [
+        {
+          "name": "Pastırmalı Bazlama Tost",
+          "price": 550.0,
+          "description": "Bazlama ekmeği arasına; salçalı sos, kaşar peyniri, pastırma. Domates söğüş, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kavurmalı Yumurtalı Bazlama Tost",
+          "price": 550.0,
+          "description": "Bazlama ekmeği arasına; salçalı sos, kaşar peyniri, kavurma, yumurta. Domates söğüş, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Bazlama Tost",
+          "price": 600.0,
+          "description": "Bazlama ekmeği arasına; salçalı sos, kaşar peyniri, pastırma, kavurma. Domates söğüş, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Bazlama Tost",
+          "price": 300.0,
+          "description": "Kaşar peyniri. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88325791/c5120d11-83bf-4fb2-821b-e862d78873a0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Bazlama Tost",
+          "price": 325.0,
+          "description": "Salçalı sos, sucuk, kaşar peyniri. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88325861/74299b1e-5df5-486d-810e-a8bf9eeff6df.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kumru Bazlama Tost",
+          "price": 300.0,
+          "description": "Bazlama ekmek arasına; salçalı sos, sucuk, salam, sosis, kaşar peynir. Domates söğüş, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kavurmalı Bazlama Tost",
+          "price": 500.0,
+          "description": "Bazlama ekmek arasına; salçalı sos, kavurma, kaşar peynir. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88327005/b05356b9-0deb-4629-a832-f7bc006ee029.jpg?width=150&height=150"
+        },
+        {
+          "name": "Üç Peynirli Bazlama Tost",
+          "price": 400.0,
+          "description": "Bazlama ekmeği arasına; salçalı sos, kaşar peyniri, cheddar peyniri, beyaz peynir. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326993/a85c257d-e339-4cb4-84a0-29146ab292d7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sanayi Bazlama Tostu",
+          "price": 400.0,
+          "description": "Bazlama ekmeği arasına; salçalı sos, kaşar peyniri, yumurta, sucuk. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326991/1a461814-78f8-4fe3-b099-fa50da6011a3.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Kumru Tost",
+          "price": 300.0,
+          "description": "Ayvalık ekmeği arasına; double kaşar peyniri. Domates söğüş, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pastırmalı Tost",
+          "price": 550.0,
+          "description": "120 gr. Özel fırın ekmeği arasında; salçalı sos, kaşar peyniri, pastırma, domates söğüş, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kavurmalı Yumurtalı Tost",
+          "price": 550.0,
+          "description": "Ayvalık ekmeği arasına; salçalı sos, kaşar peyniri, kavurma, yumurta. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88444956/5a5e571f-1058-44a0-932d-b9da70df0a32.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Tost",
+          "price": 325.0,
+          "description": "Ayvalık ekmeği arasına; salçalı sos, sucuk, kaşar peyniri. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88325916/8390eecb-7594-46f6-9f1a-8166fe7d260e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Ayvalık Tostu",
+          "price": 600.0,
+          "description": "Ayvalık ekmeği ekmeği arasına; salçalı sos, kaşar peyniri, pastırma, kavurma. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326982/77feed49-ec80-4b71-90a6-e045375065f2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sanayi Tostu",
+          "price": 400.0,
+          "description": "Ayvalık ekmeği arasına; salçalı sos, sucuk, kaşar peyniri, yumurta. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326984/4e6bfcfb-cc9e-4b49-bc2f-c29c1a105477.jpg?width=150&height=150"
+        },
+        {
+          "name": "Üç Peynirli Tost",
+          "price": 300.0,
+          "description": "Ayvalık ekmeği arasına; salçalı sos, cheddar peyniri, beyaz peynir, kaşar peyniri, yumurta. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88326988/b5438ca1-848d-4e5b-9d05-0be31de2541e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 300.0,
+          "description": "Ayvalık ekmeği arasına; kaşar peyniri. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88327006/627f2943-df1f-4366-a850-56f6c7abc44d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Tost",
+          "price": 500.0,
+          "description": "Ayvalık ekmeği arasına; salçalı sos, kaşar peyniri, kavurma. Domates söğüş, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/vjrv/product/88327003/1f0d3d35-fb5c-4daa-8c58-1aa1f2f255ed.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Su (50 cl.)",
+          "price": 30.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Niğde Gazozu (20 cl.)",
+          "price": 50.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79646419.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Portakal (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79646417.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79646416.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (27,5 cl.)",
+          "price": 50.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44368493.jpg?width=150&height=150"
+        },
+        {
+          "name": "Capri Sun (20 cl.)",
+          "price": 50.0,
+          "description": "Pet şişe",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Barbekü Sos",
+          "price": 20.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 20.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 20.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ketçap",
+          "price": 10.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44368365.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 10.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44368369.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

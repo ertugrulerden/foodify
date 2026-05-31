@@ -1,0 +1,142 @@
+{
+  "link_hash": "751b6f1c",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Duru Pide",
+  "link": "https://www.yemeksepeti.com/restaurant/swop/duru-pide",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Seçeceğiniz Pide Menü",
+          "price": 450.5,
+          "description": "Seçeceğiniz Pide + Salata + Patates Kızartması + İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Ailem Menü",
+          "price": 1.275,
+          "description": "Seçeceğiniz 4 Adet Pide + Salata + 4 Adet Patates Kızartması + İçecek (1 L.)",
+          "img": null
+        },
+        {
+          "name": "2'li Pide Menü",
+          "price": 807.5,
+          "description": "Seçeceğiniz 2 Adet Pide + Salata + Patates Kızartması + Coca-Cola (1 L.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Pideler",
+      "products": [
+        {
+          "name": "Kıymalı Pide",
+          "price": 339.15,
+          "description": "Kıyma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68270805.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Pide",
+          "price": 283.05,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68270990.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Pide",
+          "price": 331.5,
+          "description": "Sucuk, kaşar peyniri, kıyma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68271104.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pide",
+          "price": 331.5,
+          "description": "Tavuk, domates, biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68271112.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Sucuklu Pide",
+          "price": 306.0,
+          "description": "Kaşar peyniri, sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68271120.jpg?width=150&height=150"
+        },
+        {
+          "name": "Duru Pide",
+          "price": 331.5,
+          "description": "Kaşar peyniri, mısır, sucuk, mantar, biber, zeytin, domates, salam",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70103987.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarl Pide",
+          "price": 331.5,
+          "description": "Mantar, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70103990.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etli Şahane Pide",
+          "price": 331.5,
+          "description": "Bol kaşar peyniri, sucuk, salam, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70105433.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Pide",
+          "price": 331.5,
+          "description": "Kaşar peyniri, mantar, zeytin, domates, biber, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70105444.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Pide",
+          "price": 331.5,
+          "description": "Sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70105448.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Nugget (8 Adet)",
+          "price": 93.5,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (8 Adet)",
+          "price": 93.5,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patetes Kızartması",
+          "price": 93.5,
+          "description": "Parmak dilim",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 93.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 93.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "330 ml kola",
+          "price": 76.5,
+          "description": null,
+          "img": null
+        }
+      ]
+    }
+  ]
+}

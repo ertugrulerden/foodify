@@ -1,0 +1,83 @@
+{
+  "link_hash": "d4caad14",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Workshop Tava",
+  "link": "https://www.yemeksepeti.com/restaurant/v5be/workshop-tava",
+  "categories": [
+    {
+      "name": "Tavada Tavuklar",
+      "products": [
+        {
+          "name": "Köri Soslu Tavuk Tava",
+          "price": 320.0,
+          "description": "Tavuk, köri sos, krema, mantar. Mevsim salata, turşu, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73059759.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Sac Tava",
+          "price": 320.0,
+          "description": "Tavuk, soğan, biber, mantar. Mevsim salata, turşu, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73059812.jpg?width=128&height=128"
+        },
+        {
+          "name": "Barbekü Soslu Tavuk Tava",
+          "price": 320.0,
+          "description": "Tavuk, barbekü sos, krema, mantar. Mevsim salata, turşu, ekmek ile",
+          "img": null
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuk Tava",
+          "price": 320.0,
+          "description": "Tavuk, krema, mantar, brokoli. Mevsim salata, turşu, ekmek ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73059823.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73059829.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

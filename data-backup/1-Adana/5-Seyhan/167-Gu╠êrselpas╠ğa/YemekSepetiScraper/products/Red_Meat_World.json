@@ -1,0 +1,472 @@
+{
+  "link_hash": "780484be",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Red Meat World",
+  "link": "https://www.yemeksepeti.com/restaurant/ssbe/red-meat-world",
+  "categories": [
+    {
+      "name": "Avantajlı Menüler",
+      "products": [
+        {
+          "name": "2'li Fırsat Menü",
+          "price": 569.25,
+          "description": "2 Adet Klasik Burger + 2 Adet Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68197691.jpg?width=128&height=128"
+        },
+        {
+          "name": "Burger Menü",
+          "price": 378.75,
+          "description": "Seçeceğiniz Burger + Seçeceğiniz Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68291110.jpg?width=128&height=128"
+        },
+        {
+          "name": "Burger & Crunchy Box",
+          "price": 516.75,
+          "description": "Seçeceğiniz Burger + Seçeceğiniz Cunchy Box",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68300097.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte Menü",
+          "price": 371.25,
+          "description": "Seçeceğiniz Köfte + İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Lucky Red Menü",
+          "price": 637.5,
+          "description": "Klasik Burger + Fajita",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Tavuklu Sandviç",
+          "price": 261.75,
+          "description": "Dip sos, tavuk, marul, kaşar peyniri, soğan turşusu, susam, parmesan peyniri, 200 gr. patates ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Sandviç",
+          "price": 269.25,
+          "description": "Ton balığı, Sezar sos, marul, mısır, kapari, mor lahana turşusu. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Falafel Sandviç",
+          "price": 254.25,
+          "description": "Süzme yoğurt, marul, soğan turşusu, köz biber, falafel",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Tavuk Sandviç",
+          "price": 261.75,
+          "description": "Acı sos, tavuk, marul, coleslaw, kornişon, kurutulmuş domates. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Sandviç",
+          "price": 276.75,
+          "description": "Krem peynir, zeytin ezmesi, marul, kurutulmuş domates, hellim peyniri, cheddar peyniri, kaşar peyniri. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68270430.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vegan Sandviç",
+          "price": 254.25,
+          "description": "Krem peynir, ızgara sebzeler, falafel, köz biber, kurutulmuş domates. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cajun Sandviç",
+          "price": 261.75,
+          "description": "Dip sos, çıtır tavuk, coleslaw kornişon, domatez, susam. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68273610.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Sandviç",
+          "price": 231.75,
+          "description": "Akdeniz yeşillikleri, krem peynir, dana salam, taze domates, kaşar peyniri. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68274026.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Sandviç",
+          "price": 239.25,
+          "description": "Dip sos, hardal, dana sosis, kıtır soğan. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68274304.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte Sandviç",
+          "price": 306.75,
+          "description": "4 adet köfte, marul, soğan turşusu, kurutulmuş domates, bufalo sos. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68275987.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Red Steaks",
+      "products": [
+        {
+          "name": "Fajita",
+          "price": 374.25,
+          "description": "100 gr. dana biftek, ızgara mevsim sebze, özel sos. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beef Sandy",
+          "price": 374.25,
+          "description": "100 gr. dana biftek. Izgara mevsim sebzeleri, mantar, marul, soğan turşusu, közlenmiş biber ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburger",
+          "price": 299.25,
+          "description": "100 gr. dana köfte, kızarmış soğan, marul, domates, dip sos. 200 gr. patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheeseburger (100 gr.)",
+          "price": 314.25,
+          "description": "100 gr. dana köfte. marul. domates. karamelize soğan. dip sos. turşu. cheddar peyniri. Patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Big Cheeseburger (200 gr.)",
+          "price": 366.75,
+          "description": "200 gr. dana köfte, marul, domates, karamelize soğan, dip sos, turşu, 2 adet cheddar peyniri. Patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Biggest Burger (300 gr.)",
+          "price": 471.75,
+          "description": "300 gr. dana köfte, marul, domates, karamelize soğan, dip sos, turşu. 300 gr patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Big Burger",
+          "price": 381.75,
+          "description": "200 gr. dana köfte, marul, domates, karamelize soğan, dip sos, turşu. Patates kızartması (200 gr.) ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Biggest Chesseburger",
+          "price": 419.25,
+          "description": "300 gr. dana köfte, marul, domates, karamelize soğan, dip sos, turşu, cheddar peyniri (3 adet). 300 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68107085.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheese Dream Burger",
+          "price": 359.25,
+          "description": "100 gr. dana köfte, marul, domates, kornişon turşu, 2 dilim kaşar peyniri, 2 dilim cheddar peyniri, dip sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68144627.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Burger",
+          "price": 314.25,
+          "description": "100 gr. dana köfte, marul, cheddar peyniri, kıtır soğan, BBQ sos, kornişon turşu. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68144775.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gurme Burger",
+          "price": 344.25,
+          "description": "200 gr. dana köfte, közlenmiş biber, 2 adet cheddar peyniri, kıtır soğan, kornişon turşu. 200 gr. patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68145031.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslu Tavuklar",
+      "products": [
+        {
+          "name": "Alinazik Tavuk",
+          "price": 299.25,
+          "description": "Özel soslu tavuk, yoğurtlu patlıcan. Köri soslu makarna, Akdeniz salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Köri Soslu Tavuk",
+          "price": 299.25,
+          "description": "Makarna, Akdeniz salatası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Tavuk",
+          "price": 299.25,
+          "description": "Makarna, Akdeniz salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Café de Paris Soslu Tavuk",
+          "price": 299.25,
+          "description": "Café de Paris soslu tavuk. Köri soslu makarna, Akdeniz salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kekikli Tavuk",
+          "price": 299.25,
+          "description": "Kekikli krema soslu tavuk. Köri soslu makarna, Akdeniz salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuk",
+          "price": 299.25,
+          "description": "Kremalı mantarlı tavuk. Köri soslu makarna, Akdeniz salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Teryaki Soslu Tavuk",
+          "price": 299.25,
+          "description": "Teriyaki soslu tavuk. Köri soslu makarna, Akdeniz salata ile",
+          "img": null
+        },
+        {
+          "name": "Sriracha Soslu Tavuk",
+          "price": 306.75,
+          "description": "Sriracha soslu tavuk. Köri soslu makarna, Akdeniz salata ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Köfteler",
+      "products": [
+        {
+          "name": "Izgara Köfte",
+          "price": 371.25,
+          "description": "Basmati pilav, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İnegöl Köfte",
+          "price": 306.75,
+          "description": "Basmati pilav, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kadınbudu Köfte (4 Adet)",
+          "price": 269.25,
+          "description": "Patates kızartması, salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Köfte",
+          "price": 276.75,
+          "description": "4 adet köfte, patates kızartması, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Doyurucu Pilav",
+          "price": 179.25,
+          "description": "200 gr. pirinç pilavı, 150 gr. tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Pirzolalı Pilav",
+          "price": 201.75,
+          "description": "150 gr. pirinç pilavı, 1 adet tavuk pirzola. Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuklu Pilav",
+          "price": 179.25,
+          "description": "Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Somonlu Pilav",
+          "price": 201.75,
+          "description": "150 gr. tavuk, somon. Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Körili Pilav",
+          "price": 179.25,
+          "description": "150 gr. pilav, 100 gr. körili tavuk. Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Tavuklu Pilav",
+          "price": 179.25,
+          "description": "150 gr. pilav, 100 gr. acılı tavuk, salata ve turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sporcu Pilavı",
+          "price": 209.25,
+          "description": "225 gr. pilav, 180 gr. tavuk, salata ve turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Biftekli Pilav",
+          "price": 371.25,
+          "description": "150 gr. pilav, 100 gr. jülyen dana biftek, salata ve turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kavurmalı Pilav",
+          "price": 371.25,
+          "description": "150 gr. pilav 150 gr. kavurma. Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Soslu Pilav",
+          "price": 179.25,
+          "description": "150 gr. pilav, 100 gr. barbekü soslu tavuk. Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Pilav",
+          "price": 186.75,
+          "description": "200 gr. nohutlu pilav, 80 gr. ton balığı. Salata, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 90.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 67.5,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Tenders (3 Adet)",
+          "price": 108.75,
+          "description": "3 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Sticks (5 Adet)",
+          "price": 82.5,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Nugget (6 Adet)",
+          "price": 90.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 33.75,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67940381.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 18.75,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 33.75,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67940386.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 15.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67940387.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mayonez",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hardal",
+          "price": 10.5,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 10.5,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BBQ Sos",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 5.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

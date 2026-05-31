@@ -1,0 +1,734 @@
+{
+  "link_hash": "ecfa7cf8",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Köfteci Yusuf",
+  "link": "https://www.yemeksepeti.com/restaurant/qa5w/kofteci-yusuf-qa5w",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Burger Menü (Çift Köfte)",
+          "price": 340.0,
+          "description": "Çiftli Burger (2 adet burger köftesi, 2 adet cheddar peyniri, burger sosu) + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653277.jpg?width=128&height=128"
+        },
+        {
+          "name": "Köfteci Yusuf Köfte (500 gr.) (Çiğ)",
+          "price": 375.0,
+          "description": "425 TL yerine 375 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34621333.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tam Porsiyon Ekmek Arası Köfte Menü",
+          "price": 340.0,
+          "description": "Tam Porsiyon Ekmek Arası Köfte + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319825.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger Menü (Tek Köfte)",
+          "price": 260.0,
+          "description": "Tekli Burger (Burger köftesi, 1 adet cheddar peyniri, burger sosu) + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kahvaltı Tabağı",
+          "price": 365.0,
+          "description": "Bal, kaymak, haşlanmış yumurta, Nutella, tereyağı, siyah zeytin, biberli yeşil zeytin, beyaz peynir, Ezine peyniri, kaşar peyniri, çeşnili peynir, yeşil biber, domates, salatalık, sucuk, acı ezme sos ve kızarmış ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620799.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger (Çift Köfte) Patatesli Menü",
+          "price": 405.0,
+          "description": "Çift Köfte Burger + Patates Kızartması + İçecek (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653278.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yarım Ekmek Arası Menüler",
+      "products": [
+        {
+          "name": "Yarım Porsiyon Ekmek Arası Köfte Menü",
+          "price": 260.0,
+          "description": "Yarım Porsiyon Ekmek Arası Köfte + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653255.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Yarım Porsiyon Ekmek Arası Köfte Menü",
+          "price": 325.0,
+          "description": "Yarım Porsiyon Ekmek Arası Izgara Köfte + Patates Kızartması + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yarım Porsiyon Ekmek Arası Sucuk Menü",
+          "price": 260.0,
+          "description": "Yarım Porsiyon Ekmek Arası Izgara Sucuk + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319815.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Yarım Porsiyon Ekmek Arası Sucuk Menü",
+          "price": 325.0,
+          "description": "Yarım Porsiyon Ekmek Arası Izgara Sucuk + Patates Kızartması + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Dörtlük Yarım Porsiyon Ekmek Arası Köfte Menü",
+          "price": 430.0,
+          "description": "Yarım Porsiyon Ekmek Arası Köfte + İçecek (25 cl.) + Patates + Seçeceğiniz Tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41495567.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Dörtlük Yarım Porsiyon Ekmek Arası Sucuk Menü",
+          "price": 430.0,
+          "description": "Yarım Porsiyon Ekmek Arası Sucuk + İçecek (25 cl.) + Patates + Seçeceğiniz Tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41495569.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tam Ekmek Arası Menüler",
+      "products": [
+        {
+          "name": "Tam Porsiyon Ekmek Arası Köfte Menü",
+          "price": 340.0,
+          "description": "Tam Porsiyon Ekmek Arası Köfte + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319825.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tam Porsiyon Ekmek Arası Sucuk Menü",
+          "price": 340.0,
+          "description": "Tam Porsiyon Ekmek Arası Izgara Sucuk + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319827.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Tam Porsiyon Ekmek Arası Köfte Menü",
+          "price": 405.0,
+          "description": "Tam Porsiyon Ekmek Arası Izgara Köfte + Patates Kızartması + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319831.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Tam Porsiyon Ekmek Arası Sucuk Menü",
+          "price": 405.0,
+          "description": "Tam Porsiyon Ekmek Arası Izgara Sucuk + Patates Kızartması + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35319833.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Dörtlük Tam Porsiyon Ekmek Arası Köfte Menü",
+          "price": 505.0,
+          "description": "Tam Porsiyon Ekmek Arası Köfte + İçecek (25 cl.) + Patates + Seçeceğiniz Tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41495573.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Dörtlük Tam Porsiyon Ekmek Arası Sucuk Menü",
+          "price": 505.0,
+          "description": "Tam Porsiyon Ekmek Arası Sucuk + İçecek (25 cl.) + Patates + Seçeceğiniz Tatlı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41495575.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burger Menüleri",
+      "products": [
+        {
+          "name": "Burger Menü (Çift Köfte)",
+          "price": 340.0,
+          "description": "Çiftli Burger (2 adet burger köftesi, 2 adet cheddar peyniri, burger sosu) + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653277.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger (Tek Köfte) Patatesli Menü",
+          "price": 325.0,
+          "description": "Tekli Burger (Burger köftesi, 1 adet cheddar peyniri, burger sosu) + Patates Kızartması + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653274.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger (Tek Köfte) Dört Dörtlük Menü",
+          "price": 430.0,
+          "description": "Tekli Burger (Burger köftesi, 1 adet cheddar peyniri, burger sosu) + Seçeceğiniz Tatlı + Patates + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41495577.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger (Çift Köfte) Dört Dörtlük Menü",
+          "price": 505.0,
+          "description": "Çiftli Burger (2 adet burger köftesi, 2 adet cheddar peyniri, burger sosu) + Patates + Seçeceğiniz Tatlı + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41495579.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger Menü (Tek Köfte)",
+          "price": 260.0,
+          "description": "Tekli Burger (Burger köftesi, 1 adet cheddar peyniri, burger sosu) + İçecek (25 cl.) (Menü görsellerinde bulunan seçenekli ürünlerden 1 adet ürün seçimi yapabilirsiniz.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burger (Çift Köfte) Patatesli Menü",
+          "price": 405.0,
+          "description": "Çift Köfte Burger + Patates Kızartması + İçecek (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653278.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sucuk",
+      "products": [
+        {
+          "name": "Köfteci Yusuf Dana Kuzu Kangal Sucuk (200 gr.)",
+          "price": 340.0,
+          "description": "(200 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270060.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Dana Kuzu Kangal Sucuk (300 gr.)",
+          "price": 500.0,
+          "description": "(300 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69478342.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Köfte - Sucuk",
+      "products": [
+        {
+          "name": "Köfteci Yusuf Köfte-Sucuk Karışık (200 gr.)",
+          "price": 340.0,
+          "description": "(200 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270093.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Piliç",
+      "products": [
+        {
+          "name": "Köfteci Yusuf Piliç İncik (200 gr.)",
+          "price": 260.0,
+          "description": "(200 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270236.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Piliç İncik (300 gr.)",
+          "price": 390.0,
+          "description": "(300 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270247.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Piliç Kanat (200 gr.)",
+          "price": 260.0,
+          "description": "(200 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270256.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Piliç Kanat (300 gr.)",
+          "price": 390.0,
+          "description": "(300 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270267.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Et Karışık",
+      "products": [
+        {
+          "name": "Köfteci Yusuf Et Karışık (200 gr.)",
+          "price": 495.0,
+          "description": "(200 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270284.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Et Karışık (300 gr.)",
+          "price": 740.0,
+          "description": "(300 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69270296.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Kahvaltı Tabağı",
+          "price": 365.0,
+          "description": "Bal, kaymak, haşlanmış yumurta, Nutella, tereyağı, siyah zeytin, biberli yeşil zeytin, beyaz peynir, Ezine peyniri, kaşar peyniri, çeşnili peynir, yeşil biber, domates, salatalık, sucuk, acı ezme sos ve kızarmış ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620799.jpg?width=150&height=150"
+        },
+        {
+          "name": "Az Kahvaltı Tabağı",
+          "price": 285.0,
+          "description": "Bal, kaymak, haşlanmış yumurta, tereyağı, siyah zeytin, Ezine peyniri, kaşar peyniri, domates, salatalık, acı ezme sos ve kızarmış ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620804.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Kaşarlı Tost Menü",
+          "price": 195.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75465313.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurma Kaşarlı Tost Menü",
+          "price": 260.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75465358.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurma Sucuk Kaşarlı Tost Menü",
+          "price": 260.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75465377.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Tost Menü",
+          "price": 260.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75465426.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pastırma Kaşarlı Tost Menü",
+          "price": 260.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75465457.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pastırma Kavurma Kaşarlı Tost Menü",
+          "price": 260.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75465693.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Kaşarlı Tost Menü",
+          "price": 260.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75465741.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası (Az)",
+          "price": 90.0,
+          "description": "Ekmek ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67727492.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Suyu Çorbası (Az)",
+          "price": 115.0,
+          "description": "Ekmek ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67727506.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mercimek Çorbası (Porsiyon)",
+          "price": 115.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67727522.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Suyu Çorbası (Porsiyon)",
+          "price": 155.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67727661.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Köfteler",
+      "products": [
+        {
+          "name": "1 Porsiyon Köfte (200 gr.)",
+          "price": 340.0,
+          "description": "6 adet köfte, salata, ezme, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34624910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte (300 gr.)",
+          "price": 500.0,
+          "description": "9 adet köfte, salata, ezme, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34624921.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte (500 gr.)",
+          "price": 845.0,
+          "description": "15 adet köfte, salata, ezme, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34624915.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfte (1 kg.)",
+          "price": 1.69,
+          "description": "30 adet köfte, salata, ezme, ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34624928.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Porsiyon Piyaz",
+          "price": 90.0,
+          "description": "Porsiyon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35792885.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır 3'lü (1 İçli Köfte, Küçük Boy Patates, 6 Soğan Halkası)",
+          "price": 130.0,
+          "description": "1 adet içli köfte, patates kızartması, 6 adet soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653311.jpg?width=150&height=150"
+        },
+        {
+          "name": "Porsiyon Çıtır 3'lü (2 İçli Köfte, Porsiyon Patates, 6 Soğan Halkası)",
+          "price": 180.0,
+          "description": "2 adet içli köfte, porsiyon patates kızartması, 6 adet soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620724.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Çıtır 3'lü (4 İçli Köfte, Double Patates, 6 Soğan Halkası)",
+          "price": 285.0,
+          "description": "4 adet içli köfte, double patates kızartması, 6 adet soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620733.jpg?width=150&height=150"
+        },
+        {
+          "name": "Küçük Boy Patates",
+          "price": 65.0,
+          "description": "Ketçap, mayonez ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620743.jpg?width=150&height=150"
+        },
+        {
+          "name": "Porsiyon Patates Kızartması",
+          "price": 90.0,
+          "description": "Ketçap, mayonez ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620756.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Patates Kızartması",
+          "price": 130.0,
+          "description": "Ketçap, mayonez ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620763.jpg?width=150&height=150"
+        },
+        {
+          "name": "İçli Köfte (Adet)",
+          "price": 45.0,
+          "description": "Bulgurun içerisine doldurulan kıyma, soğan, baharatlar ve diğer malzemelerle hazırlanan bir yemektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620766.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 32.0,
+          "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620768.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (3 Adet)",
+          "price": 16.0,
+          "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620773.jpg?width=150&height=150"
+        },
+        {
+          "name": "3’lü İçli Köfte",
+          "price": 115.0,
+          "description": "3 Adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69416997.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muhteşem 3’lü-Double (Double Patates, Double Yoğurt, Double Piyaz)",
+          "price": 340.0,
+          "description": "Double Patates, Double Yoğurt, Double Piyaz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69273268.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muhteşem 3’lü-Porsiyon (atates, Porsiyon Yoğurt, Porsiyon Piyaz)",
+          "price": 235.0,
+          "description": "Patates, Porsiyon Yoğurt, Porsiyon Piyaz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69273261.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muhteşem 3’lü-Az (Küçük Boy Patates, Az Yoğurt, Az Piyaz)",
+          "price": 170.0,
+          "description": "Küçük Boy Patates, Az Yoğurt, Az Piyaz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69273251.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cacık",
+          "price": 80.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69273245.jpg?width=150&height=150"
+        },
+        {
+          "name": "Porsiyon Yoğurt",
+          "price": 90.0,
+          "description": "Porsiyon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69273238.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Diğer Lezzetler",
+      "products": [
+        {
+          "name": "İlikli Kemik Suyu (600 ml.)",
+          "price": 60.0,
+          "description": "600 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34623668.jpg?width=150&height=150"
+        },
+        {
+          "name": "Az Yoğurt",
+          "price": 60.0,
+          "description": null,
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Bol Kaymaklı Ekmek Kadayıfı",
+          "price": 180.0,
+          "description": "Ekmek kadayıfı, bol kaymak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaymaklı Ekmek Kadayıfı",
+          "price": 155.0,
+          "description": "Ekmek kadayıfı, kaymak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620021.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trileçe",
+          "price": 105.0,
+          "description": "Trileçe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69273293.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Ekmek Kadayıfı",
+          "price": 105.0,
+          "description": "Sade Ekmek Kadayıfı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69273289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaymaklı Az Ekmek Kadayıfı (140 gr.)",
+          "price": 105.0,
+          "description": "140 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69273284.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34619229.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653327.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (25 cl.)",
+          "price": 60.0,
+          "description": "25 cl.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34619700.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Soda (20 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34619542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34619675.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 110.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34619748.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Şalgam Suyu (30 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68078321.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Şalgam Suyu (30 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68078326.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Barbekü Sos (22 gr.)",
+          "price": 7.0,
+          "description": "22 gr. barbekü sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34621010.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos (20 gr.)",
+          "price": 7.0,
+          "description": "20 gr. acı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34621023.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Ezme Sos (300 gr.)",
+          "price": 80.0,
+          "description": "Domatesli, özel baharatlı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34620919.jpg?width=150&height=150"
+        },
+        {
+          "name": "Heinz Ketçap (570 gr.)",
+          "price": 90.0,
+          "description": "570 gr. ketçap",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72371743.jpg?width=150&height=150"
+        },
+        {
+          "name": "Heinz Mayonez (505 gr.)",
+          "price": 120.0,
+          "description": "505 gr. mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72371752.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Ürünler",
+      "products": [
+        {
+          "name": "Köfteci Yusuf Köfte (1000 gr.) (Çiğ)",
+          "price": 750.0,
+          "description": "850 TL yerine 750 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45186555.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Köfte (500 gr.) (Çiğ)",
+          "price": 375.0,
+          "description": "425 TL yerine 375 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34621333.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Dana Kuzu Kangal Sucuk (600 gr.) (Çiğ)",
+          "price": 540.0,
+          "description": "600 TL yerine 540 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34653347.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Dana Kuzu Kangal Sucuk (1000 gr.) (Çiğ)",
+          "price": 900.0,
+          "description": "1000 TL yerine 900 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45651426.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Acılı Parmak Sucuk (Fermente) (250 gr.)",
+          "price": 225.0,
+          "description": "250 TL yerine 225 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53784512.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Acılı Parmak Sucuk (Fermente) (500 gr.)",
+          "price": 450.0,
+          "description": "500 TL yerine 450 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53786489.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Acılı Parmak Sucuk (Fermente) (1000 gr.)",
+          "price": 900.0,
+          "description": "1000 TL yerine 900 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53786502.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Burger Köftesi (500 gr.) (Çiğ)",
+          "price": 375.0,
+          "description": "425 TL yerine 375 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34621775.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Dana Kavurma (500 gr.) (Çiğ)",
+          "price": 500.0,
+          "description": "625 TL yerine 500 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/34621778.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Dana Kavurma (250 gr.) (Çiğ)",
+          "price": 250.0,
+          "description": "312,5 TL yerine 250 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45639622.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Dana Kavurma (1000 gr.) (Çiğ)",
+          "price": 1.0,
+          "description": "1250 TL yerine 1000 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45639731.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Kebap (500 gr.) (Çiğ)",
+          "price": 375.0,
+          "description": "425 TL yerine 375 TL !",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77202982.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Soslu Piliç Kanat (800 gr.)",
+          "price": 288.0,
+          "description": "800 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/77899729.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Soslu Piliç Kanat (1 kg.)",
+          "price": 360.0,
+          "description": "(1 kg.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/77899697.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Soslu Piliç İncik (800 gr.)",
+          "price": 288.0,
+          "description": "800 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77899627.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Soslu Piliç İncik (1 kg.)",
+          "price": 360.0,
+          "description": "(1 kg.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77899502.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Pastırma (1 kg.)",
+          "price": 2.1,
+          "description": "1 kg.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79162513.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Pastırma (500 gr.)",
+          "price": 1.05,
+          "description": "500 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79162512.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Pastırma (200 gr.)",
+          "price": 420.0,
+          "description": "200 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79162511.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köfteci Yusuf Kuzu İncik (1000 gr.) (Çiğ)",
+          "price": 830.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76100728.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

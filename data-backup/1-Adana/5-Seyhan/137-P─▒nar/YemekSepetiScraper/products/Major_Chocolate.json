@@ -1,0 +1,393 @@
+{
+  "link_hash": "d3ccbddb",
+  "scraped_at": "260528_1202",
+  "restaurant_name": "Major Chocolate",
+  "link": "https://www.yemeksepeti.com/restaurant/zeb6/major-chocolate-zeb6",
+  "categories": [
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Acukalı Roast Beef Tost",
+          "price": 400.0,
+          "description": "Acuka, roast beef, kaşar peynir, cheddar peynir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/593aeba6-dda6-4bdd-aa0f-3a984e69fb1b.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kaburga Etli̇ Sandvi̇ç",
+          "price": 575.0,
+          "description": "Pesto sos, tulum peyniri, dana kaburga, roka, kurutulmuş domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197388.jpg?width=128&height=128"
+        },
+        {
+          "name": "Hi̇ndi̇ Fümeli̇ Sandvi̇ç",
+          "price": 480.0,
+          "description": "Krem peynir, hindi füme, tulum peyniri, roka, kuru domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Üç Peyni̇rli̇ Sandvi̇ç",
+          "price": 390.0,
+          "description": "Pesto sos, krem peynir, roka, cherry domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197390.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Jambonlu Bagel Sandviç",
+          "price": 475.0,
+          "description": "Krem peynir, marul, dana jambon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197391.jpg?width=150&height=150"
+        },
+        {
+          "name": "Üç Peynirli Bagel Sandviç",
+          "price": 350.0,
+          "description": "Krem peynir, cheddar peyniri, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197392.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hindi Fümeli Bagel Sandviç",
+          "price": 375.0,
+          "description": "Krem peynir, marul, hindi füme",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197393.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kuru pastalar",
+      "products": [
+        {
+          "name": "Tuzlu Kuru Pasta (1 kg.)",
+          "price": 450.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cevizli Ezme",
+          "price": 220.0,
+          "description": "(Katkı maddesi içermez.)",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/0eb1e73c-7d44-4cde-a049-20c5bb7aa109.jpg?width=150&height=150"
+        },
+        {
+          "name": "Major Dopamin",
+          "price": 220.0,
+          "description": "Fındık parçacık, çikolata, badem un",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "3 Peynirli Tost",
+          "price": 240.0,
+          "description": "3 çeşit peynir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hindi Fümeli Tost",
+          "price": 275.0,
+          "description": "Hindi füme",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/bdae10a0-4f4c-4319-855e-a5147fd5ed04.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acukalı Roast Beef Tost",
+          "price": 300.0,
+          "description": "Acuka, roast beef, kaşar peyniri, cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/e52ba00c-f7b0-4733-bde8-db4751d635a0.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kahvaltı",
+      "products": [
+        {
+          "name": "Avokado Kasesi",
+          "price": 450.0,
+          "description": "2 adet haşlanmış yumurta, dilim avakado, ızgara zeytin, domates, top peynir. Ekşi mayalı ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sporcu Kasesi",
+          "price": 400.0,
+          "description": "2 adet haşlanmış yumurta, siyah zeytin, domates, salatalık, lor peyniri. Ekşi mayalı ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekşi Mayalı Ekmek Üzeri Avokado",
+          "price": 425.0,
+          "description": "Ekşi mayalı ekmek üzerine; avokado sos, çırpılmış yumurta, pesto sos, çörek otlu peynir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/09b78cb9-6136-4b2d-929c-897bff4faed7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frankfurter Kruvasan",
+          "price": 550.0,
+          "description": "Yumurta, frankfurter sosis, cheddar peyniri, cherry domates, salatalık, dana jambon, çeçil peyniri, çörek otlu peynir, reçel, siyah zeytin, yeşil zeytin",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/f76a59a7-51e8-4f99-a482-4db13e8d95f2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karıșık Kruvasan Kahvaltı",
+          "price": 525.0,
+          "description": "Yumurta, salatalık, cherry domates, dana jambon, hindi füme, avokado sos, siyah zeytin, yeşil zeytin, çeçil peyniri, çörek otlu peynir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/da01bbcd-c1cf-4ab1-8345-eabb19c57d3a.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çikolatalar",
+      "products": [
+        {
+          "name": "18'lik Klasik Çikolata Kutusu",
+          "price": 900.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "48'li Klasik Çikolata Kutusu",
+          "price": 2.4,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "36'lı Klasik Çikolata Kutusu Kutu",
+          "price": 1.8,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Major Sürülebilir Çikolata (350 gr.)",
+          "price": 300.0,
+          "description": "350 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Dubai Çikolatası",
+          "price": 600.0,
+          "description": "1 Paket ( tablet)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Lotus Kruvasan",
+          "price": 385.0,
+          "description": "Lotus krema ve lotus bisküvi ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Glutensiz Fit Kek (Adet)",
+          "price": 145.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Gaia ( Adet )",
+          "price": 105.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Meyveli Kruvasan",
+          "price": 475.0,
+          "description": "Krema, mevsim meyveleri ve çikolata sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/01cc5582-a27d-43a0-a736-bdc218e7055d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Kruvasan",
+          "price": 395.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/911e4425-60ad-47cd-b7a9-5e88ef9e0999.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bubble Waffle",
+          "price": 450.0,
+          "description": "Çikolata, mevsim meyveleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/a4c70865-9a1d-40b9-ad6c-38a253397621.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Krep Sarma",
+          "price": 350.0,
+          "description": "Krep hamuru, ipeksi krema, mevsim meyveleri, çikolata sos ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/e28dc3ca-f21d-4683-8a61-0e509e79b9e1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol",
+          "price": 320.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/8522d5be-dce6-4d5b-b298-7476ab5df8cc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Serotonin",
+          "price": 550.0,
+          "description": "İpeksi krema, çilek, akışkan çikolata",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/4140ad35-c6d8-4322-a754-51e3eef588e2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antidepresann",
+          "price": 450.0,
+          "description": "Kakaolu kek üzerine; mevsim meyveleri, Belçika gofreti, Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/69449e14-f825-4740-a28f-93b2e3e07106.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mini Kruvasan",
+          "price": 415.0,
+          "description": "3 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/40dd3e44-6bf9-4bcc-b6c6-03cd91d31c08.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekler Tabağı",
+          "price": 450.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/b971707c-58d1-474b-a119-9e29d38bd57e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Pasta",
+          "price": 375.0,
+          "description": "Dubai kreması, çikolata",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/zeb6/product/85886c71-2ee5-43dc-b0ba-7ecceabef4b2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Mag",
+          "price": 270.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197400.jpg?width=150&height=150"
+        },
+        {
+          "name": "Major Capella",
+          "price": 440.0,
+          "description": "Antep fıstığı, çikolata, beyaz çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotus Mag",
+          "price": 355.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Eklerler",
+      "products": [
+        {
+          "name": "Antep Fıstıklı Ekler",
+          "price": 75.0,
+          "description": "Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fındıklı Ekler (Adet)",
+          "price": 65.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hindistan Cevizli Ekler (Adet)",
+          "price": 65.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197404.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Ekler (Adet)",
+          "price": 65.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197405.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fransız Ekler (Adet)",
+          "price": 120.0,
+          "description": "Lotus kreması, Lotus bisküvi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197412.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Soda (20 cl.)",
+          "price": 50.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 30.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Berry Hibiscus",
+          "price": 275.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Double Espresso",
+          "price": 150.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Americano",
+          "price": 190.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sıcak Çikolata",
+          "price": 200.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Latte",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197417.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 210.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197418.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso",
+          "price": 150.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78197421.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced Latte",
+          "price": 220.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 200.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

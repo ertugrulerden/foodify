@@ -1,0 +1,513 @@
+{
+  "link_hash": "af16558c",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Zeho's",
+  "link": "https://www.yemeksepeti.com/restaurant/s9vu/zehos",
+  "categories": [
+    {
+      "name": "Tuzlu Kruvasanlar",
+      "products": [
+        {
+          "name": "Sandviç Kruvasan",
+          "price": 341.25,
+          "description": "Domates, marul, biber, beyaz peynir veya kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65521471.jpg?width=128&height=128"
+        },
+        {
+          "name": "Yumurtalı Kruvasan",
+          "price": 341.25,
+          "description": "Tereyağlı kruvasan arasına; sade omlet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65521474.jpg?width=128&height=128"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Karışık Bazlama Tost",
+          "price": 341.25,
+          "description": "Sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65521491.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Peynirli Diyet Tost",
+          "price": 292.5,
+          "description": "Beyaz peynir, domates, maydanoz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65521526.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Beyaz Etler",
+      "products": [
+        {
+          "name": "Barbekü Soslu Izgara Tavuk",
+          "price": 585.0,
+          "description": "Sote sebzeler, günün pilavı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tikka Masala Soslu Izgara Tavuk",
+          "price": 585.0,
+          "description": "Sote sebzeler, günün pilavı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kırmızı Etler",
+      "products": [
+        {
+          "name": "Mushroom Steak",
+          "price": 780.0,
+          "description": "200 gr. bonfile madalyon. Kuşkonmaz, siyah pirinç pilavı ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Pizzalar (1-2 Kişilik)",
+      "products": [
+        {
+          "name": "Beş Peynirli Pizza",
+          "price": 540.0,
+          "description": "Rokfor peyniri, emmental peynir, suda mozzarella, cheddar peyniri, mozzarella peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Diavola Pizza",
+          "price": 540.0,
+          "description": "Karamelize soğan, jülyen tavuk, jalapeno biber turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Pizza",
+          "price": 442.5,
+          "description": "Domates, biber, mısır, zeytin, sucuk, sosis, salam",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Quatro Zeho's Pizza",
+          "price": 637.5,
+          "description": "Kavurma, kasap sucuk, pastırma, jülyen tavuk, bonfile kaburga eti",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar & Mantılar",
+      "products": [
+        {
+          "name": "Fettuccine Alfredo",
+          "price": 498.75,
+          "description": "Jülyen tavuk, soğan, krema, mantar, parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beş Peynirli Ravioli",
+          "price": 438.75,
+          "description": "İtalyan usulü mantı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Spaghetti Üstü Mini Köfteler (Çocuk)",
+          "price": 390.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65525075.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantı",
+          "price": 438.75,
+          "description": "İsteğe göre yoğrut, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70883212.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Penne",
+          "price": 498.75,
+          "description": "Jülyen tavuk parçacıkları, mantar, krema, pesto sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643816.jpg?width=150&height=150"
+        },
+        {
+          "name": "Penne All Arrabbiata",
+          "price": 465.0,
+          "description": "Renkli biberler, dilim zeytin, mısır, arrabbiata sos, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643820.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "BBQ Zeho's Burger",
+          "price": 510.0,
+          "description": "200 gr. köfte, çıtır soğan, barbekü sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lokum Burger",
+          "price": 682.5,
+          "description": "Bonfile parçaları, cheddar peyniri, kaşar peyniri, marul, domates, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65524438.jpg?width=150&height=150"
+        },
+        {
+          "name": "S'more Burger",
+          "price": 682.5,
+          "description": "200 gr. köfte, kaşar peyniri, 50 gr. dana bonfile, cheddar peyniri, çıtır soğan, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mini Burger (3 Adet)",
+          "price": 540.0,
+          "description": "Burger köftesi, marul, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65525083.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger",
+          "price": 438.75,
+          "description": "Panelenmiş tavuk göğsü, marul, domates, karamelize soğan, turşu. Patates kızartması, sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643822.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zehos Burger",
+          "price": 611.25,
+          "description": "180 gr. köfte, çıtır panelenmiş cheddar peyniri, marul, domates, turşu. Patates kızartması, sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643824.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Double Burger",
+          "price": 828.75,
+          "description": "2 adet 180 gr. köfte, çıtır panelenmiş peynir, marul, domates, turşu. Patates kızartması, özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643828.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 300.0,
+          "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65521563.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "price": 390.0,
+          "description": "Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65521569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sote Sebze",
+          "price": 341.25,
+          "description": "Brokoli, karnabahar, havuç, Brüksel lahanası, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65521577.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo Nachos",
+          "price": 416.25,
+          "description": "Mısır tortilla ekmeği, renkli biberlerle sotelenmiş tavuk & dana bonfile, cheddar peyniri, kaşar peyniri, özel soslar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65521909.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo Tabağı",
+          "price": 465.0,
+          "description": "Patates kızartması, sosis, soğan halkası, kızarmış tavuk parçaları, falafel",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65521981.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosis Tabağı",
+          "price": 341.25,
+          "description": "Patates kızartması, özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643830.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taco",
+          "price": 438.75,
+          "description": "Tavuk, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643891.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (15 Adet)",
+          "price": 341.25,
+          "description": "15 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76643893.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Parmesanlı Tavuklu Salata",
+          "price": 416.25,
+          "description": "Özel harçlarla panelenmiş kızarmış tavuk dilimleri, mevsim yeşillikleri, parmesanlı özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Hellim Peynirli Salata",
+          "price": 416.25,
+          "description": "Izgara hellim peynir, mevsim yeşillikleri, cherry domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Salata",
+          "price": 367.5,
+          "description": "Mevsim yeşillikleri, mısır, domates, ton balığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65523648.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Beef Salata",
+          "price": 513.75,
+          "description": "Mevsim yeşillikleri, sotelenmiş bonfile parçaları, mantar, renkli biberler, kızarmış ekmek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Çilekli Mag",
+          "price": 195.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Muzlu Mag",
+          "price": 195.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Waffle",
+          "price": 341.25,
+          "description": "Waffle hamuru, çikolata, mevsim meyveleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Limonlu Cheesecake",
+          "price": 236.25,
+          "description": "Dilim olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65525301.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Cheesecake",
+          "price": 236.25,
+          "description": "Dilim olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65525324.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Crumble",
+          "price": 243.75,
+          "description": "Frambuaz, fıstık",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (20 cl.)",
+          "price": 127.5,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (20 cl.)",
+          "price": 127.5,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "7UP (20 cl.)",
+          "price": 127.5,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beypazarı Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65527112.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 48.75,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65527158.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 75.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65527199.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Vitamin Bar",
+      "products": [
+        {
+          "name": "Taze Sıkma Portakal Suyu",
+          "price": 172.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ev Yapımı Limonata",
+          "price": 146.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Taze Sıkma Elma & Havuç Suyu",
+          "price": 195.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Taze Sıkma Elma Suyu",
+          "price": 195.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65527259.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Sıkma Havuç Suyu",
+          "price": 195.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65527262.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "products": [
+        {
+          "name": "Çilekli Milkshake",
+          "price": 292.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Milkshake",
+          "price": 292.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vanilyalı Milkshake",
+          "price": 292.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65527334.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Milkshake",
+          "price": 292.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65527339.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Frozens",
+      "products": [
+        {
+          "name": "Çilekli Frozen",
+          "price": 292.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şeftalili Frozen",
+          "price": 292.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ananaslı Frozen",
+          "price": 292.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mix Frozen",
+          "price": 292.5,
+          "description": "Çilek, şeftali, ananas. Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Frappes",
+      "products": [
+        {
+          "name": "Karamelli Frappe",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Frappe",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyaz Çikolatalı Frappe",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced Americano",
+          "price": 195.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Caramel Latte",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Lotus Latte",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Chocolate Cookie Latte",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65526725.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65526734.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced White Mocha",
+          "price": 243.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65526739.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "link_hash": "3827b04a",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Burger King Cafe",
+  "link": "https://www.yemeksepeti.com/restaurant/eana/burger-king-cafe-eana",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Dondurmalı Çikolatalı Sufle",
+          "price": 90.0,
+          "description": "Tek Kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73123320.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çikolatalı Sufle",
+          "price": 80.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66305459.jpg?width=128&height=128"
+        },
+        {
+          "name": "Vanilya Cappucino",
+          "price": 80.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70198085.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menü",
+      "products": [
+        {
+          "name": "Yemeksepeti Özel Kahve & Cookie Fırsatı",
+          "price": 150.0,
+          "description": "1 Adet Americano + 1 Adet Sütlü Americano + 2 Adet Cookie",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel 150 TL Menü",
+      "products": [
+        {
+          "name": "Kral Kahve & Tatlı Fırsatı",
+          "price": 150.0,
+          "description": "2 Adet Iced Americano veya Iced Latte + 2 Adet Cookie",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Iced Mocha",
+          "price": 95.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65413015.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Chocolate",
+          "price": 70.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65413022.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 85.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65413026.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 60.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66305468.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Sweet Pumpkin Latte",
+          "price": 105.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76687041.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66305470.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mango Chili Bubble",
+          "price": 70.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71381308.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pink Summer",
+          "price": 70.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71381293.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ocean Refresha",
+          "price": 70.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71381271.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Americano",
+          "price": 60.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlü Americano",
+          "price": 60.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlü Köpüklü",
+          "price": 85.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vanilya Cappucino",
+          "price": 80.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70198085.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mocha",
+          "price": 95.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70198112.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte",
+          "price": 85.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70198121.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıcak Çikolata",
+          "price": 70.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70198130.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Pumpkin Latte",
+          "price": 105.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76687032.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Çikolatalı Cookie",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolata Parçacıklı Cookie",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vişneli Tatlı",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66305456.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elmalı Tatlı",
+          "price": 60.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66305458.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Sufle",
+          "price": 80.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66305459.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurmalı Çikolatalı Sufle",
+          "price": 90.0,
+          "description": "Tek Kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73123320.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dondurmalar",
+      "products": [
+        {
+          "name": "King Sundae (Çikolata Soslu)",
+          "price": 60.0,
+          "description": "Dondurma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "King Sundae (Çilek Soslu)",
+          "price": 60.0,
+          "description": "Dondurma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "King Sundae (Karamel Soslu)",
+          "price": 60.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965759.jpg?width=150&height=150"
+        },
+        {
+          "name": "King Sundae (Sade)",
+          "price": 60.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965769.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sundae (Böğürtlen Soslu)",
+          "price": 50.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965803.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sundae (Çikolata Soslu)",
+          "price": 50.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965828.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sundae (Çilek Soslu)",
+          "price": 50.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965830.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sundae (Karamel Soslu)",
+          "price": 50.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965839.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sundae (Sade)",
+          "price": 50.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965843.jpg?width=150&height=150"
+        },
+        {
+          "name": "King Mix Renkli Çikolata Drajeli",
+          "price": 70.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70965873.jpg?width=150&height=150"
+        },
+        {
+          "name": "King Mix Karamelli & Bisküvili",
+          "price": 70.0,
+          "description": "Dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72948572.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Çikolatalı Milkshake",
+          "price": 75.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965931.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Çilekli Milkshake",
+          "price": 75.0,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Büyük Boy Espressolu Milkshake",
+          "price": 75.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965939.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Vanilyalı Milkshake",
+          "price": 75.0,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Küçük Boy Çikolatalı Milkshake",
+          "price": 60.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70966133.jpg?width=150&height=150"
+        },
+        {
+          "name": "Küçük Boy Çilekli Milkshake",
+          "price": 60.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70966145.jpg?width=150&height=150"
+        },
+        {
+          "name": "Küçük Boy Espressolu Milkshake",
+          "price": 60.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70966148.jpg?width=150&height=150"
+        },
+        {
+          "name": "Küçük Boy Vanilyalı Milkshake",
+          "price": 60.0,
+          "description": "Küçük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Orta Boy Çikolatalı Milkshake",
+          "price": 65.0,
+          "description": "Orta boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70965962.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Çilekli Milkshake",
+          "price": 65.0,
+          "description": "Orta boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Orta Boy Espressolu Milkshake",
+          "price": 65.0,
+          "description": "Orta boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70966000.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Vanilyalı Milkshake",
+          "price": 65.0,
+          "description": "Orta boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70966005.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

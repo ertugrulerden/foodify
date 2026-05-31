@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Heart, Clock, MapPin, ShoppingBag, Star, Bike } from "lucide-react";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
@@ -17,6 +17,7 @@ const PLATFORM_MAP: Record<string, { label: string; logo: string }> = {
 
 const MenuCard = ({
   id,
+  productID,
   name,
   image,
   rating,
@@ -30,10 +31,51 @@ const MenuCard = ({
   href,
   productName,
   platformPrices,
-}: PopularRestaurants & { href?: string; productName?: string; platformPrices?: Record<string, number> }) => {
+}: PopularRestaurants & { href?: string; productName?: string; platformPrices?: Record<string, number>; productID?: number }) => {
   const [favorited, setFavorited] = useState(isFavorited);
 
+  useEffect(() => {
+    const storedUser = localStorage.getItem("foodify_user")
+    if (storedUser && productID) {
+      const user = JSON.parse(storedUser)
+      // Basit bir cache veya direkt fetch ile kontrol
+      fetch(`/api/favorites?userID=${user.userID}`)
+        .then(res => res.json())
+        .then(favs => {
+          if (Array.isArray(favs) && favs.some((f: any) => f.productID === productID)) {
+            setFavorited(true)
+          }
+        })
+        .catch(() => {})
+    }
+  }, [productID])
+
   const linkHref = href ?? (id ? `/restaurant/${id}` : null);
+
+  const handleFavoriteClick = async (e: React.MouseEvent) => {
+    e.preventDefault();
+    const storedUser = localStorage.getItem("foodify_user")
+    if (!storedUser) {
+      alert("Favorilere eklemek için giriş yapmalısınız.")
+      return
+    }
+    const user = JSON.parse(storedUser)
+    if (!productID) return
+
+    try {
+      const res = await fetch("/api/favorites", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ userID: user.userID, productID })
+      })
+      if (res.ok) {
+        const data = await res.json()
+        setFavorited(data.added)
+      }
+    } catch (error) {
+      console.error("Favori işlemi başarısız")
+    }
+  }
 
   const card = (
     <div
@@ -52,10 +94,7 @@ const MenuCard = ({
           size="icon-xs"
           variant="ghost"
           aria-label={favorited ? "Favorilerden çıkar" : "Favorilere ekle"}
-          onClick={(e) => {
-            e.preventDefault();
-            setFavorited(!favorited);
-          }}
+          onClick={handleFavoriteClick}
           className="absolute right-2 top-2 h-7 w-7 rounded-full bg-white/90 shadow-sm backdrop-blur-sm hover:bg-white"
         >
           <Heart

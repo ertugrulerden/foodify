@@ -1,0 +1,456 @@
+{
+  "link_hash": "8b420842",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Adıyaman Çiğ Köftecisi Ahmet Aybak",
+  "link": "https://www.yemeksepeti.com/restaurant/efll/adiyaman-cig-koftecisi-ahmet-aybak-efll",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Çiğ Köfte (500 gr.)",
+          "price": 420.75,
+          "description": "göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 6 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765074.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.)",
+          "price": 679.15,
+          "description": "göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 12 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765080.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çiğ Köfte (250 gr.)",
+          "price": 238.0,
+          "description": "Çeyrek göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 3 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765070.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 93.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/78348357/ac7792d1-3ede-43b6-a0a3-1cfb271674e5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 51.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69858974.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ köfte Dürüm (100 gr)",
+          "price": 144.5,
+          "description": "Nane, turşu, mor lahana, maydanoz, domates, yakan biber, jalapeno biber, iceberg marul, limon, mısır, nar ekşisi, acı sos, burger sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69809114.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Çiğ Köfte Dürüm & Ayran Menü",
+          "price": 170.0,
+          "description": "Çiğ Köfte Dürüm (120 gr. + Ayran (20 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçli köfte Menüleri",
+      "products": [
+        {
+          "name": "Dürüm Menü 1",
+          "price": 259.25,
+          "description": "1 adet 100 g çiğ köfte Dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml), sarıyer portakallı gazlı içecek (200 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mega Dürüm Menü 1",
+          "price": 263.5,
+          "description": "1 adet 150 g mega çiğ köfte Dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Double Dürüm Menü 1",
+          "price": 297.5,
+          "description": "1 adet 170 g çift lavaşlı çiğ köfte Dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ultra Double Menü 1",
+          "price": 323.0,
+          "description": "1 adet 200 g ultra double çiğ köfte Dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Doritoslu Dürüm Menü 1",
+          "price": 263.5,
+          "description": "1 adet 100 g doritoslu çiğ köfte Dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/87633986/5c0b4c30-ddcb-4eb7-ab08-dc412e638473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritoslu Mega Dürüm Menü 1",
+          "price": 280.5,
+          "description": "1 adet 150 g doritoslu mega çiğ köfte dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/7bcc0710-c341-4467-9d5e-68cacbe83cdd.jpg?width=150&height=150"
+        },
+        {
+          "name": "doritoslu double dürüm menü 1",
+          "price": 289.0,
+          "description": "1 adet 170 g çift lavaş doritoslu çiğ köfte dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/7564eca7-13bd-4947-857f-c5759d44a777.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritoslu Ultra Double Menü 1",
+          "price": 310.25,
+          "description": "1 adet 200 g çift lavaş doritoslu ultra double çiğ köfte dürüm, 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/87633999/4e3150a8-4652-4cbf-a00e-01d712ec0c08.jpg?width=150&height=150"
+        },
+        {
+          "name": "1 Kişilik Porsiyon Menü",
+          "price": 297.5,
+          "description": "Çiğ köfte (250 g), göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, lavaş (3 adet) , 1 adet ev yapımı içli köfte, tercihe göre ayran (270 ml) veya sarıyer cola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/87634011/f0978727-59d5-4b44-97b0-335abc7bb4d5.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Kişilik Porsiyon Menü",
+          "price": 509.15,
+          "description": "Çiğ köfte (500 g), göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, lavaş (6 adet), 2 adet içli köfte, 2 adet ayran (270 ml) veya 2 adet sarıyer kola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/00d83ca3-49cb-4d43-979e-5ea539ba1a01.jpg?width=150&height=150"
+        },
+        {
+          "name": "3 Kişilik Menü",
+          "price": 765.0,
+          "description": "Çiğ köfte (750 g), göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, lavaş (9 adet), 3 adet içli köfte, 3 adet ayran (270 ml) veya 3 adet sarıyer kola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/eca05eaf-84c7-4a7d-b5a5-d76d8e9fe8bb.jpg?width=150&height=150"
+        },
+        {
+          "name": "4 Kişilik Menü",
+          "price": 977.5,
+          "description": "Çiğ köfte (1 kg), göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, lavaş (12 adet), 4 adet içli köfte, 4 adet ayran (270 ml) veya 4 adet sarıyer kola (200 ml) ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/95b016d7-71b9-4192-b492-2cfcec686500.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfteler",
+      "products": [
+        {
+          "name": "Double Çiğ Köfte Dürüm (170 gr.)",
+          "price": 187.0,
+          "description": "170 gr. çiğ köfte, iceberg marul, nane, maydanoz, nar ekşisi, limon, mısır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (250 gr.)",
+          "price": 238.0,
+          "description": "Çeyrek göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 3 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765070.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (500 gr.)",
+          "price": 420.75,
+          "description": "göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 6 adet lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (750 gr.)",
+          "price": 552.5,
+          "description": "göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 9 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765078.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.)",
+          "price": 679.15,
+          "description": "göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 12 adet lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ köfte Dürüm (100 gr)",
+          "price": 144.5,
+          "description": "Nane, turşu, mor lahana, maydanoz, domates, yakan biber, jalapeno biber, iceberg marul, limon, mısır, nar ekşisi, acı sos, burger sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69809114.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Lavaş Doritoslu Çiğ Köfte Dürüm (100 gr.)",
+          "price": 153.0,
+          "description": "Seçeceğiniz malzemeler",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69857660.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritoslu Çiğ Köfte Dürüm (100 gr.)",
+          "price": 161.5,
+          "description": "Doritos, çiğ köfte, seçeceğiniz malzemeler",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69857844.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Lavaş Dürüm (100 gr.)",
+          "price": 136.0,
+          "description": "Çiğ köfte, yeşillik, domates, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69858389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ultra Double Çiğ Köfte Dürüm (200 gr.)",
+          "price": 199.75,
+          "description": "Çift lavaş, garnitür",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69858446.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Lavaş Mega Dürüm (150 gr.)",
+          "price": 157.25,
+          "description": "Seçeceğiniz malzemeler",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69858687.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Çiğ Köfte Dürüm (150 gr.)",
+          "price": 161.5,
+          "description": "Tek lavaşa; çiğ köfte, domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69858844.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritoslu Mega Çiğ Köfte Dürüm (150 gr.)",
+          "price": 174.25,
+          "description": "Çift lavaş, seçeceğiniz malzemeler",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Doritoslu Double Dürüm (170 gr.) (Çift Lavaş)",
+          "price": 204.0,
+          "description": "Çift lavaş arasına; çiğ köfte, doritos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Doritoslu Ultra Double Çiğ Köfte Dürüm (200 gr.)",
+          "price": 212.5,
+          "description": "Çift lavaş, çiğ köfte, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (350 gr)",
+          "price": 306.0,
+          "description": "göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 4 adet lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ köfte (850 gr)",
+          "price": 594.15,
+          "description": "göbek marul, limon, nane, maydanoz, nar ekşisi, acı sos, 10 adet lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Mezeler",
+      "products": [
+        {
+          "name": "İtalyan Salatası (150 gr)",
+          "price": 119.0,
+          "description": "150 gr içindekiler, havuç, salam, mayonez, turşu, bezelye, dereotu, tuz, koruyucular",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Ezme (150 Gr)",
+          "price": 119.0,
+          "description": "150 gr.içindekiler; domates, k. soğan, sarımsak, d. salçası, pul biber, zeytinyağı, maydanoz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Tantuni (120 Gr)",
+          "price": 127.5,
+          "description": "120 gr İçindekiler; tavuk göğsü, tavuk fileto, sıvı yağ, baharat,",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Atom (150 Gr)",
+          "price": 127.5,
+          "description": "150 gr İçindekiler; tam yağlı s. yoğurt, köz patlıcan, sarımsak, pul biber, s. yağ, toz tatlı biber, tuz",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Haydari (150 gr)",
+          "price": 119.0,
+          "description": "150 gr. İçindekiler; t. yağlı, yoğurt, nane, tuz, sarımsak, margarin, maydanoz",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/ddcbf3c5-b23b-45a9-b12a-ffd4f8fc7ace.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Limon",
+          "price": 25.5,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lavaş (Adet)",
+          "price": 17.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Nar Ekşisi",
+          "price": 17.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kızarmış İçli Köfte (Adet)",
+          "price": 84.15,
+          "description": "1 adet",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hatay Usulü İçli Köfte",
+          "price": 84.15,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Sarıyer Portakal 200 ml",
+          "price": 46.75,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Kola (20 cl.)",
+          "price": 46.75,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Kola (25 cl.)",
+          "price": 34.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "acılı ayran 27 cl",
+          "price": 63.75,
+          "description": "pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/80985872-ff7f-4c06-a062-6d220d5bba3d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/78249175/dc823ff7-2a46-49c0-95c7-e0d5c425bb2c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Niğde Gazozu (25 cl.)",
+          "price": 42.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765244.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özerhisar Ayran (24,5 cl.)",
+          "price": 75.65,
+          "description": "Büyük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69991262.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 34.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765144.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elmalı Soda (20 cl.)",
+          "price": 38.25,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/78249168/8d71c46e-4a38-45c4-8f2f-2f009a58eaa8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 29.75,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69765216.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 21.25,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69765197.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 51.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69858974.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 93.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/efll/product/78348357/ac7792d1-3ede-43b6-a0a3-1cfb271674e5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Soda (20 cl.)",
+          "price": 38.25,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71194425.jpg?width=150&height=150"
+        },
+        {
+          "name": "Turşu Suyu (1 L.)",
+          "price": 76.5,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Taneli Turşu Suyu (20 cl.)",
+          "price": 63.75,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Portakallı Gazoz (33 cl.)",
+          "price": 59.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 46.75,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Kola (1 L.)",
+          "price": 93.5,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Turşu Suyu (25 cl.)",
+          "price": 46.75,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (1 L.)",
+          "price": 89.25,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

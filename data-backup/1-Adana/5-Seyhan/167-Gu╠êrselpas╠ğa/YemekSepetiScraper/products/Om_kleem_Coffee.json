@@ -1,0 +1,368 @@
+{
+  "link_hash": "0938e8ce",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Om kleem Coffee",
+  "link": "https://www.yemeksepeti.com/restaurant/p6r6/om-kleem-coffee",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Iced Strawberry Matcha Latte",
+          "price": 295.0,
+          "description": "Buzlu, çilekli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72847502.jpg?width=128&height=128"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 250.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66454081.jpg?width=128&height=128"
+        },
+        {
+          "name": "Iced Matcha Latte",
+          "price": 275.0,
+          "description": "(Soğuk servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72847326.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Cheesecake",
+          "price": 280.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68431870.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Çikolatalı Brownie",
+          "price": 270.0,
+          "description": "Soğuk servis edilir. Isıtılarak tüketilmelidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66454763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Frappe",
+          "price": 290.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453865.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Banana Caramel Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Caramel Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mocha",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454676.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Mocha",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454682.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vanilla Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454684.jpg?width=150&height=150"
+        },
+        {
+          "name": "Toffee Nut Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454689.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pumpkin Spice Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454693.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chai Tea Latte",
+          "price": 280.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454703.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte",
+          "price": 250.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454705.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White",
+          "price": 260.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454710.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve",
+          "price": 230.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66454713.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıcak Çikolata",
+          "price": 230.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66454719.jpg?width=150&height=150"
+        },
+        {
+          "name": "Americano",
+          "price": 230.0,
+          "description": "Espresso kahvesine sıcak su eklenerek hazırlanan bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66820447.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Caramel Frappe",
+          "price": 290.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453865.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mocha Frappe",
+          "price": 290.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "White Mocha Frappe",
+          "price": 290.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66453876.jpg?width=150&height=150"
+        },
+        {
+          "name": "Strawberry Cheesecake Frappe",
+          "price": 290.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453895.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cold Brew",
+          "price": 230.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 230.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453909.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Banana Caramel Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caramel Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453917.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caramel Latte Macchiato",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453920.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453924.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Vanilla Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453926.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Toffee Nut Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453931.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Pumpkin Spice Latte",
+          "price": 280.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66453933.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Chai Tea Latte",
+          "price": 280.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66454072.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 250.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Flat White",
+          "price": 260.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66454084.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filter Coffee",
+          "price": 230.0,
+          "description": "(16 oz. olarak servis edilir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Matcha Latte",
+          "price": 275.0,
+          "description": "(Soğuk servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72847326.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Mango Matcha Latte",
+          "price": 295.0,
+          "description": "(Soğuk servis edilir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Strawberry Matcha Latte",
+          "price": 295.0,
+          "description": "Buzlu, çilekli",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced White Mocha",
+          "price": 270.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Çilekli Limonata",
+          "price": 210.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Limonata",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "No. 09",
+          "price": 270.0,
+          "description": "Siyah çay, kırmızı meyveler",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Beyaz Çikolatalı Brownie",
+          "price": 270.0,
+          "description": "Soğuk servis edilir. Isıtılarak tüketilmelidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/66454763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Brownie",
+          "price": 270.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Muzlu Lotuslu Mag",
+          "price": 250.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Antep Fıstıklı Gurme Ekler",
+          "price": 220.0,
+          "description": "Antep Fıstıklı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Antep Fıstıklı Mag",
+          "price": 260.0,
+          "description": "Günlük hazırlanmaktadır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlü Belçika Çikolatası Sosu",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68200026.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Belçika Çikolatası Sosu",
+          "price": 60.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68200027.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dubai Cheesecake",
+          "price": 280.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68431870.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Çikolatalı Cookie",
+          "price": 160.0,
+          "description": null,
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

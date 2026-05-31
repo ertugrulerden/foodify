@@ -1,0 +1,66 @@
+{
+  "link_hash": "1931c5ec",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Pilavcı Kadir",
+  "link": "https://www.yemeksepeti.com/restaurant/ngi8/pilavci-kadir-ngi8",
+  "categories": [
+    {
+      "name": "Basmati Üstü Ürünler",
+      "products": [
+        {
+          "name": "Basmati Pilav Üstü Cajun Baharatlı Tavuk",
+          "price": 300.0,
+          "description": "Salata, jalapeno biber ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ngi8/product/78588450/31f6c318-be16-4bb4-8df7-c7033146446a.jpg?width=128&height=128"
+        },
+        {
+          "name": "Basmati Pilav Üstü Kremalı Mantarlı Tavuk",
+          "price": 300.0,
+          "description": "Salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ngi8/product/78588456/73936759-5767-429d-b2cb-a892cc072832.jpg?width=128&height=128"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70090999.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70091009.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70091016.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70091024.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": null
+        }
+      ]
+    }
+  ]
+}

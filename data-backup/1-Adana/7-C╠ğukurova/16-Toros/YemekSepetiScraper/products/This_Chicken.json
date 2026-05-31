@@ -1,0 +1,816 @@
+{
+  "link_hash": "ea7e5518",
+  "scraped_at": "260528_0100",
+  "restaurant_name": "This Chicken",
+  "link": "https://www.yemeksepeti.com/restaurant/whdh/this-chicken-whdh",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Mix Bowl",
+          "price": 399.9,
+          "description": "300 gr. Patates, 10 Pop-Up Chicken, 2 Fingers, 2 Nugget, isteğe göre 3 adet sos (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75527839.jpg?width=128&height=128"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 134.9,
+          "description": "200 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229795.jpg?width=128&height=128"
+        },
+        {
+          "name": "Double Bowl Menü",
+          "price": 499.9,
+          "description": "2 Adet Bowl (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75416395.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Eco Menü",
+          "price": 349.9,
+          "description": "2 Adet ChickBurger + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73207955.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Coca Cola Avantajlı Menüleri",
+      "products": [
+        {
+          "name": "Coca-Cola Menü 1",
+          "price": 604.9,
+          "description": "Çıtır Bowl + Mix Bowl + Litrelik İçecek (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Menü 2",
+          "price": 514.9,
+          "description": "ChickBurger (90 gr.) + EcoChickBurger (65 gr.) + 4 Adet Soğan Halkası + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215227.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Menü 3",
+          "price": 664.9,
+          "description": "2 Adet Chicken Burger + 20 Adet Pop-Up + 2 Adet Patates Kızartması + Litrelik içecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215304.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Menü 4",
+          "price": 734.9,
+          "description": "4 Adet Yaprak Kanat + 4 Adet Kök Kanat + 4 Adet Fingers + 4 Adet Soğan Halkası + Patates Kızartması + Litrelik içecek ( L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73217663.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Menü 5",
+          "price": 664.9,
+          "description": "4 Adet Çıtır Tenders + 4 Adet Küp Tenders + 4 Adet Fingers + 20 Adet Pop-Up Chicken + Patates Kızartması + Litrelik içecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73217729.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Algida Menüleri",
+      "products": [
+        {
+          "name": "Algida 1",
+          "price": 604.9,
+          "description": "Çıtır Bowl + Mix Bowl + 2 Adet Algida Maraş Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52399443.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida 2",
+          "price": 514.9,
+          "description": "ChickBurger (90 g), EcoChickBurger (65 gr.), 4 Soğan Halkası, Patates, Algida Maraş Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73208956.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida 3",
+          "price": 664.9,
+          "description": "2 Chicken Burger, 20 Pop-Up, 2 Patates, 2 Algida Maraş Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52399445.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida 4",
+          "price": 734.9,
+          "description": "4 Yaprak Kanat, 4 Kök Kanat, 4 Fingers, 4 Soğan Halkası, Patates, 2 Algida Maraş Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68565624.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida 5",
+          "price": 664.9,
+          "description": "4 Çıtır Tenders, 4 Küp Tenders, 4 Fingers, 20 Pop-Up Chicken, Patates, 2 Algida Maraş Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73214932.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menüler",
+      "products": [
+        {
+          "name": "1+1 Chicken Burger",
+          "price": 400.0,
+          "description": "2 Adet Chicken Burger",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75529234.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel 175 TL Menü",
+      "products": [
+        {
+          "name": "ChickBurger (90 gr.)",
+          "price": 175.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73212272.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel 200 TL Menü",
+      "products": [
+        {
+          "name": "Chicken Burger",
+          "price": 200.0,
+          "description": "Chicken burger",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211151.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Şubeye Özel Fırsatlar",
+      "products": [
+        {
+          "name": "Maxi Chicken Burger Menü",
+          "price": 499.9,
+          "description": "Chicken Burger + 2 Adet Çıtır Tenders + Çıtır Patates + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73214192.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doy Doy Menü",
+          "price": 699.9,
+          "description": "2 Adet Chicken Burger + 4 Adet Fingers +10'lu Pop Up Chicken + 6'lı Soğan Halkası + 2 Adet Patates + Litrelik İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215062.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Bowl Menü",
+          "price": 499.9,
+          "description": "2 Adet Bowl (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75416395.jpg?width=150&height=150"
+        },
+        {
+          "name": "Big Mix Menü",
+          "price": 499.9,
+          "description": "1 Chicken Bowl + 1 Chicken Burger + Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78176153.jpg?width=150&height=150"
+        },
+        {
+          "name": "King Mix Menü",
+          "price": 849.9,
+          "description": "2 Adet Chicken Burger + 2 Adet Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80308019.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eco Mix Menü",
+          "price": 449.9,
+          "description": "2 Adet EcoChickBurger (65 gr.) + 1 Adet Bowl",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80308286.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Eco Mini Menüler",
+      "products": [
+        {
+          "name": "EcoChick Menü",
+          "price": 299.9,
+          "description": "3 Adet Fingers + 3 Adet Nugget + 3 Adet Soğan Halkası + 10 Adet Pop-Up Chicken + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73185585.jpg?width=150&height=150"
+        },
+        {
+          "name": "EcoPop Menü",
+          "price": 314.9,
+          "description": "40 Adet Pop-Up Chicken + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73187094.jpg?width=150&height=150"
+        },
+        {
+          "name": "MiniChick Menü",
+          "price": 329.9,
+          "description": "2 Adet Çıtır Tenders + 2 Adet Küp Tenders + 10 Adet Pop-Up Chicken + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73189622.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Eco Menü",
+          "price": 349.9,
+          "description": "2 Adet ChickBurger + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73207955.jpg?width=150&height=150"
+        },
+        {
+          "name": "Triple Eco Menü",
+          "price": 424.9,
+          "description": "3 Adet EkoChickBurger + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73208384.jpg?width=150&height=150"
+        },
+        {
+          "name": "4x4 Eco Menü",
+          "price": 784.9,
+          "description": "2 Adet EcoChic Burger + 2 Adet EcoHamBurger +2 Adet Patates + 20 Adet Pop-Up Chicken + 8 Adet Soğan Halkası + Litrelik içecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73210600.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "1-2 Kişilik Çıtır Menüler",
+      "products": [
+        {
+          "name": "S'Wings Menü",
+          "price": 434.9,
+          "description": "2 Yaprak Kanat, 2 Kök Kanat, Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215214.jpg?width=150&height=150"
+        },
+        {
+          "name": "S'Tenders Menü",
+          "price": 404.9,
+          "description": "2 Çıtır Tenders, 2 Küp Tenders, 2 Fingers, Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73216263.jpg?width=150&height=150"
+        },
+        {
+          "name": "S'Pop Up Çıtır Menü",
+          "price": 404.9,
+          "description": "4 Küp Tenders, 20'lu Pop-Up Chicken, Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73217273.jpg?width=150&height=150"
+        },
+        {
+          "name": "M'Wings Menü",
+          "price": 604.9,
+          "description": "4 Yaprak Kanat, 4 Kök Kanat, Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73217635.jpg?width=150&height=150"
+        },
+        {
+          "name": "M'Tenders Menü",
+          "price": 544.9,
+          "description": "4 Çıtır Tenders, 4 Küp Tenders, 4 Fingers, Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73217683.jpg?width=150&height=150"
+        },
+        {
+          "name": "M'Pop Up Çıtır Menü",
+          "price": 514.9,
+          "description": "2 Çıtır Tenders, 4 Küp Tenders, 30'li Pop-Up Chicken, Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73217912.jpg?width=150&height=150"
+        },
+        {
+          "name": "M'Çıtır Mix Menü",
+          "price": 624.9,
+          "description": "2 Yaprak Kanat, 2 Kök Kanat, 2 Çıtır Tenders, 2 Küp Tenders, 10 Pop-Up Chicken, 2 Fingers, 2 Nugget, 2 Soğan Halkası, Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73218175.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "3-4 Kişilik Çıtır Menüler",
+      "products": [
+        {
+          "name": "L'Wings Menü",
+          "price": 809.9,
+          "description": "6 Yaprak Kanat, 6 Kök Kanat, 2 Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73218897.jpg?width=150&height=150"
+        },
+        {
+          "name": "L'Tenders Menü",
+          "price": 724.9,
+          "description": "6 Çıtır Tenders, 6 Küp Tenders, 6 Fingers, 2 Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73219583.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL'Wings Menü",
+          "price": 954.9,
+          "description": "8 Yaprak Kanat, 8 Kök Kanat, 2 Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73219827.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL'Tenders Menü",
+          "price": 844.9,
+          "description": "8 Çıtır Tenders, 8 Küp Tenders, 8 Fingers, 2 Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73220183.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL'Çıtır Mix Menü",
+          "price": 989.9,
+          "description": "4 Yaprak Kanat, 4 Kök Kanat, 4 Çıtır Tenders, 4 Küp Tenders, 20 Pop-Up Chicken, 4 Fingers, 4 Nugget, 4 Soğan Halkası, 2 Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73220407.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "1-2 Kişilik Burger & Roll Menüler",
+      "products": [
+        {
+          "name": "Chicken Burger Menü",
+          "price": 434.9,
+          "description": "Chicken Burger + Parmak Patates Kızartması + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73210351.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Roll Menü",
+          "price": 434.9,
+          "description": "Chicken Roll + Parmak Patates Kızartması + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73210922.jpg?width=150&height=150"
+        },
+        {
+          "name": "ChickBurger Menü",
+          "price": 394.9,
+          "description": "ChickBurger (90 gr.) + Parmak Patates Kızartması + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211209.jpg?width=150&height=150"
+        },
+        {
+          "name": "EcoChickBurger Menü",
+          "price": 369.9,
+          "description": "EcoChickBurger (65 gr.) + Parmak Patates Kızartması + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73212055.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Menü",
+          "price": 484.9,
+          "description": "Hamburger (90 gr.) + Parmak Patates Kızartması + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73212287.jpg?width=150&height=150"
+        },
+        {
+          "name": "EcoHamburger Menü",
+          "price": 404.9,
+          "description": "EcoHamburger (45 gr.) + Parmak Patates Kızartması + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73212621.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mix Roll Menü",
+          "price": 469.9,
+          "description": "Chicken Roll + Parmak Patates Kızartması + Nugget (4 Adet) + Soğan Halkası (4 Adet) + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73213369.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pop Up Roll Menü",
+          "price": 454.9,
+          "description": "Chicken Roll + Parmak Patates Kızartması + Pop-Up Chicken (10 Adet) + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73214976.jpg?width=150&height=150"
+        },
+        {
+          "name": "Score Menü",
+          "price": 504.9,
+          "description": "Chicken Burger + Çıtır Tenders + Fingers (2 Adet) + Soğan Halkası (4 Adet) + Parmak Patates Kızartması + İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215116.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gamer Menü",
+          "price": 544.9,
+          "description": "Chicken Burger + Çıtır Tenders + Fingers (2 Adet) + Pop-Up Chicken (10 Adet) + Soğan Halkası (4 Adet) + Parmak Patates Kızartması + Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215541.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kanka Menü",
+          "price": 784.9,
+          "description": "2 Chicken Burger + 2 Çıtır Tenders + Fingers (4 Adet) + Pop-Up Chicken (20 Adet) + 2 Parmak Patates Kızartması + Litrelik İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73218089.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çocuk Menü",
+          "price": 359.9,
+          "description": "EcoChickBurger (65 gr.) + Parmak Patates Kızartması + Donat + Cappy (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73219417.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "3-4 Kişilik Burger & Roll Menüler",
+      "products": [
+        {
+          "name": "Triple Chicken Roll Menü",
+          "price": 784.9,
+          "description": "3 Chicken Roll + Pop-Up Chicken (15 Adet) + Nugget (6 Adet) + Soğan Halkası (6 Adet) + Parmak Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73219804.jpg?width=150&height=150"
+        },
+        {
+          "name": "Triple Chicken Burger Menü",
+          "price": 784.9,
+          "description": "3 Chicken Burger + Pop-Up Chicken (15 Adet) + Nugget (6 Adet) + Soğan Halkası (6 Adet) + Parmak Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73220104.jpg?width=150&height=150"
+        },
+        {
+          "name": "Triple ChickBurger Menü",
+          "price": 664.9,
+          "description": "3 ChickBurger Burger (90 gr.) + Pop-Up Chicken (15 Adet) + Nugget (6 Adet) + Soğan Halkası (6 Adet) + Parmak Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73220292.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo EcoChick Pop- Up Menü",
+          "price": 664.9,
+          "description": "4 EcoChick + Pop-Up Chicken (40 Adet) + 2 Parmak Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73220602.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo Chicken Pop-Up Menü",
+          "price": 969.9,
+          "description": "4 Chicken Burger + Pop-Up Chicken (40 Adet) + 2 Parmak Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73221183.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburger (90 gr.)",
+          "price": 385.0,
+          "description": "90 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211138.jpg?width=150&height=150"
+        },
+        {
+          "name": "EcoHamburger (45 gr.)",
+          "price": 220.0,
+          "description": "45 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211144.jpg?width=150&height=150"
+        },
+        {
+          "name": "ChickBurger (90 gr.)",
+          "price": 275.0,
+          "description": "Tavuk burger, marul, turşu, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211162.jpg?width=150&height=150"
+        },
+        {
+          "name": "EcoChickBurger (65 gr.)",
+          "price": 220.0,
+          "description": "65 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69201184.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bowllar",
+      "products": [
+        {
+          "name": "Çıtır Bowl",
+          "price": 399.9,
+          "description": "300 gr. patates, 2 adet çıtır tenders, isteğe bağlı 3 adet sos (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215130.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mix Bowl",
+          "price": 399.9,
+          "description": "300 gr. patates, 10 adet pop-up chicken, 2 adet fingers, 2 adet nugget, isteğe bağlı 3 adet sos (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73215134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mix Bowl",
+          "price": 399.9,
+          "description": "300 gr. Patates, 10 Pop-Up Chicken, 2 Fingers, 2 Nugget, isteğe göre 3 adet sos (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75527839.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çıtır Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 134.9,
+          "description": "200 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Elma Dilim Patates Kızartması",
+          "price": 134.9,
+          "description": "200 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 129.9,
+          "description": "90 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229797.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (12 Adet)",
+          "price": 174.9,
+          "description": "180 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52229796.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pop-Up Chicken (10 Adet)",
+          "price": 139.9,
+          "description": "70 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229798.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pop-Up Chicken (20 Adet)",
+          "price": 194.9,
+          "description": "140 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229799.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nugget (6 Adet)",
+          "price": 139.9,
+          "description": "130 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229794.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nugget (12 Adet)",
+          "price": 204.9,
+          "description": "260 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229793.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tenders (3 Adet)",
+          "price": 204.9,
+          "description": "180 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211029.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tenders (6 Adet)",
+          "price": 309.9,
+          "description": "360 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211040.jpg?width=150&height=150"
+        },
+        {
+          "name": "Küp Tenders (6 Adet)",
+          "price": 209.9,
+          "description": "180 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211052.jpg?width=150&height=150"
+        },
+        {
+          "name": "Küp Tenders (12 Adet)",
+          "price": 309.9,
+          "description": "360 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211062.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Wings (Yaprak Kanat) (3 Adet )",
+          "price": 209.9,
+          "description": "126 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211070.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Wings (Yaprak Kanat) (6 Adet )",
+          "price": 309.9,
+          "description": "252 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211090.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Wings (Kök Kanat) (3 Adet )",
+          "price": 229.9,
+          "description": "165 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211106.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Wings (Kök Kanat) (6 Adet )",
+          "price": 339.9,
+          "description": "330 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73211116.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fingers (3 Adet)",
+          "price": 139.9,
+          "description": "84 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68557918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fingers (6 Adet)",
+          "price": 209.9,
+          "description": "168 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68557919.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Roll",
+          "price": 350.0,
+          "description": "Chicken Roll",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69201185.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar & Dondurmalar",
+      "products": [
+        {
+          "name": "Donut",
+          "price": 149.9,
+          "description": "Seçeceğiniz donut",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72495055.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Maraş Usulü Cup Dondurma (100 ml.)",
+          "price": 129.9,
+          "description": "100 ml.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68557920.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 104.9,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229816.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 104.9,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229812.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (1 L.)",
+          "price": 114.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229815.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 104.9,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229818.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 104.9,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229823.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 104.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52229810.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 104.9,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 89.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229808.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 59.9,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 49.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229824.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 114.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229811.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 114.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229817.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 114.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229822.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (1 L.)",
+          "price": 114.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 114.9,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229809.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Çıtır Lezzetler (Pişirilmiş)",
+      "products": [
+        {
+          "name": "Çıtır Wings (500 gr.)",
+          "price": 604.9,
+          "description": "Çıtır Wings (kök ve yaprak kanat). Belirtilen gramaj bilgileri, ürünlerin çiğ hâline aittir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tenders (500 gr.)",
+          "price": 544.9,
+          "description": "Çıtır Tenders. Belirtilen gramaj bilgileri, ürünlerin çiğ hâline aittir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73218084.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Mix (500 gr.)",
+          "price": 549.9,
+          "description": "Çıtır Wings (kök ve yaprak kanat), çıtır tenders ve fingers. Belirtilen gramaj bilgileri, ürünlerin çiğ hâline aittir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73218090.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Wings (1 kg.)",
+          "price": 964.9,
+          "description": "Kök ve yaprak kanat. Belirtilen gramaj bilgileri, ürünlerin çiğ hâline aittir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73218100.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tenders (1 kg.)",
+          "price": 899.9,
+          "description": "Çıtır Tenders. Belirtilen gramaj bilgileri, ürünlerin çiğ hâline aittir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73218104.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Mix (1 kg.)",
+          "price": 899.9,
+          "description": "Kök ve yaprak kanat, çıtır tenders ve fingers. Belirtilen gramaj bilgileri, ürünlerin çiğ hâline aittir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/73218123.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "3'lü Sos",
+          "price": 39.9,
+          "description": "3 adet sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/36896503.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 19.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229826.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 19.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229827.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ketçap",
+          "price": 9.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229828.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 9.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52229829.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 19.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229830.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsaklı Mayonez",
+          "price": 19.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/52229831.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buffalo Sos",
+          "price": 19.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433544.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sriracha Sos",
+          "price": 19.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71433545.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Sos",
+          "price": 19.9,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433546.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/36896547.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "link_hash": "f72cf353",
+  "scraped_at": "260528_0037",
+  "restaurant_name": "Tavada Tavuk",
+  "link": "https://www.yemeksepeti.com/restaurant/dov1/tavada-tavuk-dov1",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Mantar Tarlası - Mantarlı Soslu Tavuk",
+          "price": 460.0,
+          "description": "Kremalı mantar sosla marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912540.jpg?width=128&height=128"
+        },
+        {
+          "name": "Köri Köri Lady - Köri Soslu Tavuk",
+          "price": 468.0,
+          "description": "Köri sos, mantar ve arpacık soğanlar ile marine edilmiş tavuk bonfile. Özel pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912534.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kekik Tarlası - Kekikli Kremalı Soslu Tavuk",
+          "price": 468.0,
+          "description": "Dağ kekiği ve kremalı peynir sos ile marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912537.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Köri Soslu Tavuk",
+          "price": 468.0,
+          "description": "Acılı köri sos, mantar ve arpacık soğanlar ile marine edilmiş tavuk bonfile. Özel pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912533.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuklu Penne",
+          "price": 340.0,
+          "description": "Taze mantar ve özenle pişirilmiş tavuk parçaları ile zenginleştirilmiş krema sosu, penne makarnanın üzerine dökülerek servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912563.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Kişilik Ziyafet Şöleni (2 Kişilik)",
+          "price": 960.0,
+          "description": "2 Adet Seçeceğiniz Tavuk Tabağı + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912505.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Fiyat",
+      "products": [
+        {
+          "name": "Yemeksepeti Özel Menü",
+          "price": 490.0,
+          "description": "Köri Köri Lady Tabağı + Günün Çorbası + Pepsi (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Aile ve Arkadaş Menülerimiz",
+      "products": [
+        {
+          "name": "Doya Doya Lezzet Menüsü (Yemek + Çorba + İçecek)",
+          "price": 560.0,
+          "description": "Seçeceğiniz Tavuk Tabağı + Günün Çorbası + Seçeceğiniz İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912504.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çift Kişilik Ziyafet Şöleni (2 Kişilik)",
+          "price": 960.0,
+          "description": "2 Adet Seçeceğiniz Tavuk Tabağı + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912505.jpg?width=150&height=150"
+        },
+        {
+          "name": "Aile Menü Ziyafet Şöleni (3 Kişilik)",
+          "price": 1.36,
+          "description": "3 Adet Seçeceğiniz Tavuk Tabağı + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912506.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lezzet Dörtlüsü Aile Ziyafeti (4 Kişilik)",
+          "price": 1.76,
+          "description": "Seçeceğiniz 4 Adet Soslu Tavuk + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912507.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Minik Gurme Çocuk Menüleri",
+      "products": [
+        {
+          "name": "Çocuk Çıtır Tavuk Menü",
+          "price": 360.0,
+          "description": "3 Adet Çıtır Tavuk Parçaları + Pesto Soslu Penne Makarna + Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912508.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çocuk Köfte Menü",
+          "price": 440.0,
+          "description": "3 Adet Dana Köfte + Pesto Soslu Penne Makarna + Patates Kızartması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçinizi Isıtan Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 120.0,
+          "description": "Geleneksel tariften ilham alınarak hazırlanan, dengeli kıvamı ve lezzetiyle öne çıkan Tavada Tavuk'a özgü mercimek çorbası yanında ekmek ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patlıcan Çorbası",
+          "price": 120.0,
+          "description": "Özenle hazırlanmış köz patlıcan lezzetiyle sunulan, Tavada Tavuk’a özgü özel bir reçetedir. Sıcak ekmek eşliğinde servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912511.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Mangal Tadında Izgaralar",
+      "products": [
+        {
+          "name": "Izgara Tavuk Bonfile",
+          "price": 440.0,
+          "description": "Marine edilmiş tavuk bonfile, pesto soslu makarna. Salata ile servis edilir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Tavuk Pirzola",
+          "price": 460.0,
+          "description": "Özenle marine edilmiş tavuk pirzola. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912512.jpg?width=150&height=150"
+        },
+        {
+          "name": "TT Special - Karışık Lezzetler Tabağı",
+          "price": 580.0,
+          "description": "Özel baharatlar ile marine edilmiş tavuk pirzola, dışı çıtır, içi yumuşak tavuk bonfile, dana etinden hazırlanan İnegöl köfte, acılı servis sos, patates kızartması ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433407.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Et Bonfile",
+          "price": 760.0,
+          "description": "Özel baharatlar ile marine edilmiş kontrfile dilimleri, acılı servis sos, patates kızarması ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71433440.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soslu Bonfile - Kaparili Mantar Soslu Tavuk Bonfile",
+          "price": 500.0,
+          "description": "Kaparili mantar sos üzerinde servis edilen tavuk bonfile, tandır lavaş ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433454.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Gurme Izgara Köfteler",
+      "products": [
+        {
+          "name": "İnegöl Köfte",
+          "price": 600.0,
+          "description": "Dana eti ile hazırlanan beş adet İnegöl köftesi. Çıtır patates kızartması ve salata ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beğendili Köfte",
+          "price": 660.0,
+          "description": "Köz patlıcan ve yoğurt ile hazırlanan beğendi sosu üzerinde, dana eti ile hazırlanan beş adet nefis İnegöl köftesi. Çıtır patates kızartması ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912517.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çıtır Tavuk Lezzetleri",
+      "products": [
+        {
+          "name": "Çıtır Küp Tavuk Tabağı",
+          "price": 460.0,
+          "description": "Özel baharatlar ile hazırlanmış çıtır kaplamalarla dışı çıtır, içi yumuşak özel soslarla marine edilmiş tavuk bonfile parçaları. Makarna ve salata ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sweet Chili Soslu Çıtır Küp Tavuk",
+          "price": 480.0,
+          "description": "Özel soslarla marine edilmiş tavuk bonfile parçaları. Makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912520.jpg?width=150&height=150"
+        },
+        {
+          "name": "Viyana Şnitzel Tabağı",
+          "price": 460.0,
+          "description": "Marine edilmiş tavuk bonfile, makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433484.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavada Soslu Tavuklar",
+      "products": [
+        {
+          "name": "Acılı Köri Soslu Tavuk",
+          "price": 468.0,
+          "description": "Acılı köri sos, mantar ve arpacık soğanlar ile marine edilmiş tavuk bonfile. Özel pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912533.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Köri Lady - Köri Soslu Tavuk",
+          "price": 468.0,
+          "description": "Köri sos, mantar ve arpacık soğanlar ile marine edilmiş tavuk bonfile. Özel pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912534.jpg?width=150&height=150"
+        },
+        {
+          "name": "Anadolu Ateşi Soslu Tavuk",
+          "price": 468.0,
+          "description": "Anadolu sos ve California biberleriyle marine edilmiş tavuk bonfile. Pesto soslu makarna makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912535.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Zamanı - Barbekü Soslu Tavuk",
+          "price": 460.0,
+          "description": "Barbekü sos ve California biberiyle marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912536.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kekik Tarlası - Kekikli Kremalı Soslu Tavuk",
+          "price": 468.0,
+          "description": "Dağ kekiği ve kremalı peynir sos ile marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912537.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cipsli Cheddar Soslu Tavuk",
+          "price": 468.0,
+          "description": "Enfes cheddar sos ve Doritos parçacıkları marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912538.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantar Tarlası - Mantarlı Soslu Tavuk",
+          "price": 460.0,
+          "description": "Kremalı mantar sosla marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912540.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dem Dem Soslu Tavuk",
+          "price": 460.0,
+          "description": "Tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912541.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soya Doya - Soya Soslu Tavuk",
+          "price": 440.0,
+          "description": "Soya sosla marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Beğendili Pirzola Kavurma",
+          "price": 500.0,
+          "description": "Lezzetli köz patlıcan beğendi üzerine özenle pişirilmiş tavuk pirzola kavurma. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912543.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Hardallı Soslu Tavuk",
+          "price": 468.0,
+          "description": "Özel ballı hardal sos ile marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912544.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Chili Soslu Tavuk",
+          "price": 468.0,
+          "description": "Tatlı ve hafif acı sweet chili sosuyla harmanlanm��ş, dışı çıtır içi yumuşacık tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912545.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meksika Soslu Tavuk",
+          "price": 468.0,
+          "description": "Acılı meksika sos ve California biberleriyle marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912546.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chipotle Soslu Tavuk",
+          "price": 468.0,
+          "description": "Smoky ve baharatlı chipotle sosuyla marinelenmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912547.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beğendili Dem Dem Soslu Tavuk",
+          "price": 500.0,
+          "description": "Közlenmiş patlıcan beğendi üzerine özenle hazırlanmış, Dem Dem sosu, tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912549.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mac & Cheese Soslu Tavuk",
+          "price": 468.0,
+          "description": "Makarna peynir sos, tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912550.jpg?width=150&height=150"
+        },
+        {
+          "name": "Arrabbiata Soslu Tavuk",
+          "price": 468.0,
+          "description": "Özel arrabbiata sos ile marine edilmiş tavuk bonfile. Pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70819368.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Barbekü Soslu Tavuk",
+          "price": 468.0,
+          "description": "Acılı barbekü sos, Kaliforniya biberiyle marine edilmiş tavuk bonfile, özel pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433514.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cafe De Paris Soslu Tavuk",
+          "price": 468.0,
+          "description": "Paris sos ve California biberiyle marine edilmiş tavuk bonfile, pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheese Chicken Lady",
+          "price": 468.0,
+          "description": "Peynir ve kremalı sosuyla marinelenmiş tavuk bonfile, pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71433575.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pirzola Kavurma",
+          "price": 468.0,
+          "description": "Özenle pişirilmiş tavuk pirzola kavurma, pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71433617.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüflü Mantarlı Tavuk",
+          "price": 468.0,
+          "description": "Trüf mantarlı sosla marine edilmiş tavuk bonfile, pesto soslu makarna ve salata ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Burger & Wrap",
+      "products": [
+        {
+          "name": "Soya Wrap",
+          "price": 340.0,
+          "description": "Lezzetli tavuk parçaları, taze sebzeler ve özel soya sosu, dolu yumuşak tortilla ekmeğinde sarılarak. Patates kızartması ve salata ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Klasik Chicken Burger",
+          "price": 340.0,
+          "description": "İçi yumuşacık tavuk bonfile, dışı çıtır schnitzel, özel burger sosu, turşu, marul. Patates kızartması ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71545115.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheese Chicken Burger",
+          "price": 360.0,
+          "description": "İçi yumuşacık tavuk bonfile, dışı çıtır schnitzel, cheddar peyniri, özel burger sosu, turşu, marul. Patates kızartması ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71545186.jpg?width=150&height=150"
+        },
+        {
+          "name": "Klasik Burger",
+          "price": 400.0,
+          "description": "Dana burger köftesi, karamelize soğan, özel burger sosu, turşu, marul. Patates kızartması ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71545207.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheese Burger",
+          "price": 420.0,
+          "description": "Dana burger köftesi, karamelize soğan, cheddar peyniri, özel burger sosu, turşu, marul. Patates kızartması ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71545227.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Mantı & Makarnalar",
+      "products": [
+        {
+          "name": "Kremalı Mantarlı Tavuklu Penne",
+          "price": 340.0,
+          "description": "Taze mantar ve özenle pişirilmiş tavuk parçaları ile zenginleştirilmiş krema sosu, penne makarnanın üzerine dökülerek servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912563.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuklu Penne",
+          "price": 340.0,
+          "description": "Özenle marine edilmiş ızgara tavuk bonfile parçaları, al dente pişirilmiş pesto soslu penne makarnanın üzerine servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912564.jpg?width=150&height=150"
+        },
+        {
+          "name": "Penne Arrabbiata",
+          "price": 300.0,
+          "description": "Al dente pişirilmiş özel arrabbiata soslu penne makarna servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912565.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Penne",
+          "price": 300.0,
+          "description": "Al dente pişirilmiş pesto soslu penne makarna servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912567.jpg?width=150&height=150"
+        },
+        {
+          "name": "Körili Tavuklu Penne",
+          "price": 340.0,
+          "description": "Kremalı körili sosla buluşmuş al dente pişirilmiş penne makarna, taze mantar ve California biberi ile zenginleştirilmiş tavuk parçalarıyla servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912568.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantı",
+          "price": 400.0,
+          "description": "El yapımı ince hamurda, özenle hazırlanmış kıymalı iç harcıyla dolu Kayseri mantısı. Yoğurt sosu, özel sos ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912573.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Fettuccine",
+          "price": 340.0,
+          "description": "Özenle marine edilmiş ızgara tavuk bonfile parçaları, al dente pişirilmiş pesto soslu fettuccine makarnanın üzerine servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71436132.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Paylaşımlık Atıştımalıklar",
+      "products": [
+        {
+          "name": "Baharatlı Patates Kızartması (Orta Boy)",
+          "price": 140.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheddarlı Patates (6 Adet)",
+          "price": 220.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (6 Adet)",
+          "price": 140.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912577.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dağ Kekikli Mantar Tava",
+          "price": 220.0,
+          "description": "Mantar, kekik, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912578.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mac & Cheese Topları (6 Adet)",
+          "price": 220.0,
+          "description": "6 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912583.jpg?width=150&height=150"
+        },
+        {
+          "name": "Baharatlı Patates Kızartması (Büyük Boy)",
+          "price": 160.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71432878.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (10 Adet)",
+          "price": 160.0,
+          "description": "10 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71432898.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (10 Adet)",
+          "price": 320.0,
+          "description": "10 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71432934.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (6 Adet)",
+          "price": 220.0,
+          "description": "6 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71432947.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ortaya Karışık",
+          "price": 340.0,
+          "description": "Patates kızartması, 5 adet çıtır tavuk topları ve 3 adet soğan halkası, iki adet mozzarella sticks ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71432988.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Patates (10 Adet)",
+          "price": 320.0,
+          "description": "10 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433010.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mac And Cheese Topları (10 Adet)",
+          "price": 320.0,
+          "description": "10 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433144.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Jalapeno (6 Adet)",
+          "price": 240.0,
+          "description": "6 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433185.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Jalapeno (10 Adet)",
+          "price": 340.0,
+          "description": "10 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71433201.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fit & Lezzetli Salata Lezzetleri",
+      "products": [
+        {
+          "name": "Sezar Salata",
+          "price": 400.0,
+          "description": "Taze mevsim yeşillikleri, rendelenmiş havuç, dilimlenmiş domates ve salatalık. Sezar sosuyla servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Marin Salata",
+          "price": 400.0,
+          "description": "Pirzola kavurma, taze mevsim yeşillikleri, rendelenmiş havuç, dilimlenmiş domates ve salatalık ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912587.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vegan Salata",
+          "price": 400.0,
+          "description": "Taze mevsim yeşillikleri ile hazırlanan salata, çıtır avokado burger dilimleri, dilimlenmiş domates ve salatalık ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71433663.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Bask Cheesecake",
+          "price": 240.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68912594.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yedigün Portakal (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70413444.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69783987.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tropicana (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 68.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65860232.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 48.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65860233.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65860234.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65860236.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70420726.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70769612.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 88.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70819304.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70413473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (1 L.)",
+          "price": 120.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70819345.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "link_hash": "58831df1",
+  "scraped_at": "260528_0037",
+  "restaurant_name": "Hot Station",
+  "link": "https://www.yemeksepeti.com/restaurant/dcft/hot-station",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "İzmir Kumru Menü",
+          "price": 329.0,
+          "description": "İzmir Kumru + Patates Kızartması + İçecek",
+          "img": null
+        },
+        {
+          "name": "Cheddar Kumru Menü",
+          "price": 330.0,
+          "description": "İzmir Cheddar Kumru - Patates Kızartması - İçecek",
+          "img": null
+        },
+        {
+          "name": "Hot Dog Menü",
+          "price": 280.0,
+          "description": "Hot Dog + Patates Kızartması + İçecek",
+          "img": null
+        },
+        {
+          "name": "Karışık Tost Menü",
+          "price": 280.0,
+          "description": "Karışk Tost + Patates Kızartması + İçecek",
+          "img": null
+        },
+        {
+          "name": "Kaşarlı Tost Menü",
+          "price": 250.0,
+          "description": "Kaşarlı Tost + Patates Kızartması + İçecek",
+          "img": null
+        },
+        {
+          "name": "Sebzeli Karışık Tost Menü",
+          "price": 280.0,
+          "description": "Sebzeli Karışık Tost + Patates Kızartması + İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Karışık Tost",
+          "price": 230.0,
+          "description": "Sosis, salam, sucuk, ketçap, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 180.0,
+          "description": "Kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Sebzeli Tost",
+          "price": 200.0,
+          "description": "Kaşar peyniri, yeşil biber, domates, sosis, salam",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Tost",
+          "price": 230.0,
+          "description": "Özel tost ekmeğine; dana sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77610149.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bazlama Tostlar",
+      "products": [
+        {
+          "name": "Sebzeli Karışık Bazlama Tost",
+          "price": 310.0,
+          "description": "Yeşil biber, domate, kaşar peyniri, salam, sucuk, sosis, salça sosu, baharat",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Bazlama Tost",
+          "price": 310.0,
+          "description": "Dana sosis, dana sucuk, dana salam, ketçap",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Bazlama Tost",
+          "price": 280.0,
+          "description": "Kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Bazlama Tost",
+          "price": 310.0,
+          "description": "Dana sucuk, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Hot Dog Sandviçler",
+      "products": [
+        {
+          "name": "Klasik Hot Dog",
+          "price": 200.0,
+          "description": "Sosisli ekmeğine; sosisli sosu, hardal, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kumru Sandviçler",
+      "products": [
+        {
+          "name": "Cheddar Kumru Sandviç",
+          "price": 280.0,
+          "description": "Cheddar sosu, kaşar peyniri, dana sucuk, dana sosis, dana salam, domates, ketçap",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İzmir Kumru",
+          "price": 270.0,
+          "description": "Kaşar peyniri, dana sucuk, dana sosis, dana salam, turşu, ketçap",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Islak Hamburgerler",
+      "products": [
+        {
+          "name": "Islak Hamburger",
+          "price": 180.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Islak Hamburger",
+          "price": 200.0,
+          "description": "Adet olarak satılır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheddarlı Islak Hamburger",
+          "price": 190.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Aperitifler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 90.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite Gazoz (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Şeftali (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77599040.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Vişne (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Karışık (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Atom (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77599035.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy Pulpy Portakal (33 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77599030.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77598884.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77598896.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango (33 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77598692.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (20 cl.)",
+          "price": 30.0,
+          "description": "Bardak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77279306.jpg?width=150&height=150"
+        },
+        {
+          "name": "Açık Ayran (20 cl.)",
+          "price": 30.0,
+          "description": "Bardak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77279272.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Limonlu Soda (25 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Damla Elmalı Soda (25 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77599053.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Maden Suyu (20 cl.)",
+          "price": 30.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

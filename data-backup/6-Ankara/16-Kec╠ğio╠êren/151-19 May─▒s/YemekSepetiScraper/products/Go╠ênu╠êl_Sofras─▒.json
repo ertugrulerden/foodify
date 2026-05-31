@@ -1,0 +1,386 @@
+{
+  "link_hash": "38f6598a",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Gönül Sofrası",
+  "link": "https://www.yemeksepeti.com/restaurant/xghc/gonul-sofrasi-xghc",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Hatay Usulü Tavuk Döner Dürüm",
+          "price": 190.0,
+          "description": "Lavaş arasına; tavuk döner, patates kızartması, salatalık turşusu kıvırcık marul, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314408.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tam Ekmek Arası Tavuk Döner",
+          "price": 150.0,
+          "description": "100 gr. tavuk döner, domates, yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314409.jpg?width=128&height=128"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Döner",
+          "price": 250.0,
+          "description": "Pirinç pilavı üzerine; 100 gr. tavuk döner",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314412.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Çorbası",
+          "price": 225.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314398.jpg?width=150&height=150"
+        },
+        {
+          "name": "Merci̇mek Çorbası",
+          "price": 200.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314396.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Salata",
+          "price": 200.0,
+          "description": "Mevsim sebzeleri, mevsim yeşillikleri, ızgara tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314390.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "3'lü Lahmacun Menü",
+          "price": 500.0,
+          "description": "3 Adet Lahmacun",
+          "img": null
+        },
+        {
+          "name": "10'lu Lahmacun Menü",
+          "price": 1.5,
+          "description": "10 Adet Lahmacun (Lütfen acı seçiminizi sipariş notunuzda belirtiniz.)",
+          "img": null
+        },
+        {
+          "name": "10'lu Kıymalı Pi̇de Menü",
+          "price": 2.5,
+          "description": "10 Adet Kıymalı Pi̇de",
+          "img": null
+        },
+        {
+          "name": "Hatay Usulü Tavuk Döner Dürüm Menü",
+          "price": 600.0,
+          "description": "5 Adet Hatay Usulü Tavuk Döner Dürüm + Ayran (1 L.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Atom Çorbası",
+          "price": 400.0,
+          "description": "Kelle paça, işkembe, et suyu, baharat",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Merci̇mek Çorbası",
+          "price": 200.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314396.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Çorbası",
+          "price": 225.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314398.jpg?width=150&height=150"
+        },
+        {
+          "name": "İşkembe Çorbası",
+          "price": 220.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314399.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tuzlama Çorbası",
+          "price": 150.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314402.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kelle Paça Çorbası",
+          "price": 400.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79358141.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayak Paça Çorbası",
+          "price": 350.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79358148.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fırın Ürünleri",
+      "products": [
+        {
+          "name": "Lahmacun",
+          "price": 235.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Pi̇de",
+          "price": 390.0,
+          "description": "Dana kıyma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314371.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Pi̇de",
+          "price": 299.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314372.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Pi̇de",
+          "price": 480.0,
+          "description": "Kuşbaşı et",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314374.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Pi̇de",
+          "price": 450.0,
+          "description": "Dana kıyma, kuşbaşı et, dana sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314375.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Kaşarlı Pi̇de",
+          "price": 470.0,
+          "description": "Kaşar peyniri, dana kıyma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314376.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Pi̇de",
+          "price": 400.0,
+          "description": "Kaşar peyniri, dana sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314377.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşılı Kaşarlı Pi̇de",
+          "price": 490.0,
+          "description": "Kaşar peyniri, kuşbaşı et",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314378.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Hatay Usulü Tavuk Döner Dürüm",
+          "price": 190.0,
+          "description": "Lavaş arasına; tavuk döner, patates kızartması, salatalık turşusu kıvırcık marul, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tam Ekmek Arası Tavuk Döner",
+          "price": 150.0,
+          "description": "100 gr. tavuk döner, domates, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tombik Ekmek Arası Tavuk Döner",
+          "price": 170.0,
+          "description": "100 gr. tavuk döner, domates, yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314410.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner",
+          "price": 200.0,
+          "description": "100 gr. tavuk döner. Garnitür ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314411.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Döner",
+          "price": 250.0,
+          "description": "Pirinç pilavı üzerine; 100 gr. tavuk döner",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314412.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ana Yemekler",
+      "products": [
+        {
+          "name": "Tavuk Sote",
+          "price": 300.0,
+          "description": "Tavuk, mevsim sebzeleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri̇ Soslu Tavuk",
+          "price": 330.0,
+          "description": "Tavuk, köri sos",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfteler",
+      "products": [
+        {
+          "name": "Çi̇ğ Köfte Dürüm",
+          "price": 145.0,
+          "description": "Lavaşa sarılı; çiğ köfte, yeşillik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 75.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (5 Adet)",
+          "price": 75.0,
+          "description": "Çıtır soğan halkası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Çoban Salata",
+          "price": 200.0,
+          "description": "Domates, salatalık, biber, isteğe göre soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mevsi̇m Salata",
+          "price": 160.0,
+          "description": "Mevsim yeşillikleri, mevsim sebzeleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Gavurdağı Salata",
+          "price": 240.0,
+          "description": "Domates, salatalık, biber, soğan, ceviz, nar ekşisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314388.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Salata",
+          "price": 280.0,
+          "description": "Mevsim yeşillikleri, mevsim sebzeleri, ton balığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Salata",
+          "price": 200.0,
+          "description": "Mevsim sebzeleri, mevsim yeşillikleri, ızgara tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314390.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Peynirli Künefe",
+          "price": 180.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314418.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314421.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314420.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 65.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314406.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 55.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79366777.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 35.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79358904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 35.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79367192.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79314403.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79367216.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

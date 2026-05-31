@@ -1,0 +1,271 @@
+{
+  "link_hash": "2cb8e844",
+  "scraped_at": "260528_1139",
+  "restaurant_name": "Doğa Wich",
+  "link": "https://www.yemeksepeti.com/restaurant/ukk5/doga-wich",
+  "categories": [
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Köy Kahvaltı Tabağı",
+          "price": 275.0,
+          "description": "Yumurta, peynir, domates, yeşil zeytin, siyah zeytin, tahin, pekmez, simit",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ukk5/product/88394971/bf6ea750-7ab8-451a-9804-dcf5dd898dcf.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sporcu Kahvaltı",
+          "price": 220.0,
+          "description": "10 adet haşlanmış yumurta",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Simitler",
+      "products": [
+        {
+          "name": "Simit",
+          "price": 30.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79522396.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Sucuklu Kaşarlı Tost",
+          "price": 230.0,
+          "description": "Domates, zeytin ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bazlama Ekmeğinde Kaşarlı Tost",
+          "price": 230.0,
+          "description": "Domates, zeytin ile servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Glutensiz Kaşarlı Tost",
+          "price": 180.0,
+          "description": "Domates, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tam Buğday Ekmek Kaşarlı Tost",
+          "price": 180.0,
+          "description": "Domates, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hindi Fümeli & Kaşarlı Tost",
+          "price": 200.0,
+          "description": "Domates, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 170.0,
+          "description": "Domates, zeytin ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Kaşarlı Tost",
+          "price": 190.0,
+          "description": "Domates, zeytin ile",
+          "img": null
+        },
+        {
+          "name": "Hamburger Ekmek Arası Kaşarlı Tost",
+          "price": 180.0,
+          "description": "Domates, zeytin ile",
+          "img": null
+        },
+        {
+          "name": "Hamburger Ekmek Arası Kaşarlı Sucuklu Tost",
+          "price": 220.0,
+          "description": "Domates, zeytin ile",
+          "img": null
+        },
+        {
+          "name": "Sütlü Ekmek Arası Kaşarlı Sucuklu Tost",
+          "price": 230.0,
+          "description": "Domates, zeytin ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Doğa Wich Sandviç",
+          "price": 350.0,
+          "description": "Labne peyniri, kuru domates, zeytin, roka, balsamik sos, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acı Doğa Wich Sandviç",
+          "price": 400.0,
+          "description": "Labne peyniri, acuka, pesto sos, kuru domates, zeytin, roka, balsamik sos zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pesto Doğa Wich Sandviç",
+          "price": 475.0,
+          "description": "Labne peyniri, pesto sos, mozzarella, kuru domates, zeytin, roka, balsamik sos, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köy Doğa Wich Sandviç",
+          "price": 400.0,
+          "description": "Labne peyniri, domates, tulum peyniri, közlenmiş biber, zeytin, roka, balsamik sos, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İtalyan Doğa Wich Sandviç",
+          "price": 550.0,
+          "description": "Labne peyniri, mozzarella, hindi füme, zeytin, roka, balsamik sos, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Deluxe Doğa Wich Sandviç",
+          "price": 600.0,
+          "description": "Labne peyniri, mozzarella, dana jambon, pesto sos, kuru domates, zeytin, roka, balsamik sos, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Doğa Wich Sandviç",
+          "price": 500.0,
+          "description": "Labne peyniri, mozzarella, kuru domates, közlenmiş biber, zeytin, roka, balsamik sos, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ev Yemekleri",
+      "products": [
+        {
+          "name": "Adana Usulü İçli Köfte",
+          "price": 350.0,
+          "description": "3 adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Köri Soslu Makarna",
+          "price": 250.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Mantı",
+          "price": 300.0,
+          "description": "İsteğe göre yoğurt, sos ile",
+          "img": null
+        },
+        {
+          "name": "Pesto Soslu Makarna",
+          "price": 250.0,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 50.0,
+          "description": "Küçük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (20 cl.)",
+          "price": 55.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 65.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 65.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79522354.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79522357.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burn (25 cl.)",
+          "price": 85.0,
+          "description": "On sekiz yaşından küçüklere enerji içeceklerinin satışı yapılmamaktadır. Alkol ile karıştırılarak veya beraber tüketilmemelidir. Çocuklar, 18 yaş altı kişiler, yaşlılar, diyabetikler, yüksek tansiyonu olanlar, gebe ve emzikli kadınlar, metabolik hastalığı olanlar, böbrek yetmezliği olanlar ile kafeine hassas kişiler için tavsiye edilmez. Sporcu içeceği değildir, yoğun fiziksel aktivite öncesinde, sırasında veya sonrasında tüketilmemelidir. Günlük 500 ml’den fazla tüketilmesi tavsiye edilmez.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79522384.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Meyveli Soda (20 cl.)",
+          "price": 45.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79522380.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sade Soda (20 cl.)",
+          "price": 35.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79522358.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79522360.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

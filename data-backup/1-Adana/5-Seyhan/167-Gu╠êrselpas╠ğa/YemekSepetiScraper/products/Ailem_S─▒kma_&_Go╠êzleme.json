@@ -1,0 +1,506 @@
+{
+  "link_hash": "4f2f2c40",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Ailem Sıkma & Gözleme",
+  "link": "https://www.yemeksepeti.com/restaurant/ujn4/ailem-sikma-and-gozleme",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Kaşarlı Sıkma",
+          "price": 82.35,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451995.jpg?width=128&height=128"
+        },
+        {
+          "name": "Patatesli Kaşarlı Sıkma (Adet)",
+          "price": 90.31,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451999.jpg?width=128&height=128"
+        },
+        {
+          "name": "Ispanaklı Ay Böreği",
+          "price": 124.85,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451333.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nutellalı Sıkma",
+          "price": 91.38,
+          "description": "Nutella dolgusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73933642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Gözleme",
+          "price": 202.41,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451846.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Peynirli Sıkma (Adet)",
+          "price": 90.31,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451990.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "8'li Patatesli Sıkma Menü",
+          "price": 680.0,
+          "description": "8 Adet Patatesli Sıkma + Turşu + Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çift Kaşarlı Yengen Tost Menü",
+          "price": 406.41,
+          "description": "Çift Kaşarlı Yengen Tost (Domates, sucuk, kaşar peyniri) + Patates Kızartması + Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ultra Adana Bombası Menü",
+          "price": 589.16,
+          "description": "Nutella Dolgulu Gözleme + Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "8'li Peynirli Sıkma Menü",
+          "price": 711.88,
+          "description": "8 Adet Peynirli Sıkma + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ujn4/product/beb10da5-2617-48ac-91bb-12a44ac881fd.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Sıkma Patatesli & Kaşarlı Menü",
+          "price": 478.13,
+          "description": "4 Adet Patatesli Kaşarlı Sıkma + Turşu + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ujn4/product/2602725e-8b59-4fdf-b020-b005a7bd5be2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patso Sandviç Menü",
+          "price": 321.41,
+          "description": "Patso Sandviç + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ujn4/product/89400569/5e387355-278e-4230-9056-18fab5ef9f74.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Patatesli Sıkma Menü",
+          "price": 394.72,
+          "description": "4 Adet Patatesli Sıkma + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ujn4/product/bba23c66-187f-4994-bbae-912ce0c1eff5.jpg?width=150&height=150"
+        },
+        {
+          "name": "4'lü Kaşarlı Sıkma Menü",
+          "price": 425.54,
+          "description": "4 Adet Kaşarlı Sıkma + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ujn4/product/83c342f4-cea0-4deb-94d1-240f208611ea.jpg?width=150&height=150"
+        },
+        {
+          "name": "Veggie Ispanaklı Tost Menü",
+          "price": 327.25,
+          "description": "Veggie Ispanaklı Tost + Patates Kızartması + Turşu + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ujn4/product/efe2f8c4-1125-4f8b-b9aa-47d2ae0015bc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Bombası Menü",
+          "price": 455.81,
+          "description": "Nutella Dolgulu Ay Böreği + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "4'lü Peynirli Sıkma Menü",
+          "price": 396.85,
+          "description": "4 Adet Peynirli Sıkma + İçecek",
+          "img": null
+        },
+        {
+          "name": "Çift Kaşarlı Tost Menü",
+          "price": 340.0,
+          "description": "Çift Kaşarlı Tost + Patates Kızartması + Turşu + İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 225.79,
+          "description": "Ekmek ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Karışık Tost",
+          "price": 241.72,
+          "description": "Tost ekmeğine; kaşar peyniri, sucuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çift Kaşarlı Yengen Tost",
+          "price": 241.72,
+          "description": "Tost ekmeğine; kaşar peyniri, sucuk, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çift Kaşarlı Tost",
+          "price": 260.31,
+          "description": "Tost ekmeğine; kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60863449.jpg?width=150&height=150"
+        },
+        {
+          "name": "Veggie Ispanaklı Tost",
+          "price": 273.6,
+          "description": "Ispanak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69211048.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Gözlemeler",
+      "products": [
+        {
+          "name": "Peynirli Gözleme",
+          "price": 189.13,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Gözleme",
+          "price": 183.29,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ispanaklı Gözleme",
+          "price": 189.13,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Gözleme",
+          "price": 202.41,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451846.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Kaşarlı Gözleme",
+          "price": 205.6,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451858.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ispanaklı Kaşarlı Gözleme",
+          "price": 205.6,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451862.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Peynirli Gözleme",
+          "price": 202.41,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451884.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ispanaklı Peynirli Gözleme",
+          "price": 239.06,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44743181.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salamlı Kaşarlı Gözleme",
+          "price": 216.22,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/46707644.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Kaşarlı Gözleme",
+          "price": 221.54,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66893637.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıkmalar",
+      "products": [
+        {
+          "name": "Peynirli Sıkma",
+          "price": 80.75,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Sıkma",
+          "price": 75.97,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Peynirli Sıkma (Adet)",
+          "price": 90.31,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451990.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Sıkma",
+          "price": 82.35,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451995.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Kaşarlı Sıkma (Adet)",
+          "price": 90.31,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451999.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama (Adet)",
+          "price": 48.88,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44746254.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salamlı Kaşarlı Sıkma (Adet)",
+          "price": 92.97,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/46707728.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nutellalı Sıkma",
+          "price": 91.38,
+          "description": "Nutella dolgusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73933642.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Börekler",
+      "products": [
+        {
+          "name": "Ispanaklı Ay Böreği",
+          "price": 124.85,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451333.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Ay Böreği",
+          "price": 122.72,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Ay Böreği",
+          "price": 122.72,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Ay Böreği",
+          "price": 129.63,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451409.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Peynirli Ay Böreği",
+          "price": 122.72,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451412.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Kaşarlı Ay Böreği",
+          "price": 135.47,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451415.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ispanaklı Kaşarlı Ay Böreği",
+          "price": 133.35,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451416.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ispanaklı Peynirli Ay Böreği",
+          "price": 128.56,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43451533.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salamlı Kaşarlı Ay Böreği",
+          "price": 138.13,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/46707530.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Ürünler (Pişirilmemiş)",
+      "products": [
+        {
+          "name": "El Yapımı İçli Köfte (1 Adet) (Pişirilmemiş)",
+          "price": 143.44,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Diğer Lezzetler",
+      "products": [
+        {
+          "name": "Turşu",
+          "price": 34.0,
+          "description": "Biber, salatalık, havuç",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlaç",
+          "price": 191.25,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kase Sütlü Dondurma (90 gr.)",
+          "price": 79.69,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kavun & Sütlü Dondurma (480 gr.)",
+          "price": 292.19,
+          "description": "480 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Bal Badem Dondurma (480 gr.)",
+          "price": 318.75,
+          "description": "480 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Patates Kızartması (Büyük)",
+          "price": 169.15,
+          "description": "Parmak dilim",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Adana Bombası",
+          "price": 425.0,
+          "description": "Nutella dolgusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ultra Adana Bombası",
+          "price": 525.94,
+          "description": "Nutella dolgusu",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 80.75,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 80.75,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 80.75,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 80.75,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Şeftali (33 cl.)",
+          "price": 80.75,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43452040.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 80.75,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78272673.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (33 cl.)",
+          "price": 80.75,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65800818.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eker Ayran (29,3 cl.)",
+          "price": 68.0,
+          "description": "Büyük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43452063.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beypazarı Soda (20 cl.)",
+          "price": 38.25,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43452070.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Su (50 cl.)",
+          "price": 33.15,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/43452076.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Sıkım Portakal Suyu (1 L.)",
+          "price": 467.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79176096.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Sıkım Greyfurt Suyu (1 L.)",
+          "price": 467.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79176099.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Süt (1 L.)",
+          "price": 467.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79176100.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

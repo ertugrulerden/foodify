@@ -5,16 +5,18 @@ import { createUser, updateUser, deleteUser } from "@/lib/data/queries"
 
 export async function saveUserAction(prevState: unknown, formData: FormData) {
   const id = formData.get("id")
+  const firstName = formData.get("firstName") as string || ""
+  const lastName = formData.get("lastName") as string || ""
   const email = formData.get("email") as string
   const passwordHash = formData.get("passwordHash") as string
   const lastRegionID = Number(formData.get("lastRegionID"))
   try {
     if (id) {
-      updateUser(Number(id), { email, passwordHash, lastRegionID })
+      updateUser(Number(id), { firstName, lastName, email, passwordHash, lastRegionID })
       revalidatePath("/admin/users")
       return { success: true, msg: `Updated '${email}'` }
     }
-    createUser({ email, passwordHash, lastRegionID })
+    createUser({ firstName, lastName, email, passwordHash, lastRegionID })
     revalidatePath("/admin/users")
     return { success: true, msg: `Created '${email}'` }
   } catch {

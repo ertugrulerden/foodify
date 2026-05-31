@@ -1,0 +1,157 @@
+{
+  "link_hash": "4b771144",
+  "scraped_at": "260528_1202",
+  "restaurant_name": "Rast Burger & Pizza",
+  "link": "https://www.yemeksepeti.com/restaurant/nk5g/rast-burger-and-pizza",
+  "categories": [
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Smash Burger",
+          "price": 479.2,
+          "description": "150 gr. burger köftesi, marul, soğan, burger sos, turşu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77867378.jpg?width=128&height=128"
+        },
+        {
+          "name": "Rast Burger",
+          "price": 479.2,
+          "description": "180 gr. burger köftesi, salatalık turşusu, domates, marul. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76512131.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tiftik Burger",
+          "price": 559.2,
+          "description": "250 gr et, cheddar, karamelize soğan, patates kızartma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76731421.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Burger",
+          "price": 399.2,
+          "description": "Tavuk, coleslaw, sweet chili sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76512484.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bacon Burger",
+          "price": 559.2,
+          "description": "200 gr Burger Köftesi, Cheddar , Karamelize Soğan, Kuru Domates,Köz biber, Dana Bacon, Burger Sosu, Patates Kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76731423.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pizzalar (Orta Boy)",
+      "products": [
+        {
+          "name": "4 Peynirli Pizza (Orta Boy)",
+          "price": 343.2,
+          "description": "Mozzarella peyniri, domates sos, cheddar peyniri, kaşar peyniri, parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Margherita Pizza (Orta Boy)",
+          "price": 279.2,
+          "description": "Mozzarella peyniri, pesto sos, domates sos, fesleğen",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Pizza",
+          "price": 399.2,
+          "description": "Füme et, sucuk, sosis, yeşil biber, zeytin, mozzarella peyniri, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76884854.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Rast Mi̇x",
+          "price": 479.2,
+          "description": "Mini köfteler, frankfurter sosis, patates kızartması",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Tavuk Bowl",
+          "price": 388.0,
+          "description": "Tavuk bonfile, kabak, brokoli, havuç, Akdeniz yeşillikleri, cherry domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfte Bowl",
+          "price": 396.0,
+          "description": "Izgara köfte, közlenmiş patlıcan, Akdeniz yeşillikleri, cherry domates, süzme yoğurt, pesto sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Rast Bowl",
+          "price": 432.0,
+          "description": "200 gr. dana bonfile, süzme yoğurt, közlenmiş patlıcan, Akdeniz yeşillikleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Akdeniz Bowl",
+          "price": 376.0,
+          "description": "Kuru domates, ızgara zeytin, közlenmiş patlıcan, ızgara mantar, mor lahana, tahin, falafel",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Patates Salatası",
+          "price": 120.0,
+          "description": "Maydanoz, soğan, baharat",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Makarna Salatası",
+          "price": 120.0,
+          "description": "Yoğurt, mayonez, bezelya, havuç, kornişon turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Peynir Toplu Salata",
+          "price": 280.0,
+          "description": "Taze yeşillikler, renkli sebzeler",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 104.0,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İçli Köfte Tabağı",
+          "price": 479.2,
+          "description": "Adana usulü kızartma içli köfte, karides, kalamar, çöç",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

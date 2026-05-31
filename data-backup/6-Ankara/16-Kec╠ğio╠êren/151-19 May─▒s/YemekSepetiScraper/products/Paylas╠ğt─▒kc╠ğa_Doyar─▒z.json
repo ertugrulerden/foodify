@@ -1,0 +1,94 @@
+{
+  "link_hash": "b6c492b0",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Paylaştıkça Doyarız",
+  "link": "https://www.yemeksepeti.com/restaurant/nh37/paylastikca-doyariz",
+  "categories": [
+    {
+      "name": "Ekmek Arası Ürünler",
+      "products": [
+        {
+          "name": "Ekmek Arası Köfte (150 gr.)",
+          "price": 220.0,
+          "description": "Susamlı sandviç ekmeği arasına; ızgara köfte, közlenmiş domates, soğan",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nh37/product/89304787/454beabb-a3e8-44bc-8dd2-a5d6a1911d53.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sandviç Ekmek Arası Ciğer (100 gr.)",
+          "price": 260.0,
+          "description": "Susamlı sandviç ekmeği arasına; dana ciğeri, soğan, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nh37/product/89304803/f7545a38-d501-4bbc-8219-5bb28ae3f97f.jpg?width=128&height=128"
+        },
+        {
+          "name": "Ekmek Arası Sucuk (125 gr.)",
+          "price": 240.0,
+          "description": "Dana sucuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nh37/product/0c8255f6-1b2a-4faa-b88f-da4741138a62.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Hamburger Menü",
+          "price": 320.0,
+          "description": "Hamburger (Dana Burger Köftesi, Domates, Marul, ) + Patates Kızartması + Kutu İçecek (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80418817.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Patso Sandviçler",
+      "products": [
+        {
+          "name": "Patso Sandviç",
+          "price": 160.0,
+          "description": "Susamlı sandviç ekmeğine; patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosisli Patso Sandviç",
+          "price": 200.0,
+          "description": "Susamlı sandviç ekmeğine; dana sosis, patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Abant Su (50 cl.)",
+          "price": 28.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (27,5 cl.)",
+          "price": 60.0,
+          "description": "Büyük Boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Bahçe Meyve Suyu (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (25 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "link_hash": "e4da5f57",
+  "scraped_at": "260528_1209",
+  "restaurant_name": "Burger Motto",
+  "link": "https://www.yemeksepeti.com/restaurant/hiwo/burger-motto-hiwo",
+  "categories": [
+    {
+      "name": "Ekonomik Menüler",
+      "products": [
+        {
+          "name": "Eko Cheeseburger Menü",
+          "price": 500.0,
+          "description": "Eko Cheeseburger Menü (Burger köftesi, mozzarella peyniri, cheddar peyniri, karamelize soğan, yeşillik, domates, kornişon turşu, özel Motto sos) + Patates Kızartması + Özel Soslar + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68414671.jpg?width=128&height=128"
+        },
+        {
+          "name": "Eko Chicken Cheese Burger",
+          "price": 460.0,
+          "description": "Tavuk fileto, motto sos, yeşillik, turşu, domates, cheddar, mozarella, karamelize soğan. Patates kızartması, özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68421697.jpg?width=128&height=128"
+        },
+        {
+          "name": "Eko Classic Burger Menü",
+          "price": 480.0,
+          "description": "Eko Classic Burger (Dana eti, Motto sos, yeşillik, turşu, domates) + Patates Kızartması + Özel Soslar + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68432241.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eko Chicken Burger Menü",
+          "price": 440.0,
+          "description": "Eko Chicken Burger (Tavuk fileto, yeşillik, domates, kornişon turşu, karamelize soğan, motto sos. Patates kızartması ile) + Kutu İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78146132.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüflü Crispy Chicken Burger Menü",
+          "price": 470.0,
+          "description": "Trüflü Crispy Chicken Burger (Crispy tavuğu, türüf mayonez, Alman turşusu, 2 adet cheddar peyniri. Patates Kızartması ile) + İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78146147.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Hot Dogs",
+      "products": [
+        {
+          "name": "Motto Klasik Hot Dog",
+          "price": 460.0,
+          "description": "Dana jambon sosis, Motto sos, yeşillik, turşu. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Queen Hot Dog",
+          "price": 480.0,
+          "description": "Dana jambon sosis, Motto sos, Rus salatası, yeşillik, turşu, çift cheddar peyniri, kibrit patates. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752543.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Bacon Hot Dog",
+          "price": 490.0,
+          "description": "Dana jambon sosis, Motto sos, mix biber, jalapone turşu, yeşillik, turşu, cheddar peyniri, mozzarella peyniri, füme et. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752544.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Special Hot Dog",
+          "price": 490.0,
+          "description": "Dana jumbo sosis, Motto sos, domates sos, dana füme, karamelize soğan, ızgara mantar, közlenmiş biber, çift cheddar peyniri. Patates kızartması, mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76872758.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Philly Cheese Steak",
+          "price": 560.0,
+          "description": "140 gr Özel marine edilmiş Finger Bonfile parçaları ,Çift chedar peyniri, karemelize soğan, motto sos, salata, patates kızartması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Motto Classic Burger",
+          "price": 430.0,
+          "description": "Dana eti, motto sos, yeşillik, turşu, domates, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752508.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Queen Burger",
+          "price": 470.0,
+          "description": "Dana eti, motto sos, Rus salatası, çift cheddar peyniri, çıtır kibrit patates kızartması, domates, turşu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752509.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Milano Burger",
+          "price": 470.0,
+          "description": "Dana eti, motto sos, pesto sos, çift mozzarella peyniri, roka, turşu, domates, mantar. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752510.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Vejetaryen Burger",
+          "price": 450.0,
+          "description": "Motto sos, roka, turşu, mix biber, karamelize soğan, ızgara mantar, çift mozzarella peyniri, çift cheddar peyniri, hellim peyniri. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752511.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Chicken Milano Burger",
+          "price": 440.0,
+          "description": "Tavuk fileto, motto sos, pesto sos, çift mozarella peyniri, roka, turşu, domates, mantar. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/64079269.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Cheeseburger",
+          "price": 450.0,
+          "description": "Dana eti, motto sos, yeşillik, turşu, domates, cheddar peyniri, mozzarella peyniri, karamelize soğan. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752517.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Bol Burger",
+          "price": 470.0,
+          "description": "Dana eti, Motto sos, yeşillik, turşu, domates, çift cheddar, çift mozzarella peyniri, karamelize soğan. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752518.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Mush Burger",
+          "price": 470.0,
+          "description": "Dana eti, Motto sos, ızgara mantar, yeşillik, turşu, domates, cheddar, mozzarella peyniri, karamelize soğan. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752519.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Mexico Burger",
+          "price": 470.0,
+          "description": "Dana eti, Motto sos, jalapone turşu, mix biber, acı sos, yeşillik, turşu, domates, cheddar, mozarella, karamelize soğan, kapya biber. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752520.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Bacon Burger",
+          "price": 480.0,
+          "description": "Dana eti, Motto sos, jalapone turşu, mix biber, yeşillik, turşu, domates, cheddar, mozzarella peyniri, karamelize soğan, füme et, kapya biber. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752521.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto BBQ Burger",
+          "price": 470.0,
+          "description": "100 gr. dana eti, mozzarella peyniri, cheddar peyniri, ızgara kapya biberi, ızgara mantar, domates, karamelize soğan, barbekü sos, Motto sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752529.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Alaçatı Diyet Burger",
+          "price": 470.0,
+          "description": "Dana eti, ekmek yerine marul, domates, turşu, mor lahana turşusu, mozzarella. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752531.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Spesiyal Burger",
+          "price": 490.0,
+          "description": "Dana eti, motto sos, ızgara mantar, karamelize soğan, çift cheddar, füme et, kapya biber. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752532.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Chicken Burger",
+          "price": 410.0,
+          "description": "Tavuk fileto, Motto sos, yeşillik, turşu, domates, karamelize soğan, patates kızartması ve özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752534.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Chicken Cheeseburger",
+          "price": 420.0,
+          "description": "Tavuk fileto, Motto sos, yeşillik, turşu, domates, cheddar peyniri, mozzarella peyniri, karamelize soğan. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752535.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Chicken Mexico Burger",
+          "price": 440.0,
+          "description": "Tavuk fileto , motto sos, jalapone turşu, mix biber, karamelize soğan, acı sos, yeşillik, turşu, domates, cheddar, mozarella, kapya biber, patates kızartması ve özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752536.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Hawaii Burger",
+          "price": 480.0,
+          "description": "100 gr. dana eti, motto sos, domates, cheddar peyniri, mozzarella peyniri, avokado sos, çiğ soğan parçaları. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/64079285.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Vegan Burger",
+          "price": 460.0,
+          "description": "Özel motto tarif vegan köftesi, sweet sily sos, yeşillik, turşu, domates. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70265497.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Türüflü Crispy Burger",
+          "price": 430.0,
+          "description": "Crispy tavuk, trüflü mayonez, Alman turşusu, çift cheddar peyniri, çiğ soğan halkaları. Patates kızartması, özel soslar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Motto White Burger",
+          "price": 480.0,
+          "description": "Dana eti, türüflü mayonez, kıtır soğan, cheddar peyniri, mozzarella peyniri, istiridye mantarı, patates kızartması, özel soslar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70712080.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Cherry Burger",
+          "price": 480.0,
+          "description": "Dana eti, cherry sos, çift cheddar peyniri. Patates kızartması, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Motto Salsa Burger",
+          "price": 480.0,
+          "description": "Dana eti, salsa sos, çift cheddar peyniri, kibrit patates. Patates kızartması, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Motto Katsu Burger",
+          "price": 460.0,
+          "description": "Crispy tavuk, katsu sos, salatalık turşusu, çift cheddar peyniri. Patates kızartması, mevsim salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Çocuk Burgerler",
+      "products": [
+        {
+          "name": "Motto Kids Burger",
+          "price": 410.0,
+          "description": "Dana eti, motto sos, yeşillik, turşu, domates. Patates kızartması, özel soslar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Motto Kids Cheeseburger",
+          "price": 430.0,
+          "description": "Dana eti, Motto sos, yeşillik, turşu, domates, cheddar peyniri, mozzarella peyniri. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752539.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Kids Chicken Burger",
+          "price": 370.0,
+          "description": "Tavuk fileto, motto sos, yeşillik, turşu, domates, karamelize soğan. Patates kızartması, özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752540.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Kids Chicken Cheeseburger",
+          "price": 390.0,
+          "description": "Tavuk fileto, motto sos, yeşillik, turşu, domates, cheddar peyniri, mozzarella peyniri, karamelize soğan. Patates kızartması, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752541.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Penne Arrabbiata",
+          "price": 390.0,
+          "description": "Acılı domates sos, zeytin, kuru domates, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41111554.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Köri Penne",
+          "price": 390.0,
+          "description": "Izgara mantar, jülyen tavuk, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41111858.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fettucini Alfredo",
+          "price": 390.0,
+          "description": "Motto fesleğen sos, krema, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41112772.jpg?width=150&height=150"
+        },
+        {
+          "name": "Garden Penne Makarna",
+          "price": 390.0,
+          "description": "Brokoli, mantar, mısır, karışık biber, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67737985.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Special Lezzetler",
+      "products": [
+        {
+          "name": "Bonfile Grill (200 gr.)",
+          "price": 840.0,
+          "description": "200 gr. özel sos ile marine edilmiş dana bonfile, ızgara mantar, California biberi. Haşlanmış mevsim sebzeleri, salata, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Milano Steak (200 gr.)",
+          "price": 890.0,
+          "description": "Haşlanmış mevsim sebzeleri, salata, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752550.jpg?width=150&height=150"
+        },
+        {
+          "name": "Finger Bonfile Grill (200 gr.)",
+          "price": 840.0,
+          "description": "Haşlanmış mevsim sebzeleri, salata, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752551.jpg?width=150&height=150"
+        },
+        {
+          "name": "Steak Mexico (200 gr.)",
+          "price": 890.0,
+          "description": "Haşlanmış mevsim sebzeleri, salata, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/64079300.jpg?width=150&height=150"
+        },
+        {
+          "name": "Café de Paris Steak (200 gr.)",
+          "price": 890.0,
+          "description": "Haşlanmış mevsim sebzeleri, salata, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/64079301.jpg?width=150&height=150"
+        },
+        {
+          "name": "Finger Chicken Grill (200 gr.)",
+          "price": 590.0,
+          "description": "200 gr. özel sos ile marine edilmiş, jülyen doğranmış ızgara tavuk, mantar, California biberi, kapya biberi, karamelize soğan. Haşlanmış mevsim sebzeleri, salata, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/64079302.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chicken Fileto (250 gr.)",
+          "price": 590.0,
+          "description": "Haşlanmış mevsim sebzeleri, salata, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752556.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Akdeniz Salata",
+          "price": 440.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, havuç, mor lahana turşusu, mısır, Ezine peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752571.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfile Salata",
+          "price": 590.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, havuç, mor lahana turşusu, mısır, mix biber, ızgara mantar, ızgara dana bonfile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752572.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuk Salata",
+          "price": 440.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, havuç, mor lahana turşusu, mısır, mix biber, ızgara mantar, özel marine edilmiş jülyen doğranmış ızgara tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752573.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezon Salata",
+          "price": 340.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, havuç, mor lahana turşusu, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752574.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Salata",
+          "price": 440.0,
+          "description": "Akdeniz yeşillikleri, domates, salatalık, havuç, mor lahana turşusu, mısır, roka, ton balığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752575.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Motto Mix Aperitif Tabağı",
+          "price": 390.0,
+          "description": "Mozzarella sticks, ızgara hellim peyniri, çıtır tavuk, soğan halkası, patates kroket, tavuk nugget",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752561.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (6 Adet)",
+          "price": 290.0,
+          "description": "Mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752565.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 220.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752566.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (8 Adet)",
+          "price": 220.0,
+          "description": "Çıtır soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752568.jpg?width=150&height=150"
+        },
+        {
+          "name": "Susamlı Çıtır Tavuk",
+          "price": 300.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Nugget (8 Adet)",
+          "price": 220.0,
+          "description": "8 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752570.jpg?width=150&height=150"
+        },
+        {
+          "name": "Motto Tenders",
+          "price": 300.0,
+          "description": "Özel Motto tarif kaplamalı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70264823.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Soslu Patates Kızartması",
+          "price": 280.0,
+          "description": "Karamelize soğan, patates kızartması, cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76872768.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Fondü",
+          "price": 320.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76892780.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752588.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 50.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752597.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 45.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752598.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70587750.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70588401.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eker Ayran (30 cl.)",
+          "price": 75.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70588404.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Acı Sos",
+          "price": 30.0,
+          "description": "Paket olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752606.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Mayonez",
+          "price": 30.0,
+          "description": "Paket olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752607.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Sos",
+          "price": 30.0,
+          "description": "Paket olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752608.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hardal",
+          "price": 30.0,
+          "description": "Paket olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752609.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ketçap",
+          "price": 30.0,
+          "description": "Paket olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752610.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 30.0,
+          "description": "Paket olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsaklı Mayonez",
+          "price": 30.0,
+          "description": "Paket olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/8752612.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

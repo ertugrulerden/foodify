@@ -1,0 +1,834 @@
+{
+  "link_hash": "120afb00",
+  "scraped_at": "260528_1202",
+  "restaurant_name": "Makarnis",
+  "link": "https://www.yemeksepeti.com/restaurant/nc0m/makarnis-nc0m",
+  "categories": [
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Kekik Rüyası Fettuccine",
+          "price": 339.15,
+          "description": "Seçiminize göre tavuk opsiyonlu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nc0m/product/f358513b-94d6-44d7-a20f-ef52e65f7622.jpg?width=128&height=128"
+        },
+        {
+          "name": "Napolitan Soslu Fettuccine",
+          "price": 339.15,
+          "description": "Napolitan sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nc0m/product/2fd9a9e5-f22c-4459-8591-c9c1d680e4cc.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kremalı Mantarlı Fettuccine",
+          "price": 364.65,
+          "description": "Seçiminize göre tavuk opsiyonlu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nc0m/product/d3b31674-6b98-44e9-9f23-6f917c25f8fe.jpg?width=150&height=150"
+        },
+        {
+          "name": "Biber Salçalı Anne Makarnası (Spagetti)",
+          "price": 288.15,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79523642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Fettuccine Alfredo",
+          "price": 398.65,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nc0m/product/b112bbf9-ab45-4075-8f7d-b2838a3aca8c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Penne",
+          "price": 288.15,
+          "description": "Krema, mantar, penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324088.webp?width=150&height=150"
+        },
+        {
+          "name": "Sriracha Soslu Penne",
+          "price": 288.15,
+          "description": "Acı sriracha sosu, 500 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324102.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweat Chili Penne Makarna",
+          "price": 288.15,
+          "description": "Sweet chili sosu, 500 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324114.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Soslu Makarna",
+          "price": 296.65,
+          "description": "Ranch sos, 500 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324229.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı Ekşi Penne",
+          "price": 288.15,
+          "description": "Tatlı ekşi sos, 500 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324427.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Penne",
+          "price": 296.65,
+          "description": "Pesto sosu, krema, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324435.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Penne",
+          "price": 296.65,
+          "description": "Krema, köri baharatı, 500 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324451.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Penne",
+          "price": 339.15,
+          "description": "Köri sosu, 200 gr. tavuk, 350 gr. penne makarna, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324469.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Penne",
+          "price": 313.65,
+          "description": "Krema, 200 gr. tavuk, 350 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73380012.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Penne",
+          "price": 288.15,
+          "description": "Krema, 500 gr. penne",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Penne Makarna",
+          "price": 288.15,
+          "description": "Peynir, krema, 500 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73733252.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Soslu Penne",
+          "price": 288.15,
+          "description": "Barbekü sosu, 500 gr. penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Makarnis Özel Tarif",
+          "price": 322.15,
+          "description": "Krema, 200 gr. tavuk, 350 gr. penne makarna, özel baharat",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73733255.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Ranch Soslu Makarna",
+          "price": 296.65,
+          "description": "Ranch sos, sriracha sos, 500 gr. penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Efsane Buffalo Makarna",
+          "price": 288.15,
+          "description": "Barbekü sosu, sriracha sosu, 500 gr. penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fajita Soslu Tavuklu Penne",
+          "price": 322.15,
+          "description": "Fajita, krema, 200 gr. tavuk, 350 gr. penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fajita Soslu Tavuklu Penne",
+          "price": 322.15,
+          "description": "Fajita baharatı, krema, 200 gr. tavuk, 350 gr. penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mantarlı Kremalı Penne",
+          "price": 339.15,
+          "description": "Krema, özel sos, 200 gr. tavuk, 350 gr. penne",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantının Asi Hali",
+          "price": 340.0,
+          "description": "İsteğe göre yoğurt, sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75192391.jpg?width=150&height=150"
+        },
+        {
+          "name": "Penne Mexicana",
+          "price": 288.15,
+          "description": "Mexicana sos, 500 gr. penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tatlı Ateş Penne",
+          "price": 313.65,
+          "description": "Sweet chili sos, 150 gr. tavuk, 350 gr. makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75263479.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Tavuklu Penne",
+          "price": 339.15,
+          "description": "Pesto sos, krema, 150 gr. tavuk, 350 gr. makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kekik Rüyası Tavuklu Penne",
+          "price": 322.15,
+          "description": "Krema, kekik, kaşar peyniri, 150 gr. tavuk, 350 gr. makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75263481.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kajun Çeşnili Tavuklu Penne",
+          "price": 322.15,
+          "description": "Kajun, krema, 200 gr. tavuk, 350 gr. penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mexicana Soslu Penne",
+          "price": 322.15,
+          "description": "Mexicana sos, 150 gr. tavuk, 350 gr. penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75263483.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Penne",
+          "price": 288.15,
+          "description": "Baharatlı sebzeler, az krema",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sebzeli Tavuklu Penne",
+          "price": 339.15,
+          "description": "Baharatlı tavuk, sebzeler, az krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75263485.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Fettucine",
+          "price": 339.15,
+          "description": "Seçiminize göre tavuk opsiyonlu",
+          "img": null
+        },
+        {
+          "name": "Napolitan Soslu Spagetti",
+          "price": 296.65,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Kekik Rüyası Spagetti",
+          "price": 296.65,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Köri Soslu Fettuccine",
+          "price": 339.15,
+          "description": "Seçiminize göre tavuk opsiyonlu",
+          "img": null
+        },
+        {
+          "name": "Pesto Soslu Spagetti",
+          "price": 296.65,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Kremalı Mantarlı Spagetti",
+          "price": 305.15,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Noddle's",
+      "products": [
+        {
+          "name": "Tavuklu Noodle",
+          "price": 381.65,
+          "description": "Noodle üzerine; tavuk parçaları, mevsim sebzeleri, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sebzeli Noodle",
+          "price": 322.15,
+          "description": "Sebzeli noodle",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sebzeli Tavuklu Noodle",
+          "price": 381.65,
+          "description": "Mevsim sebzeleri, tavuk parçaları, noodle, özel baharatlı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79055413.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sriracha Soslu Noodle",
+          "price": 322.15,
+          "description": "Noodle, acı, sriracha sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79055415.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soya Soslu Sade Noodle",
+          "price": 322.15,
+          "description": "Soya sos, noodle",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79055416.jpg?width=150&height=150"
+        },
+        {
+          "name": "Teriyaki Soslu Noodle",
+          "price": 339.15,
+          "description": "Teriyaki soslu noodle",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79055417.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oyster Soslu Noodle",
+          "price": 339.15,
+          "description": "Oyster soslu noodle",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79055418.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Mantılar",
+      "products": [
+        {
+          "name": "Mantının Asi Hali",
+          "price": 381.65,
+          "description": "İsteğe göre yoğurt, sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantının Klasik Şıklığı",
+          "price": 381.65,
+          "description": "İsteğe göre yoğurt, sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosyete Mantı",
+          "price": 381.65,
+          "description": "İsteğe göre yoğurt, sos ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nc0m/product/75192388-parent/38c8c188-7b8e-4efd-bc74-ba5fdf582ee2.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çıtır Tavuklar",
+      "products": [
+        {
+          "name": "Pilav Üzerine Tavuk Kanat",
+          "price": 339.15,
+          "description": "Pirinç pilavı üzerine; tavuk kanat",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üzerine Acı Tavuk Kanat",
+          "price": 339.15,
+          "description": "Pirinç pilavı üzerine; acılı tavuk kanat",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000566.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Köri Soslu Penne",
+          "price": 339.15,
+          "description": "Köri soslu penne üzerine; çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000571.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Mantarlı Penne",
+          "price": 339.15,
+          "description": "Mantarlı penne üzerine; çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000573.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Sebzeli Penne",
+          "price": 339.15,
+          "description": "Sebzeli penne üzerine; çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000575.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üzerine Acı Çıtır Kanat",
+          "price": 339.15,
+          "description": "Pirinç pilavı üzerine; srilacha soslu kanat",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000582.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Pesto Soslu Penne",
+          "price": 339.15,
+          "description": "Pesto soslu penne üzerine; çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000585.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Barbekü Penne",
+          "price": 339.15,
+          "description": "Barbekü soslu penne üzerine; çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000590.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Sweat Chili Penne",
+          "price": 339.15,
+          "description": "Sweat chili penne üzerine; çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000602.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilavlı Çıtır Kanat",
+          "price": 339.15,
+          "description": "5 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191312.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Köri Soslu Penne",
+          "price": 339.15,
+          "description": "Köri sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191370.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Mantarlı Penne",
+          "price": 339.15,
+          "description": "Tavuk, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191386.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Sebzeli Penne",
+          "price": 339.15,
+          "description": "Tavuk, mevsim sebzeleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191391.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üzeri Acı Çıtır Kanat",
+          "price": 339.15,
+          "description": "Çıtır kanat",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191399.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Pesto Soslu Penne",
+          "price": 339.15,
+          "description": "Mevsim yeşillikleri ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuklu Barbekü Penne",
+          "price": 339.15,
+          "description": "Mevsim yeşillikleri ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191465.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Sweat Chili Penne",
+          "price": 339.15,
+          "description": "Mevsim yeşillikleri ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üzerine Çıtır Tavuk",
+          "price": 339.15,
+          "description": "Pirinç pilavı üzerine; tavuk",
+          "img": null
+        },
+        {
+          "name": "Pilavlı Acı Çıtır Acılı Tavuk",
+          "price": 339.15,
+          "description": "Pirinç pilavı, acılı çıtır tavuk",
+          "img": null
+        },
+        {
+          "name": "Pilavlı Çıtır Tavuk",
+          "price": 339.15,
+          "description": "Pirinç pilavı, tavuk",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Aperitifler",
+      "products": [
+        {
+          "name": "Karışık Turşu",
+          "price": 24.65,
+          "description": "120-200 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79173611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elma Dilim Patates Kızartması",
+          "price": 101.15,
+          "description": "Elma dilim",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/nc0m/product/f8fd5a3c-40bd-4554-a677-4032f89940d2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk",
+          "price": 169.15,
+          "description": "Kemiksiz çıtır tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000603.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Kanat",
+          "price": 169.15,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75000608.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo Tabağı",
+          "price": 339.15,
+          "description": "Karışık patates tabağı; çıtır tavuk, mozzarella sticks, soğan halkası, yıldız sosis",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75001542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "price": 126.65,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75001579.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası",
+          "price": 67.15,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75001580.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Nugget (5 Adet)",
+          "price": 84.15,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75001585.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 126.65,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75001587.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk",
+          "price": 169.15,
+          "description": "Mevsim yeşillikleri ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191470.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Kanat",
+          "price": 169.15,
+          "description": "Mevsim yeşillikleri ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191475.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo Tabağı",
+          "price": 339.15,
+          "description": "Mevsim yeşillikleri ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191477.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (5 adet)",
+          "price": 109.65,
+          "description": "5 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191482.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (5 Adet)",
+          "price": 67.15,
+          "description": "Mevsim yeşillikleri ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191487.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nugget (5 Adet)",
+          "price": 84.15,
+          "description": "5 adet",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 126.65,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191499.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosis (5 Adet)",
+          "price": 84.15,
+          "description": "5 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75191520.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Barbekü Soslu Tavuklu Pilav",
+          "price": 322.15,
+          "description": "Barbekü sosu, 200 gr. tavuk, 300 gr. pirinç pilavı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sriracha Soslu Tavuklu Pilav",
+          "price": 322.15,
+          "description": "Sriracha sosu, 200 gr. tavuk, 300 gr. pirinç pilavı. Turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Körili Tavuk",
+          "price": 322.15,
+          "description": "Köri sosu, 200 gr. tavuk, 300 gr. pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324325.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ateşli Barbekü",
+          "price": 322.15,
+          "description": "Barbekü Sriracha soslu tavuk (200 gr.), pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74242275.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Keyfi",
+          "price": 322.15,
+          "description": "Cajun baharatlı tavuk (200 gr.), pilav, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74242357.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Köri",
+          "price": 322.15,
+          "description": "Köri soslu tavuk (200 gr.), pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74242369.jpg?width=150&height=150"
+        },
+        {
+          "name": "Makarnis Özel Tavuk",
+          "price": 322.15,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74242374.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kekik Rüyası",
+          "price": 322.15,
+          "description": "Kekikli tavuk (200 gr.), pilav",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74242381.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tatlı Ateş (Chili Soslu Tavuk Pilav)",
+          "price": 322.15,
+          "description": "Sweet chili soslu 200 gr. tavuk, 300 gr. pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75263486.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Fajitalı Pilav",
+          "price": 322.15,
+          "description": "Fajita baharatı, krema, kaşar, 200 gr. tavuk, 300 gr. pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75263489.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soya Soslu Tavuklu Pilav",
+          "price": 322.15,
+          "description": "Soya sosu, 200 gr. tavuk, 300 gr. pilav",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73324194.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 21.25,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea Mango & Ananas (1 L.)",
+          "price": 92.65,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74241318.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74241337.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74241970.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 92.65,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74425149.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Portakal (33 cl.)",
+          "price": 58.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74425158.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74427316.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Mixed Fruit Gazoz (25 cl.)",
+          "price": 58.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74427320.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 58.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74427322.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Mango & Egzotik Meyve (1 L.)",
+          "price": 92.65,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74427324.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Mango (33 cl.)",
+          "price": 58.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74427332.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Karadut Frenk Üzümlü Soda (20 cl.)",
+          "price": 33.15,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74427333.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Tuzlu Erik Aromalı Maden Suyu (20 cl.)",
+          "price": 41.65,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Avşar Düşeş Armudu Nektarin Aromalı Maden Suyu (20 cl.)",
+          "price": 41.65,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75324714.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Limonata (20 cl.)",
+          "price": 41.65,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75324715.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avşar Limon Aromalı Maden Suyu (20 cl.)",
+          "price": 41.65,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75324717.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Kavun Çilek (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75598279.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Juss Tea Ananas Mango (25 cl.)",
+          "price": 50.15,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Juss Juss Tea Karpuz Çilek Aromalı (25 cl.)",
+          "price": 50.15,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Juss Tea Şeftali Soğuk Çay (25 cl.)",
+          "price": 50.15,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (25 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 75.65,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea Böğürtlen (33 cl.)",
+          "price": 58.65,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 92.65,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 92.65,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74427331.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango & Ananas (1 L.)",
+          "price": 92.65,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Avşar Greyfurt & Yaban Mersini (20 cl.)",
+          "price": 41.65,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Zero (1 L.)",
+          "price": 92.65,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarıyer Zero Sugar Kola (33 cl.)",
+          "price": 58.65,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Avşar Karpuz & Çilek (20 cl.)",
+          "price": 41.65,
+          "description": "Cam şişe",
+          "img": null
+        },
+        {
+          "name": "Juss Şeftali Nektarı (20 cl.)",
+          "price": 41.65,
+          "description": "Cam şişe",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

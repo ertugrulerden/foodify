@@ -1,0 +1,940 @@
+{
+  "link_hash": "c5a1ac46",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "PizzaLazza",
+  "link": "https://www.yemeksepeti.com/restaurant/mq7n/pizzalazza-mq7n",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Orta Boy Pizza",
+          "price": 380.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428198.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çıtır Tavuk Topları (10 Adet)",
+          "price": 100.0,
+          "description": "Fırınlanmış özel kaplamalı çıtır tavuk topları. Dilediğiniz 1 adet sos ile servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428364.jpg?width=128&height=128"
+        },
+        {
+          "name": "Sarımsaklı Peynirli Ekmek",
+          "price": 175.0,
+          "description": "Mozzarella peyniri, cheddarlı peynir, sarımsaklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428367.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Pizza",
+          "price": 480.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428201.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Sufle",
+          "price": 140.0,
+          "description": "Sıcak, akışkan ve leziz çikolata dolgulu sufle",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Pizza + Pepsi Zero Sugar (1 L.)",
+          "price": 565.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428213.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Algida Menüleri",
+      "products": [
+        {
+          "name": "Algida Keyif Menüsü",
+          "price": 580.0,
+          "description": "1 Adet Orta Boy Pizza + Sufle + Algida Maraş Cup",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73369818.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Buram Buram Fırsatlar",
+      "products": [
+        {
+          "name": "Orta Boy Bol Bol Pizza Fırsatı + Sos",
+          "price": 405.0,
+          "description": "Kampanya Orta Boy Bol Bol Pizza için geçerlidir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir. Dilediğiniz 1 adet sos ile servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Büyük Boy Bol Bol Pizza Fırsatı + 2 Adet Sos",
+          "price": 505.0,
+          "description": "Kampanya Büyük Boy Bol Bol Pizza için geçerlidir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir. Dilediğiniz 2 adet sos ile servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77681990.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dilediğin Orta Boy Gurme Pizza + Sos",
+          "price": 480.0,
+          "description": "Kampanya Gurme Tatlar pizza grubunda geçerlidir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir. Dilediğiniz 1 adet sos ile servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76823017.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dilediğin Büyük Boy Gurme Pizza + 2 Adet Sos",
+          "price": 580.0,
+          "description": "Kampanya Gurme Tatlar pizza grubunda geçerlidir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir. Dilediğiniz 2 adet sos ile servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77318265.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dilediğin Fırından Lezzetler",
+          "price": 90.0,
+          "description": "Dilediğiniz 1 Adet Parmak Patates (200 gr.) veya Çıtır Tavuk Topları (10 Adet) veya Soğan Halkası (8 Adet) için geçerlidir. (1 Adet Sos İle Servis Edilmektedir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74210985.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ortaya Bi’Lazza",
+          "price": 255.0,
+          "description": "Parmak Patates (200 gr.) + Çıtır Tavuk Topları (10 Adet) + Soğan Halkası (8 Adet) (Dilediğiniz 2 Adet Sos İle Servis Edilmektedir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428368.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dilediğin Çikolatalı Lazza",
+          "price": 190.0,
+          "description": "Kampanya dilediğiniz 1 adet çikolatalı veya vişneli çikolatalı lazza seçimi için geçerlidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77682101.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Sandviç + Pepsi Zero Sugar (1 L.)",
+          "price": 400.0,
+          "description": "Kampanya Sucuklu Sandviç için geçerlidir. Sandviç çeşitlerinde fiyat farkı uygulanabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77319283.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Dürüm + Pepsi Zero Sugar (1 L.)",
+          "price": 420.0,
+          "description": "Kampanya Bol Bol Dürüm için geçerlidir. Dürüm çeşitlerinde fiyat farkı uygulanabilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77319662.jpg?width=150&height=150"
+        },
+        {
+          "name": "3’lü Sos Paketi",
+          "price": 75.0,
+          "description": "Yoğurtlu Sos + Binada Sos + Creamy Jalapeno Sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77320225.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fırından Lezzetler",
+      "products": [
+        {
+          "name": "Parmak Patates (200 gr.)",
+          "price": 100.0,
+          "description": "Fırından çıkmış, çıtır lezzet. (Dilediğiniz 1 Adet Sos İle Servis Edilmektedir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğan Halkası (8 Adet)",
+          "price": 100.0,
+          "description": "Fırından çıkmış, çıtır lezzet. (Dilediğiniz 1 Adet Sos İle Servis Edilmektedir.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuk Topları (10 Adet)",
+          "price": 100.0,
+          "description": "Fırınlanmış özel kaplamalı çıtır tavuk topları. Dilediğiniz 1 adet sos ile servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428364.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarımsaklı Peynirli Ekmek",
+          "price": 175.0,
+          "description": "Mozzarella peyniri, cheddarlı peynir, sarımsaklı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428367.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos Taco",
+          "price": 30.0,
+          "description": "20 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/31898206.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Orta Boy Kampanyalar",
+      "products": [
+        {
+          "name": "Orta Boy Pizza",
+          "price": 380.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428198.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Boy Pizza + Pepsi Zero Sugar (1 L.)",
+          "price": 480.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428209.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Orta Boy Pizza",
+          "price": 550.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428199.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Orta Boy Pizza + Pepsi Zero Sugar (1 L.)",
+          "price": 600.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29841134.jpg?width=150&height=150"
+        },
+        {
+          "name": "3 Adet Orta Boy Pizza",
+          "price": 930.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428211.jpg?width=150&height=150"
+        },
+        {
+          "name": "3 Adet Orta Boy Pizza + Pepsi Zero Sugar (1 L.)",
+          "price": 1.015,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67370490.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Büyük Boy Kampanyalar",
+      "products": [
+        {
+          "name": "Büyük Boy Pizza",
+          "price": 480.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428201.jpg?width=150&height=150"
+        },
+        {
+          "name": "Büyük Boy Pizza + Pepsi Zero Sugar (1 L.)",
+          "price": 565.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428213.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Büyük Boy Pizza",
+          "price": 880.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428215.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Adet Büyük Boy Pizza + Pepsi Zero Sugar (1 L.)",
+          "price": 965.0,
+          "description": "Kampanya Sevilen Tatlar pizza grubunda geçerlidir, pizza çeşitlerinde fiyat farkı uygulanabilir. İnce, incecik ve normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428214.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Promosyonlu Menüler",
+      "products": [
+        {
+          "name": "Küçük Boy Pizza + Seçeceğiniz Yan Ürün + Pepsi Zero Sugar (33 cl.)",
+          "price": 380.0,
+          "description": "Kampanya Sevilen Tatlar pizzalarda geçerlidir. Normal hamur ücretsiz olarak seçilebilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428207.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sandviç Menü",
+          "price": 300.0,
+          "description": "Sucuklu Sandviç + Parmak Patates (200 gr.) + 1 Adet Sos + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76166583.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lazza Menü",
+          "price": 350.0,
+          "description": "Sucuklu Lazza + Parmak Patates (200 gr.) + 1 Adet Sos + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428220.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dürüm Menü",
+          "price": 300.0,
+          "description": "Bol Bol Dürüm + Parmak Patates (200 gr.) + 1 Adet Sos + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428218.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Küçük Boy Pizzalar (4 Dilim)",
+      "products": [
+        {
+          "name": "Pizzanı Tasarla (Küçük)",
+          "price": 280.0,
+          "description": "Dilediğin ürünlerle pizzanı yarat! Seçeceğiniz 1 et ve 1 sebze ürünü ile lezzetin tadını çıkartın!",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67702726.jpg?width=150&height=150"
+        },
+        {
+          "name": "Favori Üçlü Pizza (Küçük)",
+          "price": 280.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sosis, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167203.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kampüs Pizza (Küçük)",
+          "price": 280.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167204.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita Pizza (Küçük)",
+          "price": 280.0,
+          "description": "San Marzano tipi sos, ekstra mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29166050.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk Mısır Partisi (Küçük)",
+          "price": 280.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sucuk, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167206.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bol Bol Pizza (Küçük)",
+          "price": 305.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, sucuk, domates, kekik, mantar, mısır, siyah zeytin, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167208.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doyuran Üçlü Pizza (Küçük)",
+          "price": 305.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, mantar, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75443937.jpg?width=150&height=150"
+        },
+        {
+          "name": "Egeli Pizza (Küçük)",
+          "price": 305.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, domates, kekik, mantar, siyah zeytin, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77116179.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lezzet Küpü Pizza (Küçük)",
+          "price": 305.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, küp sucuk, kekik, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67718462.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk Zengini Pizza (Küçük)",
+          "price": 305.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167207.jpg?width=150&height=150"
+        },
+        {
+          "name": "Efsane Sucuklu Pizza (Küçük)",
+          "price": 330.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, sucuk, kekik, soğan, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67713655.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyalı Pizza (Küçük)",
+          "price": 330.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, küp sucuk, domates, kekik, közlenmiş biber, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167210.jpg?width=150&height=150"
+        },
+        {
+          "name": "Keyfim Pizza (Küçük)",
+          "price": 330.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, mantar, mısır, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167211.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Karışık Pizza (Küçük)",
+          "price": 330.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sosis, sucuk, domates, mantar, mısır, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167212.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pizza (Küçük)",
+          "price": 330.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble ızgara tavuk, közlenmiş biber, soğan, yeşil biber (Barbekü sos veya jalapeno biberi ilave edilebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75443772.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Peynirli Pizza (Küçük)",
+          "price": 380.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, cheddarlı peynir, ricotta peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167215.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Budur Pizza (Küçük)",
+          "price": 380.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, kavurma, salam, sosis, sucuk, kekik, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167220.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etzza Pizza (Küçük)",
+          "price": 380.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, pastırma, sucuk, domates, jalapeno biberi, soğan, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167221.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurma Zengini Pizza (Küçük)",
+          "price": 380.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble kavurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167222.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Ton (Küçük)",
+          "price": 380.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, ton balığı, mısır, siyah zeytin, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167224.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Orta Boy Pizzalar (6 Dilim)",
+      "products": [
+        {
+          "name": "Pizzanı Tasarla (Orta)",
+          "price": 400.0,
+          "description": "Dilediğin ürünlerle pizzanı yarat! Seçeceğiniz 1 et ve 1 sebze ürünü ile lezzetin tadını çıkartın!",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67702734.jpg?width=150&height=150"
+        },
+        {
+          "name": "Favori Üçlü Pizza (Orta)",
+          "price": 400.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sosis, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/33168500.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kampüs Pizza (Orta)",
+          "price": 400.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167228.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita Pizza (Orta)",
+          "price": 400.0,
+          "description": "San Marzano tipi sos, ekstra mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167226.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk Mısır Partisi (Orta)",
+          "price": 400.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sucuk, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167230.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bol Bol Pizza (Orta)",
+          "price": 425.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, sucuk, domates, kekik, mantar, mısır, siyah zeytin, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167232.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doyuran Üçlü Pizza (Orta)",
+          "price": 425.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, mantar, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75443942.jpg?width=150&height=150"
+        },
+        {
+          "name": "Egeli Pizza (Orta)",
+          "price": 425.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, domates, kekik, mantar, siyah zeytin, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77116427.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lezzet Küpü Pizza (Orta)",
+          "price": 425.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, küp sucuk, kekik, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67718485.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk Zengini Pizza (Orta)",
+          "price": 425.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Efsane Sucuklu Pizza (Orta)",
+          "price": 450.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, sucuk, kekik, soğan, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67713662.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyalı Pizza (Orta)",
+          "price": 450.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, küp sucuk, domates, kekik, közlenmiş biber, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167234.jpg?width=150&height=150"
+        },
+        {
+          "name": "Keyfim Pizza (Orta)",
+          "price": 450.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, mantar, mısır, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167235.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Karışık Pizza (Orta)",
+          "price": 450.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sosis, sucuk, domates, mantar, mısır, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167236.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pizza (Orta)",
+          "price": 450.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble ızgara tavuk, közlenmiş biber, soğan, yeşil biber (Barbekü sos veya jalapeno biberi ilave edilebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75443779.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Peynirli Pizza (Orta)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, cheddarlı peynir, ricotta peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167239.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Budur Pizza (Orta)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, kavurma, salam, sosis, sucuk, kekik, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167244.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etzza Pizza (Orta)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, pastırma, sucuk, domates, jalapeno biberi, soğan, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167245.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurma Zengini Pizza (Orta)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble kavurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167246.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Ton (Orta)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, ton balığı, mısır, siyah zeytin, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167248.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Büyük Boy Pizzalar (8 Dilim)",
+      "products": [
+        {
+          "name": "Pizzanı Tasarla (Büyük)",
+          "price": 500.0,
+          "description": "Dilediğin ürünlerle pizzanı yarat! Seçeceğiniz 1 et ve 1 sebze ürünü ile lezzetin tadını çıkartın!",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67702739.jpg?width=150&height=150"
+        },
+        {
+          "name": "Favori Üçlü Pizza (Büyük)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sosis, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167251.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kampüs Pizza (Büyük)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167252.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita Pizza (Büyük)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, ekstra mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167250.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk Mısır Partisi (Büyük)",
+          "price": 500.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sucuk, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167254.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bol Bol Pizza (Büyük)",
+          "price": 525.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, sucuk, domates, kekik, mantar, mısır, siyah zeytin, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167256.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doyuran Üçlü Pizza (Büyük)",
+          "price": 525.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, mantar, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75443952.jpg?width=150&height=150"
+        },
+        {
+          "name": "Egeli Pizza (Büyük)",
+          "price": 525.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, domates, kekik, mantar, siyah zeytin, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77116636.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lezzet Küpü Pizza (Büyük)",
+          "price": 525.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, küp sucuk, kekik, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67718711.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuk Zengini Pizza (Büyük)",
+          "price": 525.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167255.jpg?width=150&height=150"
+        },
+        {
+          "name": "Efsane Sucuklu Pizza (Büyük)",
+          "price": 550.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, sucuk, kekik, soğan, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/67713672.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyalı Pizza (Büyük)",
+          "price": 550.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, küp sucuk, domates, kekik, közlenmiş biber, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167258.jpg?width=150&height=150"
+        },
+        {
+          "name": "Keyfim Pizza (Büyük)",
+          "price": 550.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, mantar, mısır, siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167259.jpg?width=150&height=150"
+        },
+        {
+          "name": "Süper Karışık Pizza (Büyük)",
+          "price": 550.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, sosis, sucuk, domates, mantar, mısır, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167260.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pizza (Büyük)",
+          "price": 550.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble ızgara tavuk, közlenmiş biber, soğan, yeşil biber (Barbekü sos veya jalapeno biberi ilave edilebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75443784.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Peynirli Pizza (Büyük)",
+          "price": 600.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, cheddarlı peynir, ricotta peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167263.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Budur Pizza (Büyük)",
+          "price": 600.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, kavurma, salam, sosis, sucuk, kekik, közlenmiş biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167268.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etzza Pizza (Büyük)",
+          "price": 600.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, pastırma, sucuk, domates, jalapeno biberi, soğan, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167269.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurma Zengini Pizza (Büyük)",
+          "price": 600.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, duble kavurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167270.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Ton (Büyük)",
+          "price": 600.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, ton balığı, mısır, siyah zeytin, soğan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29167272.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Lazzalar",
+      "products": [
+        {
+          "name": "Sucuklu Lazza (1 Kişilik)",
+          "price": 250.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, ricotta peyniri, sucuk, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75531766.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Lazza (1 Kişilik)",
+          "price": 280.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, ızgara tavuk, ricotta peyniri, közlenmiş biber, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75531770.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pastırmalı Lazza (1 Kişilik)",
+          "price": 310.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, pastırma, ricotta peyniri, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75531774.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Lazza (1 Kişilik)",
+          "price": 340.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, kavurma, ricotta peyniri, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75531778.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Sucuklu Sandviç",
+          "price": 200.0,
+          "description": "San Marzano tipi sos, ekşi mayalı baget ekmek, mozzarella peyniri, cheddarlı peynir, sucuk (Barbekü, binada veya creamy jalapeno sos ilave edilebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469791.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Sandviç",
+          "price": 230.0,
+          "description": "San Marzano tipi sos, ekşi mayalı baget ekmek, mozzarella peyniri, cheddarlı peynir, ızgara tavuk, yeşil biber (Barbekü, binada veya creamy jalapeno sos ilave edilebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Sandviç",
+          "price": 260.0,
+          "description": "San Marzano tipi sos, ekşi mayalı baget ekmek, mozzarella peyniri, ton balığı, mısır, siyah zeytin, soğan (Barbekü, binada veya creamy jalapeno sos ilave edilebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469794.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Sandviç",
+          "price": 290.0,
+          "description": "San Marzano tipi sos, ekşi mayalı baget ekmek, mozzarella peyniri, kavurma, mantar, soğan (Barbekü, binada veya creamy jalapeno sos ilave edilebilir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469795.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Bol Bol Dürüm",
+          "price": 200.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, sucuk, mısır, siyah zeytin, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469778.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dört Peynirli Dürüm",
+          "price": 230.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, cheddarlı peynir, ricotta peyniri, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469779.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Dürüm",
+          "price": 260.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, ızgara tavuk, közlenmiş biber, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75444498.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sultan Dürüm",
+          "price": 290.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, pastırma, sucuk, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469782.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Bol Bol Dürüm",
+          "price": 230.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, salam, sosis, sucuk, mısır, siyah zeytin, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469773.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Dört Peynirli Dürüm",
+          "price": 260.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, beyaz peynir, cheddarlı peynir, ricotta peyniri, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469774.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Tavuklu Dürüm",
+          "price": 290.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, ızgara tavuk, közlenmiş biber, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75444631.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Sultan Dürüm",
+          "price": 320.0,
+          "description": "San Marzano tipi sos, mozzarella peyniri, cheddarlı peynir, pastırma, sucuk, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29469777.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Yoğurtlu Sos",
+          "price": 30.0,
+          "description": "(25 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428381.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lazza Sos",
+          "price": 25.0,
+          "description": "(25 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79055308.jpg?width=150&height=150"
+        },
+        {
+          "name": "Binada Sos",
+          "price": 30.0,
+          "description": "(25 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49876227.jpg?width=150&height=150"
+        },
+        {
+          "name": "Creamy Jalapeno Sos",
+          "price": 30.0,
+          "description": "(25 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76737899.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ketçap",
+          "price": 10.0,
+          "description": "(9 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428376.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mayonez",
+          "price": 10.0,
+          "description": "(9 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428377.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar & Dondurmalar",
+      "products": [
+        {
+          "name": "Çikolatalı Sufle",
+          "price": 140.0,
+          "description": "Sıcak, akışkan ve leziz çikolata dolgulu sufle",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Lazza",
+          "price": 200.0,
+          "description": "Çikolatalı fındık kreması, pudra şekeri, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428391.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Çikolatalı Lazza",
+          "price": 200.0,
+          "description": "Çikolatalı fındık kreması, vişne, pudra şekeri, tereyağı aromalı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77116867.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Maraş Usulü Cup Dondurma",
+          "price": 75.0,
+          "description": "(10 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428403.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi Zero Sugar (33 cl.)",
+          "price": 100.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428405.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 100.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428404.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 100.0,
+          "description": "Enfes meyve lezzetiyle portakal meyveli gazoz. Yemeğinize eklemek için tıklayın.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428407.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fruko (33 cl.)",
+          "price": 100.0,
+          "description": "Karışık meyve aromalı nostaljik gazoz. Yemeğinize eklemek için tıklayın.​",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428408.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 100.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66569491.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (33 cl.)",
+          "price": 100.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66569492.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tropicana Karışık (33 cl.)",
+          "price": 105.0,
+          "description": "(33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71583342.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtimat Ayran (20 cl.)",
+          "price": 40.0,
+          "description": "(20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75074883.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 35.0,
+          "description": "(50 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428414.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 40.0,
+          "description": "(20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428413.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bull Şekersiz Enerji İçeceği (25 cl.)",
+          "price": 120.0,
+          "description": "Red Bull enerji içeceği fonksiyonel bir içecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54899059.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bull Enerji İçeceği (25 cl.)",
+          "price": 120.0,
+          "description": "Red Bull enerji içeceği fonksiyonel bir içecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54899058.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Zero Sugar (1 L.)",
+          "price": 125.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428416.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 125.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428415.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Twist (1 L.)",
+          "price": 125.0,
+          "description": "Limon ve misket limonu aromasıyla ferahlatan sıfır kalorili, şekersiz kola tadı.Yemeğinize eklemek için tıklayın.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428417.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (1 L.)",
+          "price": 125.0,
+          "description": "Enfes meyve lezzetiyle portakal meyveli gazoz.Yemeğinize eklemek için tıklayın.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428418.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (1 L.)",
+          "price": 125.0,
+          "description": "Turunçgil aromasının harika tadı ve ferahlığı bir arada. Yemeğinize eklemek için tıklayın.​",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39686906.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (1 L.)",
+          "price": 125.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66569493.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Limon (1 L.)",
+          "price": 125.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66569494.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtimat Ayran (1 L.)",
+          "price": 135.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69717949.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

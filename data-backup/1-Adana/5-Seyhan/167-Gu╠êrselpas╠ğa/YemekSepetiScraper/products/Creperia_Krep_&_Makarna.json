@@ -1,0 +1,577 @@
+{
+  "link_hash": "2e8abc82",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Creperia Krep & Makarna",
+  "link": "https://www.yemeksepeti.com/restaurant/ctlb/creperia-krep-and-makarna",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Tavuklu Mantarlı Krep",
+          "price": 300.0,
+          "description": "Jülyen tavuk, mantar, mısır, krema. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35831908.jpg?width=128&height=128"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, mantar, mısır, krema, köri baharatı. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/39851075.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuklu Köri Soslu Makarna",
+          "price": 210.0,
+          "description": "Tavuk, mantar, mısır, pesto sos, köri baharatı (Penne)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832031.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Kremalı Mantarlı Makarna",
+          "price": 210.0,
+          "description": "Tavuk, mantar, mısır, krema, penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832016.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mac & Cheese",
+          "price": 200.0,
+          "description": "Cheddar peyniri, kaşar peyniri, mısır, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832219.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mac & Cheese",
+          "price": 220.0,
+          "description": "Tavuk, cheddar peyniri, kaşar peyniri, krema, mısır, pipette makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/37114072.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Krepler",
+      "products": [
+        {
+          "name": "Sebzeli Krep",
+          "price": 300.0,
+          "description": "Brokoli, karnabahar, havuç, kabak, biber, mısır. Makarna ve patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ispanaklı Krep",
+          "price": 300.0,
+          "description": "Ispanak, mısır, krema. Makarna, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosisli Krep",
+          "price": 300.0,
+          "description": "Sosis, zeytin, kornişon, mısır. Makarna, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mexican Soslu Krep",
+          "price": 300.0,
+          "description": "Jülyen tavuk, domates sos, mantar, mısır, renkli biberler, jalapeno biberi, acı sos. Makarna, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mantarlı Krep",
+          "price": 300.0,
+          "description": "Jülyen tavuk, mantar, mısır, krema. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35831908.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fesleğenli Tavuklu Krep",
+          "price": 300.0,
+          "description": "Jülyen tavuk, fesleğen, mantar, mısır, krema. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35831911.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, mantar, mısır, krema, köri baharatı. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/39851075.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patlıcanlı Tavuklu Krep",
+          "price": 300.0,
+          "description": "Patlıcan, tavuk, domates sos, biber, mısır. Patates kızartması, makarna ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/40870986.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, domates sos, renkli biberler, mısır. Makarna, Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/41004100.jpg?width=150&height=150"
+        },
+        {
+          "name": "Brokolili Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, brokoli, renkli biberler, mısır, krema. Makarna, Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/41004456.jpg?width=150&height=150"
+        },
+        {
+          "name": "Brokolili Krep",
+          "price": 300.0,
+          "description": "Brokoli, renkli biber, mısır, krema. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/41021672.jpg?width=150&height=150"
+        },
+        {
+          "name": "Arrabbiata Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, domates sos, biber, mısır, zeytin, jalapeno turşusu, acı sos. (Makarna ve patates kızartması ile)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/41117611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Alacarne Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, domates sos, krema, mantar, mısır. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41136175.jpg?width=150&height=150"
+        },
+        {
+          "name": "Alfredo Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, mantar, mısır, biber, krema. Makarna, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41136392.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, pesto sos, mısır, krema. Makarna, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosisli Domates Soslu Krep",
+          "price": 300.0,
+          "description": "Sosis, domates sos, mısır, zeytin, renkli biber. Makarna, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Avokadolu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, avokado sos, biber, mısır, kuru domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheddar Soslu Tavuklu Krep",
+          "price": 320.0,
+          "description": "Tavuk, cheddar sos, mısır, kaşar peyniri, krema. Patates kızartması, makarna ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43005864.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Soslu Sosisli Mısırlı Krep",
+          "price": 320.0,
+          "description": "Sosis, mısır, cheddar peyniri, kaşar peyniri, krema. Patates kızartması, makarna ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/46528147.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Gigi Hadid Krep",
+          "price": 300.0,
+          "description": "Tavuk, kaşar peyniri, domates, sos, krema, mısır, patates kızartması. Makarna ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Soslu Tavuklu Krep",
+          "price": 300.0,
+          "description": "Tavuk, barbekü sos, mısır, biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Domates Soslu Spaghetti",
+          "price": 195.0,
+          "description": "Domates sos, sarımsak, özel baharat, spaghetti",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Domates Soslu Spagetti",
+          "price": 210.0,
+          "description": "Spaghetti makarna, tavuk, domates sos, sarımsak, baharat",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pesto Soslu Spaghetti",
+          "price": 195.0,
+          "description": "Spaghetti, pesto sos, krema",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Pesto Soslu Spaghetti",
+          "price": 210.0,
+          "description": "Spaghetti, pesto sos, krema",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Makarna",
+          "price": 195.0,
+          "description": "Mantar, mısır, krema, penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832009.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Kremalı Mantarlı Makarna",
+          "price": 210.0,
+          "description": "Tavuk, mantar, mısır, krema, penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832016.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Makarna",
+          "price": 195.0,
+          "description": "Mantar, mısır, köri baharatı, penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832028.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Köri Soslu Makarna",
+          "price": 210.0,
+          "description": "Tavuk, mantar, mısır, pesto sos, köri baharatı (Penne)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832031.jpg?width=150&height=150"
+        },
+        {
+          "name": "Arrabbiata Soslu Makarna",
+          "price": 195.0,
+          "description": "Domates sos, biber, mısır, zeytin, jalapeno turşusu, acı sos, penne",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832057.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Arrabbiata Soslu Makarna",
+          "price": 210.0,
+          "description": "Tavuk, domates sos, biber, mısır, zeytin, jalapeno turşusu, acı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832064.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "price": 200.0,
+          "description": "Mantar, biber, mısır, krema, fettuccine makarnası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832077.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Fettuccine Alfredo",
+          "price": 220.0,
+          "description": "Tavuk, mantar, biber, mısır, krema, linguine makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832084.jpg?width=150&height=150"
+        },
+        {
+          "name": "Alacarne Soslu Penne Makarna",
+          "price": 200.0,
+          "description": "Penne makarna, domates sos, krema, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832121.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Alacarne Soslu Makarna",
+          "price": 210.0,
+          "description": "Penne makarna, tavuk, domates sos, krema, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832134.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mexican Soslu Makarna",
+          "price": 195.0,
+          "description": "Domates sos, jalapeno turşusu, biber, mısır, mantar, chili sos, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mexican Soslu Makarna",
+          "price": 210.0,
+          "description": "Tavuk, domates sos, jalapeno turşusu, biber, mısır, mantar, acı sos, penne",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Brokolili Makarna",
+          "price": 195.0,
+          "description": "Brokoli, mısır, renkli biber,, krema, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Brokolili Makarna",
+          "price": 210.0,
+          "description": "Tavuk, brokoli, mısır, renkli biber, krema, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mac & Cheese",
+          "price": 200.0,
+          "description": "Cheddar peyniri, kaşar peyniri, mısır, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832219.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Makarna",
+          "price": 190.0,
+          "description": "Pipette makarna, yoğurt, mantı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/35832232.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mac & Cheese",
+          "price": 220.0,
+          "description": "Tavuk, cheddar peyniri, kaşar peyniri, krema, mısır, pipette makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/37114072.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Domates Soslu Spagetti",
+          "price": 210.0,
+          "description": "Sosis, domates sosu, özel baharat",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Gigi Hadid Makarna",
+          "price": 210.0,
+          "description": "Domates sos, krema, kaşar peyniri, sarımsak, baharatlar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosisli Kremalı Spagetti",
+          "price": 210.0,
+          "description": "Sosis, krema, baharat, spaghetti",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/37914280.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Gigi Hadid Makarnası",
+          "price": 220.0,
+          "description": "Tavuk, domates sos, krema, kaşar peyniri, sarımsak, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pesto Penne",
+          "price": 195.0,
+          "description": "Pesto sos, krema, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Pesto Penne",
+          "price": 210.0,
+          "description": "Tavuk, pesto sos, krema",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Avokadolu Spagetti",
+          "price": 220.0,
+          "description": "Tavuk, avokado sos, mısır, renkli biberler, kuru domates, spagetti",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/38991921.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avokadolu Spagetti",
+          "price": 200.0,
+          "description": "Avokado sos, krema, mısır, renkli biberler, kuru domates, spagetti",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Domates Soslu Fettuccine",
+          "price": 210.0,
+          "description": "Tavuk, domates sos, renkli biber, mısır, baharat, fettucine makarnası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/39858805.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates Soslu Fettuccine",
+          "price": 200.0,
+          "description": "Domates sos, renkli biber mısır, baharat, fettuccine makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Double Tavuklu Makarna (Kremalı)",
+          "price": 250.0,
+          "description": "(150 gr.) Tavuk, mantar, mısır, krema, penne makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/39861026.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Acılı Domates Soslu Spagetti",
+          "price": 210.0,
+          "description": "Tavuk, domates sos, acı sos, baharatlar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Domates Soslu Spaghetti",
+          "price": 195.0,
+          "description": "Domates sos, acı sos, baharatlar, spagetti",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mısırlı Spagetti",
+          "price": 210.0,
+          "description": "Tavuk, mısır, krema, spagetti makarnası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mısırlı Kremalı Spagetti",
+          "price": 195.0,
+          "description": "Mısır, krema, spagetti",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Domates Soslu Penne",
+          "price": 195.0,
+          "description": "Domates sos, penne makarna, baharat",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu & Domates Soslu Penne",
+          "price": 210.0,
+          "description": "Tavuk, domates sos, baharatlar, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Sosisli Mac & Cheese",
+          "price": 235.0,
+          "description": "Sosis, tavuk, mısır, cheddar peyniri, kaşar peyniri, krema, pipette makarnası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sosisli Mac & Cheese",
+          "price": 220.0,
+          "description": "Sosis, cheddar peyniri, kaşar peyniri, krema mısır, pipette makarna",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/41253998.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Sosisli Domates Soslu Spaghetti",
+          "price": 230.0,
+          "description": "Tavuk, sosis, domates sos, baharatlar, spagetti makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Alfredo Soslu Penne",
+          "price": 195.0,
+          "description": "Mantar, biber, mısır, krema penne makarnası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Alfredo Soslu Penne",
+          "price": 210.0,
+          "description": "Tavuk, mantar, biber, mısır, krema, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Körili Alfredo Soslu Penne",
+          "price": 200.0,
+          "description": "Köri baharatı, mantar, mısır, biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Double Köri Soslu Tavuklu Penne Makarna",
+          "price": 250.0,
+          "description": "Tavuk, mantar, mısır, krema, penne makarnası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Öğrenci Dostu Makarna",
+          "price": 190.0,
+          "description": "Krema, penne makarna",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Barbekü Soslu Makarna",
+          "price": 210.0,
+          "description": "Tavuk, barbekü sos, biber, mısır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Soslu Makarna",
+          "price": 195.0,
+          "description": "Barbekü sos, biber, mısır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuklu Penne",
+          "price": 250.0,
+          "description": "Çıtır tavuk, kremalı penne",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Spagetti",
+          "price": 195.0,
+          "description": "Krema, köri sos, mantar, mısır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Köri Soslu Spagetti",
+          "price": 210.0,
+          "description": "Tavuk, köri sos, krema, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74389852.jpg?width=150&height=150"
+        },
+        {
+          "name": "Makarna Salatası",
+          "price": 200.0,
+          "description": "Pipette makarnası, yoğurt, mayonez, mısır, bezelye, havuç, patates, salatalık turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74437789.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Noodles",
+      "products": [
+        {
+          "name": "Sebzeli Noodle",
+          "price": 195.0,
+          "description": "Biber, havuç, brokoli, kabak, lahana, yeşil soğan, mısır, soya sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Noodle",
+          "price": 210.0,
+          "description": "Jülyen tavuk, biber, havuç, brokoli, kabak, lahana, yeşil soğan, mısır, soya sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Noodle",
+          "price": 195.0,
+          "description": "Mantar, mısır, krema noodle makarnası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Mantarlı Noodle",
+          "price": 210.0,
+          "description": "Tavuk, mantar, mısır, krema, noodle makarnası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Patates Kızartması",
+          "price": 150.0,
+          "description": "Baharatlı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Tavuklu Soğuk Makarna Salatası",
+          "price": 210.0,
+          "description": "Pipette makarnası, yoğurt, mayonez, mısır, bezelye, havuç, patates, salatalık turşusu, tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğuk Makarna Salatası",
+          "price": 195.0,
+          "description": "Pipette makarnası, yoğurt, mayonez, mısır, havuç, bezelye, patates. Salatalık turşusu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Soda (20 cl.)",
+          "price": 25.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 15.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütaş Ayran (27,5 cl.)",
+          "price": 35.0,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

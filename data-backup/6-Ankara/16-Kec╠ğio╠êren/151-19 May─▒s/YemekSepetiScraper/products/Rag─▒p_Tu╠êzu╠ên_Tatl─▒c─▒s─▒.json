@@ -1,0 +1,394 @@
+{
+  "link_hash": "f1897ee0",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Ragıp Tüzün Tatlıcısı",
+  "link": "https://www.yemeksepeti.com/restaurant/ihjc/ragip-tuzun-tatlicisi",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Soğuk Baklava (500 gr.)",
+          "price": 620.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88107026/ebda519a-fc5d-4c50-85e1-7446f655af0a.jpg?width=128&height=128"
+        },
+        {
+          "name": "Soğuk Baklava (250 gr.)",
+          "price": 315.0,
+          "description": "Süt, Antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/e27ff4fb-d939-4148-ad52-c0e8c868d8f0.jpg?width=128&height=128"
+        }
+      ]
+    },
+    {
+      "name": "Ramazan‘a Özel Ürünler",
+      "products": [
+        {
+          "name": "Çiğ Köfte (700 gr.) & Tatlı (700 gr.)",
+          "price": 1.05,
+          "description": "Çiğ köfte, tatlı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/06bf3c4e-c353-43dd-8a3f-1aad97035941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte & Dondurma (250 gr.)",
+          "price": 470.0,
+          "description": "Çiğ köfte, dondurma",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/7dbf3828-b2d6-47f9-ab4d-450686cb621b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (500 gr.) & Tatlı (500 gr.)",
+          "price": 750.0,
+          "description": "Çiğ köfte, tatlı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.) & Tatlı (1 kg.)",
+          "price": 1.6,
+          "description": "Çiğ köfte, tatlı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (250 gr.) & Tatlı (250 gr.)",
+          "price": 500.0,
+          "description": "Çiğ köfte, tatlı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/6295a9d0-a4f8-4dc9-b068-1be9c6cce61d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte & Dondurma (1 kg.)",
+          "price": 1.55,
+          "description": "Çiğ köfte, dondurma",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/c28b436e-6178-4a57-9d06-e57a94744119.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte & Dondurma (700 gr.)",
+          "price": 1.0,
+          "description": "Çiğ köfte, dondurma",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/6f32585b-72f6-4f4e-91be-2f045761afa4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte & Dondurma (500 gr.)",
+          "price": 700.0,
+          "description": "Çiğ köfte, dondurma",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/3272de07-333d-45fb-b211-246211d1cac1.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Su Böreği",
+      "products": [
+        {
+          "name": "Su Böreği (250 gr.)",
+          "price": 220.0,
+          "description": "250 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su Böreği (500 gr.)",
+          "price": 320.0,
+          "description": "500 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su Böreği (1 kg.)",
+          "price": 590.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/bc866f4c-6b83-41a7-ad02-43aafa170935.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Bazlamalı Karışık Tost",
+          "price": 250.0,
+          "description": "Sucuk, kaşar peyniri, domates, turşu, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bazlamalı Sucuklu Tost",
+          "price": 230.0,
+          "description": "Sucuk, domates, turşu, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bazlamalı Kaşarlı Tost",
+          "price": 230.0,
+          "description": "Kaşar peyniri, domates, turşu, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 115.0,
+          "description": "Kaşar Peyniri Domates Turşu Ketçap Mayonez İle",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88107172/d24b99a7-e6fc-4e9d-ac44-6922ef64b310.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sucuklu Tost",
+          "price": 115.0,
+          "description": "Sucuk, kaşar peynir",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88107177/4fdcb528-d3e8-4d42-b90f-6c78073640ff.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Tost",
+          "price": 125.0,
+          "description": "Kaşar peyniri Sucuk Domates Turşu Ketçap Mayonez İle",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88107165/bc4f6167-61c9-40c5-b305-e72ac3973e50.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Taze Yaprak Sarması",
+      "products": [
+        {
+          "name": "Zeytinyağlı Yaprak Sarma (250 gr.)",
+          "price": 330.0,
+          "description": "250 gr olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Zeytinyağlı Yaprak Sarma (500 gr.)",
+          "price": 500.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Zeytinyağlı Yaprak Sarma (1 kg.)",
+          "price": 750.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88107074/4f4704d4-162c-493d-8e38-0d9ceb8aedcd.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Midye Dolmalar",
+      "products": [
+        {
+          "name": "Midye Dolma (10 Adet)",
+          "price": 230.0,
+          "description": "Limon ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Midye Dolma (Adet)",
+          "price": 24.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca Cola (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca Cola (20 cl.)",
+          "price": 65.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79410176.jpg?width=150&height=150"
+        },
+        {
+          "name": "Didi Limonlu Soğuk Çay (33 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88281201/6c270390-489c-4813-adfe-1d4698a5c2b9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Didi Bergamotlu Soğuk Çay (33 cl.)",
+          "price": 70.0,
+          "description": "Didi Soğuk Çay",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88281211/b09afec6-cfd4-433e-8c20-d4ceccb40e7b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Niğde Gazozu (20 cl.)",
+          "price": 55.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/021d1c29-0174-4c8a-aa86-c93908cdbeb4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütaş Çikolatalı Süt (20 cl.)",
+          "price": 35.0,
+          "description": "Karton kutu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/75ee0b38-3046-4eda-b4bc-139b9eec43bb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79410178.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (2,5 L.)",
+          "price": 175.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/4304e6c5-ddfd-4952-88d4-e0788455ebf6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bull Şekersiz (25 cl.)",
+          "price": 95.0,
+          "description": "On sekiz yaşından küçüklere enerji içeceklerinin satışı yapılmamaktadır. Alkol ile karıştırılarak veya beraber tüketilmemelidir. Çocuklar, 18 yaş altı kişiler, yaşlılar, diyabetikler, yüksek tansiyonu olanlar, gebe ve emzikli kadınlar, metabolik hastalığı olanlar, böbrek yetmezliği olanlar ile kafeine hassas kişiler için tavsiye edilmez. Sporcu içeceği değildir, yoğun fiziksel aktivite öncesinde, sırasında veya sonrasında tüketilmemelidir. Günlük 500 ml’den fazla tüketilmesi tavsiye edilmez.",
+          "img": null
+        },
+        {
+          "name": "Didi Bergamot (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": null
+        },
+        {
+          "name": "Didi Limon (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": null
+        },
+        {
+          "name": "Didi Şeftali (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Tatlılar",
+      "products": [
+        {
+          "name": "Soğuk Baklava (250 gr.)",
+          "price": 315.0,
+          "description": "Süt, Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soğuk Baklava Porsiyon (2 Adet)",
+          "price": 140.0,
+          "description": "2 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuazlı Trileçe (Porsiyon)",
+          "price": 150.0,
+          "description": "Frambuazlı Trileçe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuazlı Trileçe (750 gr.)",
+          "price": 635.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/edaa6166-e018-4548-ae6a-e602727a0844.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Trileçe (500 gr.)",
+          "price": 510.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/9396ec62-56a9-4a45-b50d-b1f397a0b471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Trileçe (300 gr.)",
+          "price": 290.0,
+          "description": "Frambuazlı Trileçe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/499abeae-9b53-48c9-9fb0-f401a910b8c7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Trileçe (1 kg.)",
+          "price": 765.0,
+          "description": "Frambuazlı Trileçe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/9f1d241d-76cc-4abc-8524-7d9ce9474ee0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Trileçe (500 Gr.)",
+          "price": 510.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/c1d332aa-4cf9-4bd7-9bc8-9a9cb4411109.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Trileçe (300 gr.)",
+          "price": 290.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/45633d0a-b04b-4885-b238-47618382ec9c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Trileçe (750 gr.)",
+          "price": 635.0,
+          "description": "Karamelli Trileçe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/5b948132-1c09-4dc8-b3aa-8b56927ace0d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Trileçe (1 kg.)",
+          "price": 765.0,
+          "description": "Günlük hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88b25369-11c6-4052-b8cf-f12ae241ed7c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cevizli Soğuk Baklava (750 gr)",
+          "price": 790.0,
+          "description": "Cevizli Soğuk Baklava",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/4d2d62cb-7fae-49e6-8bbe-227122b34de5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Baklava (500 gr.)",
+          "price": 620.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88107026/ebda519a-fc5d-4c50-85e1-7446f655af0a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Baklava (1 kg.)",
+          "price": 930.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ihjc/product/88107019/7be6df6f-7fe3-4d7f-80c6-d31b145c6ed7.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Dondurmalar",
+      "products": [
+        {
+          "name": "Karışık Maraş Usulü Dondurma (250 gr.)",
+          "price": 250.0,
+          "description": "Çikolatalı Maraş usulü, sade Maraş usulü, Antep fıstıklı Maraş usulü, bal badem Maraş usulü, çilek Maraş usulü, limon Maraş usulü, karamel Maraş usulü.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Maraş Usulü Dondurma (750 gr.)",
+          "price": 720.0,
+          "description": "Çikolatalı Maraş usulü, sade Maraş usulü, Antep fıstıklı Maraş usulü, bal badem Maraş usulü, çilek Maraş usulü, limon Maraş usulü, karamel Maraş usulü.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Maraş Usulü Dondurma (500 gr.)",
+          "price": 500.0,
+          "description": "Çikolatalı Maraş usulü, sade Maraş usulü, Antep fıstıklı Maraş usulü, bal badem Maraş usulü, çilek Maraş usulü, limon Maraş usulü, karamel Maraş usulü.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Karışık Maraş Usulü Dondurma (1 kg.)",
+          "price": 900.0,
+          "description": "Çikolatalı Maraş usulü, sade Maraş usulü, Antep fıstıklı Maraş usulü, bal badem Maraş usulü, çilek Maraş usulü, limon Maraş usulü, karamel Maraş usulü.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

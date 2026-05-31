@@ -1,0 +1,224 @@
+{
+  "link_hash": "0ad028da",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Bear Sokak Lezzetleri",
+  "link": "https://www.yemeksepeti.com/restaurant/g1u3/bear-sokak-lezzetleri",
+  "categories": [
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Kaşarlı Sucuklu Tost",
+          "price": 195.0,
+          "description": "Sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178596.jpg?width=128&height=128"
+        },
+        {
+          "name": "Akdeniz Tostu",
+          "price": 217.5,
+          "description": "Kaşar peyniri, beyaz peynir, sucuk, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178604.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kavurmalı Kaşarlı Tost",
+          "price": 232.5,
+          "description": "Kaşar peyniri, kavurma, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178607.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Tost",
+          "price": 172.5,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Sucuklu Yumurtalı Tost",
+          "price": 221.25,
+          "description": "Yumurta, sucuk, kaşar peyniri, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178772.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sanayi Tostu",
+          "price": 217.5,
+          "description": "Yumurta, sucuk, kaşar peyniri. Domates ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178778.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama Kaşarlı Tost",
+          "price": 172.5,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178786.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama Kaşarlı Sucuklu Tost",
+          "price": 206.25,
+          "description": "Sucuk, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178796.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama Kaşarlı Kavurmalı Tost",
+          "price": 232.5,
+          "description": "Kaşar peyniri, kavurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178801.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama Barbekü Soslu Tost",
+          "price": 187.5,
+          "description": "Kaşar peyniri, sucuk, barbekü sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178955.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama Akdeniz Tostu",
+          "price": 216.75,
+          "description": "Kaşar peyniri, sucuk, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70178963.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama Ekmek Arası Full Karışık Tost",
+          "price": 224.25,
+          "description": "Sucuk, kaşar peyniri, Rus salatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70179118.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bazlama Ekmek Arası Sanayi Tostu",
+          "price": 216.75,
+          "description": "Yumurta, sucuk, kaşar peyniri. Domates ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70179121.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Patso Sandviç",
+          "price": 176.25,
+          "description": "Patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kumru Sandviç",
+          "price": 213.75,
+          "description": "Sucuk, sosis, kaşar peyniri, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Gözlemeler",
+      "products": [
+        {
+          "name": "Peynirli Gözleme",
+          "price": 172.5,
+          "description": "Peynirli",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Sucuklu Gözleme",
+          "price": 198.75,
+          "description": "Domates, salatalık, ketçap, mayonez ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Gözleme",
+          "price": 172.5,
+          "description": "Domates, salatalık, ketçap, mayonez ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Arası Ürünler",
+      "products": [
+        {
+          "name": "Yarım Ekmek Arası Izgara Sucuk",
+          "price": 232.5,
+          "description": "Turşu, domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yarım Ekmek Arası Izgara Köfte",
+          "price": 232.5,
+          "description": "150 gr. ızgara köfte, domates, turşu, soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Arnavutciğeri",
+          "price": 187.5,
+          "description": "Domates, soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 48.75,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 41.25,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70180724.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 45.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70180734.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 33.75,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70180740.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Soda (20 cl.)",
+          "price": 48.75,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71042937.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+  "link_hash": "21450f9c",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Chef's Burger House",
+  "link": "https://www.yemeksepeti.com/restaurant/zipf/chefs-burger-house-zipf",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Bitirim İkili Menü",
+          "price": 915.0,
+          "description": "Classic Burger (150 gr.) + Classic Burger (100 gr.) + Soğan Halkası (6 Adet) + Patates Kızartması + İçecek (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Muhteşem İkili Menü",
+          "price": 825.0,
+          "description": "Classic Burger (150 gr.) + Çıtır Tavuk Burger + Soğan Halkası (6 Adet) + Patates Kızartması + İçecek (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49414102.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kids Burger Menü",
+          "price": 397.5,
+          "description": "Kids Burger (70 gr. burger köftesi, relish sos, marul, kornişon turşu, domates) + Patates Kızartması + Hüptrik + Ayran (20 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52343873.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kids Tavuk Burger Menü",
+          "price": 387.0,
+          "description": "Kids Tavuk Burger (Tavuk kıyma köfte (70 gr.) , domates, relish sos, marul, kornişon turşu) + Patates Kızartması + Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68668739.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Cheeseburger",
+          "price": 431.25,
+          "description": "Burger köftesi, cheddar peyniri, karamelize soğan, kıvırcık marul, domates, relish sos, kornişon turşu. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kral Burger",
+          "price": 433.5,
+          "description": "Burger köftesi, çemensiz dana pastırma, cheddar peyniri, mozzarella peyniri, kıvırcık marul, domates, kornişon turşu, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mushroom Burger",
+          "price": 433.5,
+          "description": "Burger köftesi, ızgara mantar, mozzarella peyniri, cheddar peyniri, karamelize soğan, kornişon turşu, domates, kıvırcık marul, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Smoked Burger",
+          "price": 433.5,
+          "description": "Burger köftesi, 3 adet soğan halkası, dana füme, cheddar peyniri, karamelize soğan, barbekü sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412483.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Burger",
+          "price": 438.75,
+          "description": "Burger köftesi, ızgara mantar, ızgara biber, double cheddar peyniri, ızgara domates, karamelize soğan, ranch sos, barbekü sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49412485.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bacon Burger",
+          "price": 438.75,
+          "description": "Burger köftesi, mozzarella peyniri, dana bacon, ızgara mantar, relish sos, karamelize soğan, domates. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49412488.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mexican Burger",
+          "price": 421.5,
+          "description": "Burger köftesi, ızgara biber, jalapeno biber, double mozzarella peyniri, kornişon turşu, acı sos, ranch sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49412489.jpg?width=150&height=150"
+        },
+        {
+          "name": "Special Burger",
+          "price": 427.5,
+          "description": "Burger köftesi, dana bacon, cheddar peynir, mozzarella peyniri, çıtır soğan parçaları, kornişon turşu, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412490.jpg?width=150&height=150"
+        },
+        {
+          "name": "Special Mush Burger",
+          "price": 444.75,
+          "description": "Burger köftesi, nane, dana bacon, mozzarella peyniri, çıtır soğan parçaları, mantar, kornişon turşu, kıvırcık marul, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49412534.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiftik Burger",
+          "price": 491.25,
+          "description": "Tiftiklenmiş dana bonfile et, nane, cheddar peyniri, karamelize soğan, kornişon turşu, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49412535.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gurme Burger",
+          "price": 468.75,
+          "description": "Burger köftesi, tiftiklenmiş dana eti, nane, cheddar peyniri, karamelize soğan, kornişon turşu, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412536.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fit Burger",
+          "price": 412.5,
+          "description": "Iceberg marul arasına; burger köftesi, salatalık, domates, cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412537.jpg?width=150&height=150"
+        },
+        {
+          "name": "Protein Burger",
+          "price": 562.5,
+          "description": "300 gr. burger köftesi, double cheddar peyniri, double mozzarella peyniri, kornişon turşu, domates, relish sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412539.jpg?width=150&height=150"
+        },
+        {
+          "name": "Classic Burger",
+          "price": 420.0,
+          "description": "Burger köftesi, relish sos, marul, kornişon turşu, domates. Patates kızartması, 4 çeşit sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/50828604.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kids Burger",
+          "price": 387.0,
+          "description": "70 gr. burger köftesi, relish sos, marul, kornişon turşu, domates. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/52319224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Queen Burger",
+          "price": 502.5,
+          "description": "Burger Köftesi, 50 gr. terbiyesiz ızgara bonfile, cheddar peyniri, mozzarella peyniri, kıvırcık marul, domates, kornişon turşu, relish sos, bbq sos. Patates kızartması, 4 adet sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/64073967.jpg?width=150&height=150"
+        },
+        {
+          "name": "BONF Burger",
+          "price": 521.25,
+          "description": "100 gr. terbiyesiz ızgara bonfile, kıvırcık marul, domates, kornişon turşu, relish sos, bbq sos, çiğ soğan. Patates kızartması, 4 adet sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/64086186.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Double Burgerler",
+      "products": [
+        {
+          "name": "Double Special Mush Burger",
+          "price": 585.0,
+          "description": "200 gr. burger köftesi, nane, dana bacon, mozzarella peyniri, çıtır soğan parçaları, mantar, kornişon turşu, kıvırcık marul, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412856.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Gurme Burger",
+          "price": 584.25,
+          "description": "200 gr. burger köftesi, tiftiklenmiş dana eti, nane, cheddar peyniri, karamelize soğan, kornişon turşu, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412857.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Bacon Burger",
+          "price": 566.25,
+          "description": "200 gr. burger köftesi, mozzarella peyniri, dana bacon, ızgara mantar, relish sos, karamelize soğan, domates. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49412859.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double BBQ Burger",
+          "price": 566.25,
+          "description": "200 gr. burger köftesi, ızgara mantar, ızgara biber, double cheddar peyniri, ızgara domates, karamelize soğan, ranch sos, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412860.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Cheeseburger",
+          "price": 555.0,
+          "description": "200 gr. burger köftesi, double cheddar peyniri, karamelize soğan, kıvırcık marul, domates, relish sos, kornişon turşu. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412861.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Special Burger",
+          "price": 555.0,
+          "description": "200 gr. burger köftesi, dana bacon, 2 adet cheddar peyniri, mozzarella peyniri, çıtır soğan parçaları, kornişon turşu, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412864.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Classic Burger",
+          "price": 532.5,
+          "description": "200 gr. burger köftesi, kıvırcık marul, domates, relish sos, marul, kornişon turşu. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412865.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Kral Burger",
+          "price": 566.25,
+          "description": "200 gr. burger köftesi, çemensiz dana pastırma, cheddar peyniri, mozzarella peyniri, kıvırcık marul, domates, kornişon turşu, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49412866.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Smoked Burger",
+          "price": 562.5,
+          "description": "200 gr. burger köftesi, 3 adet soğan halkası, dana füme, 3 adet cheddar peyniri, karamelize soğan, barbekü sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412867.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Mushroom Burger",
+          "price": 562.5,
+          "description": "200 gr. burger köftesi, ızgara mantar, mozzarella peyniri, double cheddar peyniri, karamelize soğan, kornişon turşu, domates, kıvırcık marul, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412868.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Mexican Burger",
+          "price": 547.5,
+          "description": "200 gr. burger köftesi, ızgara mantar, mozzarella peyniri, double cheddar peyniri, karamelize soğan, kornişon turşu, domates, kıvırcık marul, relish sos. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49412871.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Burgerler",
+      "products": [
+        {
+          "name": "Çıtır Tavuk Burger",
+          "price": 397.5,
+          "description": "Özel marine edilmiş çıtır tavuk göğüs fileto, relish sos, marul, kornişon turşu, domates. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuk Cheeseburger",
+          "price": 412.5,
+          "description": "Özel marine edilmiş çıtır tavuk fileto, relish sos, marul, kornişon turşu, domates, double cheddar peyniri, karamelize soğan. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413147.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lokum Tavuk Burger",
+          "price": 412.5,
+          "description": "150 gr. özel marine edilmiş ızgara tavuk sarma, ranch sos, mantar, mozzarella peyniri, iceberg marul, nane. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49413149.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mexican Tavuk Burger",
+          "price": 420.0,
+          "description": "150 gr. özel marine edilmiş ızgara tavuk sarma, ranch sos, acı sos, mantar, karamelize soğan, közlenmiş biber, mısır, mozzarella peyniri, jalapeno biber. Patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413153.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fit Tavuk Burger",
+          "price": 375.0,
+          "description": "Marul arasına; 150 gr. özel marine edilmiş ızgara tavuk sarma, salatalık, domates, cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49413154.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger Cheese",
+          "price": 393.75,
+          "description": "Tavuk kıyma köfte (100 gr.), domates, relish sos, marul, kornişon turşu, karamelize soğan, çift cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68649866.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger Special",
+          "price": 390.0,
+          "description": "Tavuk kıyma köfte (100 gr.), dana bacon, cheddar peyniri, mozzarella peyniri, çıtır soğan parçaları, kornişon turşusu, relish sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68649880.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger Mushroom",
+          "price": 390.0,
+          "description": "Tavuk kıyma köfte (100 gr.), ızgara mantar, mozzarella peyniri, cheddar peyniri, karamelize soğan, kornişon turşu, domates, kıvırcık marul, relish sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68649887.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger BBQ",
+          "price": 408.75,
+          "description": "Tavuk kıyma köfte (100 gr.), ızgara mantar, ızgara biber, double cheddar peyniri, ızgara domates, karamelize soğan, ranch sos, barbekü sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68649893.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger Mexican",
+          "price": 390.0,
+          "description": "Tavuk kıyma köfte (100 gr.), ızgara biber, jalapeno biberi, double mozzarella peyniri, kornişon turşu, acı sos, ranch sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68649896.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger Classic",
+          "price": 382.5,
+          "description": "Tavuk kıyma köfte (100 gr.), domates, relish sos, marul, kornişon turşu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68649935.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger Smoked",
+          "price": 401.25,
+          "description": "Tavuk kıyma köfte (100 gr.) 3 adet soğan halkası, dana füme, cheddar peyniri, karamelize soğan, barbekü sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/68649941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kids Burger Tavuk",
+          "price": 369.0,
+          "description": "Tavuk kıyma köfte (70 gr.), domates, relish sos, marul, kornişon turşu. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68649947.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Tavuk Nugget (10 Adet)",
+          "price": 202.5,
+          "description": "Tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 210.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413464.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (12 Adet)",
+          "price": 187.5,
+          "description": "Çıtır soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413465.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk Topları (10 Adet)",
+          "price": 180.0,
+          "description": "Tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413467.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks (7 Adet)",
+          "price": 195.0,
+          "description": "Mozzarella peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413468.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chef's Mix",
+          "price": 262.5,
+          "description": "200 gr. patates kızartması, 5 adet tavuk nugget, 3 adet mozzarella sticks, 6 adet soğan halkası. 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413469.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosis Tabağı",
+          "price": 405.75,
+          "description": "9 adet sosis, 200 gr. patates kızartması. 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413470.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cajun Finger",
+          "price": 315.0,
+          "description": "5 adet özel marine edilmiş çıtır tavuk göğüs fileto. 200 gr. patates kızartması, 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo Tabağı",
+          "price": 370.5,
+          "description": "200 gr. patates kızartması, 3 adet sosis, 3 adet soğan halkası, 3 adet çıtır tavuk, 3 adet tavuk nugget, 3 adet mozzarella sticks. 4 adet özel sos ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413472.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Mevsim Salata",
+          "price": 289.5,
+          "description": "Mısır, iceberg marul, kıvırcık marul, lollo rosso, cherry domates, salatalık, roka, havuç, özel salata sos, limon, nar ekşisi, zeytinyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çıtır Tavuklu Salata",
+          "price": 363.75,
+          "description": "Mısır, iceberg marul, kıvırcık marul, lollo rosso, cherry domates, ceviz, salatalık, havuç, 3 adet özel marine edilmiş çıtır tavuk göğüs fileto, özel salata sos, limon, nar ekşisi, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413577.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Tavuklu Salata",
+          "price": 372.75,
+          "description": "Mısır, iceberg marul, kıvırcık marul, lollo rosso, cherry domates, mozzarella peyniri, salatalık, havuç, 150 gr. ızgara tavuk sarma, özel salata sos, limon, nar ekşisi, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413579.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chef's Special Salata",
+          "price": 387.75,
+          "description": "Mısır, iceberg marul, kıvırcık marul, lollo rosso, cherry domates, roka, salatalık, havuç, nane, jalapeno biber turşusu, 100 gr. burger köftesi, özel salata sos, limon, nar ekşisi, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413580.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Salata",
+          "price": 345.0,
+          "description": "Mısır, iceberg marul, kıvırcık marul, lollo rosso, roka, cherry domates, mor soğan, salatalık, havuç, 100 gr. ton balığı, özel salata sos, limon, nar ekşisi, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413581.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Makaron (6 Adet)",
+          "price": 262.5,
+          "description": "Günün çeşitleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/51220287.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sufle",
+          "price": 187.5,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60937151.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hüptrik (35 gr.)",
+          "price": 7.5,
+          "description": "Paket olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413800.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413801.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413803.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413804.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 56.25,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49413805.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 67.5,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413806.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (20 cl.)",
+          "price": 56.25,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413807.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (27,5 cl.)",
+          "price": 45.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413808.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 37.5,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49468947.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 37.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68142419.jpg?width=150&height=150"
+        },
+        {
+          "name": "Niğde Gazozu (25 cl.)",
+          "price": 56.25,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68142416.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 22.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413809.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413810.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413811.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50813262.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49413813.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 90.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/50817448.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap",
+          "price": 9.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mayonez",
+          "price": 9.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Relish Sos",
+          "price": 10.5,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413637.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hardal",
+          "price": 14.25,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413638.jpg?width=150&height=150"
+        },
+        {
+          "name": "Barbekü Sos",
+          "price": 12.75,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413639.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 9.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413640.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos",
+          "price": 12.75,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49413641.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

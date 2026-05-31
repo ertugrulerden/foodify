@@ -1,0 +1,100 @@
+{
+  "link_hash": "1c9553ec",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Yaprak Tantuni",
+  "link": "https://www.yemeksepeti.com/restaurant/rzcd/yaprak-tantuni-rzcd",
+  "categories": [
+    {
+      "name": "Tavuk Tantuniler",
+      "products": [
+        {
+          "name": "Lavaş Ekmek Arası Tavuk Tantuni",
+          "price": 240.0,
+          "description": "Domates, maydanoz",
+          "img": "https://yemeksepeti.dhmedia.io/image/vso-so-backend/YS_TR/HTSNYH/attachment__1778620366470022846.jpg?width=128&height=128"
+        },
+        {
+          "name": "Ekmek Arası Tavuk Tantuni",
+          "price": 250.0,
+          "description": "Domates, maydanoz",
+          "img": "https://yemeksepeti.dhmedia.io/image/vso-so-backend/YS_TR/HTSNYH/attachment__1778620259560380328.jpg?width=128&height=128"
+        },
+        {
+          "name": "Yoğurtlu Tavuk Tantuni (100 gr.)",
+          "price": 290.0,
+          "description": "Domates, maydanoz, yoğurt",
+          "img": "https://yemeksepeti.dhmedia.io/image/vso-so-backend/YS_TR/HTSNYH/attachment__1778620272678961636.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Et Tantuniler",
+      "products": [
+        {
+          "name": "Ekmek Arası Et Tantuni",
+          "price": 390.0,
+          "description": "Domates, maydanoz",
+          "img": "https://yemeksepeti.dhmedia.io/image/vso-so-backend/YS_TR/HTSNYH/attachment__1778620217404374999.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Tantuni",
+          "price": 380.0,
+          "description": "Domates, maydanoz",
+          "img": "https://yemeksepeti.dhmedia.io/image/vso-so-backend/YS_TR/HTSNYH/attachment__1778620204548493363.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Et Tantuni (100 gr.)",
+          "price": 430.0,
+          "description": "Domates, maydanoz, yoğurt",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (25 cl.)",
+          "price": 70.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Niğde Gazozu (25 cl.)",
+          "price": 50.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütaş Ayran (30 cl.)",
+          "price": 50.0,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 20.0,
+          "description": "Pet şişe",
+          "img": "https://yemeksepeti.dhmedia.io/image/vso-so-backend/YS_TR/HTSNYH/attachment__1778620170883693694.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

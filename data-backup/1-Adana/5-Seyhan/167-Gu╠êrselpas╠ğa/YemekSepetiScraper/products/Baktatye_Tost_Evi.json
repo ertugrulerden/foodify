@@ -1,0 +1,487 @@
+{
+  "link_hash": "22d99307",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Baktatye Tost Evi",
+  "link": "https://www.yemeksepeti.com/restaurant/uce1/baktatye-tost-evi",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "BTY Kaşar Bombası Tost",
+          "price": 217.5,
+          "description": "Kolot peyniri, kaşar peyniri, çeçil peyniri, tereyağı, isteğe göre domates, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102743.jpg?width=128&height=128"
+        },
+        {
+          "name": "BTY Usulü Sanayi Tostu",
+          "price": 255.0,
+          "description": "Köy tereyağı, sucuk, kaşar peyniri, salça, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103079.jpg?width=128&height=128"
+        },
+        {
+          "name": "BTY Üç Peynirli Tost",
+          "price": 221.25,
+          "description": "Labne peyniri, kaşar peyniri, beyaz peynir, isteğe göre domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102753.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Yumurtalı Kaşarlı Tost",
+          "price": 228.0,
+          "description": "Kaşar peyniri, köy yumurtası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103072.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Ultra Acı Yakan Tost",
+          "price": 238.5,
+          "description": "Kaşar peyniri, çeçil peyniri, acı pul biber, sucuk, isteğe göre domatesli özel sos, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102791.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Vejetaryen Tost",
+          "price": 228.0,
+          "description": "Kaşar peyniri, çeçil peyniri, siyah zeytin, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103004.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "BTY Special Tost",
+          "price": 264.75,
+          "description": "Kolot peyniri, kaşar peyniri, çeçil peyniri, özel sosla marine edilmiş salam, sucuk, turşu, isteğe göre ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77101184.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Yumurtalı Tost",
+          "price": 198.75,
+          "description": "Yumurta, tereyağı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BTY Kaşar Bombası Tost",
+          "price": 217.5,
+          "description": "Kolot peyniri, kaşar peyniri, çeçil peyniri, tereyağı, isteğe göre domates, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102743.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Üç Peynirli Tost",
+          "price": 221.25,
+          "description": "Labne peyniri, kaşar peyniri, beyaz peynir, isteğe göre domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102753.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Ultra Acı Yakan Tost",
+          "price": 238.5,
+          "description": "Kaşar peyniri, çeçil peyniri, acı pul biber, sucuk, isteğe göre domatesli özel sos, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102791.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Sucuksever Tost",
+          "price": 238.5,
+          "description": "Kaşar peyniri, çeçil peyniri, özel soslu dana sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102837.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Soslu Sosisli Kaşar Bombası Tost",
+          "price": 228.0,
+          "description": "Kolot peyniri, çeçil peyniri, kaşar peyniri, özel soslu sosis",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77102998.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Vejetaryen Tost",
+          "price": 228.0,
+          "description": "Kaşar peyniri, çeçil peyniri, siyah zeytin, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103004.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Ütü Tost",
+          "price": 228.0,
+          "description": "Köy yumurtası, dana sucuk, domates, acılı tereyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103009.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Sebzeli Tost",
+          "price": 228.0,
+          "description": "Ezine peyniri, domates, maydanoz, yeşil biber, kırmızıbiber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103019.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Ezine Peynirli & Domatesli Tost",
+          "price": 228.0,
+          "description": "Ezine peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103064.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Yumurtalı Kaşarlı Tost",
+          "price": 228.0,
+          "description": "Kaşar peyniri, köy yumurtası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103072.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Sanayi Tostu",
+          "price": 255.0,
+          "description": "Köy tereyağı, sucuk, kaşar peyniri, salça, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103079.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bty Sucuk İle Ekmeğin Aşkı",
+          "price": 228.0,
+          "description": "Kasap sucuk, isteğe göre domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103090.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Beş Peynirli Tost",
+          "price": 243.75,
+          "description": "Ezine peyniri, kaşar peyniri, tel peynir, beyaz peynir, tulum peyniri, isteğe göre domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103097.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Ezine Peynirli Tost",
+          "price": 254.25,
+          "description": "Ezine peyniri, özel soslu sucuk, domates, isteğe göre turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BTY Çanakkale Rüyası Tost",
+          "price": 258.75,
+          "description": "Ezine peyniri, domates, maydanoz, yeşil biber, kırmızıbiber, ketçap",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103128.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Dopdolu Pizza Tost",
+          "price": 281.25,
+          "description": "Özel salça sosu, sucuk, sosis, yeşil biber, mısır, siyah zeytin, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103141.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Cheddarlı Sucuklu Tost",
+          "price": 303.75,
+          "description": "Cheddar peyniri, sucuk, isteğe göre domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103156.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Kavurmalı Kaşarlı Tost",
+          "price": 298.5,
+          "description": "Çeçil peyniri, kaşar peyniri, domates sosu, Kars dana kavurması, domates, isteğe göre acı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103174.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Pastırmalı Kaşarlı Tost",
+          "price": 298.5,
+          "description": "Çeçil peyniri, kaşar peyniri, özel soslu dana antrikot pastırma, isteğe göre domates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BTY Usulü Kavurmalı Kaşarlı Tost",
+          "price": 298.5,
+          "description": "Çeçil peyniri, kaşar peyniri, domates sosu, Kars dana kavurması, domates, isteğe göre acı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103242.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Pastırmalı & Yumurtalı Tost",
+          "price": 298.5,
+          "description": "Dana antrikot pastırma, yumurta, sos, isteğe göre domates, acı sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103248.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Kavurmalı & Yumurtalı Tost",
+          "price": 298.5,
+          "description": "Dana kavurma, yumurta, sos, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103253.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Kavurmalı & Kaşarlı & Sucuklu Tost",
+          "price": 352.5,
+          "description": "Kaşar peyniri, sucuk, dana kavurma, isteğe göre domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103261.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Ultra Atom Etobur Tost",
+          "price": 363.75,
+          "description": "Çeçil peyniri, kaşar peyniri, Kars dana kavurması, sucuk, antrikot pastırma, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103280.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Maanyaak Bir Tost",
+          "price": 592.5,
+          "description": "Tam ekmek arasına; dana sucuk (120 gr.), yumurta (4 adet), sosis (150 gr.), salam (200 gr.), kaşar peyniri (100 gr.), domates, isteğe göre turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103323.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bazlama Tostlar",
+      "products": [
+        {
+          "name": "BTY Bazlama Special Tost",
+          "price": 288.75,
+          "description": "Tek kişilik bazlama ekmeğine; kolot peyniri, kaşar peyniri, çeçil peyniri, özel sosla marine edilmiş salam, sucuk, turşu, isteğe göre ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BTY Bazlama Pizza Tost",
+          "price": 296.25,
+          "description": "Tek kişilik bazlama ekmeğine; özel salça sosu, sucuk, salam, kırmızı & yeşil biber, mısır, zeytin, domates, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BTY Bazlama Soslu Sosisli Kaşar Bombası Tost",
+          "price": 249.75,
+          "description": "Kolot peyniri, çeçil peyniri, kaşar peyniri, özel soslu sosis, isteğe göre ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77614577.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Bazlama Sucuk Sever Tost",
+          "price": 247.5,
+          "description": "Tek kişilik bazlama ekmeğine; kaşar peyniri, çeçil peyniri, özel soslu dana sucuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77614578.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Bazlama Kaşar Bombası Tost",
+          "price": 246.0,
+          "description": "Tek kişilik bazlama ekmeğine; Kolot peyniri, kaşar peyniri, çeçil peyniri, tereyağı, isteğe göre domates, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77614579.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Bazlama Osmanlı Tost",
+          "price": 386.25,
+          "description": "Tek kişilik bazlama ekmeğine; kaşar peyniri, Kars dana kavurması, sucuk, antrikot pastırma, domates, kırmızı & yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77614580.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "BTY Usulü Klasik Sandviç",
+          "price": 206.25,
+          "description": "Labne, kaşar peyniri, dana Macar salam, marul, nane, isteğe göre domates, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BTY Usulü Jambon Sever Sandviç",
+          "price": 228.75,
+          "description": "Süt ekmeğine; labne, kaşar peyniri, dana jambon, isteğe göre hardal, turşu, marul, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103348.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulu Ekmek Arası Serpme Kahvaltı",
+          "price": 285.0,
+          "description": "Süt ekmeğine; labne, kahvaltılık sos kaşar peyniri, patates kızartması, salam hindi füme, sosis haşlanmış yumurta zeytin domates, marul, köz biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103362.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bty usulü ekmek arası yerli waffle",
+          "price": 288.75,
+          "description": "Kaymak bal, çikolata, fındık kreması, fındık, muz ,hindistan cevizi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103376.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Hindi Fümeli Sandviç",
+          "price": 217.5,
+          "description": "Labne, kaşar peyniri, hindi füme, marul, isteğe göre turşu, domates, nane",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103422.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Karışık Kuruşuk Dop Dolu Sandviç",
+          "price": 217.5,
+          "description": "Sosis, salam, sucuk, kaşar peyniri, turşu isteğe göre ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103432.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Çanakkale Esintisi Sandviç",
+          "price": 221.25,
+          "description": "Ezine peyniri, domates, salatalık, marul, siyah zeytin salatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103443.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Pastırmalı Soğuk Sandviç",
+          "price": 300.0,
+          "description": "Kaşar peyniri, pastırma, yeşil biber, domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103589.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Yumurtalı Sandviç",
+          "price": 206.25,
+          "description": "Kaşar peyniri, salam, haşlanmış yumurta, siyah zeytin, domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103595.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Beyaz Peynirli Sandviç",
+          "price": 206.25,
+          "description": "Beyaz peynir, salam, siyah zeytin, domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103603.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Sandviç",
+          "price": 221.25,
+          "description": "Ezine peyniri, yumurta, dana jambon, domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103610.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Peynir Deposu Sandviç",
+          "price": 240.0,
+          "description": "Ezine peyniri, kaşar peyniri, süzme peynir, domates, yeşil biber, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103648.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Double Soğuk Sandviç",
+          "price": 273.75,
+          "description": "Krem peynir, Rus salatası, salam, marul, Ezine peyniri, dana jambon, kaşar peyniri, domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103657.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Etli Sandviç",
+          "price": 337.5,
+          "description": "Rus salatası, Kaşar peyniri, dana kavurma, sucuk, pastırma, dana jambon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77103700.jpg?width=150&height=150"
+        },
+        {
+          "name": "BTY Usulü Kavurmalı Soğuk Sandviç",
+          "price": 262.5,
+          "description": "Kavurma, Rus salatası, domates, marul, Ezine peyniri, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "BTY Usulü Erzincan Tulum Peynirli Sadviç",
+          "price": 266.25,
+          "description": "Erzincan tulum peyniri, tereyağı, marul, domates, maydanoz, ceviz",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 86.25,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 86.25,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77148881.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 86.25,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77149508.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea Mango (33 cl.)",
+          "price": 86.25,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77149509.jpg?width=150&height=150"
+        },
+        {
+          "name": "Serfressh Şalgam Suyu (33 cl.)",
+          "price": 48.75,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77149511.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekşi Mayalı Açık Ayran (33 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77149513.jpg?width=150&height=150"
+        },
+        {
+          "name": "El Yapımı Açık Şalgam Suyu (33 cl.)",
+          "price": 60.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77149514.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eker Ayran (29.3 cl.)",
+          "price": 48.75,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77149512.jpg?width=150&height=150"
+        },
+        {
+          "name": "Eker Ayran (17 cl.)",
+          "price": 41.25,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77149510.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ayvalık Tostları",
+      "products": [
+        {
+          "name": "Ayvalık Tostu",
+          "price": 266.25,
+          "description": "Ayvalık ekmeği arasına; sosis, kaşar peyniri, kasap sucuk, salam, turşu, domates, ketçap, mayonez",
+          "img": null
+        },
+        {
+          "name": "Çift Katlı Süper Karışık Ayvalık Tostu",
+          "price": 438.75,
+          "description": "Ayvalık ekmeğinde; sosis, kaşar peyniri, sucuk, salam, turşu, domates, ketçap, mayonez",
+          "img": null
+        },
+        {
+          "name": "BTY Ultra Acı Yakan Tost (Ayvalık Ekmeğine)",
+          "price": 240.0,
+          "description": "Kaşar peyniri, çeçil peynir, pul biber, ev yapımı sucuk, domates",
+          "img": null
+        },
+        {
+          "name": "BTY Sucuk Sever Tost (Ayvalık Ekmeğine)",
+          "price": 247.5,
+          "description": "Ayvalık ekmeğine; kaşar peyniri, çeçil peyniri, el yapımı sucuk, özel soslu domates",
+          "img": null
+        },
+        {
+          "name": "Eski Orjinal Ayvalık Tostu",
+          "price": 266.25,
+          "description": "Ayvalık ekmeğinin üzerine; tulum peyniri, dana kasap sucuk, domates",
+          "img": null
+        },
+        {
+          "name": "BTY Kaşar Bombası Tost (Ayvalık Ekmeğine)",
+          "price": 251.25,
+          "description": "Trabzon kolot peyniri, kaşar peyniri, çeçil peyniri, tereyağı",
+          "img": null
+        },
+        {
+          "name": "BTY Special Tost (Ayvalık Ekmeğine)",
+          "price": 273.75,
+          "description": "Ayvalık ekmeğine; Trabzon peyniri, kaşar peyniri, çeçil peynir, salam, sucuk, ketçap",
+          "img": null
+        },
+        {
+          "name": "BTY Kavurmalı Kaşarlı Tost (Ayvalık Ekmeğine)",
+          "price": 292.5,
+          "description": "Ayvalık ekmeğine; çeçil peyniri, kaşar peyniri, özel antrikot pastırma, isteğe göre domates",
+          "img": null
+        },
+        {
+          "name": "BTY Pastırmalı Kaşarlı Tost (Ayvalık Ekmeğine)",
+          "price": 292.5,
+          "description": "Çeçil peyniri, kaşar peyniri, özel antrikot pastırma, isteğe göre domates",
+          "img": null
+        }
+      ]
+    }
+  ]
+}

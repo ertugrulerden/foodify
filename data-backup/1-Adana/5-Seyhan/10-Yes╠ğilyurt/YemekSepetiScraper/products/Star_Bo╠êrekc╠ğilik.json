@@ -1,0 +1,277 @@
+{
+  "link_hash": "e8e8983d",
+  "scraped_at": "260528_0051",
+  "restaurant_name": "Star Börekçilik",
+  "link": "https://www.yemeksepeti.com/restaurant/v3bm/star-borekcilik-v3bm",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Kıymalı Börek",
+          "price": 240.0,
+          "description": "Kıyma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718759.jpg?width=128&height=128"
+        },
+        {
+          "name": "Peynirli Börek",
+          "price": 240.0,
+          "description": "Peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718758.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tereyağlı Su Böreği",
+          "price": 240.0,
+          "description": "Tereyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718757.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Börek & Peynirli Börek (Yarım)",
+          "price": 360.0,
+          "description": "Kıyma, peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su Böreği (500 gr.)",
+          "price": 400.0,
+          "description": "İnce yufka tabakaları arasına peynir konularak hazırlanan bir börek çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718786.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Börek",
+          "price": 240.0,
+          "description": "Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/6718756.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Kıymalı Börek Menü",
+          "price": 240.0,
+          "description": "Kıymalı Börek + Pepsi (20 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Börek Menü",
+          "price": 240.0,
+          "description": "Peynirli Börek + Pepsi (20 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Börek Menü",
+          "price": 240.0,
+          "description": "Patatesli Börek + Pepsi (20 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Börekler",
+      "products": [
+        {
+          "name": "Patatesli Börek",
+          "price": 240.0,
+          "description": "Patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/6718756.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı Su Böreği",
+          "price": 240.0,
+          "description": "Tereyağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718757.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Börek",
+          "price": 240.0,
+          "description": "Peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718758.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Börek",
+          "price": 240.0,
+          "description": "Kıyma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Peynirli Patatesli Börek",
+          "price": 720.0,
+          "description": "Kıyma, peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718760.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Börek & Patatesli Börek (Yarım)",
+          "price": 360.0,
+          "description": "Peynir, patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718762.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Börek & Peynirli Börek (Yarım)",
+          "price": 360.0,
+          "description": "Kıyma, peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Börek & Kıymalı Börek (Yarım)",
+          "price": 360.0,
+          "description": "Kıyma, peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718764.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Börek & Kıymalı Börek (Yarım)",
+          "price": 360.0,
+          "description": "Kıyma, patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718765.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Börek & Peynirli Börek (Yarım)",
+          "price": 360.0,
+          "description": "Patates, peynir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718766.jpg?width=150&height=150"
+        },
+        {
+          "name": "1 kıymalı yarım patatesli",
+          "price": 360.0,
+          "description": "Kıyma, patates",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Antep Usulü Katmer",
+          "price": 720.0,
+          "description": "Şerbet",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 64.0,
+          "description": "Gazlı içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Max (33 cl.)",
+          "price": 64.0,
+          "description": "Gazlı içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi (20 cl.)",
+          "price": 48.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 64.0,
+          "description": "Gazlı içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fruko (33 cl.)",
+          "price": 64.0,
+          "description": "Gazlı içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tropicana (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 64.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718778.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 48.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718779.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 48.0,
+          "description": "Büyük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718780.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 88.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718781.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (1 L.)",
+          "price": 88.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718782.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (1 L.)",
+          "price": 88.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718784.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Börekler",
+      "products": [
+        {
+          "name": "Tereyağlı Su Böreği (1 kg.)",
+          "price": 800.0,
+          "description": "1 kg. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su Böreği (500 gr.)",
+          "price": 400.0,
+          "description": "İnce yufka tabakaları arasına peynir konularak hazırlanan bir börek çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6718786.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Börek (1 kg.)",
+          "price": 960.0,
+          "description": "Yufkanın arasına baharatlı kıyma harcı konularak hazırlanan bir börek çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Börek (1 kg.)",
+          "price": 960.0,
+          "description": "İnce yufka tabakaları arasına peynir konularak hazırlanan börek çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Börek (1 kg.)",
+          "price": 960.0,
+          "description": "İnce yufka tabakaları arasına patates konularak hazırlanan börek çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

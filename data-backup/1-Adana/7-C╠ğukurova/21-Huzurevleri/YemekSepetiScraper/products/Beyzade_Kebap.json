@@ -1,0 +1,651 @@
+{
+  "link_hash": "30294c34",
+  "scraped_at": "260528_1222",
+  "restaurant_name": "Beyzade Kebap",
+  "link": "https://www.yemeksepeti.com/restaurant/e41w/beyzade-kebap-e41w",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Adana Kebap",
+          "price": 570.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966939.jpg?width=128&height=128"
+        },
+        {
+          "name": "Beyzade Burger",
+          "price": 460.0,
+          "description": "Dana eti, dana füme, karamelize soğan, karamelize mantar, kapya biber, dana füme, cheddar peyniri, patates kızartması. Soğan halkası, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966968.jpg?width=128&height=128"
+        },
+        {
+          "name": "Adana Dürüm",
+          "price": 400.0,
+          "description": "İsteğe göre soğan. Mevsim salatası, közlenmiş domates, közlenmiş biber, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966985.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Lahmacun",
+          "price": 570.0,
+          "description": "3 adet Antep usulü lahmacun. Mevsim ezme salatası, yeşillik, közlenmiş soğan, ezme, cacık, soğan salatası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966972.jpg?width=150&height=150"
+        },
+        {
+          "name": "Humus",
+          "price": 260.0,
+          "description": "Tereyağlı, kaşar peynirli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24085354.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Ciğer Şiş",
+          "price": 600.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966947.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "10'lu Pratik Lahmacun Menü",
+          "price": 780.0,
+          "description": "10 Adet Adana usulü Lahmacun + Mevsim Salata (Yeşillik, limon, domate söğüş) (Lütfen acı durumunu sipariş notu bölümünde belirtiniz.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pratik Adana Menü",
+          "price": 470.0,
+          "description": "Adana Kebap (Mevsim salatası, çiğ soğan, ezme salatası, yeşillik, közlenmiş domates, biber ile)",
+          "img": null
+        },
+        {
+          "name": "2’li Tavuk Burger & İçecek Menü",
+          "price": 870.0,
+          "description": "2 Adet 100 gr. Tavuk Burger + Patates Kızartması (Orta Boy) + 4 Adet Soğan Halkası + 2 Adet Gazoz (20 cl.)",
+          "img": null
+        },
+        {
+          "name": "2'li Steak Burger Menü",
+          "price": 940.0,
+          "description": "2 Adet Steak Burger (100 gr.) + 2 Adet Patates Kızartması + Soğan Halkası + Sarıyer Kola (1 L.)",
+          "img": null
+        },
+        {
+          "name": "Kids Burger Menü",
+          "price": 450.0,
+          "description": "Kids Burger (100 gr. dana eti, kornişon turşu, marul, domates, patates kızartması) + Sürpriz Oyuncak + Soğan Halkası + Özel Sos + Ayran (17 cl.)",
+          "img": null
+        },
+        {
+          "name": "Kral Burger Menü",
+          "price": 605.0,
+          "description": "Orta Boy Classic Burger (100 gr. hamburger köftesi) + Orta Boy Tavuk Burger (100 gr. tavuk bonfile kıyma) + Patates Kızartması + Soğan Halkası + Özel Sos + Gazoz",
+          "img": null
+        },
+        {
+          "name": "Tavuk Kıyma Dürüm Menü (2 Kişilik)",
+          "price": 620.0,
+          "description": "2 Adet Tavuk Kıyma Dürüm (Yeşillik, limon, közlenmiş domates, közlenmiş biber) + Mevsim Salata",
+          "img": null
+        },
+        {
+          "name": "Tavuk Kıyma Kebap Menü (2 Kişilik)",
+          "price": 640.0,
+          "description": "2 Adet Tavuk Kıyma Kebap (Mevsim salata, acılı ezme, salata, soğan, salata, közlenmiş biber, közlenmiş domates, limon ile)",
+          "img": null
+        },
+        {
+          "name": "2'li Classic Burger Menü",
+          "price": 930.0,
+          "description": "2 Adet Classic Burger (100 gr.) + 2 Adet Patates Kızartması + Soğan Halkası + Özel Soslar + Sarıyer Kola (1 L.)",
+          "img": null
+        },
+        {
+          "name": "2'li Cheeseburger Menü",
+          "price": 940.0,
+          "description": "2 Adet Cheeseburger (100 gr.) + 2 Adet Patates Kızartması + Soğan Halkası + Özel Soslar + İçecek (1 L.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kebaplar",
+      "products": [
+        {
+          "name": "Et Tabağı",
+          "price": 1.08,
+          "description": "Yarım Adana kebap, yarım kuşbaşı şiş, 2 adet pirzola, 3 adet kemikli kaburga, soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyti Kebap",
+          "price": 845.0,
+          "description": "Beyti kebap, soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yaprak Kebabı",
+          "price": 845.0,
+          "description": "Yaprak kebabı, soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Adana Kebap",
+          "price": 570.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966939.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kebap (1 Kişilik)",
+          "price": 1.1,
+          "description": "Yarım Adana kebap, yarım kuşbaşı şiş, yarım tavuk şiş, yarım mevlana pide, soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kebap (3 Kişilik)",
+          "price": 3.26,
+          "description": "Double Adana kebap, kuşbaşı şiş, kemiksiz tavuk, pirzola, yarım mevlana pide, yarım Beyzade dürüm, soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966942.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pratik Adana Kebap",
+          "price": 470.0,
+          "description": "Mevsim salatası, çiğ soğan, ezme salatası, yeşillik, közlenmiş domates, biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966943.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patlıcanlı Kebap",
+          "price": 855.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24368636.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyti Sarma Kebap",
+          "price": 845.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24372131.jpg?width=150&height=150"
+        },
+        {
+          "name": "Alinazik",
+          "price": 810.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/6966934.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyzade Special Kebap",
+          "price": 845.0,
+          "description": "Beyzade special kebap (Beyti Adana kebap, kaşar peyniri) soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, yeşillik, közlenmiş mantar ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Izgaralar",
+      "products": [
+        {
+          "name": "Kuzu Kuşbaşı Şiş",
+          "price": 600.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Çöp Şiş",
+          "price": 600.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuzu Ciğer Şiş",
+          "price": 600.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966947.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yağlı Karalı",
+          "price": 845.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuzu Pirzola",
+          "price": 855.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966949.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Külbastı",
+          "price": 845.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Küşleme",
+          "price": 875.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966951.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuzu Sırt",
+          "price": 845.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966952.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Kanat",
+          "price": 550.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966953.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Çöp Şiş",
+          "price": 550.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966954.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemikli Tavuk",
+          "price": 550.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966955.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemiksiz Tavuk",
+          "price": 550.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966956.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemikli Kaburga",
+          "price": 715.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Külbastı",
+          "price": 610.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Pirzola",
+          "price": 590.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaburga şiş",
+          "price": 625.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, közlenmiş biber, közlenmiş domates, cacık, fındık lahmacun, közlenmiş mantar, yeşillik ile",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Steak Burger",
+          "price": 450.0,
+          "description": "Dana eti, karamelize soğan, karamelize mantar, cheddar peyniri. Patates kızartması, soğan halkası, özel soslar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Burger",
+          "price": 450.0,
+          "description": "Dana eti, kornişon turşu, marul, domates, chili biber, kapya biberi, kırmızı soğan, cheddar peyniri, mozzarella peyniri, patates kızartması. Soğan halkası, özel soslar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Füme Burger",
+          "price": 460.0,
+          "description": "Dana eti, dana füme, kornişon turşu, kıvırcık marul, domates, mozzarella peyniri, cheddar peyniri, kapya biberi. Patates kızartması, soğan halkası, özel soslar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 450.0,
+          "description": "Dana eti, kornişon turşu, marul, domates, cheddar peyniri, karamelize soğan, patates kızartması. Soğan halkası, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966964.jpg?width=150&height=150"
+        },
+        {
+          "name": "Classic Hamburger",
+          "price": 450.0,
+          "description": "Dana eti, kornişon turşu, marul, domates, patates kızartması. Soğan halkası, özel soslar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mushroom Burger",
+          "price": 450.0,
+          "description": "Dana eti, kornişon turşu, marul, domates, karamelize mantar, cheddar peyniri, kapya biberi, patates kızartması. Soğan halkası, özel soslar ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyzade Burger",
+          "price": 460.0,
+          "description": "Dana eti, dana füme, karamelize soğan, karamelize mantar, kapya biber, dana füme, cheddar peyniri, patates kızartması. Soğan halkası, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966968.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Burger",
+          "price": 420.0,
+          "description": "150 gr. tavuk bonfile kıyma, kornişon turşu, marul, domates, mozzarella peyniri, karamelize mantar, patates kızartması. Soğan halkası, özel soslar ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966969.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fırın Ürünleri",
+      "products": [
+        {
+          "name": "Fındık Lahmacun (10 Adet)",
+          "price": 550.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile (Acı seçiminizi sipariş notu kısmında belirtiniz.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Antep Lahmacun",
+          "price": 570.0,
+          "description": "3 adet Antep usulü lahmacun. Mevsim ezme salatası, yeşillik, közlenmiş soğan, ezme, cacık, soğan salatası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966972.jpg?width=150&height=150"
+        },
+        {
+          "name": "Minik Kaşarlı Pide (10 Adet)",
+          "price": 550.0,
+          "description": "10 adet minik kaşarlı pide, mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuşbaşılı Pide",
+          "price": 570.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mevlana Pide",
+          "price": 590.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Pide",
+          "price": 550.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966976.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide",
+          "price": 570.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966977.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Sucuklu Pide",
+          "price": 570.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966978.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Pide",
+          "price": 570.0,
+          "description": "Kuşbaşı, kaşar peyniri, sucuk, kıyma. Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, közlenmiş mantar, soğan salatası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966979.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lahmacun (5 Adet)",
+          "price": 550.0,
+          "description": "Soğan salatası, mevsim salatası, ezme, közlenmiş soğan, cacık, yeşillik, limon ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/65755135.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavada Ürünler",
+      "products": [
+        {
+          "name": "Tavuk Tava",
+          "price": 730.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, soğan salatası, közlenmiş mantar (Hazırlanma süresi 60 dakikadır.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Tava",
+          "price": 835.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, soğan salatası, közlenmiş mantar ile (Hazırlanma süresi 60 dakikadır.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Tavuk Tava",
+          "price": 750.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, soğan salatası, közlenmiş mantar ile (Hazırlanma süresi 60 dakikadır.)",
+          "img": null
+        },
+        {
+          "name": "Kaşarlı Et Tava",
+          "price": 855.0,
+          "description": "Mevsim salatası, yeşillik, közlenmiş soğan, ezme, cacık, soğan salatası, közlenmiş mantar ile (Hazırlanma süresi 60 dakikadır.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Dürümler",
+      "products": [
+        {
+          "name": "Tavuk Şiş Dürüm",
+          "price": 400.0,
+          "description": "İsteğe göre soğan. Mevsim salatası, közlenmiş domates, közlenmiş biber, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Adana Dürüm",
+          "price": 400.0,
+          "description": "İsteğe göre soğan. Mevsim salatası, közlenmiş domates, közlenmiş biber, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966985.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kuşbaşı Şiş Dürüm",
+          "price": 400.0,
+          "description": "İsteğe göre soğan. Mevsim salatası, közlenmiş domates, közlenmiş biber, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çöp Şiş Dürüm",
+          "price": 400.0,
+          "description": "İsteğe göre soğan. Mevsim salatası, közlenmiş domates, közlenmiş biber, yeşillik ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ciğer Şiş Dürüm",
+          "price": 400.0,
+          "description": "İsteğe göre soğan. Mevsim salatası, közlenmiş domates, közlenmiş biber, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966988.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyzade Dürüm",
+          "price": 570.0,
+          "description": "Tavuk, kıyma, kaşar peyniri, isteğe göre soğan. Mevsim salatası, közlenmiş domates, közlenmiş biber, yeşillik ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6966989.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Soğan Halkası (12 Adet)",
+          "price": 170.0,
+          "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mozzarella Sticks (12 Adet)",
+          "price": 170.0,
+          "description": "12 adet",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 170.0,
+          "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çiğ Köfte (14 Sıkım)",
+          "price": 300.0,
+          "description": "14 sıkım",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6967003.jpg?width=150&height=150"
+        },
+        {
+          "name": "Humus",
+          "price": 260.0,
+          "description": "Tereyağlı, kaşar peynirli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/24085354.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırın Mantar",
+          "price": 160.0,
+          "description": "1 kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Ankara Gazozu (25 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 70.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütaş Ayran (30 cl.)",
+          "price": 70.0,
+          "description": "Büyük",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 50.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6967026.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (1 L.)",
+          "price": 30.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6967027.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (1,5 L.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/6967028.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyoğlu Gazozu (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49471600.jpg?width=150&height=150"
+        },
+        {
+          "name": "Niğde Gazozu (25 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/49471914.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60315549.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Portakal (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/60336534.jpg?width=150&height=150"
+        },
+        {
+          "name": "Açık Ayran (1 L.)",
+          "price": 100.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/60387804.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Kola (1 L.)",
+          "price": 100.0,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66328930.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sarıyer Portakal (1 L.)",
+          "price": 100.0,
+          "description": "İçecek",
+          "img": null
+        },
+        {
+          "name": "Juss Tea Ananas & Mango (25 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Juss Tea Kayısı (25 cl.)",
+          "price": 60.0,
+          "description": "Meyve suyu",
+          "img": null
+        },
+        {
+          "name": "Juss Şeftali (25 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Juss Tea Limon (25 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Juss Tea Vişne (25 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Ürünler (Pişirilmiş)",
+      "products": [
+        {
+          "name": "Karşık Izgara Tavuk (1 kg.) (3 Kişilik)",
+          "price": 950.0,
+          "description": "500 gr. tavuk kanat, 500 gr. tavuk incik, mevsim salatası, ezme, pişmiş soğan, çiğ soğan, közlenmiş domates, biber, 3 adet fındık lahmacun ile (Hazırlanma süresi 25 dakikadır.)",
+          "img": null
+        }
+      ]
+    }
+  ]
+}

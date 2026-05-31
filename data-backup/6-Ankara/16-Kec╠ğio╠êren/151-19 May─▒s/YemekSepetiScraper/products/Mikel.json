@@ -1,0 +1,593 @@
+{
+  "link_hash": "712b6a9a",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Mikel",
+  "link": "https://www.yemeksepeti.com/restaurant/xkjt/mikel-xkjt",
+  "categories": [
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "White Chocolate Mocha",
+          "price": 295.0,
+          "description": "Espresso, sıcak süt ve beyaz çikolata sosu ile hazırlanan bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Americano",
+          "price": 210.0,
+          "description": "Espresso kahvesine sıcak su eklenerek hazırlanan bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Brewed Coffee",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Cappuccino Mikelo",
+          "price": 290.0,
+          "description": "Sıcak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Classic Cappuccino",
+          "price": 240.0,
+          "description": "Sıcak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Flat White",
+          "price": 255.0,
+          "description": "Espresso üzerine sıcak süt köpüğü eklenerek hazırlanan bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Mikeloccino",
+          "price": 320.0,
+          "description": "Sıcak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Greek Nes",
+          "price": 185.0,
+          "description": "Sıcak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Latte",
+          "price": 240.0,
+          "description": "Espresso üzerine sıcak süt ve süt köpüğü eklenerek hazırlanan, kremamsı bir kıvama sahip bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Mocha",
+          "price": 295.0,
+          "description": "Espresso, sıcak süt ve çikolata sosu ile hazırlanan bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Espresso Classic",
+          "price": 150.0,
+          "description": "Espresso",
+          "img": null
+        },
+        {
+          "name": "Espresso Macchiato",
+          "price": 170.0,
+          "description": "Espresso, süt köpüğü",
+          "img": null
+        },
+        {
+          "name": "Espresso Au Lait",
+          "price": 200.0,
+          "description": "Espresso, tatlandırılmış süt, süt köpüğü",
+          "img": null
+        },
+        {
+          "name": "Espresso Mikelo",
+          "price": 200.0,
+          "description": "Espresso, tatlandırılmış süt",
+          "img": null
+        },
+        {
+          "name": "Espresso Affogato",
+          "price": 200.0,
+          "description": "Espresso, vanilyalı dondurma",
+          "img": null
+        },
+        {
+          "name": "Cappuccino Affogato",
+          "price": 290.0,
+          "description": "Espresso, vanilyalı dondurma, köpüklü süt",
+          "img": null
+        },
+        {
+          "name": "Mexican",
+          "price": 320.0,
+          "description": "Espresso, çikolatalı sos, tarçın, krema",
+          "img": null
+        },
+        {
+          "name": "Toffee Latte",
+          "price": 320.0,
+          "description": "Espresso, karamel sos, süt, krema",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Çay",
+          "price": 110.0,
+          "description": "8 oz bardakta sıcak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Georgia",
+          "price": 320.0,
+          "description": "Sıcak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Mikelo",
+          "price": 320.0,
+          "description": "Espresso Mikelo",
+          "img": null
+        },
+        {
+          "name": "Chai Tea Latte",
+          "price": 295.0,
+          "description": "Karışık baharatların sıcak süt ve siyah çay ile karıştırılmasıyla hazırlanan, tatlı ve baharatlı bir karışımdır.",
+          "img": null
+        },
+        {
+          "name": "Hot Chocolate",
+          "price": 280.0,
+          "description": "Sıcak süt ve çikolata ile tatlandırılmış bir içecektir.",
+          "img": null
+        },
+        {
+          "name": "White Chocolate",
+          "price": 280.0,
+          "description": "Sıcak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Granita Lemon",
+          "price": 345.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Granita Strawberry",
+          "price": 345.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Cappuccino Mikelo",
+          "price": 300.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Vanilyalı Milkshake",
+          "price": 345.0,
+          "description": "Vanilya ve dondurma ile hazırlanan, kremsi soğuk içecektir.",
+          "img": null
+        },
+        {
+          "name": "Çilekli Milkshake",
+          "price": 345.0,
+          "description": "Çilek ve dondurma ile hazırlanan, kremsi soğuk içecektir.",
+          "img": null
+        },
+        {
+          "name": "Cold Special Mikelo",
+          "price": 345.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Chai Tea Latte",
+          "price": 225.0,
+          "description": "Buzlu siyah çay, süt, baharatlı chai çay karışımı ve buzla hazırlanan, tatlı ve baharatlı bir soğuk kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Iced Chocolate",
+          "price": 305.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Georgia",
+          "price": 345.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Tea",
+          "price": 285.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced White Chocolate",
+          "price": 285.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Çikolatalı Milkshake",
+          "price": 345.0,
+          "description": "Süt, dondurma ve çikolata sosu ile karıştırılarak hazırlanan, kremsi ve çikolatalı soğuk içecektir.",
+          "img": null
+        },
+        {
+          "name": "Ice Cappuccino Mikelo",
+          "price": 300.0,
+          "description": "Espresso, tatlandırılmış süt, köpüklü süt, buz",
+          "img": null
+        },
+        {
+          "name": "Ice Cappuccino Affogato",
+          "price": 300.0,
+          "description": "Espresso, vanilyalı dondurma, köpüklü süt, buz",
+          "img": null
+        },
+        {
+          "name": "Berry Bliss",
+          "price": 275.0,
+          "description": "Çilek, çarkıfelek püresi, limonata, buz",
+          "img": null
+        },
+        {
+          "name": "Chocolate Lotus Biscoff",
+          "price": 295.0,
+          "description": "Krema, süt, Lotus biscoff toping, çikolata, beyaz çikolata, buz",
+          "img": null
+        },
+        {
+          "name": "Freddo Pistaccino",
+          "price": 295.0,
+          "description": "Krema, süt, Antep fıstığı",
+          "img": null
+        },
+        {
+          "name": "Fresh Fashion",
+          "price": 275.0,
+          "description": "Limon püresi, nane şurubu, soda",
+          "img": null
+        },
+        {
+          "name": "Scarlet Shine",
+          "price": 275.0,
+          "description": "Böğürtlen, hibiscus şurup, limonata, kızılcık şurup",
+          "img": null
+        },
+        {
+          "name": "Strawberry Cheesecake Lotus",
+          "price": 295.0,
+          "description": "Krema, süt, Lotus toping, çilek püresi, krem peynir, beyaz çikolata, buz, Lotus bisküvi",
+          "img": null
+        },
+        {
+          "name": "W. Chocolate Lotus Biscoff",
+          "price": 295.0,
+          "description": "Krema, süt, Lotus biscoff toping, beyaz çikolata, buz",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler / Iced Coffees",
+      "products": [
+        {
+          "name": "Iced Macchiato",
+          "price": 215.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Americano",
+          "price": 210.0,
+          "description": "Soğuk su ve espresso üzerine buz eklenerek hazırlanan, hafif acımsı bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Iced Au Lait",
+          "price": 230.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Brewed Coffee",
+          "price": 210.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Classic Cappuccino",
+          "price": 255.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Classic Espresso",
+          "price": 215.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Flat White",
+          "price": 265.0,
+          "description": "Soğuk süt ve espresso ile hazırlanan, kremsi bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Iced Greek Frappe",
+          "price": 210.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Latte",
+          "price": 255.0,
+          "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan sütlü bir kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Iced Latte Macchiato",
+          "price": 220.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Mikeloccino",
+          "price": 345.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 305.0,
+          "description": "Soğuk süt, espresso, kakao tozu ve buzun karıştırılmasıyla hazırlanan, hafif tatlı ve kakaolu bir soğuk kahve çeşididir.",
+          "img": null
+        },
+        {
+          "name": "Iced White Mocha",
+          "price": 305.0,
+          "description": "Soğuk kahve",
+          "img": null
+        },
+        {
+          "name": "Ice Espresso Mikelo",
+          "price": 170.0,
+          "description": "Espresso, tatlandırılmış süt, buz",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Ev Baristası",
+      "products": [
+        {
+          "name": "Steel Kettle",
+          "price": 1.87,
+          "description": "Steel kettle",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Termos Çelik Metal Logolu",
+          "price": 700.0,
+          "description": "Termos çelik metal logolu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "V60 (Set)",
+          "price": 1.325,
+          "description": "V60 (set)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "V60 Kahve Sürahisi (Alt Takım)",
+          "price": 700.0,
+          "description": "V60 kahve sürahisi (alt takım)",
+          "img": null
+        },
+        {
+          "name": "V60 Seramik (Üst Takım Set)",
+          "price": 625.0,
+          "description": "V60 seramik (üst takım set)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Cup Lotus Taze",
+          "price": 390.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/2e37ea4b-4b36-41dd-933f-888e4dca9d72.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pasta Pistachio Taze",
+          "price": 400.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cup Tiramisu Taze",
+          "price": 355.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/4c47fa7c-f54a-49e1-89cf-3b7efda580fc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pasta Pistachio Mikel",
+          "price": 435.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pasta Nutella Mikel",
+          "price": 435.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/640498d9-f773-4ef3-9b71-a371064ac7c2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cookie Lotuslu Mikel",
+          "price": 275.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/df0cb5c1-390f-49cb-a67b-63a41f3d8426.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bask Cheesecake",
+          "price": 390.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/75358072/72e52e98-9622-4af0-b17f-298cf991c310.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Çikolatalı Cookie",
+          "price": 225.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/75358073/477efd51-cc42-4dee-9a2c-73bd4a60b029.jpg?width=150&height=150"
+        },
+        {
+          "name": "Snickers Pasta",
+          "price": 425.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/75358081/92e4b92f-939c-4310-a140-9c9711be76b3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Brownie Beyaz Çikolatalı",
+          "price": 330.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/80025090/09adc12c-7704-4ad0-a96c-441977ebb9f9.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Damla Su (33 cl.)",
+          "price": 70.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda San Pellegrino Limon",
+          "price": 165.0,
+          "description": "Limonlu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uknm/product/449737aa-31e1-4d30-9d92-37a9aec63514.jpg?width=150&height=150"
+        },
+        {
+          "name": "Powerade (50 cl.)",
+          "price": 190.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Red Bull (25 cl.)",
+          "price": 195.0,
+          "description": "On sekiz yaşından küçüklere enerji içeceklerinin satışı yapılmamaktadır. Alkol ile karıştırılarak veya beraber tüketilmemelidir. Çocuklar, 18 yaş altı kişiler, yaşlılar, diyabetikler, yüksek tansiyonu olanlar, gebe ve emzikli kadınlar, metabolik hastalığı olanlar, böbrek yetmezliği olanlar ile kafeine hassas kişiler için tavsiye edilmez. Sporcu içeceği değildir, yoğun fiziksel aktivite öncesinde, sırasında veya sonrasında tüketilmemelidir. Günlük 500 ml’den fazla tüketilmesi tavsiye edilmez.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/4097330.jpg?width=150&height=150"
+        },
+        {
+          "name": "San Pellegrino (25 cl.)",
+          "price": 155.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/4097337.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Su (50 cl.)",
+          "price": 45.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66912832.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bar Önü Ürünler",
+      "products": [
+        {
+          "name": "Espresso Arabica (1000 gr.)",
+          "price": 1.75,
+          "description": "1000 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Filter Coffee (250 gr.)",
+          "price": 450.0,
+          "description": "Filter coffee (250 gr.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotus Bisküvi Tekli",
+          "price": 40.0,
+          "description": "Lotus bisküvi tekli",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Moms Granola Yaban Mersinli",
+          "price": 80.0,
+          "description": "Yaban mersinli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68616678.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glutensiz Haşhaşlı Tuzlu Kurabiye",
+          "price": 225.0,
+          "description": "100 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Glutensiz Bademli Mini Kek",
+          "price": 225.0,
+          "description": "100 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73846982.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glutensiz Mini Acı Badem Kurabiyesi",
+          "price": 225.0,
+          "description": "100 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73846995.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glutensiz Cevizli Tuzlu Kurabiye",
+          "price": 225.0,
+          "description": "100 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73847004.jpg?width=150&height=150"
+        },
+        {
+          "name": "Türk Kahvesi Paket (250 gr.)",
+          "price": 290.0,
+          "description": "250 gr.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

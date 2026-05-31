@@ -1,0 +1,461 @@
+{
+  "link_hash": "63725fda",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Atelier Tatlı",
+  "link": "https://www.yemeksepeti.com/restaurant/uufn/atelier-tatli",
+  "categories": [
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Cookie Pie",
+          "price": 256.0,
+          "description": "Nutella, damla çikolata",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/22a3c2ec-95be-459c-be6e-89efa646282f.jpg?width=128&height=128"
+        },
+        {
+          "name": "Strawberry Bliss",
+          "price": 256.0,
+          "description": "Velvet kek, vanilyalı mousse, çilek dolgu, çilek ganaj",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/e3f67238-9be5-46dd-ab60-6bdcf4d8ebb8.jpg?width=128&height=128"
+        },
+        {
+          "name": "Oreo Magma",
+          "price": 256.0,
+          "description": "Kakaolu kek, sütlü çikolatalı krema, çikolatalı mousse, beyaz çikolata",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/37365bce-0101-4c77-af9b-ba8a1399d911.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Berliner",
+          "price": 184.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/87973226/e59f322a-0807-4677-ad1f-d18e764b4355.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Berliner",
+          "price": 184.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/87973228/1da2984e-788f-4aea-9964-faabbcc8b9de.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiramisu Cup",
+          "price": 240.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/87973231/5b01e0f5-717d-4fec-b6c2-15427762178a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Cup",
+          "price": 240.0,
+          "description": "Mag kreması, lotus bisküvi, lotus kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/87973233/8403e41a-045b-4232-a59a-91a09f73eadb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozaik Pasta",
+          "price": 228.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/87973242/dc5cd52f-8198-49d7-8e7e-5855ec554d20.jpg?width=150&height=150"
+        },
+        {
+          "name": "İbiza",
+          "price": 248.0,
+          "description": "Çikolatalı pastacı kreması, muz, bisküvi",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/87973251/608b8c1c-5709-4569-8429-82da4eac1576.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chocolate Love",
+          "price": 260.0,
+          "description": "Belçika çikolatalı, pandispanya tabanı, beyaz çikolata, krema, vişne marmelatı, bitter pralin dolgu",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/3c4f77fc-e90f-4285-8b90-f5f78b8360f5.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pistachia",
+          "price": 248.0,
+          "description": "Fıstık pralin, vanilya mousse, çikolata kaplama",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/b1aa19f6-bbf8-4cd3-98f7-92fec6acd07e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coconut",
+          "price": 248.0,
+          "description": "Hindistan cevizli iç dolgu, vanilya mousse, çikolata kaplama",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/652fb888-bb7b-4de0-9184-be00e3496fc2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Blue Berry",
+          "price": 248.0,
+          "description": "Yaban mersini dolgusu, vanilya mousse, çikolata kaplama",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/8914bc11-533e-489c-864f-4f1e02782059.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Ball",
+          "price": 248.0,
+          "description": "Vanilya mousse krema, çikolatalı pandispanya, orman meyveli dolgu, lotus kaplama",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/74e2189a-bb92-41d1-87de-b906ed3ff017.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oreo Berliner",
+          "price": 184.0,
+          "description": "İçi Oreo parçacıklı beyaz çikolata kreması dolgulu, üzeri beyaz çikolata kaplamalı ve Oreo kırıntılarıyla süslenmiş yumuşacık Berliner (Alman usulü dolgulu donut).",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yaban Mersinli California Cheesecake",
+          "price": 280.0,
+          "description": "Mascarpone peyniri, Burçak bisküvi, yaban mersini",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vişne California Cheesecake",
+          "price": 272.0,
+          "description": "Mascarpone peyniri, Burçak bisküvi, vişne marmelatı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Orman Meyveli California Cheesecake",
+          "price": 280.0,
+          "description": "Mascarpone peyniri, Burçak bisküvi, orman meyvesi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hazelnut",
+          "price": 248.0,
+          "description": "Fındık krema dolgusu, Belçika çikolata kaplamalı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Orman Dolgulu Bombolino",
+          "price": 184.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "California Cheesecake",
+          "price": 268.0,
+          "description": "Mascarpone peyniri, Burçak bisküvi, Mousse kreması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Brownie Tremisu",
+          "price": 248.0,
+          "description": "El yapımı brownie, Coffe pralin",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lemon",
+          "price": 248.0,
+          "description": "Özel limonlu dolgu, Vanilya mousse, Çikolatalı kaplama",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chocolate Mousse",
+          "price": 260.0,
+          "description": "Gerçek belçika çikolatalı mousse kreması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/5fcbd0a4-be59-40ec-a77e-115098572c03.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lemon",
+          "price": 248.0,
+          "description": "Özel limonlu dolgu, vanilya mousse, çikolatalı kaplama",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Portakallı Tart",
+          "price": 264.0,
+          "description": "Badem unlu tart hamuru, el yapımı portakal kreması, vanilya mousse",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/2eaec3fc-5b94-47b4-869f-6ec928a3366a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Berry Cup",
+          "price": 248.0,
+          "description": "El yapımı özel mag kreması, orman meyveleri, orman meyve marmelatı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Tart",
+          "price": 264.0,
+          "description": "Badem unlu tart hamuru, özel beyaz çikolatalı krema, çilek dolgusu ve vanilya mousse",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/3fcb6128-d070-412f-9357-7339e48dcb30.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Magma",
+          "price": 256.0,
+          "description": "Karamelize kek, lotus krema, vanilya aromalı mousse, lotus krema kaplama",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Crunchy Pistachio",
+          "price": 256.0,
+          "description": "Sponge kek, bitter mousse, fıstıklı kadayıflı iç dolgu, fıstık ganaj kaplama",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/d79e3fd2-9a25-400b-b8b6-9692a5bfa224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstık&Frambuazlı Tart",
+          "price": 264.0,
+          "description": "Badem unlu tart hamuru, el yapımı fıstık pralin, frambuaz dolgu ve vanilya mousse",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Limon Tart",
+          "price": 264.0,
+          "description": "Badem unlu tart hamuru, vanilyalı limon mousse, limon dolgu kreması",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Limon Tiramisu",
+          "price": 240.0,
+          "description": "Kedi dili, krema, limon curd",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Orman Meyveli Danish Kruvasan",
+          "price": 228.0,
+          "description": "Tereyağlı kruvasan hamuru, beyaz çikolata, orman meyveleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/77ce4e98-076d-40e3-a78d-eb9b8671b450.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı New York Cookie",
+          "price": 200.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/3e40a200-c354-4dae-9079-9f9f697023c3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Fıstıklı New York Cookie",
+          "price": 200.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/e4a4cd3b-3ae1-4929-85a9-ce1a408336c0.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Cheesecakes",
+      "products": [
+        {
+          "name": "Bask Cheesecake",
+          "price": 256.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotuslu Cheesecake",
+          "price": 260.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/88019502/1298b44f-9bb9-4fe0-854b-0eb67a3d47c7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Cheesecake",
+          "price": 260.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/88019503/43670a09-b0ee-462c-95a8-590dc2d4485c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Cheesecake",
+          "price": 260.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/88019504/98235e79-198d-477f-ba8d-9bb163ef3bad.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orman Meyveli Cheesecake",
+          "price": 260.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/88019505/68b42ec3-88af-42b7-b57a-510841cca650.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Fıstıklı Cheesecake",
+          "price": 260.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/88019506/4784bf0c-5a50-4e2f-a55f-3b68b3bc4164.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Roll Kruvasan Çeşitleri",
+      "products": [
+        {
+          "name": "Antep Fıstıklı Roll Kruvasan",
+          "price": 208.0,
+          "description": "El yapımı kruvasan hamuru, antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Roll Kruvasan",
+          "price": 208.0,
+          "description": "El yapımı kruvasan hamuru, çilek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Roll Kruvasan",
+          "price": 208.0,
+          "description": "El yapımı kruvasan hamuru, Çikolata, Kırık fındık",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/4b49513a-7dac-4841-aee5-5a2b524709d7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Roll Kruvasan",
+          "price": 208.0,
+          "description": "El yapımı kruvasan hamuru, lotus",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/b0e0db16-ab4a-48c7-866e-1fbb3a3dd402.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kruvasan Çeşitleri",
+      "products": [
+        {
+          "name": "Çikolatalı Muzlu Kruvasan",
+          "price": 248.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotuslu Muzlu Kruvasan",
+          "price": 248.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Orman Meyveli Kruvasan",
+          "price": 248.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/8f319d34-6662-4ed4-b277-d2eb7269ce64.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hindi Füme Kruvasan",
+          "price": 248.0,
+          "description": "Hindi füme, labne peyniri, cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/61c99617-9846-4e99-b931-39baad4ea082.jpg?width=150&height=150"
+        },
+        {
+          "name": "Domates & Kaşar Kruviç",
+          "price": 248.0,
+          "description": "Marul, kaşar peyniri, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/1ce1dcc3-2716-480f-91fe-1835bf6642bd.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı Kruvasan",
+          "price": 112.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/b4f9d396-0e2c-49c4-908e-042462a0d3fa.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Çikolatalı Çilekli Kruvasan",
+          "price": 248.0,
+          "description": "Beyaz çikolata, çilek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/f1c8e67c-e825-44cb-9fcb-90e245ae54e1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Çikolatalı Çilekli Danish",
+          "price": 228.0,
+          "description": "Beyaz çikolata, çilek",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/660bc40b-32e4-4484-a19c-45de00891302.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Tavuklu Baget Sandviç",
+          "price": 232.0,
+          "description": "Tavuk, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hindi Fümeli Baget Sandviç",
+          "price": 232.0,
+          "description": "Labne peyniri, hindi füme, cheddar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dana Jambonlu Baget Sandviç",
+          "price": 232.0,
+          "description": "Labne peyniri, dana jambon, cheddar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Schnitzel Baget Sandviç",
+          "price": 232.0,
+          "description": "Schnitzel, Mayonezli köz kapya biber, Cheddar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uufn/product/540dc17a-e630-4bde-8cec-83e21a90d7cd.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Su (50 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79685864.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79685867.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 68.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79685868.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Latte",
+          "price": 208.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Americano",
+          "price": 208.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Filtre Kahve",
+          "price": 208.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76345151.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 208.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79547401.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Çay",
+          "price": 60.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76345156.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

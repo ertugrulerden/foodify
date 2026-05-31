@@ -1,0 +1,961 @@
+{
+  "link_hash": "f92c61cc",
+  "scraped_at": "260528_0116",
+  "restaurant_name": "Arabica Coffee House",
+  "link": "https://www.yemeksepeti.com/restaurant/wlgb/arabica-coffee-house-wlgb",
+  "categories": [
+    {
+      "name": "Sezona Özel",
+      "products": [
+        {
+          "name": "Toffee Nut Latte (L)",
+          "price": 293.25,
+          "description": "Large",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/06e5b3b8-d64d-4a9c-8697-9bd60847d05e.jpg?width=128&height=128"
+        },
+        {
+          "name": "Salted Caramel Latte (L)",
+          "price": 293.25,
+          "description": "Large",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/51801966.jpg?width=128&height=128"
+        },
+        {
+          "name": "Salted Caramel Latte (M)",
+          "price": 280.5,
+          "description": "Medium",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/51801974.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salted Caramel Latte (S)",
+          "price": 267.75,
+          "description": "Small",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/51801978.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Salted Caramel Latte (L)",
+          "price": 293.25,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/51802203.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Salted Caramel Latte (M)",
+          "price": 280.5,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/51802210.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Salted Caramel Latte (S)",
+          "price": 267.75,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/51802216.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "4 Peynirli Bagel Sandviç",
+          "price": 238.0,
+          "description": "Krem peynir, cheddar peyniri, kaşar peyniri, mozzarella peyniri, domates kurusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65617376.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hindi Fümeli Ciabatta Sandviç",
+          "price": 225.25,
+          "description": "Kaşar peyniri, mozzarella, domates kurusu, soğan, krem peynir, yeşil kapya, beyaz haşhaş, pesto sos, ayçiçek yağı, taze fesleğen, kaju fıstığı, sarımsak, füme hindi, baharat karışımı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65617558.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kruvasan Çikolatalı",
+          "price": 208.25,
+          "description": "Çikolata ve kruvasan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65617599.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Arabica Ay Çekirdekli Yaprak Galeta",
+          "price": 170.0,
+          "description": "1 paket",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Pastalar",
+      "products": [
+        {
+          "name": "Bask Cheesecake",
+          "price": 250.75,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuazlı Cheesecake",
+          "price": 233.75,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/86979096/274ae88e-f4a2-4bd0-b392-aae5683f0b95.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Çikolatalı Trüf",
+          "price": 225.25,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53635654.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Havuçlu Kek",
+          "price": 225.25,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53635766.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Çikolatalı Browni",
+          "price": 280.5,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/73634315/1246217b-b915-4d94-91e6-99c491bca85a.jpg?width=150&height=150"
+        },
+        {
+          "name": "KırmızıKadife Pasta",
+          "price": 233.75,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54273529.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Cevizli Pasta",
+          "price": 221.0,
+          "description": "Ballı, cevizli",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/73634320/61d244b8-1ed8-4040-8c85-3d3985ec52a9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 195.5,
+          "description": "İtalya'ya özgü olan, kahve ile ıslatılan bisküvi tabakaları arasına krema ve kakao serpilerek hazırlanan katmanlı bir tatlıdır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54273562.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Cheesecake",
+          "price": 233.75,
+          "description": "Krem peyniri ve limon suyu ile hazırlanan bisküvi tabanlı bir tatlı çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54273575.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozaik Pasta",
+          "price": 178.5,
+          "description": "Bisküvi ve çikolatanın karıştırılarak oluşturduğu bir tatlıdır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/54273584.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Çikolatalı Mini Trüf",
+          "price": 51.0,
+          "description": "Mini trüf",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66343575.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Çikolatalı Mini Trüf",
+          "price": 51.0,
+          "description": "Mini trüf",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66343579.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gianduje Cake",
+          "price": 297.5,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Hediyelik Eşyalar",
+      "products": [
+        {
+          "name": "Contigo Siyah Termos",
+          "price": 1.615,
+          "description": "Hediyelik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66343687.jpg?width=150&height=150"
+        },
+        {
+          "name": "Contigo Antrasit Termos",
+          "price": 1.615,
+          "description": "Hediyelik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66343725.jpg?width=150&height=150"
+        },
+        {
+          "name": "Contigo Pembe Termos",
+          "price": 1.615,
+          "description": "Hediyelik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66343741.jpg?width=150&height=150"
+        },
+        {
+          "name": "Contigo Lacivert Termos",
+          "price": 1.615,
+          "description": "Hediyelik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66343748.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Şuruplar",
+      "products": [
+        {
+          "name": "Bonfesta Lime Şurup",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/41019064/7e43bb00-e858-4c28-ad02-3f846c94ceb4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Badem Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/81849934/b991799b-d1d7-4936-84d1-82b2b1d1a6c7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Caramel Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/41018927/79e50f27-f212-433c-a241-236a066f0b50.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Nane Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/41018952/a43133aa-f40d-460a-929d-32fcaf711744.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Salted Caramel Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/73634329/e5ecd283-954a-47d0-873c-75c157f01426.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Vanilya Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/41018939/fbc47dfd-6e4e-483f-9e37-cbb423fcc296.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Yeşil Elma Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/81849943/907bffa9-ada6-447a-b2ab-6c861726bba1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Çilek Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/h35r/product/81849949/4ab7f856-3277-435c-9e47-5a682f51cfdb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfesta Portakal & Yeşil Çay Şurubu",
+          "price": 743.75,
+          "description": "Aromalı",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Klasikler",
+      "products": [
+        {
+          "name": "Americano (S)",
+          "price": 174.25,
+          "description": "Espresso'ya sıcak su eklenerek hazırlanan bir kahve çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Americano (M)",
+          "price": 195.5,
+          "description": "Espresso'ya sıcak su eklenerek hazırlanan bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888788.jpg?width=150&height=150"
+        },
+        {
+          "name": "Americano (L)",
+          "price": 208.25,
+          "description": "Espresso'ya sıcak su eklenerek hazırlanan bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888789.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filter Coffee (S)",
+          "price": 174.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888791.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filter Coffee (M)",
+          "price": 182.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filter Coffee (L)",
+          "price": 195.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888793.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filter Coffee With Milk (S)",
+          "price": 191.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888794.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filter Coffee With Milk (M)",
+          "price": 204.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888795.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filter Coffee With Milk (L)",
+          "price": 212.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888796.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino (S)",
+          "price": 208.25,
+          "description": "Espresso, sıcak süt ve süt köpüğünün bir araya getirilmesiyle hazırlanan, bol köpüklü bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888797.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino (M)",
+          "price": 221.0,
+          "description": "Espresso, sıcak süt ve süt köpüğünün bir araya getirilmesiyle hazırlanan, bol köpüklü bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888798.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino (L)",
+          "price": 233.75,
+          "description": "Espresso, sıcak süt ve süt köpüğünün bir araya getirilmesiyle hazırlanan, bol köpüklü bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888799.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caffe Latte (S)",
+          "price": 208.25,
+          "description": "Espresso ile sıcak sütün karıştırılmasıyla hazırlanan, sütlü ve hafif bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888800.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caffe Latte (M)",
+          "price": 221.0,
+          "description": "Espresso ile sıcak sütün karıştırılmasıyla hazırlanan, sütlü ve hafif bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888801.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caffe Latte (L)",
+          "price": 233.75,
+          "description": "Espresso ile sıcak sütün karıştırılmasıyla hazırlanan, sütlü ve hafif bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888802.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White (S)",
+          "price": 221.0,
+          "description": "Espresso üzerine ince kremalı sıcak süt eklenerek hazırlanan bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888803.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White (M)",
+          "price": 233.75,
+          "description": "Espresso üzerine ince kremalı sıcak süt eklenerek hazırlanan bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888804.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White (L)",
+          "price": 242.25,
+          "description": "Espresso üzerine ince kremalı sıcak süt eklenerek hazırlanan bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888805.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Klasikler",
+      "products": [
+        {
+          "name": "Iced Americano (S)",
+          "price": 174.25,
+          "description": "Soğuk su ve espresso üzerine buz eklenerek hazırlanan, orta sertlikte bir kahve çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Americano (M)",
+          "price": 195.5,
+          "description": "Soğuk su ve espresso üzerine buz eklenerek hazırlanan, orta sertlikte bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888808.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Americano (L)",
+          "price": 208.25,
+          "description": "Soğuk su ve espresso üzerine buz eklenerek hazırlanan, orta sertlikte bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888809.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filter Coffee (S)",
+          "price": 174.25,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888811.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filter Coffee (M)",
+          "price": 182.75,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888812.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filter Coffee (L)",
+          "price": 195.5,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888813.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filter Coffee With Milk (S)",
+          "price": 191.25,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888814.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filter Coffee With Milk (M)",
+          "price": 204.0,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888815.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filter Coffee With Milk (L)",
+          "price": 212.5,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888816.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caffe Latte (S)",
+          "price": 208.25,
+          "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan, sütlü hafif bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888817.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caffe Latte (M)",
+          "price": 221.0,
+          "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan, sütlü hafif bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888818.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caffe Latte (L)",
+          "price": 233.75,
+          "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan, sütlü hafif bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ice Cortado (S)",
+          "price": 221.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73207810.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Özel Demlemeler",
+      "products": [
+        {
+          "name": "Cold Brew",
+          "price": 204.0,
+          "description": "Soğuk su ile uzun süre demlenen kafeini yüksek bir kahve çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Spesiyaller",
+      "products": [
+        {
+          "name": "Caffe Mocha (S)",
+          "price": 267.75,
+          "description": "Small",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888828.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caffe Mocha (M)",
+          "price": 280.5,
+          "description": "Medium",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888829.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caffe Mocha (L)",
+          "price": 293.25,
+          "description": "Large",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888830.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Mocha (S)",
+          "price": 267.75,
+          "description": "Small",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888834.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Mocha (M)",
+          "price": 280.5,
+          "description": "Medium",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888835.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Mocha (L)",
+          "price": 293.25,
+          "description": "Large",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888836.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Macchiato (S)",
+          "price": 267.75,
+          "description": "Sıcak süt, espresso ve karamel sosunun katmanlı olarak servis edildiği, tatlı ve kremalı bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888837.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Macchiato (M)",
+          "price": 280.5,
+          "description": "Sıcak süt, espresso ve karamel sosunun katmanlı olarak servis edildiği, tatlı ve kremalı bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888838.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Macchiato (L)",
+          "price": 293.25,
+          "description": "Sıcak süt, espresso ve karamel sosunun katmanlı olarak servis edildiği, tatlı ve kremalı bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888839.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Spesiyaller",
+      "products": [
+        {
+          "name": "Iced Caffe Mocha (S)",
+          "price": 267.75,
+          "description": "Soğuk süt, espresso, çikolata ve buzun karıştırılmasıyla hazırlanan, tatlı ve kakaolu bir soğuk kahve çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Caffe Mocha (M)",
+          "price": 280.5,
+          "description": "Soğuk süt, espresso, çikolata ve buzun karıştırılmasıyla hazırlanan, tatlı ve kakaolu bir soğuk kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888847.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caffe Mocha (L)",
+          "price": 293.25,
+          "description": "Soğuk süt, espresso, çikolata ve buzun karıştırılmasıyla hazırlanan, tatlı ve kakaolu bir soğuk kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888848.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced White Mocha (S)",
+          "price": 267.75,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888852.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced White Mocha (M)",
+          "price": 280.5,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888853.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced White Mocha (L)",
+          "price": 293.25,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888854.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caramel Macchiato (S)",
+          "price": 267.75,
+          "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan, tatlı karamel sosu ile süslenen bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888855.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caramel Macchiato (M)",
+          "price": 280.5,
+          "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan, tatlı karamel sosu ile süslenen bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888856.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Caramel Macchiato (L)",
+          "price": 293.25,
+          "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan, tatlı karamel sosu ile süslenen bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888857.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Diğer İçecekler",
+      "products": [
+        {
+          "name": "Chai Tea Latte (S)",
+          "price": 259.25,
+          "description": "Karışık baharatların sıcak süt ve siyah çay ile karıştırılmasıyla hazırlanan, tatlı ve baharatlı bir karışımdır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888858.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chai Tea Latte (M)",
+          "price": 272.0,
+          "description": "Karışık baharatların sıcak süt ve siyah çay ile karıştırılmasıyla hazırlanan, tatlı ve baharatlı bir karışımdır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888859.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chai Tea Latte (L)",
+          "price": 284.75,
+          "description": "Karışık baharatların sıcak süt ve siyah çay ile karıştırılmasıyla hazırlanan, tatlı ve baharatlı bir karışımdır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hot Chocolate (S)",
+          "price": 259.25,
+          "description": "Sıcak süt ve çikolata ile tatlandırılmış bir içecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888861.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hot Chocolate (M)",
+          "price": 272.0,
+          "description": "Sıcak süt ve çikolata ile tatlandırılmış bir içecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888862.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hot Chocolate (L)",
+          "price": 284.75,
+          "description": "Sıcak süt ve çikolata ile tatlandırılmış bir içecektir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888863.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sahlep (S)",
+          "price": 259.25,
+          "description": "Small",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888874.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sahlep (M)",
+          "price": 272.0,
+          "description": "Medium",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888875.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sahlep (L)",
+          "price": 284.75,
+          "description": "Large",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888876.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Diğer İçecekler",
+      "products": [
+        {
+          "name": "Iced Chai Tea Latte (S)",
+          "price": 259.25,
+          "description": "Buzlu siyah çay, süt, baharatlı chai çay karışımı ve buzla hazırlanan, tatlı ve baharatlı bir soğuk içeçek çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888877.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Chai Tea Latte (M)",
+          "price": 272.0,
+          "description": "Buzlu siyah çay, süt, baharatlı chai çay karışımı ve buzla hazırlanan, tatlı ve baharatlı bir soğuk içeçek çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888878.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Chai Tea Latte (L)",
+          "price": 284.75,
+          "description": "Buzlu siyah çay, süt, baharatlı chai çay karışımı ve buzla hazırlanan, tatlı ve baharatlı bir soğuk içeçek çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888879.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cold Chocolate (S)",
+          "price": 259.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888880.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cold Chocolate (M)",
+          "price": 272.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888881.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cold Chocolate (L)",
+          "price": 284.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888882.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çekirdek Kahveler",
+      "products": [
+        {
+          "name": "Filtre Kahve (3 kg.)",
+          "price": 7.14,
+          "description": "Paket",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Fruities",
+      "products": [
+        {
+          "name": "Kavun & Ananas Mix Fruities (S)",
+          "price": 259.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888941.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavun & Ananas Mix Fruities (M)",
+          "price": 272.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888942.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavun & Ananas Mix Fruities (L)",
+          "price": 284.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888943.jpg?width=150&height=150"
+        },
+        {
+          "name": "Strawberry Fruities (S)",
+          "price": 259.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888944.jpg?width=150&height=150"
+        },
+        {
+          "name": "Strawberry Fruities (M)",
+          "price": 272.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888945.jpg?width=150&height=150"
+        },
+        {
+          "name": "Strawberry Fruities (L)",
+          "price": 284.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888946.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mango Fruities (S)",
+          "price": 259.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888947.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mango Fruities (M)",
+          "price": 272.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888948.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mango Fruities (L)",
+          "price": 284.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888949.jpg?width=150&height=150"
+        },
+        {
+          "name": "Black Forest Fruities (S)",
+          "price": 259.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Black Forest Fruities (M)",
+          "price": 272.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888951.jpg?width=150&height=150"
+        },
+        {
+          "name": "Black Forest Fruities (L)",
+          "price": 284.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888952.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (S)",
+          "price": 208.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888953.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (M)",
+          "price": 216.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888954.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (L)",
+          "price": 225.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888955.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Limonata (S)",
+          "price": 216.75,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888956.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Limonata (M)",
+          "price": 225.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888957.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Limonata (L)",
+          "price": 238.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888958.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sweet & Fresh",
+      "products": [
+        {
+          "name": "Summer Lime (S)",
+          "price": 259.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888971.jpg?width=150&height=150"
+        },
+        {
+          "name": "Summer Lime (M)",
+          "price": 272.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888972.jpg?width=150&height=150"
+        },
+        {
+          "name": "Summer Lime (L)",
+          "price": 284.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888973.jpg?width=150&height=150"
+        },
+        {
+          "name": "Forest Lime (S)",
+          "price": 259.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Forest Lime (M)",
+          "price": 272.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888978.jpg?width=150&height=150"
+        },
+        {
+          "name": "Forest Lime (L)",
+          "price": 284.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888979.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bitki Çayları",
+      "products": [
+        {
+          "name": "Detox Çayı",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Relax Çayı",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888992.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Forest",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888993.jpg?width=150&height=150"
+        },
+        {
+          "name": "Early Grey",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888994.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bora Bora Çayı",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888995.jpg?width=150&height=150"
+        },
+        {
+          "name": "Green Tea",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888996.jpg?width=150&height=150"
+        },
+        {
+          "name": "Winter Tea",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888997.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ballı Zencefilli Çay",
+          "price": 144.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888998.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Traditionals",
+      "products": [
+        {
+          "name": "Türk Kahvesi (Double)",
+          "price": 178.5,
+          "description": "İnce çekilmiş kahve çekirdeklerinin cezvede kaynatılarak hazırlandığı bir kahve çeşididir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45888999.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 119.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45889002.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 131.75,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45889003.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 131.75,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45889013.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burn Energy",
+          "price": 170.0,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45889006.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Su (50 cl.)",
+          "price": 34.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45889010.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Soda (33 cl.)",
+          "price": 102.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45889007.jpg?width=150&height=150"
+        },
+        {
+          "name": "Monster Orjinal (50 cl.)",
+          "price": 178.5,
+          "description": "İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/46082225.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,876 @@
+{
+  "link_hash": "e76869d9",
+  "scraped_at": "260528_0034",
+  "restaurant_name": "Maydonoz Döner",
+  "link": "https://www.yemeksepeti.com/restaurant/b6is/maydonoz-doner-b6is",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Tavuk Döner Large Dürüm (45 cm.)",
+          "price": 276.0,
+          "description": "1,5 adet özel fırın lavaşa; 100 gr. tavuk döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428861.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Döner Medium Dürüm",
+          "price": 236.0,
+          "description": "Özel fırın lavaşa; 75 gr. tavuk döner, salatalık turşusu, patates kızartması, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428860.jpg?width=128&height=128"
+        },
+        {
+          "name": "Tavuk Döner XLarge Dürüm (45 cm.)",
+          "price": 316.0,
+          "description": "2 adet özel fırın lavaşa; 125 gr. tavuk döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428862.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako (Tavuk Dönerden) (2 Adet)",
+          "price": 288.0,
+          "description": "2 Adet Doritos'lu Maytako Tavuk Döner",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428814.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Small Dürüm",
+          "price": 196.0,
+          "description": "Özel fırın lavaşa; 50 gr. tavuk döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775606.jpg?width=150&height=150"
+        },
+        {
+          "name": "Külah Patates Kızartması",
+          "price": 88.0,
+          "description": "Dilimlenmiş patateslerin kızartılarak koni şeklinde kartonda servis edildiği bir atıştırmalıktır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775630.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Avantajlı Algida Menüleri",
+      "products": [
+        {
+          "name": "Algida Menüsü (Tavuk Döner Small Dürüm)",
+          "price": 316.0,
+          "description": "Tavuk Döner Small Dürüm + Carte D'or Mini Premium Meyve Rüyası (110 ml.) + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Algida Menüsü (Tavuk Döner Large Dürüm (45 cm.))",
+          "price": 380.0,
+          "description": "Tavuk Döner Large Dürüm (45 cm.) + Algida Maraş Usulü Cup Dondurma (100 ml.) + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Algida Menüsü (Doritos'lu Maytako (Tavuk Dönerden)",
+          "price": 404.0,
+          "description": "2 Adet Doritos'lu Maytako (Tavuk Dönerden) + Magnum Mini Badem (60 gr.) + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38312835.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Menüsü (Doritos'lu Maytako (Et Dönerden)",
+          "price": 524.0,
+          "description": "2 Adet Doritos'lu Maytako (Et Dönerden) + Magnum Mini Cookie (60 gr.) + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38312836.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Menüsü (Katmer)",
+          "price": 208.0,
+          "description": "Katmer + Algida Maraş Usulü Dilim Dondurma (82 ml.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38311383.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menü",
+      "products": [
+        {
+          "name": "Pepsi Tavuk Döner Large Dürüm Menü",
+          "price": 332.0,
+          "description": "Large Tavuk Döner Dürüm (45 cm.) + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İndirimli Menüler",
+      "products": [
+        {
+          "name": "Kankamla Menü",
+          "price": 672.0,
+          "description": "2 Adet Tavuk Döner Medium Dürüm + 2'li Külah Patates Kızartması + 2 Adet Pepsi Zero Sugar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çekirdek Ailemle Menü",
+          "price": 792.0,
+          "description": "2 Adet Tavuk Döner Medium Dürüm + Small Tavuk Döner Dürüm + 2'li Külah Patates Kızartması + Pepsi Zero Sugar (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Tavuk Döner Medium Dürüm Menü",
+          "price": 292.0,
+          "description": "Medium Tavuk Döner Dürüm + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74377376.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Tavuk Döner XLarge Dürüm Menü",
+          "price": 372.0,
+          "description": "XLarge Tavuk Döner Dürüm (45 cm.) + Pepsi (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74377482.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Et Döner Medium Dürüm Menü",
+          "price": 380.0,
+          "description": "Medium Et Döner Dürüm + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74377519.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Et Döner Large Dürüm Menü",
+          "price": 436.0,
+          "description": "Large Et Döner Dürüm (45 cm.) + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74377535.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Et Döner XLarge Dürüm Menü",
+          "price": 492.0,
+          "description": "XLarge Et Döner Dürüm (45 cm.) + Pepsi Zero Sugar (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74377600.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Maytako Menüler",
+      "products": [
+        {
+          "name": "Doritos'lu Maytako (Tavuk Dönerden) (2 Adet)",
+          "price": 288.0,
+          "description": "2 Adet Doritos'lu Maytako Tavuk Döner",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428814.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako (Et Dönerden) (2 Adet)",
+          "price": 416.0,
+          "description": "2 Adet Doritos'lu Maytako Et Döner",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428815.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Doritos'lu Maytako Menü (Tavuk Dönerden)",
+          "price": 352.0,
+          "description": "2 Adet Doritos'lu Maytako Tavuk Döner + Külah Patates Kızartması + Pepsi Pet (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428816.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Doritos'lu Maytako Menü (Et Dönerden)",
+          "price": 476.0,
+          "description": "2 Adet Doritos'lu Maytako Et Döner + Külah Patates Kızartması + Pepsi Pet (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428817.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako Parti (Tavuk Dönerden)",
+          "price": 716.0,
+          "description": "4 Adet Doritos'lu Maytako Tavuk Döner + 2'li Külah Patates Kızartması + Pepsi Zero Sugar (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428818.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako Parti (Et Dönerden)",
+          "price": 948.0,
+          "description": "4 Adet Doritos'lu Maytako Et Döner + 2'li Külah Patates Kızartması + Pepsi Zero Sugar (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako Combo",
+          "price": 352.0,
+          "description": "Doritos'lu Maytako Et Döner + Doritos'lu Maytako Tavuk Döner",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako (Tavuk Dönerden)",
+          "price": 164.0,
+          "description": "50 gr. tavuk döner, cheddar peyniri, salatalık turşusu, soğan, acılı sarımsaklı mayonez sos, Doritos (20 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako (Et Dönerden)",
+          "price": 248.0,
+          "description": "50 gr. et döner, cheddar peyniri, salatalık turşusu, soğan, acılı sarımsaklı mayonez sos, Doritos (20 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428822.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako Menü (Tavuk Dönerden)",
+          "price": 248.0,
+          "description": "Doritos'lu Maytako Tavuk Döner + Külah Patates Kızartması + Pepsi Pet (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/36892949.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako Menü (Et Dönerden)",
+          "price": 320.0,
+          "description": "Doritos'lu Maytako Et Döner + Külah Patates Kızartması + Pepsi Pet (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/36892950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritos'lu Maytako Combo Menü",
+          "price": 440.0,
+          "description": "Doritos'lu Maytako Et Döner + Doritos'lu Maytako Tavuk Döner + Külah Patates Kızartması + Pepsi Pet (25 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/36892951.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "1 Kişilik Menüler",
+      "products": [
+        {
+          "name": "Tavuk Döner Large Dürüm Menü",
+          "price": 304.0,
+          "description": "Large Tavuk Döner Dürüm (45 cm.) + Ayran (27 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Döner XLarge Dürüm Menü",
+          "price": 344.0,
+          "description": "XLarge Tavuk Döner Dürüm (45 cm.) + Ayran (27 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Döner Maydonoz Medium Dürüm Menü",
+          "price": 316.0,
+          "description": "Medium Tavuk Döner Dürüm + Külah Patates Kızartması + Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775575.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Maydonoz Large Dürüm Menü",
+          "price": 360.0,
+          "description": "Large Tavuk Döner Dürüm (45 cm.) + Külah Patates Kızartması + Ayran (27 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775576.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Maydonoz XLarge Dürüm Menü",
+          "price": 396.0,
+          "description": "XLarge Tavuk Döner Dürüm (45 cm.) + Külah Patates Kızartması + Ayran (27 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775577.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Medium Dürüm Menü",
+          "price": 348.0,
+          "description": "Medium Et Döner Dürüm + Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775579.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Large Dürüm Menü",
+          "price": 408.0,
+          "description": "Large Et Döner Dürüm (45 cm.) + Ayran (27 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775580.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner XLarge Dürüm Menü",
+          "price": 464.0,
+          "description": "XLarge Et Döner Dürüm (45 cm.) + Ayran (27 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775581.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Maydonoz Medium Dürüm Menü",
+          "price": 404.0,
+          "description": "Medium Et Döner Dürüm + Külah Patates Kızartması + Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775583.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Maydonoz Large Dürüm Menü",
+          "price": 464.0,
+          "description": "Large Et Döner Dürüm (45 cm.) + Külah Patates Kızartması + Ayran (27 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775584.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Maydonoz XLarge Dürüm Menü",
+          "price": 520.0,
+          "description": "XLarge Et Döner Dürüm (45 cm.) + Külah Patates Kızartması + Ayran (27 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775585.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Medium Dürüm Menü",
+          "price": 260.0,
+          "description": "Medium Tavuk Döner Dürüm + Ayran (17 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73071436.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "2 Kişilik Menüler",
+      "products": [
+        {
+          "name": "2'li Tavuk Döner Medium Dürüm Menü",
+          "price": 672.0,
+          "description": "2 Adet Tavuk Döner Medium Dürüm + 2'li Külah Patates Kızartması + 2 Adet Pepsi Zero Sugar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "2'li Tavuk Döner Large Dürüm (45 cm.) Menü",
+          "price": 744.0,
+          "description": "2 Adet Tavuk Döner Large Dürüm (45 cm.) + 2'li Külah Patates Kızartması + 2 Adet Pepsi Zero Sugar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "2'li Et Döner Medium Dürüm Menü",
+          "price": 856.0,
+          "description": "2 Adet Et Döner Medium Dürüm + 2'li Külah Patates Kızartması + 2 Adet Pepsi Zero Sugar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428842.jpg?width=150&height=150"
+        },
+        {
+          "name": "2'li Et Döner Large Dürüm (45 cm.) Menü",
+          "price": 1.0,
+          "description": "2 Adet Et Döner Large Dürüm (45 cm.) + 2'li Külah Patates Kızartması + 2 Adet Pepsi Zero Sugar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428843.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "3 Kişilik Menüler",
+      "products": [
+        {
+          "name": "3'lü Tavuk Döner Medium Dürüm Menü",
+          "price": 684.0,
+          "description": "3 Adet Tavuk Döner Medium Dürüm + Pepsi Zero Sugar (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "3'lü Tavuk Döner Large Dürüm Menü",
+          "price": 796.0,
+          "description": "3 Adet Tavuk Döner Large Dürüm (45 cm.) + Pepsi Zero Sugar (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "3'lü Et Döner Medium Dürüm Menü",
+          "price": 956.0,
+          "description": "3 Adet Et Döner Medium Dürüm + Pepsi Zero Sugar (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428848.jpg?width=150&height=150"
+        },
+        {
+          "name": "3'lü Et Döner Large Dürüm Menü",
+          "price": 1.168,
+          "description": "3 Adet Et Döner Large Dürüm (45 cm.) + Pepsi Zero Sugar (1 L.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428849.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Tavuk Döner Sandviç",
+          "price": 196.0,
+          "description": "50 gr. tavuk döner, salatalık turşusu, patates kızartması, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tombik Ekmek Arası Tavuk Döner",
+          "price": 196.0,
+          "description": "50 gr. tavuk döner, salatalık turşusu, patates kızartması, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775605.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Small Dürüm",
+          "price": 196.0,
+          "description": "Özel fırın lavaşa; 50 gr. tavuk döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775606.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Medium Dürüm",
+          "price": 236.0,
+          "description": "Özel fırın lavaşa; 75 gr. tavuk döner, salatalık turşusu, patates kızartması, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428860.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Large Dürüm (45 cm.)",
+          "price": 276.0,
+          "description": "1,5 adet özel fırın lavaşa; 100 gr. tavuk döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428861.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner XLarge Dürüm (45 cm.)",
+          "price": 316.0,
+          "description": "2 adet özel fırın lavaşa; 125 gr. tavuk döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428862.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner (100 gr.)",
+          "price": 292.0,
+          "description": "Patates kızartması, salatalık turşusu, özel ince fırın lavaş, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775610.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Döner (100 gr.)",
+          "price": 308.0,
+          "description": "Patates kızartması, salatalık turşusu, özel ince fırın lavaş, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner Beyti (100 gr.)",
+          "price": 316.0,
+          "description": "Özel sosu, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775612.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Tavuk Dönerden) (100 gr.)",
+          "price": 316.0,
+          "description": "Özel sosu, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41887868.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Et Dönerler",
+      "products": [
+        {
+          "name": "Tombik Ekmek Arası Et Döner",
+          "price": 268.0,
+          "description": "50 gr. et döner, salatalık turşusu, patates kızartması, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Sandviç",
+          "price": 268.0,
+          "description": "50 gr. et döner, salatalık turşusu, patates kızartması, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Medium Dürüm",
+          "price": 324.0,
+          "description": "Özel fırın lavaşa; 75 gr. et döner, patates kızartması, salatalık turşusu, özel sos, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Large Dürüm (45 cm.)",
+          "price": 396.0,
+          "description": "1,5 adet özel fırın lavaşa; 100 gr. et döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428871.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner XLarge Dürüm (45 cm.)",
+          "price": 456.0,
+          "description": "2 adet özel fırın lavaşa; 125 gr. et döner, patates kızartması, salatalık turşusu, özel sos, isteğe göre soğan, sarımsaklı mayonez sos. Cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428872.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (100 gr.)",
+          "price": 424.0,
+          "description": "Patates kızartması, salatalık turşusu, özel ince fırın lavaş, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775620.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Beyti (100 gr.)",
+          "price": 464.0,
+          "description": "Özel sos, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775621.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Et Döner (100 gr.)",
+          "price": 440.0,
+          "description": "Patates kızartması, salatalık turşusu, özel ince fırın lavaş, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775622.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Et Dönerden) (100 gr.)",
+          "price": 464.0,
+          "description": "Özel sosu, isteğe göre cin biberi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/41887871.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Mercimek Çorbası",
+          "price": 104.0,
+          "description": "Kırmızı mercimek, sebzeler ve baharatlarla hazırlanan bir çorbadır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Kaşarlı Patso Sandviç",
+          "price": 200.0,
+          "description": "Ekmek arasında kaşar peyniri, patates kızartması eklenerek hazırlanan bir sandviç çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patso Sandviç",
+          "price": 156.0,
+          "description": "Ekmek arasına patates kızartması eklenerek hazırlanan bir sandviç çeşididir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Cin Biberi",
+          "price": 8.0,
+          "description": "Acı biber turşusu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "2'li Külah Patates Kızartması",
+          "price": 136.0,
+          "description": "Dilimlenmiş patateslerin kızartılarak koni şeklinde kartonda servis edildiği bir atıştırmalıktır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekstra Lavaş",
+          "price": 16.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775629.jpg?width=150&height=150"
+        },
+        {
+          "name": "Külah Patates Kızartması",
+          "price": 88.0,
+          "description": "Dilimlenmiş patateslerin kızartılarak koni şeklinde kartonda servis edildiği bir atıştırmalıktır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775630.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (5 Adet)",
+          "price": 52.0,
+          "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775631.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası (8 Adet)",
+          "price": 60.0,
+          "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775632.jpg?width=150&height=150"
+        },
+        {
+          "name": "Atıştırmalık Tabak",
+          "price": 212.0,
+          "description": "Çıtır tavuk, mozzarella sticks, cheddarlı patates topları, acılı cheddarlı patates topları, patates kızartması",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/48197478.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Stick (2 Adet)",
+          "price": 48.0,
+          "description": "2 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78734922.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Stick (4 Adet)",
+          "price": 80.0,
+          "description": "4 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78734924.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Katmer Tatlısı",
+          "price": 160.0,
+          "description": "1 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlaç",
+          "price": 112.0,
+          "description": "Pirinç, süt ve şekerin birleşimiyle hazırlanan hafif puding kıvamında bir tatlıdır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuazlı Cup Pasta (130 gr.)",
+          "price": 128.0,
+          "description": "Frambuaz meyveli cup pasta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79591506.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Cup Pasta (130 gr.)",
+          "price": 128.0,
+          "description": "Karamel içerikli cup pasta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79591518.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Cup Pasta (130 gr.)",
+          "price": 128.0,
+          "description": "Fıstık içerikli cup pasta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79591582.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Cup Pasta (130 gr.)",
+          "price": 128.0,
+          "description": "Çikolata içerikli cup pasta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79591593.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Cup Pasta (130 gr.)",
+          "price": 128.0,
+          "description": "Limon içerikli cup pasta",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79591606.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dondurmalar",
+      "products": [
+        {
+          "name": "Algida Maraş Usulü Dilim Dondurma (82 ml.)",
+          "price": 56.0,
+          "description": "Paket dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775648.jpg?width=150&height=150"
+        },
+        {
+          "name": "Algida Maraş Usulü Cup Dondurma (100 ml.)",
+          "price": 52.0,
+          "description": "Paket dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428903.jpg?width=150&height=150"
+        },
+        {
+          "name": "Carte d'Or Mini Premium Meyve Rüyası (110 ml.)",
+          "price": 60.0,
+          "description": "Paket dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428904.jpg?width=150&height=150"
+        },
+        {
+          "name": "Carte d'Or Mini Premium Çikolata Rüyası (110 ml.)",
+          "price": 60.0,
+          "description": "Paket dondurma",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Magnum Mini Badem (60 gr.)",
+          "price": 60.0,
+          "description": "Paket dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38014594.jpg?width=150&height=150"
+        },
+        {
+          "name": "Magnum Mini Cookie (60 gr.)",
+          "price": 60.0,
+          "description": "Paket dondurma",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38014886.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pepsi Zero Sugar (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428910.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428911.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428912.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lipton Ice Tea (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tropicana (33 cl.)",
+          "price": 76.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428914.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 52.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428915.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (27 cl.)",
+          "price": 48.0,
+          "description": "Büyük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428917.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (17 cl.)",
+          "price": 44.0,
+          "description": "Küçük",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 44.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428919.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428920.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 24.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428921.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi (1 L.)",
+          "price": 96.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428922.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pepsi Zero Sugar (1 L.)",
+          "price": 96.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428923.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yedigün (1 L.)",
+          "price": 96.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428926.jpg?width=150&height=150"
+        },
+        {
+          "name": "7UP (1 L.)",
+          "price": 96.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428927.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 88.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/27428928.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap",
+          "price": 8.0,
+          "description": "18 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mayonez",
+          "price": 8.0,
+          "description": "18 gr.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbeque Sos",
+          "price": 12.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68275309.jpg?width=150&height=150"
+        },
+        {
+          "name": "Honey Mustard",
+          "price": 12.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68274188.jpg?width=150&height=150"
+        },
+        {
+          "name": "Garlic Sos",
+          "price": 12.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68275311.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ranch Sos",
+          "price": 12.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68275312.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hot Sos",
+          "price": 12.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/68275313.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Tavuk Dönerler (Pişirilmiş)",
+      "products": [
+        {
+          "name": "Tavuk Döner (250 gr.)",
+          "price": 300.0,
+          "description": "2 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775681.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner (500 gr.)",
+          "price": 508.0,
+          "description": "4 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775682.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner (750 gr.)",
+          "price": 696.0,
+          "description": "6 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775683.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner (1 kg.)",
+          "price": 852.0,
+          "description": "8 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775684.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Et Dönerler (Pişirilmiş)",
+      "products": [
+        {
+          "name": "Et Döner (250 gr.)",
+          "price": 636.0,
+          "description": "2 adet lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner (500 gr.)",
+          "price": 1.128,
+          "description": "4 adet lavaş ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner (750 gr.)",
+          "price": 1.556,
+          "description": "6 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775687.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner (1 kg.)",
+          "price": 1.916,
+          "description": "8 adet lavaş ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10775688.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

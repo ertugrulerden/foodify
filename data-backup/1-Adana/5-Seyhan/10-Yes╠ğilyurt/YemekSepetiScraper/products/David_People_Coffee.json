@@ -1,0 +1,545 @@
+{
+  "link_hash": "65ce36ea",
+  "scraped_at": "260528_1209",
+  "restaurant_name": "David People Coffee",
+  "link": "https://www.yemeksepeti.com/restaurant/z8in/david-people-coffee-z8in",
+  "categories": [
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Cold Brew",
+          "price": 213.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79941820.jpg?width=128&height=128"
+        },
+        {
+          "name": "Espresso (Small)",
+          "price": 138.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944158.jpg?width=128&height=128"
+        },
+        {
+          "name": "Espresso (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944162.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso Macchiato (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944174.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White (Medium)",
+          "price": 202.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944298.jpg?width=150&height=150"
+        },
+        {
+          "name": "Americano (Small)",
+          "price": 168.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944308.jpg?width=150&height=150"
+        },
+        {
+          "name": "Americano (Medium)",
+          "price": 180.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944314.jpg?width=150&height=150"
+        },
+        {
+          "name": "Americano (Large)",
+          "price": 187.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944326.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino (Small)",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944378.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino (Medium)",
+          "price": 206.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944390.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino (Large)",
+          "price": 217.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944410.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte (Small)",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945630.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte (Medium)",
+          "price": 206.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte (Large)",
+          "price": 217.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945692.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mocha (Small)",
+          "price": 247.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mocha (Medium)",
+          "price": 258.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mocha (Large)",
+          "price": 270.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "White Chocolate Mocha (Small)",
+          "price": 247.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945806.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Chocolate Mocha (Medium)",
+          "price": 258.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945809.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Chocolate Mocha (Large)",
+          "price": 270.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945813.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve (Small)",
+          "price": 161.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945871.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve (Medium)",
+          "price": 172.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945874.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve (Large)",
+          "price": 183.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "V60 (Medium)",
+          "price": 202.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79945905.jpg?width=150&height=150"
+        },
+        {
+          "name": "Türk Kahvesi (Small)",
+          "price": 135.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Türk Kahvesi (Medium)",
+          "price": 146.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946234.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakızlı Türk Kahvesi (Small)",
+          "price": 146.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Damla Sakızlı Türk Kahvesi (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946242.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Türk Kahvesi (Small)",
+          "price": 146.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Türk Kahvesi (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946262.jpg?width=150&height=150"
+        },
+        {
+          "name": "Osmanlı Türk Kahvesi (Small)",
+          "price": 146.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Osmanlı Türk Kahvesi (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946283.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pumpkin Spice Latte",
+          "price": 258.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946344.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyan Karamelli Latte",
+          "price": 258.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946350.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cinnamon Latte",
+          "price": 258.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cortado",
+          "price": 202.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946412.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spice Latte",
+          "price": 270.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Marshmallow Latte",
+          "price": 270.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946432.jpg?width=150&height=150"
+        },
+        {
+          "name": "Winter Spice Latte",
+          "price": 270.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Citrus Latte",
+          "price": 270.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946454.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Latte",
+          "price": 281.25,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946465.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Iced White Chocolate Mocha",
+          "price": 270.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 270.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 202.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79941792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 232.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79941795.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Filtre Kahve",
+          "price": 206.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79941812.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Beyaz Sıcak Çikolata (Medium)",
+          "price": 135.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyaz Sıcak Çikolata (Large)",
+          "price": 142.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Muzlu Sıcak Çikolata (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946076.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Sıcak Çikolata (Large)",
+          "price": 165.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946079.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Sıcak Çikolata (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946082.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Sıcak Çikolata (Large)",
+          "price": 165.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946089.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Sıcak Çikolata (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946097.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Sıcak Çikolata (Large)",
+          "price": 165.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946100.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salep (Small)",
+          "price": 142.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946109.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salep (Medium)",
+          "price": 150.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946114.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakızlı Salep (Small)",
+          "price": 142.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946157.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakızlı Salep (Medium)",
+          "price": 150.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946163.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıcak Çikolata (Medium)",
+          "price": 135.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946293.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıcak Çikolata (Large)",
+          "price": 142.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946299.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hot Chili Sıcak Çikolata (Medium)",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946304.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chai Tea Latte",
+          "price": 172.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946333.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Iced Chai Tea Latte",
+          "price": 172.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Chocolate",
+          "price": 157.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cool Lime",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79941834.jpg?width=150&height=150"
+        },
+        {
+          "name": "Berry Hibiscus",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79942465.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonata (30 cl.)",
+          "price": 135.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944107.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çaylar",
+      "products": [
+        {
+          "name": "Çay (Small)",
+          "price": 82.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çay (Medium)",
+          "price": 93.75,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Nane & Limon Çayı",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946005.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yeşil Çay",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946009.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kış Çayı",
+          "price": 157.5,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79946013.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "products": [
+        {
+          "name": "Vanilyalı Milkshake",
+          "price": 262.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Milkshake",
+          "price": 262.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944030.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Milkshake",
+          "price": 262.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944037.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Milkshake",
+          "price": 262.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944086.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Milkshake",
+          "price": 262.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79944095.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Frozens",
+      "products": [
+        {
+          "name": "Muzlu Frozen",
+          "price": 236.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mangolu Frozen",
+          "price": 236.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yeşil Elmalı Frozen",
+          "price": 236.25,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Frappes",
+      "products": [
+        {
+          "name": "Kahveli Frappe",
+          "price": 247.5,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

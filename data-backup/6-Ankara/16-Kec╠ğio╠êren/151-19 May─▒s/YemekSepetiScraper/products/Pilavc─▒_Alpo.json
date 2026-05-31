@@ -1,0 +1,352 @@
+{
+  "link_hash": "122fd09d",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Pilavcı Alpo",
+  "link": "https://www.yemeksepeti.com/restaurant/e08l/pilavci-alpo",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Tavuk Tantuni Dürüm",
+          "price": 280.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73110897.jpg?width=128&height=128"
+        },
+        {
+          "name": "Nohutlu Tavuklu Pilav",
+          "price": 340.0,
+          "description": "Nohut, tavuk, pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940456.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kavurmalı Pilav",
+          "price": 470.0,
+          "description": "Kavurma, pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940447.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784837.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nohutlu Pilav",
+          "price": 250.0,
+          "description": "Nohut, pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940438.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Tantuniler",
+      "products": [
+        {
+          "name": "Tavuk Tantuni Dürüm",
+          "price": 280.0,
+          "description": "1 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Özel Soslu Yoğurtlu Tavuk Tantuni",
+          "price": 320.0,
+          "description": "1 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mega Tavuk Tantuni Dürüm",
+          "price": 340.0,
+          "description": "Domates, soğan, maydanoz. Limon, biber turşusu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "XL Ekmek Arası Tavuk Tantuni",
+          "price": 381.0,
+          "description": "Domates, soğan, maydanoz. Limon ve biber turşusu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784766.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek Tavuk Tantuni",
+          "price": 280.0,
+          "description": "Domates, soğan, maydanoz",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76851293.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Et Tantuniler",
+      "products": [
+        {
+          "name": "Et Tantuni Dürüm",
+          "price": 430.0,
+          "description": "1 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Özel Soslu Yoğurtlu Et Tantuni",
+          "price": 450.0,
+          "description": "1 kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mega Et Tantuni Dürüm",
+          "price": 530.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73110889.jpg?width=150&height=150"
+        },
+        {
+          "name": "XL Ekmek Arası Et Tantuni",
+          "price": 540.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73110893.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek Arası Et Tantuni",
+          "price": 460.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/73110894.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Nohutlu Pilav",
+          "price": 250.0,
+          "description": "Nohut, pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940438.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kavurmalı Pilav",
+          "price": 470.0,
+          "description": "Kavurma, pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940447.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Tavuk Sote",
+          "price": 350.0,
+          "description": "Tavuk sote, pirinç pilavı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940450.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nohutlu Tavuklu Pilav",
+          "price": 340.0,
+          "description": "Nohut, tavuk, pirinç pilavı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Arnavut Ciğeri",
+          "price": 430.0,
+          "description": "Pilav, dana arnavutciğeri, salata, turşu, biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784730.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fırsat Menüleri",
+      "products": [
+        {
+          "name": "Tavuk Tanburger Menü",
+          "price": 720.0,
+          "description": "2 Adet Cheddarlı Burger Tantuni + Patates Kızartması + Coca-Cola (1 L.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çılgın Mix Menü",
+          "price": 740.0,
+          "description": "Seçeceğiniz 2 Adet Tantuni + Baharatlı Patates Kızartması + Soğan Halkası + İçecek",
+          "img": null
+        },
+        {
+          "name": "Öküz Doyuran Menü",
+          "price": 720.0,
+          "description": "XL Ekmek Arası Tavuk Tantuni + Ekmek Arası Tavuk Tantuni + Patates Kızartması + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "3'lü Tavuk Tantuni Menü",
+          "price": 840.0,
+          "description": "3 Adet Seçeceğiniz Tantuni + İçecek (1 L.)",
+          "img": null
+        },
+        {
+          "name": "2'li Tavuk Tantuni Menü",
+          "price": 710.0,
+          "description": "2 Adet Seçeceğiniz Tantuni + Baharatlı Patates Kızartması + İçecek (1 L.)",
+          "img": null
+        },
+        {
+          "name": "Et Severlere Özel Menü",
+          "price": 800.0,
+          "description": "2 Adet Seçeceğiniz Et Tantuni + Patates Kızartması + Soğan Halkası + Kutu İçecek",
+          "img": null
+        },
+        {
+          "name": "4'lü Çılgın Mix Menü",
+          "price": 1.5,
+          "description": "Özel Soslu Yoğurtlu Tavuk Tantuni + Özel Soslu Yoğurtlu Et Tantuni + Tavuk Tantuni Dürüm + Et Tantuni Dürüm + Double Baharatlı Patates Kızartması + 16 Adet Soğan Halkası + İçecek (1 L.)",
+          "img": null
+        },
+        {
+          "name": "Etli Tavuklu Dolu Dolu Menü",
+          "price": 750.0,
+          "description": "Et Tantuni + Tavuk Tantuni + Patates Kızartması + Soğan Halkası + Coca-Cola (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Et Severlere Özel Menü",
+          "price": 800.0,
+          "description": "Seçeceğiniz et Tantuni (2 Adet) + Baharatlı Patates Kızartması + Soğan Halkası + İçecek",
+          "img": null
+        },
+        {
+          "name": "Etli Tavuklu Dolu Dolu Menü",
+          "price": 750.0,
+          "description": "Et Tantuni Dürüm + Tavuk Tantuni Dürüm + Patates Kızartması + Soğan Halkası + Coca-Cola (33 cl.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Izgaralar",
+      "products": [
+        {
+          "name": "Tavuk Pirzola",
+          "price": 450.0,
+          "description": "Közlenmiş biber, közlenmiş domates, turşu, soğan, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Köfte",
+          "price": 431.0,
+          "description": "Közlenmiş biber, közlenmiş domates, turşu, soğan, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940481.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Arası Ürünler",
+      "products": [
+        {
+          "name": "Ekmek Arası Izgara Köfte",
+          "price": 400.0,
+          "description": "Mevsim yeşillikleri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Soğan Halkası (8 Adet)",
+          "price": 69.99,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 99.99,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940464.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940540.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940547.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72940552.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784837.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 72.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784782.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (1 L.)",
+          "price": 75.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784840.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784843.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784845.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (1 L.)",
+          "price": 80.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784847.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 60.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784852.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 38.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75784859.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

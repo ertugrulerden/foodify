@@ -1,0 +1,643 @@
+{
+  "link_hash": "bca41936",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Kahve Dükkanı",
+  "link": "https://www.yemeksepeti.com/restaurant/aukb/kahve-dukkani-aukb",
+  "categories": [
+    {
+      "name": "Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Espresso",
+          "price": 100.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış espresso, yoğun kıvama ve sert bir tada sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523642.jpg?width=128&height=128"
+        },
+        {
+          "name": "Americano",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Americano espressonun su ile birleştirilmiş halidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523683.jpg?width=128&height=128"
+        },
+        {
+          "name": "Latte",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Latte espressonun süt ile birleştirilmiş halidir. Hafif bir içime sahiptir dilerseniz farklı aromalarla tadını renklendirebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523692.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Cappuccino espressonun bol köpüklü süt ile birleştirilmiş halidir. Hafif bir içime sahiptir dilerseniz farklı aromalarla tadını renklendirebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523696.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caramel Macchiato",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Macchiato espressonun Süt köpüğü ile birleştirilmiş halidir. Orta bir içime sahiptir dilerseniz farklı aromalarla tadını renklendirebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523703.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cortado (7 oz.)",
+          "price": 150.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Cortado espressonun süt ile birleştirilmiş halidir. Sert bir içime sahiptir dilerseniz farklı aromalarla tadını renklendirebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523850.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlmanmış Flat White espressonun süt ile birleştirilmiş halidir. Orta bir içime sahiptir dilerseniz farklı aromalarla tadını renklendirebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523857.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mocha",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlmanmış Mocha espressonun süt ve çikolata ile birleştirilmiş halidir. Hafif bir içime sahiptir dilerseniz farklı aromalarla tadını renklendirebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523866.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Mocha",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Beyaz Mocha espressonun süt ve beyaz çikolata ile birleştirilmiş halidir. Hafif bir içime sahiptir dilerseniz farklı aromalarla tadını renklendirebilirsiniz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523883.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve Special Blend",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Filtre kahve orta kıvama ve keyifli dengeli bir tada sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66523926.jpg?width=150&height=150"
+        },
+        {
+          "name": "Toffee Nut Latte (12 oz.)",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Toffe Nut Latte espressonun süt ile birleştirilmiş halidir. Hafif bir içime sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524043.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pumpkin Spice Latte (12 oz.)",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Pumpkin Spice Latte espressonun süt ile birleştirilmiş halidir. Hafif bir içime sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524047.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salted Caramel Latte (12 oz.)",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Salted Caramel Latte espressonun süt ile birleştirilmiş halidir. Hafif bir içime sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524054.jpg?width=150&height=150"
+        },
+        {
+          "name": "Marshmallow Latte (12 oz.)",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış marshmallow Latte espressonun süt ile birleştirilmiş halidir. Hafif bir içime sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524061.jpg?width=150&height=150"
+        },
+        {
+          "name": "Popcorn Latte (12 oz.)",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Popcorn Latte espressonun süt ile birleştirilmiş halidir. Hafif bir içime sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524064.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Latte (12 oz.)",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Lotus Latte espressonun süt ile birleştirilmiş halidir. Hafif bir içime sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524066.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kenya V60",
+          "price": 175.0,
+          "description": "V60 demleme yöntemi ile demlenen kahvemiz Belirgin bir asidite hafif bir gövdeye sahiptir Tadım notalar pekmez yasemin kırmızı meyveler",
+          "img": null
+        },
+        {
+          "name": "Kolombiya V60",
+          "price": 175.0,
+          "description": "V60 demleme yöntemi ile demlenen kahvemiz orta bir asidite orta bir gövdeye sahiptir Tadım notaları narenciye meyvemsi",
+          "img": null
+        },
+        {
+          "name": "Guatemala V60",
+          "price": 175.0,
+          "description": "V60 demleme yöntemi ile demlenen kahvemiz Canlı bir asidite orta pürüzsüz bir gövdeye sahiptir Tadım notaları fındık-çikolata-kakao",
+          "img": null
+        },
+        {
+          "name": "Etiyopya V60",
+          "price": 175.0,
+          "description": "V60 demleme yöntemi ile demlenen kahvemiz parlak bir asidite, orta bir gövdeye sahiptir. Tadım notaları karamel-portakal-yasemin-limon çiçeği",
+          "img": null
+        },
+        {
+          "name": "Sumatra V60",
+          "price": 175.0,
+          "description": "V60 demleme yöntemi ile demlenen kahvemiz belirgin bir asidite yoğun bir gövdeye sahiptir. Tadım notaları fındık-çikolata-kakao",
+          "img": null
+        },
+        {
+          "name": "Kosta Rika V60",
+          "price": 175.0,
+          "description": "V60 demleme yöntemi ile demlenen kahvemiz orta bir asidite, yoğun ve pürüzsüz bir gövdeye sahiptir. Tadım notaları Meyvemsi-çiçeksi-bal-tatlı ve kalıcı",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Buzlu Americano",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Buzlu Americano espressonun su ve buz ile birleştirilmiş halidir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Buzlu Latte",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Buzlu Americano espressonun süt ve buz ile birleştirilmiş halidir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Buzlu Mocha",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Buzlu Americano espressonun süt çikolata ve buz ile birleştirilmiş halidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524675.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Beyaz Mocha",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Buzlu Americano espressonun süt beyaz çikolata ve buz ile birleştirilmiş halidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524679.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Filtre Kahve",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış Buzlu Filtre kahve orta kıvama ve keyifli dengeli bir tada sahiptir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524690.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frappe",
+          "price": 200.0,
+          "description": "Kahve Dükkanına özel blend ile hazırlanmış espresonun üzerine süt,vanilya ve buz ile birlikte karıştırılarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524697.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Sıcak Çikolata",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış çikolata, süt ile birleştirilerek sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyaz Çikolata",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış beyaz çikolata, süt ile birleştirilerek sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524714.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chai Tea Latte",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış Chai Tea Latte, süt ile birleştirilerek sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524720.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salep",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış salep, süt ile birleştirilerek sıcak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Shakeler",
+      "products": [
+        {
+          "name": "Çilekli Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine çilek ilave edilerek soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine çikolata ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524762.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine muz ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524793.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine karamel ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524814.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şeftalili Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine şeftali ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524825.jpg?width=150&height=150"
+        },
+        {
+          "name": "Narlı Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine nar ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524832.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lotus Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine Lotus ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524837.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oreo Milkshake",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış milkshake içine oreo ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66524841.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coco Chocolate",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış çikolatalı ve hindistan cevizli içecek tozuna süt ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66927537.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyan Karamel",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış İtalyan karameli ile milkshake kıvamında servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66927631.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Çikolata",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış çikolata tozuna süt ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66927638.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Beyaz Çikolata",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış Beyaz Çikolata tozuna süt ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66927642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Salep",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış Salep tozuna süt ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66927646.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Chai Tea Latte",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış Chai Tea Latte tozuna süt ilave edilerek soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66927654.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İtalyan Sodalar",
+      "products": [
+        {
+          "name": "Mavi İtalyan",
+          "price": 175.0,
+          "description": "İtalyan sodanın limon, turunç ve muz aromasıyla birleşmiş halidir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kırmızı İtalyan",
+          "price": 175.0,
+          "description": "İtalyan sodanın nar, şeftali ve muz aromasıyla birleşmiş halidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525283.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yeşil İtalyan",
+          "price": 175.0,
+          "description": "İtalyan sodanın nane aromasıyla birleşmiş halidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525296.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mor İtalyan",
+          "price": 175.0,
+          "description": "İtalyan sodanın limon,turun,nar ve şeftali aromasıyla birleşmiş halidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525299.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Meyveliler",
+      "products": [
+        {
+          "name": "Limonata",
+          "price": 175.0,
+          "description": "Kahve dükkanına özel olarak hazırlanmış yazın serinletici lezzetidir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525307.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karadut",
+          "price": 175.0,
+          "description": "Kahve dükkanına özel olarak hazırlanmış yazın serinletici lezzetidir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525310.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dutt Lime",
+          "price": 175.0,
+          "description": "Kahve dükkanına özel olarak hazırlanmış yazın serinletici lezzeti Limonata&Karadutun birleşmiş hali.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525313.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cool Lime",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış Cool lime özü ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525320.jpg?width=150&height=150"
+        },
+        {
+          "name": "Berry Hibiscus",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış Berry Hibiscus özü ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66525913.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bubble Gum",
+          "price": 175.0,
+          "description": "Kahve Dükkanına özel hazırlanmış Bubble Gum Aroması ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526004.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bubbles",
+      "products": [
+        {
+          "name": "Blueberry Bubble",
+          "price": 225.0,
+          "description": "Kahve Dükkanına özel olarak hazırlanmış Blueberry Bubble ile Mavi İtalyanın vazgeçilmez birleşimi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Red Bubble",
+          "price": 225.0,
+          "description": "Kahve Dükkanına özel olarak hazırlanmış Çilek Bubble ile Kırmızı İtalyanın vazgeçilmez birleşimi",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Redlime Bubble",
+          "price": 225.0,
+          "description": "Kahve Dükkanına özel olarak hazırlanmış Çilek Bubble ile Limonatanın vazgeçilmez birleşimi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526043.jpg?width=150&height=150"
+        },
+        {
+          "name": "Berrylime Bubble",
+          "price": 225.0,
+          "description": "Kahve Dükkanına özel olarak hazırlanmış Blueberry Bubble ile Cool Lime içeceğinin vazgeçilmez birleşimi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526050.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Focaccia Beş Peynirli Sandviç",
+          "price": 250.0,
+          "description": "Yumuşak ve lezzetli focaccia ekmek içinde beş çeşit peynir ile hazırlanmış özel sandviç. Taze malzemeler ve ince peynir tabakalarının mükemmel uyumu ile hazırlanır.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Cheesecake Burnt",
+          "price": 325.0,
+          "description": "1 dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yaban Mersinli Pasta",
+          "price": 250.0,
+          "description": "1 dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Browni",
+          "price": 275.0,
+          "description": "1 dilim",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/sx1o/product/816e0c4f-f4b7-4b40-886b-bd46ca14ad5d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coco Sweet",
+          "price": 275.0,
+          "description": "Hindistan cevizli",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/sx1o/product/31a3361a-d6a7-4493-b9da-773de30ea073.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Muffin",
+          "price": 200.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/sx1o/product/1063878e-18b2-4c8e-be13-63dc4ca89499.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Muffin",
+          "price": 200.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/sx1o/product/12a5032a-6b72-4e98-ba2c-1d3a052dc39c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Çikolatalı Cookie",
+          "price": 100.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/sx1o/product/7b0e955f-85a7-4d04-a3ae-e91141ef0042.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Cookie",
+          "price": 100.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/sx1o/product/ca0f63d4-5992-449f-a4d7-17744b060dad.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Cheesecake",
+          "price": 235.0,
+          "description": "Özel üretim bisküvi ve (New York usulü) fırında frambuazlı cheesecake",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526267.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte Mono",
+          "price": 250.0,
+          "description": "Beyaz pandispanya, fındık parçacıkları, kahve özlü beyaz çikolata ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526271.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tiramisu",
+          "price": 235.0,
+          "description": "Kakao keki, peynirli tiramisu kreması, kahve şurubu ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstık Rüyası",
+          "price": 275.0,
+          "description": "Çikolatalı pandispanya, bitter çikolatalı mus, beyaz çikolatalı ganaj, fıstık ezmeli draje ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozaik Pasta",
+          "price": 235.0,
+          "description": "Petiber bisküvi, çikolata kreması, fındık parçacıklı çikolata sosu ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526279.jpg?width=150&height=150"
+        },
+        {
+          "name": "Donut",
+          "price": 100.0,
+          "description": "Çikolatalı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526404.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dolgulu Donut",
+          "price": 140.0,
+          "description": "Dolgulu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526408.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Atıştırmalıklar",
+      "products": [
+        {
+          "name": "Çakıltaşı Draje (25 gr.)",
+          "price": 80.0,
+          "description": "Ekstra sütlü çikolatalı çakıl draje (25 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526428.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mix Kahve Draje (25 gr.)",
+          "price": 80.0,
+          "description": "Kahveli bitter, sütlü, beyaz çikolata kaplamalı karışık çeşnili",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526434.jpg?width=150&height=150"
+        },
+        {
+          "name": "Böğürtlenli Draje (25 gr.)",
+          "price": 80.0,
+          "description": "25 gr. servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526436.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındıklı Sütlü Çikolata",
+          "price": 90.0,
+          "description": "Fındıklı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526438.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Fıstıklı Çikolata",
+          "price": 100.0,
+          "description": "Sütlü",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526439.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şemsiye Çikolata",
+          "price": 80.0,
+          "description": "22 gr. servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526443.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lollipop",
+          "price": 50.0,
+          "description": "Meyveli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526445.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Erikli Su (50 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Uludağ Soda (20 cl.)",
+          "price": 75.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526682.jpg?width=150&height=150"
+        },
+        {
+          "name": "Uludağ Frutti Meyveli Soda (20 cl.)",
+          "price": 100.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526683.jpg?width=150&height=150"
+        },
+        {
+          "name": "Uludağ Gazoz (25 cl.)",
+          "price": 100.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526685.jpg?width=150&height=150"
+        },
+        {
+          "name": "Red Bull (35.5 cl.)",
+          "price": 150.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526688.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Paket Kahveler",
+      "products": [
+        {
+          "name": "Türk Kahvesi (250 gr.)",
+          "price": 350.0,
+          "description": "Türk Kahvesi için özel olarak hazırladığımız kahveyle hazırlanmıştır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Damla Sakızlı Türk Kahvesi (250 gr.)",
+          "price": 350.0,
+          "description": "Türk Kahvesi için özel olarak hazırladığımız kahveyle hazırlanmıştır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526982.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dağ Çilekli Türk Kahvesi (250 gr.)",
+          "price": 350.0,
+          "description": "Türk Kahvesi için özel olarak hazırladığımız kahveyle hazırlanmıştır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526984.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Dibek Türk Kahvesi (250 gr.)",
+          "price": 350.0,
+          "description": "Türk Kahvesi için özel olarak hazırladığımız kahveyle hazırlanmıştır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66526987.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakızlı Sütlü Dibek Türk Kahvesi (250 gr.)",
+          "price": 350.0,
+          "description": "Türk Kahvesi için özel olarak hazırladığımız kahveyle hazırlanmıştır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66527004.jpg?width=150&height=150"
+        },
+        {
+          "name": "Menengiçli Türk Kahvesi (250 gr.)",
+          "price": 350.0,
+          "description": "Türk Kahvesi için özel olarak hazırladığımız kahveyle hazırlanmıştır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/66527006.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

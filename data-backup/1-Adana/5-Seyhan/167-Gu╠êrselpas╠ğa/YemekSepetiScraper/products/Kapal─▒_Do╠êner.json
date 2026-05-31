@@ -1,0 +1,118 @@
+{
+  "link_hash": "e7231fbd",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Kapalı Döner",
+  "link": "https://www.yemeksepeti.com/restaurant/plw5/kapali-doner",
+  "categories": [
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "2'li Öğle Menüsü",
+          "price": 595.0,
+          "description": "2 Adet Tavuk Döner Dürüm + 2 Paket Çıtır Cips + 2 Adet İçecek (33 cl.)",
+          "img": null
+        },
+        {
+          "name": "Hamburger Menüsü",
+          "price": 340.0,
+          "description": "Tavuk Burger + Çıtır Patates Kızartması + Seçeceğiniz İçecek",
+          "img": null
+        },
+        {
+          "name": "Tavuk Döner Dürüm Menü",
+          "price": 340.0,
+          "description": "Tavuk Döner Dürüm + Patates Kızartması + Kutu İçecek",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Tavuk Döner Dürüm",
+          "price": 211.65,
+          "description": "Domates, özel sos, mayonez, salatalık turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80104145.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Tavuk Döner",
+          "price": 254.15,
+          "description": "Tavuk eti, kaşar peyniri. Domates, marul, nane, ketçap, mayonez, turşu ile",
+          "img": null
+        },
+        {
+          "name": "Mantarlı Tavuk Döner",
+          "price": 211.65,
+          "description": "Taze tavuk eti, sautéed mantar, domates, turşu, marul, ketçap, mayonez, taze nane ile servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Doyum Tavuk Döner",
+          "price": 280.5,
+          "description": "Üç adet taze ekmek arasına tavuk döner. Soğan, domates, marul, özel sos ile servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Sebzeli Tavuk Döner",
+          "price": 220.15,
+          "description": "Taze sebzeler, patates kızartması, marul, domates, biber. Turşu, ketçap, mayonez",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Nugget (4 Adet)",
+          "price": 84.15,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Nugget (8 Adet)",
+          "price": 105.4,
+          "description": "8 adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması (Küçük Boy)",
+          "price": 84.15,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması (Büyük Boy)",
+          "price": 122.4,
+          "description": "Parmak dilim",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Pepsi (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yedigün (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

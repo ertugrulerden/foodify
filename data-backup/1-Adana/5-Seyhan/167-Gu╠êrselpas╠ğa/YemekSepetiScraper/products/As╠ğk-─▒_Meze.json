@@ -1,0 +1,504 @@
+{
+  "link_hash": "4b12657f",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Aşk-ı Meze",
+  "link": "https://www.yemeksepeti.com/restaurant/pgv0/ask-i-meze-pgv0",
+  "categories": [
+    {
+      "name": "Börekler",
+      "products": [
+        {
+          "name": "Pizza Börek",
+          "price": 200.0,
+          "description": "Sosis, salam, biber, mısır, kaşar peyniri, domates sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/88320278/ccba1dff-4e9b-4a7e-947c-563bc17e4061.jpg?width=128&height=128"
+        },
+        {
+          "name": "Peynirli Sigara Böreği (5 Adet)",
+          "price": 160.0,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77825126.jpg?width=128&height=128"
+        },
+        {
+          "name": "Patatesli Sigara Böreği (5 Adet)",
+          "price": 160.0,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77825243.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Patso Sandviç",
+          "price": 160.0,
+          "description": "Patates kızartması, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Mantılar",
+      "products": [
+        {
+          "name": "Gırık Mantı",
+          "price": 320.0,
+          "description": "Yoğurt, sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79566765.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özbek Mantısı",
+          "price": 320.0,
+          "description": "Seçeceğiniz sos, yoğurt ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hingel",
+          "price": 280.0,
+          "description": "Patates, hamur üzerine; yoğurt, sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86654606/2ddc7d96-8687-4c5a-8bd3-47b6a8521dac.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yüzük Çorbası",
+          "price": 320.0,
+          "description": "Ekmek ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78982585.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantı",
+          "price": 320.0,
+          "description": "Dana kıyma, isteğe göre; yoğurt, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719653.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çiğ Köfteler",
+      "products": [
+        {
+          "name": "Kovada Çiğ Köfte",
+          "price": 280.0,
+          "description": "Sushi çiğ köfte, Doritos, mısır, kırmızılahana",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kovada Suşi Çiğ Köfte (Atom)",
+          "price": 280.0,
+          "description": "Salata, mısır, atom turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78881039.jpg?width=150&height=150"
+        },
+        {
+          "name": "Atom Dürüm",
+          "price": 160.0,
+          "description": "Çiğ köfte, atom, marul, kornişon, domates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/79061130.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sultan Dürüm",
+          "price": 160.0,
+          "description": "Doritos, çiğ köfte, pembe sultan mezesi, kornişon, marul",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/87927668/7c56d2b4-196e-4f68-aee3-24507871a292.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte Dürüm",
+          "price": 140.0,
+          "description": "Yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719697.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mega Çiğ Köfte Dürüm",
+          "price": 160.0,
+          "description": "Yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719706.jpg?width=150&height=150"
+        },
+        {
+          "name": "Doritoslu Çiğ Köfte Dürüm",
+          "price": 180.0,
+          "description": "Yeşillik, Doritos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719707.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.)",
+          "price": 480.0,
+          "description": "Garnitür ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719692.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çiğ Köfte (1 kg.) (Garnitürsüz)",
+          "price": 400.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719690.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Arası Ürünler",
+      "products": [
+        {
+          "name": "Köfteli Wrap",
+          "price": 320.0,
+          "description": "Tavuk köfte, salata, mayonez, sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yarım Ekmek Arası Köfte (Tavuk)",
+          "price": 168.0,
+          "description": "Domates, yeşillik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719659.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Mezeler",
+      "products": [
+        {
+          "name": "Şahmeran (250 gr.)",
+          "price": 280.0,
+          "description": "Patates, karamelli soğan, havuç, közlenmiş biber, yoğurt, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "5'li Meze Tabağı",
+          "price": 560.0,
+          "description": "5 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/88809524/a1966bf0-430f-427a-bf48-da1930960f59.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kendi Meze Tabağını Kendin Oluştur",
+          "price": 400.0,
+          "description": "Seçeceğiniz 3 adet meze",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86661137/0382fb28-79bc-4822-811c-5fcd08b2e6a4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mercimekli Salata",
+          "price": 240.0,
+          "description": "Yeşil mercimek, tavuk, yeşillik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86747700/af8e768f-4ae8-420b-8a6a-c8123a919ed2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fellah Köftesi (500 gr.)",
+          "price": 240.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86748190/1151ac79-0120-44ab-87e6-f05a6903cb29.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Sevenler",
+          "price": 400.0,
+          "description": "Tavuk köfte, seçeceğiniz 2 adet meze",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86830337/b0c581d2-ab15-44a4-9ac7-01318a55bfb1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğanlı Haydari (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86831338/88e7d025-baa2-4daf-a273-aaee99baea91.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yoğurtlu Makarna",
+          "price": 200.0,
+          "description": "Sos, kuru nane",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/a348ab6d-140b-442b-aefe-4f3bd0209db3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mütebbel (250 gr.)",
+          "price": 200.0,
+          "description": "Közlenmiş patlıcan, tahin, sarımsak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78080167.jpg?width=150&height=150"
+        },
+        {
+          "name": "Allöş",
+          "price": 280.0,
+          "description": "Patates kızartmasının üzerine Rus salatası, mısır, turşu, zeytin, sosis, salam",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/87113559/f588657b-ca8d-45d5-8dad-4d579d985c12.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kısır",
+          "price": 200.0,
+          "description": "Bulgur, baharat, mevsim yeşillikleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/87199763/72de26d2-0cb6-47f1-bef1-7d37010f3975.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytinyağlı Pırasa",
+          "price": 160.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/87212120/26d1a5ad-7398-41b6-9a7e-e76b8d786af4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Karma",
+          "price": 200.0,
+          "description": "Zeytin, dereotu, közlenmiş biber, kornişon, sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/87219028/598be63f-fca2-4d46-aaa8-0219bf7f9af2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muhammara (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719617.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köpoğlu (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86550008/c618e9a8-36a6-4a5a-8277-2dccf013ad10.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kızartma İçli Köfte (3 Adet)",
+          "price": 320.0,
+          "description": "3 adet olarak servis edilir. 1 adet günün mezesi ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719635.jpg?width=150&height=150"
+        },
+        {
+          "name": "Haydari (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719737.jpg?width=150&height=150"
+        },
+        {
+          "name": "Humus (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86550124/c123a260-ae05-4f60-a29d-6266b3f48ab0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Rus Salatası (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719739.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahinli Havuç Tarator (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86550139/af866ae9-c050-4109-a90c-9eca5f3612aa.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytinyağlı Sarma",
+          "price": 240.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719756.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytin Salatası (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719757.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pembe Sultan (250 gr.)",
+          "price": 200.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Girit Ezmesi (250 gr.)",
+          "price": 240.0,
+          "description": "250 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77719764.jpg?width=150&height=150"
+        },
+        {
+          "name": "Atom (250 gr.)",
+          "price": 200.0,
+          "description": "Közlenmiş biber, süzme yoğurt",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86624703/19aca14f-b047-4e5f-98b9-989b25034db1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şakşuka (250 gr.)",
+          "price": 200.0,
+          "description": "Domates biber, patlıcan, zeytinyağı, üzerine; domates sos",
+          "img": null
+        },
+        {
+          "name": "Kuru Cacık",
+          "price": 200.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Zeytinyağlı Kuru Dolma",
+          "price": 280.0,
+          "description": "Kuru biber, patlıcan",
+          "img": null
+        },
+        {
+          "name": "Soslu Nohut",
+          "price": 200.0,
+          "description": "Baharatlar, haşlama nohut",
+          "img": null
+        },
+        {
+          "name": "Kayagoruğu",
+          "price": 160.0,
+          "description": "Baharat ile",
+          "img": null
+        },
+        {
+          "name": "Mücver (Adet)",
+          "price": 80.0,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Amerikan Salatası (500 gr.)",
+          "price": 280.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 100.0,
+          "description": "Parmak dilim",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Turşular",
+      "products": [
+        {
+          "name": "Karışık Turşu 1kg",
+          "price": 320.0,
+          "description": "Havuç lahana kırmızı lahana kornişon el yapımı doğal sirke 1kilo",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Közlenmiş Acı Biber Turşusu (500 gr.)",
+          "price": 200.0,
+          "description": "Havuç, acur, kornişon, el yapımı doğal sirke, cam kavanoz.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77942892.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Kızartma Tabağı",
+          "price": 360.0,
+          "description": "Sigara böreği, soğan halkası, 1 adet kızarmış içli köfte, patates kızartması, sosis",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Dondurulmuş Ürünler",
+      "products": [
+        {
+          "name": "Yüksük Çorbası (500 gr.)",
+          "price": 400.0,
+          "description": "Dondurulmuş",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mantı (500 gr.)",
+          "price": 400.0,
+          "description": "Dondurulumuş",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/820ea853-7e62-4925-9e85-9f624ebf5327.jpg?width=150&height=150"
+        },
+        {
+          "name": "İçli Köfte (Adet)",
+          "price": 100.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77830182.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hingel (500 gr.)",
+          "price": 320.0,
+          "description": "Patates, baharat",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pgv0/product/86825932/1d2ae9c9-422d-4f11-9a99-9b9c2137dae8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özbek Mantısı (Donuk)",
+          "price": 480.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Ton Balıklı Salata",
+          "price": 280.0,
+          "description": "Mevsim yeşillikleri, ton balığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Beypazarı Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Serfressh Şalgam",
+          "price": 48.0,
+          "description": "Acısız",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 28.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Mezeler",
+      "products": [
+        {
+          "name": "Tavuklu Yoğurtlu Erişte Salatası (500 gr.)",
+          "price": 240.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Süzme Yoğurt (500 gr.)",
+          "price": 200.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/78773231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates & Biber Kızartması (500 gr.)",
+          "price": 240.0,
+          "description": "Patates, biber, sarımsaklı domates sos",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Afrika Ateşi",
+          "price": 20.0,
+          "description": "Acı közlenmiş biber, kornişon, sarımsaklı mayonez, baharatlar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pembe Sos",
+          "price": 20.0,
+          "description": "Sarımsak, çeşni",
+          "img": null
+        }
+      ]
+    }
+  ]
+}

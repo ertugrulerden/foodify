@@ -1,0 +1,782 @@
+{
+  "link_hash": "555258b2",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Bursa Kebap Evi",
+  "link": "https://www.yemeksepeti.com/restaurant/ifoa/bursa-kebap-evi-ifoa",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "İnegöl Köfte",
+          "price": 585.0,
+          "description": "(6 adet) inegöl köfte, pilav, patates, domates, yeşil biber, köfte sosu, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771381.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kasap Köfte",
+          "price": 585.0,
+          "description": "(5 adet) kasap köfte, pilav, patates, domates, yeşil biber, köfte sosu, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771383.jpg?width=128&height=128"
+        },
+        {
+          "name": "Bursa Kebabı (İskender)",
+          "price": 615.0,
+          "description": "Et döner (80 gr.), közlenmiş domates sos, yoğurt, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771267.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Dürüm Döner",
+          "price": 465.0,
+          "description": "Et döner (60 gr.), közlenmiş domates sos, patates, domates, göbek, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771293.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ezogelin Çorba",
+          "price": 175.0,
+          "description": "Tırnaklı pide ve limon ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771226.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş",
+          "price": 495.0,
+          "description": "(220 gr.) tavuk şiş, pilav, patates, domates, yeşil biber, köfte sos, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773192.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Coca-Cola Fırsat Menüleri",
+      "products": [
+        {
+          "name": "Coca-Cola Fırsatı (Pideskender)",
+          "price": 525.0,
+          "description": "Pideskender + Coca-Cola (33 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Fırsatı (Et Döner Dürüm)",
+          "price": 445.0,
+          "description": "Dürüm Döner + Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72775052.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Fırsatı (Tavuk Şiş Menü)",
+          "price": 475.0,
+          "description": "Tavuk Şiş + Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72775085.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Fırsatı (Bursa Kebap Menü)",
+          "price": 579.0,
+          "description": "Bursa Kebap + Coca-Cola (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72775073.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Başlangıçlar",
+      "products": [
+        {
+          "name": "Ezogelin Çorba",
+          "price": 175.0,
+          "description": "Tırnaklı pide ve limon ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771226.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ezogelin Çorba Yarım",
+          "price": 140.0,
+          "description": "Tırnaklı pide ve limon ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771229.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Suyu Çorba",
+          "price": 210.0,
+          "description": "Tırnaklı pide ve limon ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771230.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Suyu Çorba Yarım",
+          "price": 165.0,
+          "description": "Tırnaklı pide ve limon ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çoban Salata",
+          "price": 255.0,
+          "description": "Domates, salatalık, yeşil biber, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771232.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mevsim Salata",
+          "price": 255.0,
+          "description": "Göbek, kırmızı lahana, havuç, domates, salatalık, mısır, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771234.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köz Patlıcan",
+          "price": 195.0,
+          "description": "Közlenmiş domates sosu, tereyağı, domates, yeşil biber.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771241.jpg?width=150&height=150"
+        },
+        {
+          "name": "Parmak Patates",
+          "price": 165.0,
+          "description": "Altın sarısı renginde çıtır patates kızartması (140 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771243.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patlıcan Beğendi",
+          "price": 225.0,
+          "description": "Tereyağı, domates, yeşil biber",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771246.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav",
+          "price": 125.0,
+          "description": "(100 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771248.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tava Yoğurdu",
+          "price": 125.0,
+          "description": "Sütaş tava yoğurdu (200 gr.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771249.jpg?width=150&height=150"
+        },
+        {
+          "name": "Turşu",
+          "price": 185.0,
+          "description": "4 adet Ankara çubuk turşusu, 6 adet biberiye turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771250.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası",
+          "price": 145.0,
+          "description": "8 adet soğan halkası, ketçap, mayonez.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771253.jpg?width=150&height=150"
+        },
+        {
+          "name": "Piyaz",
+          "price": 210.0,
+          "description": "Fasulye, sumaklı soğan, domates, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771255.jpg?width=150&height=150"
+        },
+        {
+          "name": "Humus",
+          "price": 225.0,
+          "description": "Sumak, zeytinyağı ve tırnaklı pide ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771257.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Ezme",
+          "price": 210.0,
+          "description": "Diyarbakır ezmesi, tırnak pide ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771260.jpg?width=150&height=150"
+        },
+        {
+          "name": "İçli Köfte",
+          "price": 195.0,
+          "description": "2 adet içli köfte, limon ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771262.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Peynir Topları",
+          "price": 225.0,
+          "description": "4 adet servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771263.jpg?width=150&height=150"
+        },
+        {
+          "name": "Falafel",
+          "price": 305.0,
+          "description": "4 adet servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72774384.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Izgara & Kebaplar",
+      "products": [
+        {
+          "name": "Yoğurtlu Adana Kebap",
+          "price": 755.0,
+          "description": "(180 gr.) adana kebap, közlenmiş domates sos, pilav, yoğurt, tereyağı, domates, yeşil biber, lavaş",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Adana Kebap",
+          "price": 765.0,
+          "description": "(180 gr.) adana kebap, sumaklı soğan, közlenmiş domates sos, pilav, yoğurt, tereyağı, domates, yeşil biber, lavaş",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773131.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Dürüm",
+          "price": 465.0,
+          "description": "(90 gr.) adana kebap, sumaklı soğan, patates, domates, ketçap, mayonez, adana sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773140.jpg?width=150&height=150"
+        },
+        {
+          "name": "Adana Beyti",
+          "price": 755.0,
+          "description": "(180 gr.) adana kebap, közlenmiş domates sos, pilav, yoğurt, tereyağı, domates, yeşil biber, lavaş",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773154.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Döner Beyti",
+          "price": 615.0,
+          "description": "(80 gr.) et döner, közlenmiş domates sos, pilav, yoğurt, tereyağı, domates, yeşil biber, lavaş",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773168.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Kebap",
+          "price": 855.0,
+          "description": "(100 gr.) tavuk şiş, (90 gr.) adana kebap, (1 adet) kasap köfte, (60 gr.) et döner, pilav, patates, domates, yeşil biber, köfte sos, lavaş",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773179.jpg?width=150&height=150"
+        },
+        {
+          "name": "2 Kişilik Karışık Kebap",
+          "price": 1.655,
+          "description": "(220 gr.) tavuk şiş, (180 gr.) adana kebap, (2 adet) kasap köfte, (120 gr.) et döner, pilav, patates, domates, yeşil biber, köfte sos, lavaş",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773186.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş",
+          "price": 495.0,
+          "description": "(220 gr.) tavuk şiş, pilav, patates, domates, yeşil biber, köfte sos, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773192.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Pirzola",
+          "price": 525.0,
+          "description": "(2 adet) tavuk pirzola, pilav, patates, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773211.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Dönerli Taco",
+          "price": 475.0,
+          "description": "(50 gr.) et döner, domates, göbek, turşu, patates, lavaş, ketçap, mayonez, burger sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773231.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lezzet Kutusu",
+          "price": 885.0,
+          "description": "Dürüm döner, köfte burger, (6 adet) soğan halkası, patates, ketçap, mayonez, burger sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773260.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Şiş Dürüm",
+          "price": 375.0,
+          "description": "(110 gr.) tavuk şiş, domates, göbek, turşu, patates, lavaş, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773268.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Adana Dürüm",
+          "price": 495.0,
+          "description": "(90 gr.) adana kebap, cheddar peynir, sumaklı soğan, patates, domates, ketçap, mayonez, adana sos",
+          "img": null
+        },
+        {
+          "name": "Cheddarlı Et Döner Beyti",
+          "price": 615.0,
+          "description": "(80 gr.) et döner, cheddar peynir, közlenmiş domates sos, pilav, yoğurt, tereyağı, domates, yeşil biber, lavaş",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Yöresel Ürünler",
+      "products": [
+        {
+          "name": "Şıra (1 L.)",
+          "price": 255.0,
+          "description": "Litrelik içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72774311.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Kestane Şekeri",
+          "price": 725.0,
+          "description": "Şeker (Hediyelik)",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uz43/product/81386758/efc2d181-a55c-4472-9ae1-8758cace6b94.jpg?width=150&height=150"
+        },
+        {
+          "name": "Maraş Biberi",
+          "price": 475.0,
+          "description": "Biber (Hediyelik)",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uz43/product/81386761/2050d7fe-0a7f-47f3-96be-7447012a9a71.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Kozahan Türk Kahvesi",
+          "price": 495.0,
+          "description": "Kahve (Hediyelik)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72774329.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hediyelik Turşu (700 gr.)",
+          "price": 280.0,
+          "description": "Turşu (Hediyelik)",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/uz43/product/81386791/c46766fa-b996-492d-b790-547b61f3b2d3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acı Sos (100 ml.)",
+          "price": 140.0,
+          "description": "Cam Şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72774369.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Efsaneler",
+      "products": [
+        {
+          "name": "Bursa Kebabı (İskender)",
+          "price": 615.0,
+          "description": "Et döner (80 gr.), közlenmiş domates sos, yoğurt, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771267.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Bursa Kebabı (Acılı İskender)",
+          "price": 615.0,
+          "description": "Et döner (80 gr.), acılı közlenmiş domates sos, yoğurt, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köz Patlıcanlı Bursa Kebabı (Köz Patlıcanlı İskender)",
+          "price": 670.0,
+          "description": "Et döner (80 gr.), közlenmiş domates sos, közlenmiş patlıcan, yoğurt, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Köz Patlıcanlı Bursa Kebabı (Acılı Köz Patlıcanlı İskender)",
+          "price": 670.0,
+          "description": "Et döner (80 gr.), acılı közlenmiş domates sos, közlenmiş patlıcan, yoğurt, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771276.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Special",
+          "price": 705.0,
+          "description": "Et döner (70 gr.), (5 adet) pideli köfte, közlenmiş domates sos, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771279.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Special Acılı",
+          "price": 705.0,
+          "description": "Et döner (70 gr.), (5 adet) pideli köfte, acılı közlenmiş domates sos, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771281.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Special Köz Patlıcanlı",
+          "price": 765.0,
+          "description": "Et döner (70 gr.), (5 adet) pideli köfte, közlenmiş domates sos, közlenmiş patlıcan, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771283.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Special Acılı Köz Patlıcanlı",
+          "price": 765.0,
+          "description": "Et döner (70 gr.), (5 adet) pideli köfte, acılı közlenmiş domates sos, közlenmiş patlıcan, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771285.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Efsane Döner",
+      "products": [
+        {
+          "name": "Porsiyon Et Döner",
+          "price": 615.0,
+          "description": "Et döner (80 gr.), pilav, patates, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Et Döner",
+          "price": 615.0,
+          "description": "Et döner (80 gr.), pilav, patates, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771289.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beğendi Yatağında Et Döner",
+          "price": 630.0,
+          "description": "Et döner (80 gr.), patlıcan beğendi, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Dürüm Döner",
+          "price": 465.0,
+          "description": "Et döner (60 gr.), közlenmiş domates sos, patates, domates, göbek, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771293.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddarlı Et Dürüm Döner",
+          "price": 495.0,
+          "description": "Et döner (60 gr.), cheddar peynir, közlenmiş domates sos, patates, domates, göbek, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771297.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Et Dürüm Döner",
+          "price": 465.0,
+          "description": "Et döner (60 gr.), acılı közlenmiş domates sos, patates, domates, göbek, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771299.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Et Döner",
+          "price": 465.0,
+          "description": "Et döner (60 gr.), közlenmiş domates sos, domates, göbek, turşu, patates, ketçap, mayonez, tombik ekmek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771301.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Tombik Et Döner",
+          "price": 465.0,
+          "description": "Et döner (60 gr.), acılı közlenmiş domates sos, domates, göbek, turşu, patates, ketçap, mayonez, tombik ekmek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771373.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pideskender",
+          "price": 475.0,
+          "description": "60 gr. et döner, közlenmiş domates sos, 50 gr. tereyağı, 10 gr. iki dilim domates, bir adet sivri biber, 70 gr. parmak patates, ketçap ve mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77296650.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Alternatif Lezzetler",
+      "products": [
+        {
+          "name": "Pideli Köfte",
+          "price": 605.0,
+          "description": "(8 adet) pideli köfte, közlenmiş domates sos, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Pideli Köfte",
+          "price": 605.0,
+          "description": "(8 adet) pideli köfte, acılı közlenmiş domates sos, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köz Patlıcanlı Pideli Köfte",
+          "price": 655.0,
+          "description": "(8 adet) pideli köfte, közlenmiş domates sos, közlenmiş patlıcan, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771379.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Köz Patlıcanlı Pideli Köfte",
+          "price": 615.0,
+          "description": "(8 adet) pideli köfte, acılı közlenmiş domates sos, közlenmiş patlıcan, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72776085.jpg?width=150&height=150"
+        },
+        {
+          "name": "İnegöl Köfte",
+          "price": 585.0,
+          "description": "(6 adet) inegöl köfte, pilav, patates, domates, yeşil biber, köfte sosu, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771381.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kasap Köfte",
+          "price": 585.0,
+          "description": "(5 adet) kasap köfte, pilav, patates, domates, yeşil biber, köfte sosu, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771383.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beğendi Yatağında Köfte",
+          "price": 615.0,
+          "description": "(5 adet) kasap köfte, patlıcan beğendi, pilav, patates, domates, yeşil biber, köfte sosu, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771385.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muhteşem Bursa",
+          "price": 715.0,
+          "description": "(50 gr.) et döner, (115 gr.) soslu tavuk, (3 adet) pideli köfte, közlenmiş domates sos, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771387.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köz Patlıcanlı Muhteşem Bursa",
+          "price": 770.0,
+          "description": "(50 gr.) et döner, (115 gr.) soslu tavuk, (3 adet) pideli köfte, közlenmiş domates sos, közlenmiş patlıcan, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Muhteşem Bursa",
+          "price": 715.0,
+          "description": "(50 gr.) et döner, (115 gr.) soslu tavuk, (3 adet) pideli köfte, acılı közlenmiş domates sos, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/72771391.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Köz Patlıcanlı Muhteşem Bursa",
+          "price": 770.0,
+          "description": "(50 gr.) et döner, (115 gr.) soslu tavuk, (3 adet) pideli köfte, közlenmiş domates sos, acılı közlenmiş patlıcan, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771393.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pideli Tavuk",
+          "price": 575.0,
+          "description": "(230 gr.) soslu tavuk, közlenmiş domates sosu, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771395.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Pideli Tavuk",
+          "price": 575.0,
+          "description": "(230 gr.) soslu tavuk, acılı közlenmiş domates sosu, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köz Patlıcanlı Pideli Tavuk",
+          "price": 630.0,
+          "description": "(230 gr.) soslu tavuk, közlenmiş domates sosu, közlenmiş patlıcan, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Köz Patlıcanlı Pideli Tavuk",
+          "price": 630.0,
+          "description": "(230 gr.) soslu tavuk, acılı közlenmiş domates sosu, yoğurt, tereyağı, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beğendili Tavuk Külbastı",
+          "price": 575.0,
+          "description": "(230 gr.) soslu tavuk, közlenmiş domates sosu, patlıcan beğendi, domates, yeşil biber, tırnaklı pide",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Burger",
+          "price": 535.0,
+          "description": "(60 gr.) et döner, cheddar peynir, göbek, turşu, ketçap, mayonez, burger sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfte Burger",
+          "price": 535.0,
+          "description": "(100 gr.) köfte, cheddar peynir, göbek, turşu, patates, ketçap, mayonez, burger sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfte Burger Köz Patlıcanlı",
+          "price": 535.0,
+          "description": "(100 gr.) köfte, közlenmiş patlıcan, cheddar peynir, göbek, turşu, patates, ketçap, mayonez, burger sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfte Burger Beğendili",
+          "price": 535.0,
+          "description": "(100 gr.) köfte, patlıcan beğendi, cheddar peynir, göbek, turşu, patates, ketçap, mayonez, burger sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Burger Köz Patlıcanlı",
+          "price": 545.0,
+          "description": "(60 gr.) et döner, közlenmiş patlıcan, cheddar peynir, göbek, turşu, ketçap, mayonez, burger sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Et Döner Burger Beğendili",
+          "price": 545.0,
+          "description": "(60 gr.) et döner, patlıcan beğendi, cheddar peynir, göbek, turşu, ketçap, mayonez, burger sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771429.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Tavuklu Salata",
+          "price": 345.0,
+          "description": "Soslu tavuk (115 gr.), göbek, kırmızılahana, havuç, domates, salatalık, mısır, limon",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köfteli Salata",
+          "price": 395.0,
+          "description": "İnegöl köfte (3 adet) , göbek, kırmızılahana, havuç, domates, salatalık, mısır, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771265.jpg?width=150&height=150"
+        },
+        {
+          "name": "Et Dönerli Salata",
+          "price": 395.0,
+          "description": "Et döner (50 gr.), göbek, kırmızılahana, havuç, domates, salatalık, mısır, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72771266.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Katmer",
+          "price": 315.0,
+          "description": "Katmer, antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Künefe",
+          "price": 265.0,
+          "description": "Künefe, şerbet, antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaymaklı Künefe",
+          "price": 335.0,
+          "description": "Künefe, şerbet, kaymak, antep fıstığı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773304.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kemalpaşa Peynir Tatlısı",
+          "price": 235.0,
+          "description": "(2 adet) kemalpaşa tatlısı, tahin, kaymak, fındık parçacıkları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773324.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fırın Sütlaç",
+          "price": 255.0,
+          "description": "Sütlaç, fındık parçacıkları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773336.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bursa Kaymağı",
+          "price": 125.0,
+          "description": "Kaymak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773374.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kestane Şekeri (Porsiyon)",
+          "price": 490.0,
+          "description": "8 adet kestane şekeri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773389.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sufle",
+          "price": 295.0,
+          "description": "Sufle, pudra şekeri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773392.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaymaklı Kemal Paşa",
+          "price": 305.0,
+          "description": "(2 adet) kemalpaşa tatlısı, kaymak, tahin, fındık parçacıkları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72774967.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pastel De Nata",
+          "price": 235.0,
+          "description": "2 adet Pastel de Nata, Pudra Şekeri, Tarçın",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/74526683.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 95.0,
+          "description": "Pet Şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Karışık (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Kayısı (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Portakal (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Şeftali (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773760.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773777.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773783.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773798.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773799.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Limon (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773801.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773807.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango ve Ananas (33 cl.)",
+          "price": 112.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sade Soda",
+          "price": 65.0,
+          "description": "Cam Şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773844.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda",
+          "price": 75.0,
+          "description": "Cam Şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773849.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 35.0,
+          "description": "Pet Şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72773857.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şıra (25 cl.)",
+          "price": 140.0,
+          "description": "Cam Şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam",
+          "price": 95.0,
+          "description": "Pet Şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

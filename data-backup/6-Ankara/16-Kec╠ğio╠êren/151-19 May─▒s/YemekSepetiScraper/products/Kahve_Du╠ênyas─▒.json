@@ -1,0 +1,1622 @@
+{
+  "link_hash": "f692f4e9",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Kahve Dünyası",
+  "link": "https://www.yemeksepeti.com/restaurant/ds2e/kahve-dunyasi-ds2e",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Taze Sıkma Portakal Suyu",
+          "price": 210.0,
+          "description": "Taze portakal ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776613.jpg?width=128&height=128"
+        },
+        {
+          "name": "Buzlu Caffe Latte",
+          "price": 190.0,
+          "description": "Özel çekirdeklerle harmanlanan espresso, süt, ipeksi süt kreması ve buz ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776602.jpg?width=128&height=128"
+        },
+        {
+          "name": "Çikolatalı Kruvasan",
+          "price": 140.0,
+          "description": "Tereyağı ile hazırlanmış özel kruvasan hamuru içinde bitter çubuk çikolata ile hazılanmaktadır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776627.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Dilimli Kek",
+          "price": 140.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32052868.jpg?width=150&height=150"
+        },
+        {
+          "name": "İçi Dolgulu Bitter Çikolatalı Cookie",
+          "price": 150.0,
+          "description": "Bitter çikolata, tereyağı ve kırıntı çikolata ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776641.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Mocha",
+          "price": 225.0,
+          "description": "Soğuk espresso, buz, süt, çikolata sosundan elde edilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776604.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kampanyalar",
+      "products": [
+        {
+          "name": "Neşeli Menü Sandviç",
+          "price": 400.0,
+          "description": "Beyaz Peynirli Sandviç + Portakal Suyu + Popçik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72450352.jpg?width=150&height=150"
+        },
+        {
+          "name": "Neşeli Menü Kruvasan",
+          "price": 345.0,
+          "description": "Kruvasan + Portakal Suyu + Popçik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72450377.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yemeksepeti Özel Menü",
+      "products": [
+        {
+          "name": "Yemeksepeti Özel Sandviç Menü",
+          "price": 470.0,
+          "description": "Dana Jambonlu Baget Ekmek Sandviç + Ev Yapımı Limonata + Fındık Kremalı Top",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76624218.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yemeksepeti Özel Bagel Menü",
+          "price": 450.0,
+          "description": "3 Peynirli Bagel + Ev Yapımı Limonata + Fındık Kremalı Top",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76624219.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kahve Dünyası Sandviç Menü",
+          "price": 470.0,
+          "description": "Tavuk Sezar Baget Ekmek Sandviç + Ev Yapımı Limonata + Fındık Kremalı Top",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76624220.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Soğuk Salep",
+          "price": 205.0,
+          "description": "Kahve Dünyası salebi, Kahve Dünyası özel kaymaklı dondurması, süt, tarçın ve buz içerir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776590.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Americano",
+          "price": 190.0,
+          "description": "Espresso, su ve buz ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776600.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Caffe Latte",
+          "price": 190.0,
+          "description": "Özel çekirdeklerle harmanlanan espresso, süt, ipeksi süt kreması ve buz ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776602.jpg?width=150&height=150"
+        },
+        {
+          "name": "Buzlu Mocha",
+          "price": 225.0,
+          "description": "Soğuk espresso, buz, süt, çikolata sosundan elde edilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776604.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ev Yapımı Limonata",
+          "price": 195.0,
+          "description": "Taze limon, limon suyu, portakal suyu, portakal, şeker, su ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776611.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Sıkma Portakal Suyu",
+          "price": 210.0,
+          "description": "Taze portakal ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776613.jpg?width=150&height=150"
+        },
+        {
+          "name": "Premium Maden Suyu",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776615.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (33 cl.)",
+          "price": 25.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776616.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cold Brew",
+          "price": 195.0,
+          "description": "Özenle seçilmiş kahve çekirdekleri özel demleme yöntemi ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28666539.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Milkshake",
+          "price": 245.0,
+          "description": "Çilekli dondurma, süt, buz, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29142500.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Milkshake",
+          "price": 245.0,
+          "description": "Sütlü ve bitter çikolatalı dondurma, çikolata sos, süt, buz, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/29142508.jpg?width=150&height=150"
+        },
+        {
+          "name": "Muzlu Smoothie",
+          "price": 230.0,
+          "description": "Muz ve froyo içerir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/76895844.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Meyveli Smoothie",
+          "price": 230.0,
+          "description": "Karışık meyveli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32052932.jpg?width=150&height=150"
+        },
+        {
+          "name": "Nane Limon Smoothie",
+          "price": 230.0,
+          "description": "Nane, limon",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32052997.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Smoothie",
+          "price": 230.0,
+          "description": "Çilekli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32053003.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gofrik Buzlu Latte",
+          "price": 245.0,
+          "description": "Fıstıklı, buzlu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32053015.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso Freddo Buzlu Kahve",
+          "price": 190.0,
+          "description": "Buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32053674.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino Freddo Buzlu Kahve",
+          "price": 190.0,
+          "description": "Buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32053684.jpg?width=150&height=150"
+        },
+        {
+          "name": "Latte Freddo Buzlu Kahve",
+          "price": 190.0,
+          "description": "Buzlu kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32053699.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Beyaz Çikolata",
+          "price": 195.0,
+          "description": "Beyaz çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32053827.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahinli Badem Sütlü Buzlu Cafe Latte",
+          "price": 210.0,
+          "description": "Tahin, badem sütlü",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32053832.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonatalı Milkshake",
+          "price": 245.0,
+          "description": "Limonata, portakal suyu, limonlu dondurma, elma dilimi, nane",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42739882.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cacaonly Kakao Suyu (410 ml.)",
+          "price": 210.0,
+          "description": "Kakao meyvesinin tropik tadını keşfetmenin tam zamanı! İlave şekersiz, katkı maddesiz, kakao meyve özü ile hazırladığımız Cacaonly Kakao Suyu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69055585.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Kremalı Soğuk Buzlu Latte",
+          "price": 230.0,
+          "description": "Kahve Dünyası Fındık Kreması ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69055595.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cacaonly Çilekli Kakao Suyu",
+          "price": 230.0,
+          "description": "Cacaonly kakao suyu, taze çilek ve taze nane ile hazırlanmaktadır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72763968.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Espressolu Kahveler",
+      "products": [
+        {
+          "name": "Americano",
+          "price": 155.0,
+          "description": "Özel harman çekirdekleri ile hazırlanan espresso suyla yumuşatılarak hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776465.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 170.0,
+          "description": "Özel harman çekirdekleri ile hazırlanan espresso, süt, ipeksi süt kreması ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392439.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caffe Latte",
+          "price": 180.0,
+          "description": "Özel çekirdeklerle harmanlanan espresso, süt, ipeksi süt kreması ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538746.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mocha",
+          "price": 195.0,
+          "description": "Özel çekirdeklerle harmanlanan espresso, süt ve çikolata ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538757.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Çikolatalı Mocha",
+          "price": 195.0,
+          "description": "Özel çekirdeklerle harmanlanan espresso, süt ve fildişi çikolata ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538758.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gofrik Latte",
+          "price": 220.0,
+          "description": "Kahve Dünyası'na özgü orijinal fıstık püresi ile hazırlanmaktadır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538759.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tahinli Badem Sütlü Caffe Latte",
+          "price": 190.0,
+          "description": "Tahin, badem sütlü",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538761.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso Lungo",
+          "price": 145.0,
+          "description": "Özel harman çekirdekleri ile hazırlanan espresso",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538762.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Macchiato",
+          "price": 190.0,
+          "description": "Özel çekirdeklerle harmanlanan espresso, ipeksi süt kreması ve karamel ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Flat White",
+          "price": 180.0,
+          "description": "Özel harman çekirdekleri ile hazırlanan ristretto ve ipeksi süt kreması ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65538780.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Espresso (Küçük)",
+          "price": 130.0,
+          "description": "Özel harman çekirdekleri ile hazırlanan espresso",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776503.jpg?width=150&height=150"
+        },
+        {
+          "name": "Double Espresso Macchiato (Küçük)",
+          "price": 145.0,
+          "description": "Özel çekirdeklerle harmanlanan espresso, ipeksi süt kreması ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776510.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Kremalı Latte",
+          "price": 205.0,
+          "description": "Kahve Dünyası fındık kreması ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/wjej/product/69151819-parent/32896ea9-202d-4f50-8bef-48e267e7671b.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Filtre Kahveler",
+      "products": [
+        {
+          "name": "Filtre Kahve",
+          "price": 140.0,
+          "description": "Özel harman çekirdekler ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392490.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Filtre Kahve",
+          "price": 145.0,
+          "description": "Özel harman çekirdekler ve süt ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776520.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Aromalı Filtre Kahve",
+          "price": 150.0,
+          "description": "Özel harman çekirdekler ve fındık aroması ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392492.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamel Aromalı Filtre Kahve",
+          "price": 150.0,
+          "description": "Özel harman çekirdekler ve karamel aroması ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392493.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vanilya Aromalı Filtre Kahve",
+          "price": 150.0,
+          "description": "Özel harman çekirdekler ve vanilya aroması ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392494.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve (Litrelik)",
+          "price": 460.0,
+          "description": "Litrelik ambalajında servis edilir. Ambalaj içerisinde 6 adet bardak ve peçete mevcuttur",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776536.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Türk Kahveleri",
+      "products": [
+        {
+          "name": "Double Türk Kahvesi",
+          "price": 155.0,
+          "description": "Double Türk kahvesi, su ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776538.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakızlı Double Türk Kahvesi",
+          "price": 160.0,
+          "description": "Damla sakızlı double Türk kahvesi, su ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776540.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Double Türk Kahvesi",
+          "price": 165.0,
+          "description": "Double Türk kahvesi, süt, su ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğuk Türk Kahvesi",
+          "price": 200.0,
+          "description": "Soğuk Türk kahvesi, kaşık çikolata, soğuk süt, çikolatalı sos, buz ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776543.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yöresel Kahveler",
+      "products": [
+        {
+          "name": "Kolombiya",
+          "price": 155.0,
+          "description": "Ağır kıvamlı tada ve yoğun ceviz aromasına sahip Kolombiya yöresel kahvesi ile hazırlanır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kosta Rika",
+          "price": 155.0,
+          "description": "Kosta Rika'nın orta derecede kıvamlı, fındığımsı, çiçeksi ve baharatımsı tatları içeren düşük asiditeye sahip kahvesi ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392513.jpg?width=150&height=150"
+        },
+        {
+          "name": "Guatemala",
+          "price": 155.0,
+          "description": "Bol asitli, tropikal meyve tatlarını içeren orta kıvamlı ve yumuşak içimli, kendine özgü isli koku ve baharatlı tada sahip kahve ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392514.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kenya",
+          "price": 155.0,
+          "description": "Orta kıvamlı, üzümsü ve böğürtlenimsi tatlara sahip Kenya yöresel kahvesi ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776547.jpg?width=150&height=150"
+        },
+        {
+          "name": "Santos",
+          "price": 155.0,
+          "description": "Brezilya'nın düşük asidite ve fındığımsı tattaki yoğun aromalı yüksek kalite kahvesi ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/59392516.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antigua",
+          "price": 155.0,
+          "description": "Bitter çikolata ve topraksı, çiçeksi lezzetleri karamel tatlılığı barındıran düşük asidite ve yoğun aromaya sahip kahve ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776549.jpg?width=150&height=150"
+        },
+        {
+          "name": "El Salvador",
+          "price": 155.0,
+          "description": "Santa Ana Volcano'da yetişen, yüksek kaliteli, bal tatlılığı ve hafif baharat notaları içeren yüksek kıvamlı kahvesi ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776550.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etiyopya",
+          "price": 155.0,
+          "description": "Oromia bölgesinde yetişen, cesur meyve notaları, şeker kamışı tatlığı, çiçeksi, yüksek gövdeli, uzun bitişli, nitelikli tür kahvesi ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776551.jpg?width=150&height=150"
+        },
+        {
+          "name": "Papua Yeni Gine",
+          "price": 155.0,
+          "description": "Çıtırtılı ve kompleks bir asiditeye sahip, her bir yudumda tropikal meyveli zengin lezzet tonları sunar. Damakta uzun süre yer eden dengeli, orta kıvamlı bir içim sunar.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69689016.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Özel Serisi Soğuk Kahveler",
+      "products": [
+        {
+          "name": "Özel Seri Soğuk Caffe Latte Fındıklı",
+          "price": 25.0,
+          "description": "15 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996465.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özel Seri Soğuk Caffe Latte Karamelli",
+          "price": 25.0,
+          "description": "15 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996469.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özel Seri Soğuk Caffe Latte Muzlu",
+          "price": 25.0,
+          "description": "15 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özel Seri Soğuk Caffe Latte Vanilyalı",
+          "price": 25.0,
+          "description": "15 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996474.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özel Seri Soğuk Caffe Latte Şeker İlavesiz",
+          "price": 25.0,
+          "description": "10 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996478.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Özel Serisi Sıcak Kahveler",
+      "products": [
+        {
+          "name": "Özel Seri Caffe Latte",
+          "price": 25.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996491.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özel Seri Cappuccino",
+          "price": 25.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996492.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özel Seri Karamelli Caffe Latte",
+          "price": 25.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996495.jpg?width=150&height=150"
+        },
+        {
+          "name": "Özel Seri Vanilyalı Caffe Latte",
+          "price": 25.0,
+          "description": "Paketli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996508.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Tavuk Sezar Susamlı Ekmek Sandviç",
+          "price": 240.0,
+          "description": "Baget ekmeği, toz parmesan peyniri, Sezar salata, domates, kıvırcık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69151820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Sezar Pur Pur Ekmekli Sandviç",
+          "price": 240.0,
+          "description": "Baget ekmeği, toz parmesan peyniri, Sezar salata, domates, kıvırcık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Sezar Baget Ekmek Sandviç",
+          "price": 240.0,
+          "description": "Baget ekmeği, toz parmesan peyniri, Sezar salata, domates, kıvırcık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65642890.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Baget Ekmek Sandviç",
+          "price": 250.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, ton balığı harcı, marul, salatalık turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151823.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Susamlı Ekmek Sandviç",
+          "price": 250.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, ton balığı harcı, marul, salatalık turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65642918.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Pur Pur Ekmekli Sandviç",
+          "price": 250.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, ton balığı harcı, marul, salatalık turşusu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151825.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Peynirli Baget Ekmek Sandviç",
+          "price": 250.0,
+          "description": "Çıtır baget ekmeği, mozzarella peyniri, krem peynir, fesleğen sos, marul, nar ekşisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65643159.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Peynirli Susamlı Ekmek Sandviç",
+          "price": 250.0,
+          "description": "Çıtır baget ekmeği, mozzarella peyniri, krem peynir, fesleğen sos, marul, nar ekşisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151827.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Peynirli Pur Pur Ekmekli Sandviç",
+          "price": 250.0,
+          "description": "Çıtır baget ekmeği, mozzarella peyniri, krem peynir, fesleğen sos, marul, nar ekşisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151828.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hindi Fümeli Baget Ekmek Sandviç",
+          "price": 230.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, avokado sos, mayonez, hindi füme, kaşar peyniri, cherry domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151829.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hindi Fümeli Susamlı Ekmek Sandviç",
+          "price": 230.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, avokado sos, mayonez, hindi füme, kaşar peyniri, cherry domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65643284.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hindi Fümeli Pur Pur Ekmekli Sandviç",
+          "price": 230.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, avokado sos, mayonez, hindi füme, kaşar peyniri, cherry domates, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151831.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Jambonlu Baget Ekmek Sandviç",
+          "price": 240.0,
+          "description": "Çıtır baget ekmeği, dana jambon, kaşar peyniri, Amerikan salatası, turşu, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65643305.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Jambonlu Susamlı Ekmek Sandviç",
+          "price": 240.0,
+          "description": "Çıtır baget ekmeği, dana jambon, kaşar peyniri, Amerikan salatası, turşu, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151833.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Jambonlu Pur Pur Ekmekli Sandviç",
+          "price": 240.0,
+          "description": "Çıtır baget ekmeği, dana jambon, kaşar peyniri, Amerikan salatası, turşu, marul",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151834.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Peynirli Baget Ekmek Sandviç",
+          "price": 210.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, zeytin ezmesi, koyun peyniri, cherry domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151835.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Peynirli Susamlı Ekmek Sandviç",
+          "price": 210.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, zeytin ezmesi, koyun peyniri, cherry domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65643346.jpg?width=150&height=150"
+        },
+        {
+          "name": "Beyaz Peynirli Pur Pur Ekmekli Sandviç",
+          "price": 210.0,
+          "description": "Susam, keten tohumu ve mavi haşhaş ile kaplı ekmek, zeytin ezmesi, koyun peyniri, cherry domates, salatalık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69151837.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Unlu Mamuller",
+      "products": [
+        {
+          "name": "Kruvasan",
+          "price": 130.0,
+          "description": "Tereyağı ile hazırlanmış özel kruvasan hamuru ile üretilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776626.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Kruvasan",
+          "price": 140.0,
+          "description": "Tereyağı ile hazırlanmış özel kruvasan hamuru içinde bitter çubuk çikolata ile hazılanmaktadır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776627.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Kruvasan",
+          "price": 155.0,
+          "description": "Tereyağı ile hazırlanmış özel kruvasan hamuru içinde taze kaşar peyniri ile hazırlanmaktadır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776628.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patatesli Börekitas (2 Adet)",
+          "price": 90.0,
+          "description": "Özel börekitas hamuru, beyaz peynir ve patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776633.jpg?width=150&height=150"
+        },
+        {
+          "name": "Közlenmiş Patlıcanlı Börekitas (2 Adet)",
+          "price": 90.0,
+          "description": "Özel börekitas hamuru, beyaz peynir ve közlenmiş patlıcan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776634.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Börekitas (2 Adet)",
+          "price": 90.0,
+          "description": "Özel börekitas hamuru, patates ve patlıcan",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776635.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Dilimli Kek",
+          "price": 140.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32052868.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Dilim Kek",
+          "price": 140.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32052895.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Dilim Kek",
+          "price": 140.0,
+          "description": "Limonlu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35116154.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Fit Ürünler",
+      "products": [
+        {
+          "name": "Granobar",
+          "price": 120.0,
+          "description": "1 adet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32052513.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındıklı & Muzlu Poriç",
+          "price": 195.0,
+          "description": "Süt, yulaf ezmesi, fındık kreması, muz ve fındık parçaları. (Hazırlanma süresi 5 dakikadır.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776668.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şeker İlavesiz Meyveli Yoğurtlu Müsli",
+          "price": 190.0,
+          "description": "Buğday ezmesi, kuru meyve parçaları, mısır gevreği, çilek, muz ve laktozsuz yoğurt. (Hazırlanma süresi 5 dakikadır.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776672.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındıklı Ham",
+          "price": 105.0,
+          "description": "Hurma püresi, şeker ilavesiz beyaz çikolata, öğütülmüş badem, kavrulmuş fındık (%18), fındık ezmesi (%6), inülin, kakao, yulaf ezmesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35661292.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Ham",
+          "price": 115.0,
+          "description": "Hurma püresi, Antep fıstığı ezmesi (%22), şeker ilavesiz bitter çikolata, öğütülmüş badem, yulaf, inülin, kakao, Hindistan cevizi yağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/35661462.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "İçi Dolgulu Bitter Çikolatalı Cookie",
+          "price": 150.0,
+          "description": "Bitter çikolata, tereyağı ve kırıntı çikolata ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776641.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol",
+          "price": 205.0,
+          "description": "Sütlü krema ile doldurulmuş profiterol topları üzerinde Kahve Dünyası çikolata sosu ve krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kahve Dünyası Pastası",
+          "price": 185.0,
+          "description": "Susamlı bademli kıtır kurabiye üzerinde kahve çekirdekleriyle tatlandırılan bitter, sütlü ve beyaz çikolata katları ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776645.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elmalı Tarçınlı Ballı Kek (Dilim)",
+          "price": 185.0,
+          "description": "Ballı kek, damla çikolata, tereyağı, esmer şeker, tarçın ve elma dilimleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776646.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Cheesecake (Dilim)",
+          "price": 230.0,
+          "description": "Tereyağı ve ceviz ile hazırlanmış bisküvi tabanı, cheesecake peyniri, taze frambuaz ile yapılmış sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776647.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Cheesecake (Dilim)",
+          "price": 230.0,
+          "description": "Tereyağı ve ceviz ile hazırlanmış bisküvi tabanı, cheesecake peyniri, limon ile yapılmış sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776648.jpg?width=150&height=150"
+        },
+        {
+          "name": "Havuçlu Kek (Dilim)",
+          "price": 185.0,
+          "description": "Kepekli un, üzüm, havuç, tereyağı, esmer şeker ile hazırlanan kek. Pişirildikten sonra saf kepek ile kaplanarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776650.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozaik Pasta (Dilim)",
+          "price": 230.0,
+          "description": "Çikolata, bisküvi parçaları, çikolata sos, badem taneleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776651.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüf Çikolatalı Pasta (Dilim)",
+          "price": 230.0,
+          "description": "Kakaolu kek üzerinde bitter trüf çikolata, çikolata sos, bitter çakıl çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776652.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamelli Çikolatalı Pasta (Dilim)",
+          "price": 220.0,
+          "description": "Kakaolu ve vanilyalı pandispanya arasında çikolatalı sos, karamelli krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776653.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Kremalı Top",
+          "price": 80.0,
+          "description": "Tarçın ve vanilya kokulu hamurun içine %50 fındık kreması ile hazırlanmaktadır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776654.jpg?width=150&height=150"
+        },
+        {
+          "name": "Popcorn Karamelli Yer Fıstıklı",
+          "price": 106.0,
+          "description": "Karamelli Yer Fıstıklı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69059963.jpg?width=150&height=150"
+        },
+        {
+          "name": "Popcorn Çikolata Kaplı",
+          "price": 106.0,
+          "description": "Çikolata Kaplı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69059970.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Fıstıklı Cheesecake",
+          "price": 265.0,
+          "description": "Antep fıstıklı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69988895.jpg?width=150&height=150"
+        },
+        {
+          "name": "Glutensiz Orman Meyveli Vanilyalı Kap",
+          "price": 190.0,
+          "description": "Ürün şeker ilavesiz olup içerisinde vanilyalı ve mascarpone peynirli krema, glütensiz kek ile orman meyveli sos bulunmaktadır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75624771.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kestaneli Cheesecake (Dilim)",
+          "price": 230.0,
+          "description": "Tereyağı ve ceviz ile hazırlanmış bisküvi tabanı, cheesecake peyniri, çikolata ve kestane şekeri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69059790.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Dondurmalar",
+      "products": [
+        {
+          "name": "Tahinli Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "%20 oranında tahin içeren tahinli dondurma",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/wjej/product/1a5dfe7c-a45d-4b93-bfdd-2e25100aa524.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hurmalı Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Rafine şeker ilavesiz hurmalı dondurma",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/wjej/product/4f704ae5-8638-486d-b0f4-6a8961e6c84e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fıstıklı Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "%9 Antep fıstığı, %78 süt",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776699.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kahveli Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Espresso ile demlenen sütle üretilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776700.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vanilyalı Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "İnek sütü, keçi sütü, şeker, süt kreması, salep ve vanilya çubuğunun tohumları kullanılarak üretilir. Aromasını ve lezzetini vanilya çubuğu tohumlarından alır. Herhangi bir şekilde vanilya aroması kullanılmaz. Vanilya çubuğunun içi açılarak tohumları çıkartılır. Dondurma miksine ilave edilerek üretilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776703.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bitter Çikolatalı Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "%70'lik çikolata ile üretilen bitter dondurma içerisine kırıntı beyaz çikolata, sütlü çikolata ve bitter çikolata parçaları",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776704.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaymaklı Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Keçi sütü, inek sütü, krema, şeker ve salep ürünlerinden üretilmiş olan dondurma. Katkı maddesi içermez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776705.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Çikolatalı Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Sütlü çikolata ile üretilmiştir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28665961.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakızlı Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Keçi sütü, inek sütü, krema, şeker ve salep ürünlerinden üretilmiş olan dondurma. Katkı maddesi içermez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28666007.jpg?width=150&height=150"
+        },
+        {
+          "name": "Froyo Dondurma (500 gr.)",
+          "price": 520.0,
+          "description": "Günlük olarak light süt ve laktozsuz yoğurt ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/38631634.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Gerçek limon ile hazırlanmış olan bir üründür. Rengini ve tadını limonun kendisinden alır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/48263069.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Vişne suyu ve gerçek vişne ile üretilmektedir. Rengini ve tadını vişne meyvesinin kendisinden alır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/48263237.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Gerçek çilek kullanılarak üretilmektedir. Katkı maddesi içermez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/48263250.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dondurma (500 gr.)",
+          "price": 660.0,
+          "description": "Seçeceğiniz çeşitler ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69151841.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Bütün Pastalar (Dondurulmuş)",
+      "products": [
+        {
+          "name": "Karamelli Çikolatalı Pasta (Orta Boy)",
+          "price": 1.265,
+          "description": "(8 dilim) Kakaolu ve vanilyalı pandispanya arasında çikolatalı sos, karamelli krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776677.jpg?width=150&height=150"
+        },
+        {
+          "name": "Elmalı Tarçınlı Ballı Kek (Büyük Boy) (Bütün)",
+          "price": 1.265,
+          "description": "(8 dilim) Ballı kek, damla çikolata, tereyağı, esmer şeker, elma dilimleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28973916.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüf Çikolatalı Pasta (Büyük Boy) (Bütün)",
+          "price": 2.29,
+          "description": "(16 dilim) Kakaolu kek üzerinde bitter trüf çikolata, çikolata sos, bitter çakıl çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776682.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozaik Pasta (Büyük Boy) (Bütün)",
+          "price": 1.69,
+          "description": "(16 dilim) Çikolata, bisküvi parçaları, çikolata sos, badem taneleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776683.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Cheesecake (Büyük Boy) (Bütün)",
+          "price": 1.715,
+          "description": "(12 dilim) Tereyağı ve ceviz ile hazırlanmış bisküvi tabanı, cheesecake peyniri, taze frambuaz ile yapılmış sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776684.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Cheesecake (Büyük Boy) (Bütün)",
+          "price": 1.715,
+          "description": "(12 dilim) Tereyağı ve ceviz ile hazırlanmış bisküvi tabanı, cheesecake peyniri, limon ile yapılmış sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776685.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Drajeler",
+      "products": [
+        {
+          "name": "Badem Sütlü Draje (120 gr.)",
+          "price": 222.0,
+          "description": "Badem tanelerinin sütlü çikolata ile kaplanması sonucu elde edilen lezzet.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53854694.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Fındıklı Draje (120 gr.)",
+          "price": 228.0,
+          "description": "Fındık tanelerinin sütlü çikolata ile kaplanması sonucu elde edilen lezzet.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53855906.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bitter Portakal Draje (120 gr.)",
+          "price": 210.0,
+          "description": "Kahve Dünyası çikolatasıyla kaplı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53858131.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mix Kahveli Draje (120 gr.)",
+          "price": 210.0,
+          "description": "Kahve Dünyası çikolatasıyla kaplı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53858220.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antep Fıstıklı Sütlü Çikolatalı Draje (120 gr.)",
+          "price": 246.0,
+          "description": "Fıstık tanelerinin sütlü çikolata ile kaplanması sonucu elde edilen lezzet",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53858329.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Donuk Kruvasan Çeşitleri",
+      "products": [
+        {
+          "name": "Dondurulmuş Çikolatalı Kruvasan (5 Adet)",
+          "price": 540.0,
+          "description": "Tereyağı ile hazırlanmış özel kruvasan hamuru içinde bitter çubuk çikolata ile hazılanmaktadır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Donuk Ekmekler & Poğaçalar",
+      "products": [
+        {
+          "name": "Dondurulmuş Susamlı Ekmek (5 Adet)",
+          "price": 324.0,
+          "description": "Haşhaş ve keten tohumu ile hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776689.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak Çikolatalar & Salepler",
+      "products": [
+        {
+          "name": "Sıcak Çikolata",
+          "price": 190.0,
+          "description": "Kuvertür çikolata sıcak süt ile eritilerek hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65539529.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kahveli Sıcak Çikolata",
+          "price": 205.0,
+          "description": "Espresso, kuvertür çikolata, sıcak süt, krema ile hazırlanır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65539557.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salep",
+          "price": 185.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65539733.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salepli Kahve",
+          "price": 195.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65539738.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çokoliko Vitaminli Sıcak Çikolata",
+          "price": 155.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/65539748.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Paket Kahveler",
+      "products": [
+        {
+          "name": "Espresso Çekirdek (250 gr.)",
+          "price": 367.0,
+          "description": "Özel harman çekirdekler ile hazırlanan espresso",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/wjej/product/0f9ef984-7053-40e4-9e13-d9bc7765765a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salep (400 gr.)",
+          "price": 275.0,
+          "description": "Teneke kutu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776463.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve (250 gr.)",
+          "price": 325.0,
+          "description": "(Kilitli Paket) Özel harman çekirdekler ile hazırlanmış filtre kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776714.jpg?width=150&height=150"
+        },
+        {
+          "name": "Filtre Kahve (1 kg.)",
+          "price": 1.25,
+          "description": "Özel harman çekirdekler ile hazırlanmış filtre kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776715.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çok Kavrulmuş Türk Kahvesi (100 gr.)",
+          "price": 119.0,
+          "description": "Acı, baharatımsı, odunumsu ve toprağımsı aroması, kendine has tadı, köpüğü ve kokusuyla çok kavrulmuş Türk kahvesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776723.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çok Kavrulmuş Türk Kahvesi (250 gr.) (Teneke Kutu)",
+          "price": 325.0,
+          "description": "Acı, baharatımsı, odunumsu ve toprağımsı aroması, kendine has tadı, köpüğü ve kokusuyla çok kavrulmuş Türk kahvesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776724.jpg?width=150&height=150"
+        },
+        {
+          "name": "Orta Kavrulmuş Türk Kahvesi (100 gr.)",
+          "price": 119.0,
+          "description": "Baharatımsı, odunumsu, meyvemsi ve tütünümsü aroması, kendine has tadı, köpüğü ve kokusuyla orta kavrulmuş Türk kahvesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776725.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakız Aromalı Türk Kahvesi (100 gr.) (Paketli)",
+          "price": 125.0,
+          "description": "Brezilya'nın Rio Minas bölgesinin arabica çekirdeği, damla sakızı ile aromalandırılır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776730.jpg?width=150&height=150"
+        },
+        {
+          "name": "Damla Sakız Aromalı Türk Kahvesi (250 gr.) (Teneke Kutu)",
+          "price": 363.0,
+          "description": "Brezilya'nın Rio Minas bölgesinin arabica çekirdeği, damla sakızı ile aromalandırılır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776732.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Aromalı Filtre Kahve (250 gr.)",
+          "price": 356.0,
+          "description": "Özel harman çekirdekler ile hazırlanmış fındık aromalı filtre kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30820334.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karamel Aromalı Filtre Kahve (250 gr.)",
+          "price": 356.0,
+          "description": "Özel harman çekirdekler ile hazırlanmış karamel aromalı filtre kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30820337.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vanilya Aromalı Filtre Kahve (250 gr.)",
+          "price": 356.0,
+          "description": "Özel harman çekirdekler ile hazırlanmış vanilya aromalı filtre kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30820339.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kolombiya Yöresel Filtre Kahve (200 gr.)",
+          "price": 375.0,
+          "description": "Ağır kıvamlı tada ve yoğun ceviz aromasına sahip Kolombiya yöresel kahvesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830425.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kosta Rika Yöresel Filtre Kahve (200 gr.)",
+          "price": 313.0,
+          "description": "Kosta Rika'nın orta derecede kıvamlı, fındığımsı, çiçeksi ve baharatımsı tatları içeren düşük asiditeye sahip kahvesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830439.jpg?width=150&height=150"
+        },
+        {
+          "name": "Guatemala Yöresel Filtre Kahve (200 gr.)",
+          "price": 388.0,
+          "description": "Bol asitli, tropikal meyve tatlarını içeren orta kıvamlı ve yumuşak içimli, kendine özgü isli koku ve baharatlı tada sahip kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830473.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kenya Yöresel Filtre Kahve (200 gr.)",
+          "price": 338.0,
+          "description": "Orta kıvamlı, üzümsü ve böğürtlenimsi tatlara sahip Kenya yöresel kahvesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830529.jpg?width=150&height=150"
+        },
+        {
+          "name": "Santos Yöresel Filtre Kahve (200 gr.)",
+          "price": 338.0,
+          "description": "Brezilya'nın düşük asidite ve fındığımsı tattaki yoğun aromalı yüksek kalite kahvesi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830534.jpg?width=150&height=150"
+        },
+        {
+          "name": "El Salvador Yöresel Filtre Kahve (200 gr.)",
+          "price": 338.0,
+          "description": "Santa Ana Volcano'da yetişen, bal tatlılığı ve hafif baharat notalarını hissettiren yöresel kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Antigua Yöresel Filtre Kahve (200 gr.)",
+          "price": 375.0,
+          "description": "Bitter çikolata ve karamel tatlılığı ile narenciye notalarını barındıran Antigua bölgesinin yüksek rakımlı ve bereketli topraklarında yetişen kahveler",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830553.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etiyopya Yöresel Filtre Kahve (200 gr.)",
+          "price": 375.0,
+          "description": "Bölgesi Afrika, Oromia bölgesinde yetişen, büyük cesur meyve notaları, şeker kamışı tatlığı, çiçeksi, düşük asiditeye sahip, yüksek gövdeli, yüksek kıvamlı uzun bitişli nitelikli tür kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/30830717.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çikolatalı Türk Kahvesi (100 gr.)",
+          "price": 125.0,
+          "description": "Çikolatalı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/32172292.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Çekilmiş Türk Kahvesi Çok Kavrulmuş (250 gr.)",
+          "price": 275.0,
+          "description": "250 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/48562551.jpg?width=150&height=150"
+        },
+        {
+          "name": "Taze Çekilmiş Türk Kahvesi Orta Kavrulmuş (250 gr.)",
+          "price": 275.0,
+          "description": "250 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/48562569.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso Çekirdek (1 kg.)",
+          "price": 1.469,
+          "description": "Kavrulmuş kahve çekirdeği, harman",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69057184.jpg?width=150&height=150"
+        },
+        {
+          "name": "Papua Yeni Gine Yöresel Filtre Kahve (200 gr.)",
+          "price": 338.0,
+          "description": "Çıtırtılı ve kompleks bir asiditeye sahip, her bir yudumda tropikal meyveli zengin lezzet tonları sunar. Damakta uzun süre yer eden dengeli, orta kıvamlı bir içim sunar.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69689055.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Paket Çikolatalar",
+      "products": [
+        {
+          "name": "Gofrik Bitter",
+          "price": 59.0,
+          "description": "Bol fıstık ve fıstık ezmeli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776753.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gofrik Sütlü",
+          "price": 59.0,
+          "description": "Bol fıstık ve fıstık ezmeli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776754.jpg?width=150&height=150"
+        },
+        {
+          "name": "Popçik (40 gr.)",
+          "price": 81.0,
+          "description": "%40 sütlü çikolata, %33 çilek aromalı beyaz çikolata, %22 patlayan şeker, %5 buğday patlağı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776756.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Çikolatalı Fındıklı Tablet Çikolata (150 gr.)",
+          "price": 281.0,
+          "description": "Taze bütün fındıkların Kahve Dünyası'nın sütlü çikolatası ile bir araya geldiği el yapımı tablet çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776761.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bitter Çikolatalı Fındıklı Tablet Çikolata (150 gr.)",
+          "price": 281.0,
+          "description": "Taze bütün fındıkların Kahve Dünyası'nın bitter çikolatası ile bir araya geldiği el yapımı tablet çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776762.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fildişi Çikolatalı Fındıklı Portakallı Tablet Çikolata (150 gr.)",
+          "price": 281.0,
+          "description": "Taze bütün fındıkların Kahve Dünyası'nın beyaz çikolatası ve kurutulmuş portakal dilimleri ve üzümle bir araya geldiği el yapımı tablet çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776763.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Çikolatalı Fındıklı Portakallı Tablet Çikolata (150 gr.)",
+          "price": 281.0,
+          "description": "Taze bütün fındıkların Kahve Dünyası'nın sütlü çikolatası ve kurutulmuş portakal dilimleri ile bir araya geldiği el yapımı tablet çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776764.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bitter Çikolatalı Fındıklı Portakallı Tablet Çikolata (150 gr.)",
+          "price": 281.0,
+          "description": "Taze bütün fındıkların Kahve Dünyası'nın bitter çikolatası ve kurutulmuş portakal dilimleri ile bir araya geldiği el yapımı tablet çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776765.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gana Fildişi Sahili %52 Bitter Orijin Çikolata",
+          "price": 231.0,
+          "description": "(Şeker ilavesiz) Orijin / menşei kakao çekirdekleri kullanılarak üretilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776768.jpg?width=150&height=150"
+        },
+        {
+          "name": "Venezuela %80 Bitter Orijin Çikolata",
+          "price": 231.0,
+          "description": "Orijin / menşei kakao çekirdekleri kullanılarak üretilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776769.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kolombiya %70 Bitter Orijin Çikolata",
+          "price": 231.0,
+          "description": "Orijin / menşei kakao çekirdekleri kullanılarak üretilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776770.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekvador %75 Bitter Orijin Çikolata",
+          "price": 231.0,
+          "description": "Orijin / menşei kakao çekirdekleri kullanılarak üretilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776771.jpg?width=150&height=150"
+        },
+        {
+          "name": "Madagaskar %65 Bitter Orijin Çikolata",
+          "price": 231.0,
+          "description": "Orijin / menşei kakao çekirdekleri kullanılarak üretilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776772.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tanzanya %75 Bitter Orijin Çikolata",
+          "price": 231.0,
+          "description": "Orijin / menşei kakao çekirdekleri kullanılarak üretilir",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776773.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gofrik Bitter Kutu (24 Adet)",
+          "price": 1.248,
+          "description": "Bol fıstık ve fıstık ezmeli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776774.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gofrik Sütlü Kutu (24 Adet)",
+          "price": 1.248,
+          "description": "Bol fıstık ve fıstık ezmeli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776775.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonte Bitter (200 gr.)",
+          "price": 252.0,
+          "description": "İçi çıtır, dışı sütlü çikolata kaplı Kahve Dünyası bonte",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776786.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonte Bitter (400 gr.)",
+          "price": 480.0,
+          "description": "İçi çıtır, dışı sütlü çikolata kaplı Kahve Dünyası bonte",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776787.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonte Sütlü Portakallı (400 gr.)",
+          "price": 480.0,
+          "description": "İçi çıtır, dışı sütlü çikolata kaplı Kahve Dünyası bonte",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776789.jpg?width=150&height=150"
+        },
+        {
+          "name": "Para Çikolata Sütlü (500 gr.)",
+          "price": 781.0,
+          "description": "34,1 gr. yağ, 20,2 gr. doymuş yağ, 49 gr. karbonhidrat, 49,3 gr. şeker, 1,7 gr. lif, 9,5 gr. protein, 0,44 gr. tuz (555 Kcal.) (Değerler 100 gr. içindir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776818.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bitter Kaşık Çikolata (6'lı Kutu)",
+          "price": 92.0,
+          "description": "Özgün tasarımlı, kaşık şeklinde çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776819.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Kaşık Çikolata (6'lı Kutu)",
+          "price": 92.0,
+          "description": "Özgün tasarımlı, kaşık şeklinde çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776820.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Kuvertür Çikolata (1 kg.)",
+          "price": 1.375,
+          "description": "Kakao oranı minimum %34'tür.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776821.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bitter Kuvertür Çikolata (1 kg.)",
+          "price": 1.625,
+          "description": "Kakao oranı minimum %56'dır.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776822.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fildişi Kuvertür Çikolata (1 kg.)",
+          "price": 1.45,
+          "description": "Ev yapımı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776823.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fındık Kreması (380 gr.) (Cam Kavanoz)",
+          "price": 356.0,
+          "description": "Yarısı taze ve çifte kavrulmuş fındıklardan oluşur. Kalan yarısı da şeker pancarından elde edilen şeker ve süt tozu ile tamamlanır",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/wjej/product/36779815/549319ba-663f-48ea-857e-8a89b59bc71e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frutibon Yaban Mersini (100 gr.)",
+          "price": 213.0,
+          "description": "100 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44644457.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frutibon Çilekli (100 gr.)",
+          "price": 238.0,
+          "description": "100 gr.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44644475.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gimov",
+          "price": 113.0,
+          "description": "Çikolata kaplı Marshmallow",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70205036.jpg?width=150&height=150"
+        },
+        {
+          "name": "Roche Sütlü & Bitter Çikolata (250 gr.)",
+          "price": 656.0,
+          "description": "Antep fıstığı, Kahve Dünyası'nın sütlü ve bitter çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776800.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lokum Bitter (250 gr.)",
+          "price": 512.0,
+          "description": "Lokum, bitter çikolata ve çifte kavrulmuş fıstık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lokum Bitter (500 gr.)",
+          "price": 939.0,
+          "description": "Lokum, bitter çikolata ve çifte kavrulmuş fıstık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776793.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lokum Sütlü (250 gr.)",
+          "price": 512.0,
+          "description": "Lokum, sütlü çikolata ve çifte kavrulmuş fıstık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776794.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lokum Sütlü (500 gr.)",
+          "price": 939.0,
+          "description": "Lokum, sütlü çikolata ve çifte kavrulmuş fıstık",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776795.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavi Karışık Kutu (500 gr.)",
+          "price": 702.0,
+          "description": "İçindeki yumuşak çikolata dolgulu, sütlü, bitter, karamelli, fındıklı, frambuazlı, kahveli ve Antep fıstıklı",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776799.jpg?width=150&height=150"
+        },
+        {
+          "name": "Roche Sütlü & Bitter Çikolata (700 gr.)",
+          "price": 1.838,
+          "description": "Antep fıstığı, Kahve Dünyası'nın sütlü ve bitter çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776802.jpg?width=150&height=150"
+        },
+        {
+          "name": "Madlen Çikolata (Küçük Boy)",
+          "price": 856.0,
+          "description": "Sütlü ve bitter",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776803.jpg?width=150&height=150"
+        },
+        {
+          "name": "Madlen Çikolata (Orta Boy)",
+          "price": 1.119,
+          "description": "Sütlü ve bitter",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776804.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bitter Çikolata Kaplı Badem Ezmesi (225 gr.)",
+          "price": 549.0,
+          "description": "Geleneksel badem ezmesi gerçek bitter çikolata ile kaplanarak hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776814.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Çikolata Kaplı Badem Ezmesi (225 gr.)",
+          "price": 549.0,
+          "description": "Geleneksel badem ezmesi gerçek sütlü çikolata ile kaplanarak hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776815.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spesiyal Çikolata (Orta Boy) (258 gr.)",
+          "price": 720.0,
+          "description": "38 gr. yağ, 22,8 gr. doymuş yağ, 49,2 gr. karbonhidrat, 44,3 gr. şeker, 2,8 gr. 0.3 tuz, lif, 7,7 gr. protein (575 Kcal.) (Değerler 100 gr. içindir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37604194.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spesiyal Çikolata (Büyük Boy) (407 gr.)",
+          "price": 1.02,
+          "description": "38 gr. yağ, 22,8 gr. doymuş yağ, 49,2 gr. karbonhidrat, 44,3 gr. şeker, 2,8 gr. 0.3 tuz, lif, 7,7 gr. protein (575 Kcal.) (Değerler 100 gr. içindir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37604401.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüf Çikolata (Orta Boy) (266 gr.)",
+          "price": 720.0,
+          "description": "38 gr. yağ, 22,8 gr. doymuş yağ, 49,2 gr. karbonhidrat, 44,3 gr. şeker, 2,8 gr. 0.3 tuz, lif, 7,7 gr. protein (575 Kcal.) (Değerler 100 gr. içindir.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/37604409.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüf Çikolata (Büyük Boy) (418 gr.)",
+          "price": 1.025,
+          "description": "38 gr. yağ, 22,8 gr. doymuş yağ, 49,2 gr. karbonhidrat, 44,3 gr. şeker, 2,8 gr. 0.3 tuz, lif, 7,7 gr. protein (575 Kcal.) (Değerler 100 gr. içindir.)",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/wjej/product/45501989/86180a17-b60d-4652-aab3-9afc883ae7bf.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spesiyal Küçük Kutu (127 gr.)",
+          "price": 372.0,
+          "description": "Çikolata aşkıyla üretilmiş ve en kaliteli kakao tanelerinden elde edilmiş çikolatalar size üstün lezzet deneyimi sunuyor. Taze çesnili, portakallı, kahveli, karamelli iç dolguları ile sütlü ve bitter kaplı spesiyal çikolatalarımız.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996534.jpg?width=150&height=150"
+        },
+        {
+          "name": "Spesiyal Jumbo Kutu (610 gr.)",
+          "price": 1.44,
+          "description": "Çikolata aşkıyla üretilmiş ve en kaliteli kakao tanelerinden elde edilmiş çikolatalar size üstün lezzet deneyimi sunuyor. Taze çesnili, portakallı, kahveli, karamelli iç dolguları ile sütlü ve bitter kaplı spesiyal çikolatalarımız.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996542.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüf Küçük Kutu (110 gr.)",
+          "price": 366.0,
+          "description": "Kolombiya menşeili %70 bitter ve yoğun kakao kaplı portakallı trüf çikolatalardan, egzotik ve meyvemsi notalara sahip sütlü Madagaskar orijin trüfe ya da Gana ve Fildişi Sahili orijin kakao çekirdeklerinin yağı ile özel reçetesiyle buluşan beyaz çikolata dolgulu Hindistan cevizi tozu kaplı trüf çikolatalar. Menşei çikolatadan özgü özel bir tat profili geliyor süt kremalı yumuşak yapısı özel ganaj dolgulu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996552.jpg?width=150&height=150"
+        },
+        {
+          "name": "Trüf Jumbo Kutu (545 gr.)",
+          "price": 1.403,
+          "description": "Kolombiya menşeili %70 bitter ve yoğun kakao kaplı portakallı trüf çikolatalardan, egzotik ve meyvemsi notalara sahip sütlü Madagaskar orijin trüfe ya da Gana ve Fildişi Sahili orijin kakao çekirdeklerinin yağı ile özel reçetesiyle buluşan beyaz çikolata dolgulu Hindistan cevizi tozu kaplı trüf çikolatalar. Menşei çikolatadan özgü özel bir tat profili geliyor süt kremalı yumuşak yapısı özel ganaj dolgulu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/39996557.jpg?width=150&height=150"
+        },
+        {
+          "name": "Rochetta Sütlü (250 gr.)",
+          "price": 656.0,
+          "description": "Ceviz, sütlü çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45585923.jpg?width=150&height=150"
+        },
+        {
+          "name": "Rochetta Bitter (250 gr.)",
+          "price": 656.0,
+          "description": "Ceviz, bitter çikolata",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/45585953.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Paket Ürünler",
+      "products": [
+        {
+          "name": "Kakao Nibi (200 gr.)",
+          "price": 625.0,
+          "description": "Lif kaynağı, bitkisel, şeker ilavesiz, katkı maddesiz, glutensiz kakao nibi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776827.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çokoliko (15 gr.)",
+          "price": 31.0,
+          "description": "Vitaminli, mineralli kakaolu içecek tozu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776828.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çokoliko (100 gr.)",
+          "price": 100.0,
+          "description": "Vitaminli, mineralli kakaolu içecek tozu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776829.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çokoliko (7'li Paket)",
+          "price": 125.0,
+          "description": "Vitaminli, mineralli kakaolu içecek tozu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776830.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kakao Tozu (Teneke Kutu) (250 gr.)",
+          "price": 281.0,
+          "description": "Alkalize kakao tozu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/28974045.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salep (20 gr.)",
+          "price": 31.0,
+          "description": "Salep tozuyla hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776832.jpg?width=150&height=150"
+        },
+        {
+          "name": "Salep (1 kg.)",
+          "price": 500.0,
+          "description": "Salep tozuyla hazırlanır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776834.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıcak Çikolata (25 gr.)",
+          "price": 31.0,
+          "description": "Şeker, çikolata tozu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776835.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıcak Çikolata (400 gr.) (Teneke Kutu)",
+          "price": 275.0,
+          "description": "Şeker, çikolata tozu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/10776837.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kapsül Kahve Çeşitleri",
+      "products": [
+        {
+          "name": "Fındık Aromalı Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş öğütülmüş kahve, fındık aroma vericisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289509.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vanilya Aromalı Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş öğütülmüş kahve, vanilya aroma vericisi",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289510.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kafeinsiz Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş, öğütülmüş Arabica kafeinsiz kahve çekirdeği",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289511.jpg?width=150&height=150"
+        },
+        {
+          "name": "Selection Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş, öğütülmüş",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289512.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ristretto Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş, öğütülmüş Arabica harman kahve çekirdekleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289513.jpg?width=150&height=150"
+        },
+        {
+          "name": "Espresso Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş, öğütülmüş harman kahve çekirdekleri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289514.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kolombiya Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş, öğütülmüş Arabica Kolombiya kahve çekirdeği",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289515.jpg?width=150&height=150"
+        },
+        {
+          "name": "Etiyopya Kapsül Kahve",
+          "price": 300.0,
+          "description": "Kavrulmuş, öğütülmüş Arabica Etiyopya RA* Sertifikalı kahve çekirdeği",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/49289516.jpg?width=150&height=150"
+        }
+      ]
+    }
+  ]
+}

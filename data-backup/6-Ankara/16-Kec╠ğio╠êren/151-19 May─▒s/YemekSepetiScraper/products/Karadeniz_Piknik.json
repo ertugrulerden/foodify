@@ -1,0 +1,291 @@
+{
+  "link_hash": "76d55865",
+  "scraped_at": "260528_1238",
+  "restaurant_name": "Karadeniz Piknik",
+  "link": "https://www.yemeksepeti.com/restaurant/irsb/karadeniz-piknik-irsb",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Ekmek Arası Tavuk Döner",
+          "price": 161.5,
+          "description": "Iceberg marul, soğan, domates, turşu",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5295400.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kumru Sandviç",
+          "price": 204.0,
+          "description": "Kaşar peyniri, turşu, sucuk, ketçap, mayonez, sosis",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5295385.jpg?width=128&height=128"
+        },
+        {
+          "name": "Ayvalık Tostu",
+          "price": 187.0,
+          "description": "Rus salatası, kaşar peyniri, sucuk, domates, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/26862792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger",
+          "price": 178.5,
+          "description": "Burger köftesi, Rus salatası, marul, domates, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5295387.jpg?width=150&height=150"
+        },
+        {
+          "name": "İskender (Tavuk Dönerden) Menü",
+          "price": 280.5,
+          "description": "İskender (Tavuk Dönerden) + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/26864224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayvalık Tostu Menü",
+          "price": 272.0,
+          "description": "Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/26863916.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Menüler",
+      "products": [
+        {
+          "name": "Ayvalık Tostu Menü",
+          "price": 272.0,
+          "description": "Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/26863916.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hamburger Menü",
+          "price": 255.0,
+          "description": "Hamburger + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/26863921.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kumru Sandviç Menü",
+          "price": 255.0,
+          "description": "Kumru Sandviç + Patates Kızartması + Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İskender (Tavuk Dönerden) Menü",
+          "price": 280.5,
+          "description": "İskender (Tavuk Dönerden) + Patates Kızartması + Kutu İçecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/26864224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Izgara Köfte Menü",
+          "price": 289.0,
+          "description": "Izgara Köfte + Patates Kızartması + Kutu İçecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hatay Usulü Soslu Tavuk Döner Dürüm Menü",
+          "price": 161.5,
+          "description": "Hatay Usulü Soslu Tavuk Döner Dürüm (Domates, turşu, patates kızartması, mayonez, özel sos) + Ayran (20 cl.)",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Tavuk Döner Menü",
+          "price": 238.0,
+          "description": "Ekmek Arası Tavuk Döner + Patates Kızartması + Kutu İçecek (33 cl.)",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/36037533.jpg?width=150&height=150"
+        },
+        {
+          "name": "Patates Köfte Menü",
+          "price": 255.0,
+          "description": "Patates Köfte Sandviç (Iceberg marul, domates, burger köftesi, patates kızartması, ketçap, mayonez) + Ayran (20 cl.)",
+          "img": null
+        },
+        {
+          "name": "Ekmek Arası Sosisli Sandviç Menü",
+          "price": 136.0,
+          "description": "Ekmek Arası Sosisli Sandviç + Ayran (20 cl.)",
+          "img": null
+        },
+        {
+          "name": "Ekmek Arası Patatesli Sandviç Menü",
+          "price": 136.0,
+          "description": "Ekmek Arası Patatesli Sandviç (Patates kızartması, ketçap, mayonez) + Ayran (20 cl.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tostlar",
+      "products": [
+        {
+          "name": "Sucuklu Kaşarlı Tost",
+          "price": 170.0,
+          "description": "Sucuk, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayvalık Tostu",
+          "price": 187.0,
+          "description": "Rus salatası, kaşar peyniri, sucuk, domates, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/26862792.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Köy Tostu",
+          "price": 170.0,
+          "description": "Köy ekmeğine; sucuk, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Kumru Sandviç",
+          "price": 204.0,
+          "description": "Kaşar peyniri, turşu, sucuk, ketçap, mayonez, sosis",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ekmek Arası Sosisli Sandviç",
+          "price": 157.25,
+          "description": "Patates kızartması, sosis, ketçap, mayonez",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburger",
+          "price": 178.5,
+          "description": "Burger köftesi, Rus salatası, marul, domates, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5295387.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ana Yemekler",
+      "products": [
+        {
+          "name": "Arnavutciğeri",
+          "price": 204.0,
+          "description": "Iceberg marul, soğan, domates, turşu ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Dönerler",
+      "products": [
+        {
+          "name": "Ekmek Arası Tavuk Döner",
+          "price": 161.5,
+          "description": "Iceberg marul, soğan, domates, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Döner Dürüm",
+          "price": 144.5,
+          "description": "Iceberg marul, soğan, domates, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Hatay Usulü Tavuk Dürüm",
+          "price": 170.0,
+          "description": "Tavuk döner, sos, mayonez, patates, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Tantuni",
+          "price": 144.5,
+          "description": "Tavuk döner, domates, biber",
+          "img": null
+        },
+        {
+          "name": "2'li Mega Tavuk Döner Dürüm Menü",
+          "price": 374.0,
+          "description": "2'li Mega Tavuk Döner Dürüm + 2 Adet Eker Ayran (20 cl.)",
+          "img": null
+        },
+        {
+          "name": "2'li Hatay Dürüm Menü",
+          "price": 340.0,
+          "description": "2'li Hatay Dürüm + 2 Adet Ayran (20 cl.)",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Köfteler",
+      "products": [
+        {
+          "name": "Ekmek Arası Izgara Köfte",
+          "price": 212.5,
+          "description": "Iceberg marul, soğan, domates, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Izgara Köfte Dürüm",
+          "price": 212.5,
+          "description": "Iceberg marul, soğan, domates, turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Eker Puding (100 gr.)",
+          "price": 68.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Eker Kazandibi (100 gr.)",
+          "price": 68.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/36049938.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 89.25,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 42.5,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5295413.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 34.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5295414.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 25.5,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/5295415.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

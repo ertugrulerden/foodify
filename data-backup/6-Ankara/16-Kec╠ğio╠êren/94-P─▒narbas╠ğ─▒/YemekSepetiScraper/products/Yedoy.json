@@ -1,0 +1,345 @@
+{
+  "link_hash": "db108723",
+  "scraped_at": "260528_0122",
+  "restaurant_name": "Yedoy",
+  "link": "https://www.yemeksepeti.com/restaurant/pjf8/yedoy-pjf8",
+  "categories": [
+    {
+      "name": "Tavuk Dönerler & Köfteler",
+      "products": [
+        {
+          "name": "Ekmek Arası Tavuk Döner (100 gr.)",
+          "price": 144.0,
+          "description": "100 gr tavuk döner, soğan, yeşillik, acı turşu ve domates ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565089/b751d449-53ce-465d-b39e-bf4ba9c355eb.jpg?width=128&height=128"
+        },
+        {
+          "name": "Ekmek Arası Tavuk Döner (150 gr.)",
+          "price": 312.0,
+          "description": "100 gr tavuk döner, soğan, yeşillik, acı turşu ve domates ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565100/8bfd8d16-4a51-4b2c-b757-2cdcebde8af0.jpg?width=128&height=128"
+        },
+        {
+          "name": "Servis Tavuk Döner (100 gr)",
+          "price": 208.0,
+          "description": "100 gr servis döner, bulgur pilavı, tırnak pide, soğan, yeşillik, acı turşu ve domates ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565103/dafd402e-fc01-4819-a81a-2c2d12fbf570.jpg?width=150&height=150"
+        },
+        {
+          "name": "Servis Tavuk Döner (150 gr)",
+          "price": 312.0,
+          "description": "150 gr servis döner, bulgur pilavı, tırnak pide, soğan, yeşillik, acı turşu ve domates ile servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565184/1181f57a-403c-41f9-962b-0cff8fbd1e45.jpg?width=150&height=150"
+        },
+        {
+          "name": "Hatay Usulü Tavuk Döner",
+          "price": 192.0,
+          "description": "100 gr. tavuk döner, mayonez, acı turşu, Hatay sos, yeşillik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/d35c4322-b150-4c99-a2a7-037a92cc4b6b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ekmek Arası Izgara Köfte",
+          "price": 272.0,
+          "description": "100 gr. ızgara köfte, domates, biber, soğan",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/22edc9f0-c533-4cc1-b0c5-4de9b797f962.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pide & Lahmacun",
+      "products": [
+        {
+          "name": "Lahmacun",
+          "price": 140.0,
+          "description": "Maydanoz, limon ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88564790/98f10da2-4889-4efe-a91c-4ab7b94a00af.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Pide",
+          "price": 264.0,
+          "description": "Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88564803/e6bddc03-e750-46c4-935a-3e51395d851a.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Pide",
+          "price": 264.0,
+          "description": "Mevsim salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88564807/d3fe8dda-ee9d-4f83-9e46-4fc299c1d6d2.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Kır Pideleri",
+      "products": [
+        {
+          "name": "Patatesli Kır Pidesi",
+          "price": 80.0,
+          "description": "Peynir",
+          "img": null
+        },
+        {
+          "name": "Beyaz Peynirli Kır Pidesi",
+          "price": 80.0,
+          "description": "Beyaz peynir",
+          "img": null
+        },
+        {
+          "name": "Kıymalı Kır Pidesi",
+          "price": 80.0,
+          "description": "Kıyma, soğan, baharat",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Açmalar",
+      "products": [
+        {
+          "name": "Patatesli Açma",
+          "price": 48.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyaz Peynirli Açma",
+          "price": 48.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Açma",
+          "price": 48.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Açık Peynirli Açma",
+          "price": 48.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Simit & Poğaçalar",
+      "products": [
+        {
+          "name": "Peynirli Poğaça",
+          "price": 40.0,
+          "description": "Beyaz peynir, baharatlar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kaşarlı Poğaça",
+          "price": 40.0,
+          "description": "Kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patatesli Poğaça",
+          "price": 40.0,
+          "description": "Patates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ankara Simidi",
+          "price": 32.0,
+          "description": "Susam",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Zeytinli Poğaça",
+          "price": 40.0,
+          "description": "Siyah zeytin",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/9c535730-950d-4719-b945-f7e708a90266.jpg?width=150&height=150"
+        },
+        {
+          "name": "Susamlı Kandil Simit",
+          "price": 32.0,
+          "description": "Susam",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/7f78b80a-5817-4809-8dba-4d1e120ded73.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kapalı Kaşarlı Simit",
+          "price": 48.0,
+          "description": "Kaşar peyniri, susam",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/a8633072-b7d1-4e15-b0f7-d2c2820e5606.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tereyağlı Simit",
+          "price": 48.0,
+          "description": "Tereyağı, susam",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/5bf255ec-00d3-4f8b-8940-ce19e0dc0466.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Salata (Tek Kişilik)",
+          "price": 48.0,
+          "description": "Yeşillik, havuç, kırmızılahana, soğan, limon, domates, acı turşu",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sandviç Ekmeği",
+          "price": 16.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lavaş Ekmek",
+          "price": 32.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/481dd4fc-3744-48e2-a48f-bdba86a846f2.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek & Lavaş",
+      "products": [
+        {
+          "name": "Somun Ekmek",
+          "price": 32.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Ürünler",
+      "products": [
+        {
+          "name": "Tavuk Döner (500 gr.)",
+          "price": 400.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/afd76509-9aca-4065-82b4-c26bdfd595c3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Döner (1 kg.)",
+          "price": 720.0,
+          "description": "1 kg. olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/89255846/d31b91e4-7fc0-43a5-9b96-bc8c9ba546d2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Köfte (500 gr.)",
+          "price": 640.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Dana Köfte (1 kg.)",
+          "price": 1.2,
+          "description": "1 kg. olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Şalgam Suyu (33 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 40.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565211/07a26dc9-2581-47ea-93ab-2cc5270df264.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 32.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565218/67f7dd73-4282-41f4-9e03-6d1c4dffed8b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 16.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565204/c04f46d8-75ed-48a6-9efc-1fba90905f1f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 24.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/88565235/961df8b5-5191-4f3b-a921-8f0821eb5471.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta",
+          "price": 80.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/bc3e88fc-a015-41bb-9bdc-dfe162be1172.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kayısılı Meyve Suyu",
+          "price": 40.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/24342f87-c1eb-4d34-8020-125af49a0e24.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kola",
+          "price": 80.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/1c4aa8a3-8991-47a6-a4ca-6a9bf25314e1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Şeftali Meyve Suyu",
+          "price": 40.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/fe0aa842-6af2-4e4c-aea0-277ea572a5d4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Meyve Suyu",
+          "price": 40.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/374f4466-bcdf-4977-9332-9bc1161d4f77.jpg?width=150&height=150"
+        },
+        {
+          "name": "Gazoz",
+          "price": 80.0,
+          "description": null,
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/qf9u/product/a12a0596-14e1-4c4e-a56d-8baa665c2b40.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Damla Çikolatalı Kek",
+          "price": 40.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vanilyalı Kek",
+          "price": 40.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Halka Tatlı",
+          "price": 32.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

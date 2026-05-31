@@ -1,0 +1,484 @@
+{
+  "link_hash": "f12f4730",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Pişi Fırın",
+  "link": "https://www.yemeksepeti.com/restaurant/cvp0/pisi-firin",
+  "categories": [
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Soslu Pişi",
+          "price": 56.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/90e2d6ec-94b2-4120-afda-ead1ec579248.jpg?width=128&height=128"
+        },
+        {
+          "name": "Pişi",
+          "price": 36.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/e146de73-ecf2-46e1-a625-71bf302df6a6.jpg?width=128&height=128"
+        },
+        {
+          "name": "Special Pişi Tabağı",
+          "price": 360.0,
+          "description": "3 adet pişi, salatalık, domates, siyah zeytin, beyaz peynir, günün reçeli, çikolata, labne peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/98300166-7b02-4238-87bb-f1c78f62387b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lokma Soslu Pişi (9 Adet)",
+          "price": 160.0,
+          "description": "9 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/1e934bae-9613-4c60-a467-22394b59f038.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Börekler",
+      "products": [
+        {
+          "name": "Peynirli Su Böreği",
+          "price": 128.0,
+          "description": "Tek kişilik",
+          "img": null
+        },
+        {
+          "name": "Peynirli Kol Böreği",
+          "price": 240.0,
+          "description": "Beyaz peynir",
+          "img": null
+        },
+        {
+          "name": "Kıymalı Kol Böreği",
+          "price": 240.0,
+          "description": "Dana kıyma",
+          "img": null
+        },
+        {
+          "name": "Patatesli Börek",
+          "price": 24.0,
+          "description": "Patates",
+          "img": null
+        },
+        {
+          "name": "Çıtır Börek Peynirli",
+          "price": 24.0,
+          "description": "Peynir",
+          "img": null
+        },
+        {
+          "name": "Patatesli Sigara Böreği",
+          "price": 28.8,
+          "description": "Patates",
+          "img": null
+        },
+        {
+          "name": "Peynirli Sigara Böreği",
+          "price": 28.8,
+          "description": "Peynir",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Fırın Ürünleri",
+      "products": [
+        {
+          "name": "Acılı Büyük Poğaça",
+          "price": 52.8,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acılı Küçük Poğaça",
+          "price": 33.6,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cevizli & Peynirli Poğaça",
+          "price": 14.4,
+          "description": "Ceviz, beyaz peynir",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Gevrek Simit",
+          "price": 20.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dereotlu Poğaça",
+          "price": 14.4,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Açma",
+          "price": 57.6,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İstanbul Poğaça",
+          "price": 43.2,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/354c68af-761f-4f18-b129-cec968722a19.jpg?width=150&height=150"
+        },
+        {
+          "name": "İstanbul Simit",
+          "price": 20.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/d8f276c6-1d5d-4b68-a507-84951d63e54b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Açma",
+          "price": 48.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/3e908938-0a1c-4c48-a7d8-6997212aa791.jpg?width=150&height=150"
+        },
+        {
+          "name": "Zeytinli Poğaça",
+          "price": 14.4,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/fec30336-81ea-44b5-9b3b-4779effcd13b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Karaköy",
+          "price": 28.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/18d862ff-0674-4c9c-b509-296fe44b94db.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Açma",
+          "price": 43.2,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/39b4184c-827d-4f33-b11a-9cb8edd764a4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kaşarlı Serpme",
+          "price": 44.0,
+          "description": "Kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/b0fb35ee-760c-452f-bfee-51da375184fa.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sosisli Serpme",
+          "price": 44.0,
+          "description": "Sosisli",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/d94285bc-2893-4f32-b539-a9a253f6deed.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekmekler",
+      "products": [
+        {
+          "name": "Ekmek",
+          "price": 14.4,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Beyaz Ekmek (Küçük Boy)",
+          "price": 9.6,
+          "description": "Adet olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Baton Kek",
+      "products": [
+        {
+          "name": "Havuçlu Tarçınlı Fransız Kek",
+          "price": 400.0,
+          "description": "Havuç, tarçın",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İncirli Tarçınlı Fransız Kek",
+          "price": 400.0,
+          "description": "İncir, tarçın, ceviz, kayısı parçaları.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vişneli Antep fıstıklı Fransız Kek",
+          "price": 400.0,
+          "description": "Vişne, Antep fıstığı.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çikolatalı Fransız Kek",
+          "price": 400.0,
+          "description": "Çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Tartlar",
+      "products": [
+        {
+          "name": "Profiterollü Tart (Orta Boy)",
+          "price": 576.0,
+          "description": "Çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Tart (Orta)",
+          "price": 480.0,
+          "description": "Çilek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Tart (Küçük)",
+          "price": 200.0,
+          "description": "Çilek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Tart (Büyük)",
+          "price": 720.0,
+          "description": "Çilek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Profiterollü Tart (Büyük)",
+          "price": 760.0,
+          "description": "Çikolata",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Patalar (Dilim)",
+      "products": [
+        {
+          "name": "Çikolatalı Dilim Pasta",
+          "price": 192.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuazlı Pasta (Dilim)",
+          "price": 192.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Dilim Pasta",
+          "price": 192.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fıstık Rüyası",
+          "price": 240.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotuslu Pasta (Dilim)",
+          "price": 192.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Bademli Muhallebi",
+          "price": 144.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Muhallebi",
+          "price": 144.0,
+          "description": "Çilekli",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "İncili Muhallebi",
+          "price": 144.0,
+          "description": "İncirli",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kazandibi",
+          "price": 144.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Antep Fıstıklı Muhallebi",
+          "price": 176.0,
+          "description": "Antep fıstığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Cup",
+          "price": 192.0,
+          "description": "Adet olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotuslu Kase",
+          "price": 192.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Cheesecake",
+          "price": 192.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/e983345b-e346-4131-bc82-cb325e506777.jpg?width=150&height=150"
+        },
+        {
+          "name": "Limonlu Cheesecake",
+          "price": 192.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/cvp0/product/53d33649-3654-494f-bae1-d78cbc408180.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oreolu Kase",
+          "price": 192.0,
+          "description": "Oreo parçacıkları",
+          "img": null
+        },
+        {
+          "name": "Muzlu Kase",
+          "price": 192.0,
+          "description": "Tek kişilik",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (20 cl.)",
+          "price": 57.6,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (20 cl.)",
+          "price": 57.6,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lipton Ice Tea Şeftali (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tropicana Vişne Suyu (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütaş Ayran (30 cl.)",
+          "price": 36.0,
+          "description": "Büyük boy",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frutti Extra Yeşil Limon (25 cl.)",
+          "price": 57.6,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cappy Şeftali (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Cappy Karışık (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Lipton Ice Tea Karpuz & Nane (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Lipton Ice Tea Ahududu (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Lipton Ice Tea Mango & Egzotik Meyve (33 cl.)",
+          "price": 76.8,
+          "description": "Kutu içecek",
+          "img": null
+        },
+        {
+          "name": "Sade Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": null
+        },
+        {
+          "name": "Elmalı Soda (20 cl.)",
+          "price": 52.0,
+          "description": "Cam şişe",
+          "img": null
+        },
+        {
+          "name": "Limonlu Soda (20 cl.)",
+          "price": 52.0,
+          "description": "Cam şişe",
+          "img": null
+        },
+        {
+          "name": "Çikolatalı Süt (20 cl.)",
+          "price": 36.8,
+          "description": "Karton kutu",
+          "img": null
+        },
+        {
+          "name": "Limonata",
+          "price": 57.6,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 32.0,
+          "description": "Pet şişe",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

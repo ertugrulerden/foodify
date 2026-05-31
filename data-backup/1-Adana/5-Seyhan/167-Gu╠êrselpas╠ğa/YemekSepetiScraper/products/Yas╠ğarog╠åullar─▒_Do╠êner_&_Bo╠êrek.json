@@ -1,0 +1,380 @@
+{
+  "link_hash": "6260b2d0",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Yaşaroğulları Döner & Börek",
+  "link": "https://www.yemeksepeti.com/restaurant/euls/yasarogullari-doner-and-borek",
+  "categories": [
+    {
+      "name": "Börekler",
+      "products": [
+        {
+          "name": "Peynirli Börek (1 Porsiyon)",
+          "price": 300.0,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950319.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kıymalı Börek (1 Porsiyon)",
+          "price": 300.0,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950320.jpg?width=128&height=128"
+        },
+        {
+          "name": "Peynirli Börek (1 kg.)",
+          "price": 1.2,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70425467.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Börek (1 kg.)",
+          "price": 1.2,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70426745.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kıymalı Börek (1.5 Porsiyon)",
+          "price": 450.0,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70600632.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Börek (1.5 Porsiyon)",
+          "price": 450.0,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70600765.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Börek (1 Porsiyon)",
+          "price": 300.0,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71802891.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Börek (1.5 Porsiyon)",
+          "price": 450.0,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71802902.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karışık Börek (1 kg.)",
+          "price": 1.2,
+          "description": "Turşu ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71803027.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yaprak Et Dönerler",
+      "products": [
+        {
+          "name": "Yaprak Et Döner (100 gr.)",
+          "price": 500.0,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950316.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaprak Et Döner (125 gr.)",
+          "price": 550.0,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950317.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaprak Et Döner (150 gr.)",
+          "price": 600.0,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pilav Üstü Yaprak Et Döner (100 gr.)",
+          "price": 550.0,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400969.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Yaprak Et Döner (150 gr.)",
+          "price": 650.0,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400901.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Yaprak Et Döner (125 gr.)",
+          "price": 600.0,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70405818.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Yaprak Et Döner (200 gr.)",
+          "price": 950.0,
+          "description": "Lavaş, patates kızartması, söğüş domates, turşu, biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70409973.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaprak Et Döner (200 gr.)",
+          "price": 900.0,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70601374.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaprak Et Döner (250 gr.)",
+          "price": 1.2,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71743639.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Yaprak Et Döner (250 gr.)",
+          "price": 1.25,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71743640.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaprak Et Döner (300 gr.)",
+          "price": 1.5,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74792732.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pilav Üstü Yaprak Et Döner (300 gr.)",
+          "price": 1.55,
+          "description": "Lavaş, patates kızartması, söğüş domates, soğan, turşu, pişirilmiş biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74795180.jpg?width=150&height=150"
+        },
+        {
+          "name": "Yaprak Et Döner (500 gr.)",
+          "price": 2.5,
+          "description": "Lavaş, patates kızartması, pirinç pilavı, söğüş domates, soğan, turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/77314987.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Ekmek Arası Yaprak Et Dönerler",
+      "products": [
+        {
+          "name": "Tombik Ekmek Arası Yaprak Et Döner (100 gr.)",
+          "price": 500.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Yaprak Et Döner (80 gr.)",
+          "price": 450.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70399802.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Yaprak Et Döner (100 gr.)",
+          "price": 500.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70399959.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Yaprak Et Döner Dürüm (100 gr.)",
+          "price": 500.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400666.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Yaprak Et Döner (150 gr.)",
+          "price": 600.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400677.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Ekmek Arası Yaprak Et Döner (80 gr.)",
+          "price": 450.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400691.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Ekmek Arası Yaprak Et Döner (150 gr.)",
+          "price": 600.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400696.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Yaprak Et Döner Dürüm (80 gr.)",
+          "price": 450.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400899.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Yaprak Et Döner Dürüm (125 gr.)",
+          "price": 550.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70400907.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Yaprak Et Döner Dürüm (150 gr.)",
+          "price": 600.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70405648.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Ekmek Arası Yaprak Et Döner (125 gr.)",
+          "price": 550.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70407173.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Yaprak Et Döner (125 gr.)",
+          "price": 550.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70408067.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Yaprak Et Döner (200 gr.)",
+          "price": 900.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70897784.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Ekmek Arası Yaprak Et Döner (200 gr.)",
+          "price": 900.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70901829.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Yaprak Et Döner Dürüm (200 gr.)",
+          "price": 900.0,
+          "description": "Turşu, köz biber ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tombik Ekmek Arası Yaprak Et Döner (250 gr.)",
+          "price": 1.2,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71743641.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Yaprak Et Döner Dürüm (250 gr.)",
+          "price": 1.2,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/71743642.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Yaprak Et Döner (250 gr.)",
+          "price": 1.2,
+          "description": "Turşu, köz biber ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlü Ekmek Arası Yaprak Et Döner (300 gr.)",
+          "price": 1.5,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75029274.jpg?width=150&height=150"
+        },
+        {
+          "name": "Lavaş Ekmek Arası Yaprak Et Döner Dürüm (300 gr.)",
+          "price": 1.5,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75029277.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tombik Ekmek Arası Yaprak Et Döner (300 gr.)",
+          "price": 1.5,
+          "description": "Turşu, köz biber ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/75029278.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Diğer Lezzetler",
+      "products": [
+        {
+          "name": "Patates Kızartması (1 Porsiyon)",
+          "price": 150.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70600493.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pirinç Pilavı (1 Porsiyon)",
+          "price": 150.0,
+          "description": "Şehriyeli",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70600947.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/69950321.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950322.jpg?width=150&height=150"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950323.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (27 cl.)",
+          "price": 75.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950324.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/69950325.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acısız Şalgam Suyu (30 cl.)",
+          "price": 75.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70401099.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/70708601.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 50.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70973341.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Şeftali (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71803031.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea Mango (33 cl.)",
+          "price": 85.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/71803033.jpg?width=150&height=150"
+        },
+        {
+          "name": "Acılı Şalgam Suyu (30 cl.)",
+          "price": 75.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/72914444.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

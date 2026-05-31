@@ -1,0 +1,205 @@
+{
+  "link_hash": "3c5ff1fe",
+  "scraped_at": "260528_1209",
+  "restaurant_name": "Cafe İnn",
+  "link": "https://www.yemeksepeti.com/restaurant/nqfn/cafe-inn",
+  "categories": [
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Hamburger",
+          "price": 30.0,
+          "description": "Burger köftesi, domates, marul, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623249.jpg?width=128&height=128"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 35.0,
+          "description": "Burger köftesi, domates, marul, turşu, ketçap, mayonez, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623250.jpg?width=128&height=128"
+        },
+        {
+          "name": "Chicken Burger",
+          "price": 30.0,
+          "description": "Tavuk burger köftesi, domates, marul, turşu, ketçap, mayonez",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623251.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Küçük Boy Pizzalar",
+      "products": [
+        {
+          "name": "Karışık Pizza (Küçük)",
+          "price": 40.0,
+          "description": "Kaşar peyniri, pizza sosu, sucuk, salam, sosis, biber, domates, zeytin, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623252.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pizza (Küçük)",
+          "price": 40.0,
+          "description": "Kaşar peyniri, pizza sosu, tavuk, isteğe göre sarımsak",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/7623253.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ton Balıklı Pizza (Küçük)",
+          "price": 40.0,
+          "description": "Kaşar peyniri, pizza sosu, ton balığı, isteğe göre soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vejetaryen Pizza (Küçük)",
+          "price": 40.0,
+          "description": "Kaşar peyniri, pizza sosu, biber, domates, zeytin, mısır, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Orta Boy Pizzalar",
+      "products": [
+        {
+          "name": "Karışık Pizza (Orta)",
+          "price": 50.0,
+          "description": "Kaşar peyniri, pizza sosu, sucuk, salam, sosis, biber, domates, zeytin, mantar, mısır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Pizza (Orta)",
+          "price": 50.0,
+          "description": "Kaşar peyniri, pizza sosu, tavuk, isteğe göre sarımsak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Pizza (Orta)",
+          "price": 50.0,
+          "description": "Kaşar peyniri, pizza sosu, ton balığı, isteğe göre soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vejetaryen Pizza (Orta)",
+          "price": 50.0,
+          "description": "Kaşar peyniri, pizza sosu, biber, domates, zeytin, mısır, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Büyük Boy Pizzalar",
+      "products": [
+        {
+          "name": "Karışık Pizza (Büyük)",
+          "price": 60.0,
+          "description": "Kaşar peyniri, pizza sosu, sucuk, salam, sosis, biber, domates, zeytin, mantar, mısır",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Pizza (Büyük)",
+          "price": 60.0,
+          "description": "Kaşar peyniri, pizza sosu, tavuk, isteğe göre sarımsak",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Pizza (Büyük)",
+          "price": 60.0,
+          "description": "Kaşar peyniri, pizza sosu, ton balığı, isteğe göre soğan",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Vejetaryen Pizza (Büyük)",
+          "price": 60.0,
+          "description": "Kaşar peyniri, pizza sosu, biber, domates, zeytin, mısır, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Mevsim Salata",
+          "price": 33.0,
+          "description": "Marul, domates, salatalık, mısır, siyah zeytin",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ton Balıklı Salata",
+          "price": 40.0,
+          "description": "Domates, marul, mısır, siyah zeytin, ton balığı",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 15.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (20 cl.)",
+          "price": 12.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola Şekersiz (33 cl.)",
+          "price": 15.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 15.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 15.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 15.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623272.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meyveli Soda (20 cl.)",
+          "price": 10.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623273.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 7.5,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623274.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 5.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/7623275.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

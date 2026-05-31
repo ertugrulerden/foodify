@@ -1,0 +1,661 @@
+{
+  "link_hash": "3da69c5c",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Pera Nest",
+  "link": "https://www.yemeksepeti.com/restaurant/pjoq/pera-nest-pjoq",
+  "categories": [
+    {
+      "name": "Kahvaltılıklar",
+      "products": [
+        {
+          "name": "Pratik Kahvaltı Tabağı",
+          "price": 380.0,
+          "description": "Haşlanmış yumurta, bal, tereyağı, beyaz peynir, siyah zeytin, domates, salatalık",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Sandviçler",
+      "products": [
+        {
+          "name": "Nest Perawich Sandviç",
+          "price": 340.0,
+          "description": "Pesto sos, dana antrikot füme, ricotta peyniri, tulum peyniri, kurutulmuş domates, közlenmiş biber, kuzukulağı, balsamic sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89251629/3e9460f1-5853-41d4-87b8-d371e7d3b1a1.jpg?width=150&height=150"
+        },
+        {
+          "name": "Roast Beef Perawich Sandviç",
+          "price": 320.0,
+          "description": "Pesto sos, dana roast beef, tulum peyniri, közlenmiş biber, roka, balsamic sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89251630/d0845ad8-5d5b-47d9-9059-d7f0f6fb4beb.jpg?width=150&height=150"
+        },
+        {
+          "name": "Avokado Perawich Sandviç",
+          "price": 300.0,
+          "description": "Avokado sos, dana füme, tulum peyniri, domates, roka, balsamic sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89251631/42c3838f-5f51-462b-8b7f-eae5b0def4ec.jpg?width=150&height=150"
+        },
+        {
+          "name": "Caprsese Sandviç",
+          "price": 280.0,
+          "description": "Pesto sos, suda mozzarella peyniri, domates, roka, balsamik sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89251633/97acf348-e832-40d4-bc35-51ecc60c6742.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tavuklar",
+      "products": [
+        {
+          "name": "Pera Nest Tavuk",
+          "price": 460.0,
+          "description": "Tavuk, soya sosu, renkli biberler, mantar, arpacık soğan. Mevsim salata, patates kızartması, körili makarna ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pesto Soslu Tavuk",
+          "price": 460.0,
+          "description": "Tavuk, krema, pesto sos. Mevsim salata, patates kızartması, körili makarna ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Meksikan Tavuk",
+          "price": 460.0,
+          "description": "Tavuk, soya sosu, renkli biberler, acı sos, krema. Mevsim salata, patates kızartması, körili makarna ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253612/a1273f06-4f83-4af1-a014-67b741543f79.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kekikli Tavuk",
+          "price": 460.0,
+          "description": "Tavuk, krema, kekik. Mevsim salata, patates kızartması, körili makarna ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253613/5a3f4a54-c088-4372-8d5c-0797deccb7a1.jpg?width=150&height=150"
+        },
+        {
+          "name": "BBQ Soslu Tavuk",
+          "price": 460.0,
+          "description": "Tavuk, BBQ sos, renkli biberler. Mevsim salata, patates kızartması, körili makarna ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253615/190a6bef-1099-4182-98d0-6273a906449e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Tavuk",
+          "price": 460.0,
+          "description": "Tavuk, krema, köri sos, mantar. Mevsim salata, patates kızartması, körili makarna ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253616/91c6b21c-b1ca-47f3-a5b9-3432c287e9ab.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuk",
+          "price": 460.0,
+          "description": "Tavuk, krema, mantar. Mevsim salata, patates kızartması, körili makarna ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253619/d67c6821-c464-4462-bdbf-a99876475f75.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Pizzalar (Orta Boy)",
+      "products": [
+        {
+          "name": "Dana Kavurmalı Pizza (Orta Boy)",
+          "price": 550.0,
+          "description": "Alfredo sos, dana kavurma, Napolitan sos, mozzarella peyniri, çeri domates, renkli biberler, soğan, roka, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Meksikan Pizza (Orta Boy)",
+          "price": 500.0,
+          "description": "Napolitan sos, mozzarella peyniri, jalapeno biber, dana sucuk, sriracha sos, parmesan peyniri, fesleğen, özel sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369190.jpg?width=150&height=150"
+        },
+        {
+          "name": "Roast Beef Pizza (Orta Boy)",
+          "price": 460.0,
+          "description": "Karabiberli dana roast beef, Napolitan sos, mozzarella peyniri, kuzukulağı, parmesan peyniri, özel sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pera Nest Pizza (Orta Boy)",
+          "price": 450.0,
+          "description": "Napolitan sos, mozzarella peyniri, dana sucuk, mantar, siyah zeytin, mısır, renkli biberler, özel sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254377/e9b9882a-f4cf-4231-910e-ef7dcb616834.jpg?width=150&height=150"
+        },
+        {
+          "name": "İtalyan Sucuklu Pizza (Orta Boy)",
+          "price": 440.0,
+          "description": "Napolitan sos, mozzarella peyniri, İtalyan dana sucuk, kuzukulağı, parmesan peyniri, özel sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254378/ab236a80-1014-40c9-999b-154981863b0c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Margarita Pizza (Orta Boy)",
+          "price": 380.0,
+          "description": "Napolitan sos, mozzarella peyniri, fesleğen, parmesan peyniri, özel sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254380/703b3c59-0b0e-4eb2-8f7a-57b899c8d6e3.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vejetaryen Pizza (Orta Boy)",
+          "price": 390.0,
+          "description": "Napolitan sos, mozzarella peyniri, brokoli, havuç, kabak, mısır, yeşil biber, fesleğen, özel sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254381/ab3604ca-ee60-4311-8fe9-3fffed40fbe9.jpg?width=150&height=150"
+        },
+        {
+          "name": "4 Peynirli Pizza (Orta Boy)",
+          "price": 400.0,
+          "description": "Napolitan sos, mozzarella peyniri, rokfor peyniri, ricotta peyniri, parmesan peyniri, fesleğen, özel sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254382/948e24d6-19db-4d43-8fe7-3d78fffc2939.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Alfredo Pizza (Orta Boy)",
+          "price": 420.0,
+          "description": "Alfredo sos, mozzarella peyniri, mantar, parmesan peyniri, fesleğen, özel sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254383/d5e30ffa-770b-4a0f-999d-b86c321f94f0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Burrata Pizza (Orta Boy)",
+          "price": 490.0,
+          "description": "Burrata peyniri, Napolitan sos, çeri domates, roka, balsamic sos, pesto sos",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Burgerler",
+      "products": [
+        {
+          "name": "Pera Nest Burger",
+          "price": 480.0,
+          "description": "Dana eti, cheddar peyniri, dana füme, sarımsaklı mantar, karamelize soğan, közlenmiş biber, özel sos. Patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Meksikan Burger",
+          "price": 460.0,
+          "description": "Dana eti, cheddar peyniri, karamelize soğan, turşu, közlenmiş biber, acı sos, özel sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253921/8c9ed745-8a81-435c-aefa-633139430756.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheeseburger",
+          "price": 440.0,
+          "description": "Dana eti, cheddar peyniri, karamelize soğan, turşu, özel sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253923/1fcf4ae3-feda-4930-90e5-73374b42203c.jpg?width=150&height=150"
+        },
+        {
+          "name": "Meksikan Tavuk Burger",
+          "price": 410.0,
+          "description": "Çıtır tavuk sarma, acı sos, közlenmiş biber, turşu, özel sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80368758.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dynamite Burger",
+          "price": 400.0,
+          "description": "Dynamite sos, çıtır tavuk sarma, coleslaw, yeşil soğan, özel sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253928/8070b962-9c7f-452d-8650-cb6405edc658.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cheddar Tavuk Burger",
+          "price": 390.0,
+          "description": "Çıtır tavuk sarma, cheddar peyniri, turşu, özel sos. Patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80368761.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Makarnalar",
+      "products": [
+        {
+          "name": "Ravioli",
+          "price": 430.0,
+          "description": "Krema, Napolitan sos, parmesan peyniri, pesto sos, fesleğen",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tortellini",
+          "price": 420.0,
+          "description": "Sofrito, krema, pesto sos, parmesan peyniri, fesleğen",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Gnocchi",
+          "price": 410.0,
+          "description": "Gnocchi sos, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252829/db6a992a-e73a-4a11-8d71-aea580de1950.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "price": 390.0,
+          "description": "Tavuk, krema, parmesan peyniri, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252830/05d5bfcb-0540-4453-b7bb-e99f188dc078.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Penne",
+          "price": 350.0,
+          "description": "Tavuk, krema, köri, parmesan peyniri, mantar, mısır",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252831/5b077d7a-113f-4180-8f26-c8b05f653d61.jpg?width=150&height=150"
+        },
+        {
+          "name": "KremalınMantarlı Penne",
+          "price": 350.0,
+          "description": "Tavuk, krema, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252832/4ccf79b9-a706-4100-a2f5-c644346fa4b2.jpg?width=150&height=150"
+        },
+        {
+          "name": "Thai Penne",
+          "price": 340.0,
+          "description": "Krema, soya sosu, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252833/191525c5-b2d6-4e99-94ea-4589835245ed.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bolognese Soslu Linguine",
+          "price": 330.0,
+          "description": "Bolognese sos, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252835/6d2ef5a5-76ad-48f0-8270-d6929ad71575.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Linguine",
+          "price": 320.0,
+          "description": "Pesto sos, krema, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252836/e515a7f9-e767-457b-9d67-7ac445eec0ce.jpg?width=150&height=150"
+        },
+        {
+          "name": "Penne Arrabbiata",
+          "price": 310.0,
+          "description": "Napolitan sos, siyah zeytin, sriracha sos, parmesan peyniri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252839/1092d450-c009-4449-8594-ae9e06b29e9e.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Noodles",
+      "products": [
+        {
+          "name": "Karidesli Noodle",
+          "price": 420.0,
+          "description": "İstiridye sos, soya sosu, susam yağı, havuç, renkli biberler, yeşil soğan, kabak, brokoli, mısır, karides",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Etli Noodle",
+          "price": 410.0,
+          "description": "İstiridye sos, soya sosu, susam yağı, havuç, renkli biberler, yeşil soğan, kabak, brokoli, mısır, dana eti",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Noodle",
+          "price": 360.0,
+          "description": "İstiridye sos, soya sosu, susam yağı, havuç, renkli biberler, yeşil soğan, kabak, brokoli, mısır, tavuk",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252993/032fc171-6e85-4a2b-98aa-a85a8249b11b.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sebzeli Noodle",
+          "price": 330.0,
+          "description": "İstiridye sos, soya sosu, susam yağı, havuç, renkli biberler, yeşil soğan, kabak, brokoli, mısır",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89252994/0613e08d-0aa2-46ad-82b5-775947f7187c.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "products": [
+        {
+          "name": "Tavuk Bonfile Wrap",
+          "price": 360.0,
+          "description": "Tavuk, cheddar peyniri, renkli biberler, mısır. Jalapeno biber, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dana Bonfile Wrap",
+          "price": 400.0,
+          "description": "Dana bonfile, cheddar peyniri, renkli biberler. Jalapeno biber, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Quesadillas",
+      "products": [
+        {
+          "name": "Tavuk Bonfile Quesadilla",
+          "price": 460.0,
+          "description": "Tavuk bonfile, mozzarella peyniri, cheddar peyniri, renkli biberler, mısır. Jalapeno biber, patates kızartması ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dana Bonfileli Quesadilla",
+          "price": 520.0,
+          "description": "Dana bonfile, mozzarella peyniri, cheddar peyniri, renkli biberler, mısır. Jalapeno biber, patates kızartması ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254676/7fc27b45-93cc-44a9-ae31-123f6f2c78a4.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Yan Ürünler",
+      "products": [
+        {
+          "name": "Çıtır Karışık Sepeti",
+          "price": 330.0,
+          "description": "2 adet falafel, hellim peyniri, 2 adet çıtır tavuk, patates kızartması",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89256364/fc5e9b14-f39e-430f-a8bf-d8fb12e4bd3e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Caprese",
+          "price": 300.0,
+          "description": "Domates, mozzarella peyniri, balsamic sos, fesleğen, zeytinyağı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89256366/c9774ddc-1429-44a4-8a6e-052b546a73f6.jpg?width=150&height=150"
+        },
+        {
+          "name": "Arancini",
+          "price": 280.0,
+          "description": "4 adet pirinç topları. Napolitan sos, pesto sos ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89256367/1979177f-2dd3-40a6-aebf-60da9c8adc6d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Falafel",
+          "price": 270.0,
+          "description": "4 adet falafel. Tahinli yoğurt ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89256368/0414a8f2-7d25-41ee-bda9-d1cbb7b1b1e8.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuk (4 Adet)",
+          "price": 260.0,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89256371/1a7f856a-b95b-497e-a20d-37ee8da96dd9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Hellim Peyniri",
+          "price": 240.0,
+          "description": "4 adet olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89256372/f63bad71-a6fb-4917-a2c2-5e4aa4b2a3ba.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Patates Kızartması",
+          "price": 220.0,
+          "description": "Parmak dilim",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89256373/6a02295e-f8f0-40f7-86d6-d4e4294a6a63.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Salatalar",
+      "products": [
+        {
+          "name": "Izgara Somon Salata",
+          "price": 480.0,
+          "description": "Izgara somon, pancar, cherry domates, Akdeniz yeşillikleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89253458/1e50e464-f5eb-4e9d-a293-b391117e726d.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çıtır Tavuklu Salata",
+          "price": 330.0,
+          "description": "Çıtır tavuk, marul, roka, salatalık, Sezar sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254483/e695f259-f3ca-4e1f-be22-18f9480d0bfc.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sezar Salata",
+          "price": 330.0,
+          "description": "Tavuk, marul, kurutulmuş domates, kruton, Sezar sos",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254484/8cd914f7-7477-421a-a6e9-0adefb49bef7.jpg?width=150&height=150"
+        },
+        {
+          "name": "Rokalı Parmesanlı Salata",
+          "price": 280.0,
+          "description": "Roka, kırmızı soğan, parmesan peyniri, ceviz, elma, mevsim meyveleri",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254485/d3267b05-fcfd-4a66-9280-b214668d70d0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bahçe Salata",
+          "price": 280.0,
+          "description": "Mevsim yeşillikleri, domates, ceviz, tulum peyniri, nar, salatalık, limon",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/89254487/a04543e5-6635-4491-92cf-efc7a43d36df.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "products": [
+        {
+          "name": "Brownie",
+          "price": 270.0,
+          "description": "Dilim olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Smoothies",
+      "products": [
+        {
+          "name": "Çilekli Smoothie",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Orman Meyveli Smoothie",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Milkshakes",
+      "products": [
+        {
+          "name": "Çikolatalı Milkshake",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Çilekli Milkshake",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80370104.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Frozens",
+      "products": [
+        {
+          "name": "Çilekli Frozen",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80370060.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mangolu Frozen",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Orman Meyveli Frozen",
+          "price": 180.0,
+          "description": "Soğuk servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369591.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369593.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369594.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappy (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369590.jpg?width=150&height=150"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 80.0,
+          "description": "Kutu içecek",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369592.jpg?width=150&height=150"
+        },
+        {
+          "name": "Churchill (33 cl.)",
+          "price": 100.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369589.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (30 cl.)",
+          "price": 60.0,
+          "description": "Büyük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369597.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 60.0,
+          "description": "Cam şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369596.jpg?width=150&height=150"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 50.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/80369595.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ana Yemekler",
+      "products": [
+        {
+          "name": "Izgara Tavuk",
+          "price": 450.0,
+          "description": "260 gr. marine tavuk sarma, tereyağlı kök sebzeler. Akdeniz salata ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuk Çökertme",
+          "price": 480.0,
+          "description": "200 gr. jülyen tavuk, Napolitan sos, kibrit patates, sarımsaklı süzme yoğurt. Közlenmiş biber, közlenmiş domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/e8d22721-7f9d-448c-953c-0f280de49c05.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Fajita",
+          "price": 470.0,
+          "description": "200 gr. jülyen tavuk, biberler, soğan, soya sos, avokado sos, jalapeno biber, soslar. Tortilla ekmeği ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/d9775466-a51a-48e6-86c6-fa8359c172bf.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Pera Nazik",
+          "price": 480.0,
+          "description": "200 gr. jülyen tavuk, Napolitan sos, sarımsak, patlıcanlı süzme yoğurt. Közlenmiş biber, közlenmiş domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/c05567a6-3388-43cf-a282-537bcdd61e8f.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Madalyon (200 gr.)",
+          "price": 700.0,
+          "description": "200 gr. dana bonfile. Kök sebzeler, böğürtlen sos ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/d2be0cc5-5c2f-4e7f-8720-1664dfd16762.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfile Pera Nazik",
+          "price": 590.0,
+          "description": "160 gr. et bonfile, Napoliten sos, sarımsak, patlıcanlı süzme yoğurt, közlenmiş biber, domates",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/98d57cf0-57cc-4b58-b304-f6d3eedc47be.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuk Florentine",
+          "price": 490.0,
+          "description": "200 gr. tavuk, mantar sos. Kök sebzeler, ıspanak, balsamic glaze ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/3ab3e15c-30f5-406d-b632-5f195c371165.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfile Fajita",
+          "price": 580.0,
+          "description": "160 gr. jülyen dana bonfile, biberler, soğan, soya sosu, avokado sosu. Jalapeno biberi, soslar, tortilla lavaşı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/70dc96a6-885a-4026-a4c6-8f15df3ff4ef.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfile Çökertme",
+          "price": 590.0,
+          "description": "160 gr. dana bonfile, Napoliten sos. Kibrit patates kızartması, sarımsaklı süzme yoğurt, közlenmiş biber, közlenmiş domates ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/5b3e86ab-893a-44e9-8ac6-ee3242ecbba9.jpg?width=150&height=150"
+        },
+        {
+          "name": "Bonfile Florentine",
+          "price": 610.0,
+          "description": "160 gr. dana bonfile, mantar sos. Kök sebzeler, ıspanak, balsamic glaze ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/3ad12837-4a4b-4532-9d7c-38dd67f179c0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Karabuğdaylı Tavuk",
+          "price": 500.0,
+          "description": "200 gr. marine tavuk sarma, karabuğday. Süzme yoğurt, kök sebzeler, mevsim meyveli salata ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/bfd513ae-ea1d-4728-b56a-4d6594262de0.jpg?width=150&height=150"
+        },
+        {
+          "name": "Dana Lokum Bonfile (300 gr.)",
+          "price": 800.0,
+          "description": "Mantar, mini patates, arpacık soğan, sarımsak, köz domates, tortilla lavaşı ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/cff837f6-c382-4d55-bff3-2bbe9ea87877.jpg?width=150&height=150"
+        },
+        {
+          "name": "Somon Izgara",
+          "price": 740.0,
+          "description": "Izgara somon, kök sebzeler, kırmızılahana turşusu, pancar, roka salatası, ançuez sos ile",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/pjoq/product/7a9c6e06-6628-43e5-99d1-a059fb781a53.jpg?width=150&height=150"
+        },
+        {
+          "name": "Viyana Usulü Snitzel",
+          "price": 460.0,
+          "description": "180 gr panelenmiş tavuk bonfile, patates salatası ile servis edilir.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Bowls",
+      "products": [
+        {
+          "name": "Izgara Tavuk Kase",
+          "price": 420.0,
+          "description": "220 gr. tavuk sarma, kara buğday, cherry domates, maş fasulyesi, beluga mercimek, süzme yoğurt, salatalık, roka",
+          "img": null
+        },
+        {
+          "name": "Izgara Bonfile Kase",
+          "price": 460.0,
+          "description": "90 gr. ızgara dana bonfile, cherry domates, maş fasulyesi, atom yoğurt, beluga mercimek, avokado, salatalık, roka",
+          "img": null
+        },
+        {
+          "name": "Izgara Somon Kase",
+          "price": 490.0,
+          "description": "120 gr. ızgara somon, edamame, pancar, cherry domates, maş fasulyesi, beluga mercimek, salatalık, Akdeniz yeşillikleri",
+          "img": null
+        }
+      ]
+    }
+  ]
+}

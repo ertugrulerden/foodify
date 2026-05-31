@@ -1,0 +1,609 @@
+{
+  "link_hash": "caecd98d",
+  "scraped_at": "260528_1202",
+  "restaurant_name": "Bool Makarna - \"Lezzeti Sert Buğday UNundan\"",
+  "link": "https://www.yemeksepeti.com/restaurant/z6ft/bool-makarna-lezzeti-sert-bugday-unundan",
+  "categories": [
+    {
+      "name": "Spaghettiler",
+      "products": [
+        {
+          "name": "Yoğurtlu Spaghetti",
+          "price": 195.0,
+          "description": "Spaghetti, yoğurt",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001526.jpg?width=128&height=128"
+        },
+        {
+          "name": "Domates Soslu Spaghetti",
+          "price": 205.0,
+          "description": "Spaghetti, domates sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001582.jpg?width=128&height=128"
+        },
+        {
+          "name": "Kıymalı Spaghetti",
+          "price": 315.0,
+          "description": "Spaghetti, kıyma, domates sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/74001586.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mısırlı Zeytinli Spaghetti",
+          "price": 200.0,
+          "description": "Spaghetti, mısır, zeytin",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001590.jpg?width=150&height=150"
+        },
+        {
+          "name": "Peynirli Spaghetti",
+          "price": 205.0,
+          "description": "Spaghetti, kaşar peyniri",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001598.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Spaghetti",
+          "price": 220.0,
+          "description": "Spaghetti, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001601.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Spaghetti",
+          "price": 215.0,
+          "description": "Spaghetti, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001609.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Spaghetti",
+          "price": 250.0,
+          "description": "Spaghetti, krema, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001613.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuklu Spaghetti",
+          "price": 320.0,
+          "description": "Spaghetti, krema, mantar, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001644.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Spaghetti",
+          "price": 285.0,
+          "description": "Spaghetti, mantar, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001650.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kekikli Tavuklu Spaghetti",
+          "price": 245.0,
+          "description": "Spaghetti, kekik, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001652.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Spaghetti",
+          "price": 265.0,
+          "description": "Spaghetti, pesto sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001661.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pesto Soslu Spaghetti",
+          "price": 320.0,
+          "description": "Spaghetti, pesto sos, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001669.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Spaghetti",
+          "price": 295.0,
+          "description": "Spaghetti, köri sos, krema, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74001677.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Mantarlı Spaghetti",
+          "price": 280.0,
+          "description": "Spaghetti, köri sos, krema, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Mantarlı Spaghetti",
+          "price": 325.0,
+          "description": "Spaghetti, köri sos, krema, mantar, tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Penneler",
+      "products": [
+        {
+          "name": "Yoğurtlu Penne",
+          "price": 195.0,
+          "description": "Penne, yoğurt",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Domates Soslu Penne",
+          "price": 205.0,
+          "description": "Penne, domates sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Penne",
+          "price": 315.0,
+          "description": "Penne, kıyma, domates sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mısırlı Zeytinli Penne",
+          "price": 200.0,
+          "description": "Penne, mısır, zeytin",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Penne",
+          "price": 205.0,
+          "description": "Penne, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Penne",
+          "price": 220.0,
+          "description": "Penne, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74002153.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Penne",
+          "price": 215.0,
+          "description": "Penne, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Penne",
+          "price": 250.0,
+          "description": "Penne, krema, mantar",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74002163.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuklu Penne",
+          "price": 320.0,
+          "description": "Penne, krema, mantar, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74002217.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Penne",
+          "price": 285.0,
+          "description": "Penne, mantar, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005041.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kekikli Tavuklu Penne",
+          "price": 245.0,
+          "description": "Penne, kekik, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005043.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Penne",
+          "price": 265.0,
+          "description": "Penne, pesto sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005049.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pesto Soslu Penne",
+          "price": 320.0,
+          "description": "Penne, pesto sos, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005084.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Penne",
+          "price": 295.0,
+          "description": "Penne, köri sos, krema, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005116.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Mantarlı Penne",
+          "price": 280.0,
+          "description": "Penne, köri sos, krema, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Mantarlı Penne",
+          "price": 325.0,
+          "description": "Spaghetti, köri sos, krema, mantar, tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Fettuccineler",
+      "products": [
+        {
+          "name": "Yoğurtlu Fettuccine",
+          "price": 220.0,
+          "description": "Fettuccine, yoğurt",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Domates Soslu Fettuccine",
+          "price": 230.0,
+          "description": "Fettuccine, domates sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kıymalı Fettuccine",
+          "price": 330.0,
+          "description": "Fettuccine, kıyma, domates sos",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mısırlı Zeytinli Fettuccine",
+          "price": 225.0,
+          "description": "Fettuccine, mısır, zeytin",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Peynirli Fettuccine",
+          "price": 230.0,
+          "description": "Fettuccine, kaşar peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Fettuccine",
+          "price": 240.0,
+          "description": "Fettuccine, krema",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005212.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mantarlı Fettuccine",
+          "price": 240.0,
+          "description": "Fettuccine, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Fettuccine",
+          "price": 280.0,
+          "description": "Fettuccine, krema, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kremalı Mantarlı Tavuklu Fettuccine",
+          "price": 340.0,
+          "description": "Fettuccine, krema, mantar, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005224.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Mantarlı Fettuccine",
+          "price": 310.0,
+          "description": "Fettuccine, mantar, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005230.jpg?width=150&height=150"
+        },
+        {
+          "name": "Kekikli Tavuklu Fettuccine",
+          "price": 270.0,
+          "description": "Fettuccine, kekik, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005232.jpg?width=150&height=150"
+        },
+        {
+          "name": "Pesto Soslu Fettuccine",
+          "price": 280.0,
+          "description": "Fettuccine, pesto sos",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005251.jpg?width=150&height=150"
+        },
+        {
+          "name": "Tavuklu Pesto Soslu Fettuccine",
+          "price": 340.0,
+          "description": "Fettuccine, pesto sos, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005258.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Fettuccine",
+          "price": 320.0,
+          "description": "Fettuccine, köri sos, krema, tavuk",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74005298.jpg?width=150&height=150"
+        },
+        {
+          "name": "Köri Soslu Mantarlı Fettuccine",
+          "price": 305.0,
+          "description": "Fettuccine, köri sos, krema, mantar",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Köri Soslu Tavuklu Mantarlı Fettuccine",
+          "price": 350.0,
+          "description": "Spaghetti, köri sos, krema, mantar, tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "İtalyan Lezzetler",
+      "products": [
+        {
+          "name": "5 Peynirli Ravioli",
+          "price": 380.0,
+          "description": "Beş peynirli ravioli, krema, sarımsak, parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Spaghetti Bolognese",
+          "price": 350.0,
+          "description": "Spaghetti, kıyma, domates sos, sarımsak, soğan parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Spaghetti Napolitan",
+          "price": 270.0,
+          "description": "Spaghetti, domates, sarımsak, parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Penne Arrabbiata",
+          "price": 260.0,
+          "description": "Penne, domates sos, sarımsak, acı biber, parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "price": 350.0,
+          "description": "Fettuccine, krema, mantar, tavuk, sarımsak, parmesan peyniri",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Noodles",
+      "products": [
+        {
+          "name": "Sebzeli Noodle",
+          "price": 300.0,
+          "description": "Noodle, soya sosu, havuç, soya filizi, beyaz lahana, taze soğan, biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Noodle",
+          "price": 350.0,
+          "description": "Noodle, soya sosu, havuç, soya filizi, beyaz lahana, taze soğan, biber, tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sebzeli Udon",
+          "price": 340.0,
+          "description": "Udon, soya sosu, havuç, soya filizi, beyaz lahana, taze soğan, biber",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Udon",
+          "price": 390.0,
+          "description": "Udon, soya sosu, havuç, soya filizi, beyaz lahana, taze soğan, biber, tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Pilavlar",
+      "products": [
+        {
+          "name": "Nohutlu Pirinç Pilavı",
+          "price": 99.0,
+          "description": "300 gr. pirinç pilavı, nohut",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Pirinç Pilavı",
+          "price": 94.0,
+          "description": "300 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Tavuklu Pirinç Pilavı",
+          "price": 142.0,
+          "description": "300 gr. prinç pilavı, 75 gr. tiftiklenmiş tavuk",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Nohutlu Tavuklu Pirinç Pilavı",
+          "price": 147.0,
+          "description": "300 gr. prinç pilavı, 75 gr. tiftiklenmiş tavuk, nohut",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Bulgur Pilavı",
+          "price": 94.0,
+          "description": "300 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Diğer Lezzetler",
+      "products": [
+        {
+          "name": "Humus (200 gr.)",
+          "price": 115.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Amerikan Salatası (200 gr.)",
+          "price": 115.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kuru Cacık (200 gr.)",
+          "price": 115.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yoğurtlu Kırmızılahana (200 gr.)",
+          "price": 115.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Süzme Yoğurt (200 gr.)",
+          "price": 115.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Yoğurt (200 gr.)",
+          "price": 65.0,
+          "description": "200 gr. olarak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Patates Kızartması",
+          "price": 125.0,
+          "description": "Parmak dilim patates",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Baharatlı Patates Kızartması",
+          "price": 125.0,
+          "description": "Parmak dilim patates",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74010082.jpg?width=150&height=150"
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "price": 125.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Chicken Fingers",
+          "price": 175.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74112385.jpg?width=150&height=150"
+        },
+        {
+          "name": "Soğan Halkası",
+          "price": 125.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74112390.jpg?width=150&height=150"
+        },
+        {
+          "name": "Combo Tabağı",
+          "price": 255.0,
+          "description": "Patates kızartması, chicken fingers, mozzarella sticks, soğan halkası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74112394.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Çorbalar",
+      "products": [
+        {
+          "name": "Domates Çorbası",
+          "price": 120.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Soslar",
+      "products": [
+        {
+          "name": "Ketçap (9 gr.)",
+          "price": 8.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Mayonez (9 gr.)",
+          "price": 8.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sarımsaklı Mayonez (20 gr.)",
+          "price": 18.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Barbekü Sos (20 gr.)",
+          "price": 18.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Acı Sos (20 gr.)",
+          "price": 18.0,
+          "description": "Paketli ürün",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Ballı Hardal (20 gr.)",
+          "price": 18.0,
+          "description": "Paketli ürün",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74010094.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "İçecekler",
+      "products": [
+        {
+          "name": "Coca-Cola Zero Sugar (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coca-Cola (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fanta (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sprite (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Fuse Tea (33 cl.)",
+          "price": 75.0,
+          "description": "Kutu içecek",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Şalgam Suyu (30 cl.)",
+          "price": 40.0,
+          "description": "Pet şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Soda (20 cl.)",
+          "price": 40.0,
+          "description": "Cam şişe",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Su (50 cl.)",
+          "price": 35.0,
+          "description": "Pet şişe",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74010112.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ayran (20 cl.)",
+          "price": 50.0,
+          "description": "Küçük boy",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/74636672.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 1.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    }
+  ]
+}

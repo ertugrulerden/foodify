@@ -1,0 +1,402 @@
+{
+  "link_hash": "1d0e10ff",
+  "scraped_at": "260528_1142",
+  "restaurant_name": "Talia Çikolata",
+  "link": "https://www.yemeksepeti.com/restaurant/ywji/talia-cikolata",
+  "categories": [
+    {
+      "name": "Popüler",
+      "products": [
+        {
+          "name": "Krep Kırıklı Mag",
+          "price": 330.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ywji/product/51106838/14557657-b60d-4057-8ab4-bfa544d0b545.jpg?width=128&height=128"
+        },
+        {
+          "name": "Bask Cheesecake",
+          "price": 390.0,
+          "description": "Belçika çikolatası ile",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981690.jpg?width=128&height=128"
+        },
+        {
+          "name": "Lotuslu Mag",
+          "price": 330.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981759.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cookie Pie",
+          "price": 350.0,
+          "description": "Belçika çikolatalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ywji/product/51106796/35656e9b-69a7-483d-a5ea-f836c31bd27e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Belçika Çikolatalı Brownie",
+          "price": 370.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981876.jpg?width=150&height=150"
+        },
+        {
+          "name": "Supangle",
+          "price": 290.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981872.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar & Pastalar",
+      "products": [
+        {
+          "name": "Bask Cheesecake",
+          "price": 390.0,
+          "description": "Belçika çikolatası ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuazlı Panna Cotta",
+          "price": 350.0,
+          "description": "Adet servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Cookie Pie",
+          "price": 350.0,
+          "description": "Belçika çikolatalı",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ywji/product/51106796/35656e9b-69a7-483d-a5ea-f836c31bd27e.jpg?width=150&height=150"
+        },
+        {
+          "name": "Oreolu Mag",
+          "price": 330.0,
+          "description": "Oreo ve mag kremasıyla hazırlanan, katmanlı bir tatlıdır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Lotuslu Mag",
+          "price": 330.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981759.jpg?width=150&height=150"
+        },
+        {
+          "name": "Krep Kırıklı Mag",
+          "price": 330.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Supangle",
+          "price": 290.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981872.jpg?width=150&height=150"
+        },
+        {
+          "name": "Belçika Çikolatalı Brownie",
+          "price": 370.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981876.jpg?width=150&height=150"
+        },
+        {
+          "name": "Talia Tahinli Çıtır",
+          "price": 226.0,
+          "description": "3 adet servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981888.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cookie (5 Adet)",
+          "price": 250.0,
+          "description": "5 adet servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981893.jpg?width=150&height=150"
+        },
+        {
+          "name": "Belçika Çikolatası",
+          "price": 445.0,
+          "description": "Kavanozda sürülebilir Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/43663166.jpg?width=150&height=150"
+        },
+        {
+          "name": "Frambuazlı Brownie",
+          "price": 370.0,
+          "description": "1 kişilik",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44565257.jpg?width=150&height=150"
+        },
+        {
+          "name": "Profiterol",
+          "price": 329.0,
+          "description": "İçi krema dolu hamur toplarının çikolata sosuyla servis edildiği bir tatlıdır.",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ywji/product/54553838/716452c2-fa49-424c-895a-8f2944b6cbe4.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sürülebilir Belçika Çikolatası",
+          "price": 445.0,
+          "description": "Adet olarak servis edilmektedir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/53678021.jpg?width=150&height=150"
+        },
+        {
+          "name": "Vişneli Panna Cotta",
+          "price": 350.0,
+          "description": "Süt, vanilya, krema, vişne",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Waffle",
+          "price": 424.0,
+          "description": "Belçika çikolatası, orman meyveleri, fıstık ile",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Kadayıflı Mag",
+          "price": 330.0,
+          "description": "Tek kişilik",
+          "img": "https://images.deliveryhero.io/image/global-menu-service/YS_TR/vendor/ywji/product/76218097/cd259955-e848-4fce-aaae-10bd737ebebe.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Mag",
+          "price": 350.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Beyaz Çikolatalı Brownie",
+          "price": 329.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dubai Çikolatalı Mag",
+          "price": 366.0,
+          "description": "Tek kişilik",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Frambuazlı Cheesecake",
+          "price": 375.0,
+          "description": "Günlük hazırlanmaktadır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Limonlu Cheesecake",
+          "price": 375.0,
+          "description": "Günlük hazırlanmaktadır.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dubai Cheesecake",
+          "price": 375.0,
+          "description": "Günlük hazırlanmaktadır.",
+          "img": null
+        }
+      ]
+    },
+    {
+      "name": "Çikolatalar",
+      "products": [
+        {
+          "name": "Special Belçika Çikolatası (350 gr.)",
+          "price": 921.0,
+          "description": "El Yapımı Belçika çikolatası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Special Çikolata (500 gr.)",
+          "price": 1.5,
+          "description": "El Yapımı Belçika Çikolatası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Special Çikolata (1 kg.)",
+          "price": 2.713,
+          "description": "Belçika çikolatası",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Special Çikolata (750 gr.)",
+          "price": 2.055,
+          "description": "750 gr. olarak servis edilmektedir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Dubai Çikolatası",
+          "price": 480.0,
+          "description": "Paket olarak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/70724635.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Sıcak İçecekler",
+      "products": [
+        {
+          "name": "Filtre Kahve",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Sütlü Filtre Kahve",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Americano",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Latte",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42979478.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappuccino",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42980485.jpg?width=150&height=150"
+        },
+        {
+          "name": "White Chocolate Mocha",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981239.jpg?width=150&height=150"
+        },
+        {
+          "name": "Chai Tea Latte",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44565084.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cappucino",
+          "price": 300.0,
+          "description": "Sıcak servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44565101.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sıcak Çikolata",
+          "price": 370.0,
+          "description": "Belçika çikolatası",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/51868736.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Iced White Chocolate Mocha",
+          "price": 287.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Mocha",
+          "price": 287.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Iced Latte",
+          "price": 287.0,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44573841.jpg?width=150&height=150"
+        },
+        {
+          "name": "Iced Americano",
+          "price": 266.0,
+          "description": "Soğuk kahve",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/44573854.jpg?width=150&height=150"
+        },
+        {
+          "name": "Cool Lime",
+          "price": 219.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/59805289.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Soğuk İçecekler",
+      "products": [
+        {
+          "name": "Lotuslu Special",
+          "price": 315.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Coco Smile",
+          "price": 301.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        },
+        {
+          "name": "Talia Special",
+          "price": 301.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981500.jpg?width=150&height=150"
+        },
+        {
+          "name": "Sweet Sour",
+          "price": 301.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981505.jpg?width=150&height=150"
+        },
+        {
+          "name": "Berry Hibiscus",
+          "price": 274.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/products/42981519.jpg?width=150&height=150"
+        },
+        {
+          "name": "Ev Yapımı Limonata",
+          "price": 274.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42981525.jpg?width=150&height=150"
+        },
+        {
+          "name": "Çilekli Limonata",
+          "price": 287.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/42981532.jpg?width=150&height=150"
+        },
+        {
+          "name": "Melon Mood",
+          "price": 301.0,
+          "description": "Soğuk servis edilir.",
+          "img": "https://images.deliveryhero.io/image/fd-tr/Products/44581048.jpg?width=150&height=150"
+        }
+      ]
+    },
+    {
+      "name": "Poşet",
+      "products": [
+        {
+          "name": "Poşet",
+          "price": 5.0,
+          "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 1 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+          "img": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+        }
+      ]
+    },
+    {
+      "name": "Kiloluk Dondurmalar",
+      "products": [
+        {
+          "name": "Dondurma (1 kg.)",
+          "price": 1.4,
+          "description": "1 kg. olarak servis edilir.",
+          "img": null
+        },
+        {
+          "name": "Dondurma (500 gr.)",
+          "price": 900.0,
+          "description": "500 gr. olarak servis edilir.",
+          "img": null
+        }
+      ]
+    }
+  ]
+}
