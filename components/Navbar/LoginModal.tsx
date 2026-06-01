@@ -8,13 +8,11 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
 
-// Giriş Yap Modalı
-// Email + Şifre ile giriş yapılır
-// "Üye değil misiniz? Üye ol" linki ile RegisterModal'a yönlendirilir
+// Giris formu. Email ve sifre ile kullaniciyi oturuma aliyor.
 interface LoginModalProps {
   open: boolean
   onOpenChange: (open: boolean) => void
-  onSwitchToRegister: () => void   // "Üye ol" tıklanınca çağrılır
+  onSwitchToRegister: () => void   // Uye ol formuna gecmek icin.
   onLoginSuccess: (user: { userID: number; firstName: string; lastName: string; email: string }) => void
 }
 
@@ -24,7 +22,7 @@ export default function LoginModal({ open, onOpenChange, onSwitchToRegister, onL
   const [error, setError] = useState("")
   const [loading, setLoading] = useState(false)
 
-  // Giriş yap butonuna basılınca
+  // Giris formu gonderilince API'ye istek atiyorum.
   const handleLogin = async () => {
     setError("")
     if (!email || !password) {
@@ -43,10 +41,10 @@ export default function LoginModal({ open, onOpenChange, onSwitchToRegister, onL
         setError(data.error || "Giriş başarısız")
         return
       }
-      // Giriş başarılı — kullanıcı bilgisini üst bileşene ilet
+      // Giris basariliysa kullanici bilgisini ust akisa veriyorum.
       onLoginSuccess(data)
       onOpenChange(false)
-      // Formu temizle
+      // Formu sifirliyorum.
       setEmail("")
       setPassword("")
     } catch {
@@ -64,7 +62,7 @@ export default function LoginModal({ open, onOpenChange, onSwitchToRegister, onL
         </DialogHeader>
 
         <div className="space-y-4">
-          {/* Hata mesajı */}
+          {/* Hata mesaji */}
           {error && <p className="text-sm text-destructive text-center">{error}</p>}
 
           {/* Email */}
@@ -79,7 +77,7 @@ export default function LoginModal({ open, onOpenChange, onSwitchToRegister, onL
             />
           </div>
 
-          {/* Şifre */}
+          {/* Sifre */}
           <div className="space-y-1">
             <Label htmlFor="login-password">Şifre</Label>
             <Input
@@ -91,12 +89,12 @@ export default function LoginModal({ open, onOpenChange, onSwitchToRegister, onL
             />
           </div>
 
-          {/* Giriş Yap butonu */}
+          {/* Giris butonu */}
           <Button className="w-full" onClick={handleLogin} disabled={loading}>
             {loading ? "Giriş yapılıyor..." : "Giriş Yap"}
           </Button>
 
-          {/* Üye ol linki */}
+          {/* Uye ol formuna gecis */}
           <p className="text-sm text-center text-muted-foreground">
             Üye değil misiniz?{" "}
             <button

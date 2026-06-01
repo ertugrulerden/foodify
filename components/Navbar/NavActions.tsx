@@ -21,7 +21,7 @@ const NavActions = () => {
   const { openLogin } = useAuthModals()
 
   const handleFavoritesClick = () => {
-    // Favoriler kullaniciya ait veri oldugu icin misafir kullaniciyi once giris/kayit akisine aliyoruz.
+    // Favoriler kullaniciya ait oldugu icin misafiri once girise yonlendiriyorum.
     if (!hasStoredUser()) {
       openLogin()
       return

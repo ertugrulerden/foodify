@@ -120,7 +120,7 @@ const RestaurantCard = ({
           )}
         </div>
 
-        {/* Teslim suresi, ucret ve min sepet varsa tek satirda kalir; eksik veri hic basilmaz. */}
+        {/* Bu bilgiler varsa tek satirda gosteriliyor, yoksa kartta yer kaplamiyor. */}
         <div className="flex items-center gap-2 overflow-hidden text-[11px] text-muted-foreground">
           {deliveryTime && (
             <span className="flex min-w-0 flex-1 items-center gap-1 truncate whitespace-nowrap">

@@ -5,7 +5,7 @@ import { savePriceAction, deletePriceAction } from "./actions"
 const Page = () => {
   const platforms = getAllPlatforms()
   const platMap = Object.fromEntries(platforms.map(p => [p.platformID, p.platform]))
-  // Fiyat tablosu seed sonrasi cok buyuyor; admin sayfasinda ilk acilista son 500 kaydi gosterip HTML sismesini engelliyoruz.
+  // Fiyat tablosu cok buyudugu icin admin ekrani ilk acilista son 500 kaydi gosteriyor.
   const data = getAdminPriceRows().map(p => ({
     id: p.id,
     productID: p.productID,

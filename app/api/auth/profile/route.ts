@@ -21,7 +21,7 @@ export async function PUT(req: NextRequest) {
       return NextResponse.json({ error: "Mevcut sifreniz hatali" }, { status: 401 })
     }
 
-    // Yeni sifre varsa onu hashle; yoksa eski duz metin kaydi hash formatina yukselt.
+    // Yeni sifre varsa hashlenir, yoksa eski duz metin kayit hash formatina cekilir.
     const updatedPassword = newPassword && newPassword.length >= 6
       ? hashPassword(newPassword)
       : passwordCheck.needsRehash

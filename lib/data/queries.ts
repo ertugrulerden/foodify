@@ -14,7 +14,7 @@ export function getAllPlatforms(): Platform[] {
 }
 
 export function getSearchPlatforms(): Platform[] {
-    // Aramada gercek linkli platformlar ve isaretli demo platformlar gorunur; eski/linki belirsiz demo satirlari karismaz.
+    // Aramada sadece gercek linkli platformlar ve isaretlenmis demo platformlar gorunur.
     return db.prepare(`
         SELECT DISTINCT platforms.*
         FROM platforms
@@ -34,7 +34,7 @@ export function getAllPrices(): Price[] {
 }
 
 export function getAdminPriceRows(limit = 500): (Price & { productName: string, platformName: string })[] {
-    // Demo platform seed'i fiyat satirini buyuttugu icin admin ekraninda tum tabloyu SSR'a basmak yerine son kayitlardan ozet gosteriyoruz.
+    // Fiyat tablosu cok buyudugu icin admin ekraninda son kayitlardan bir ozet gosterilir.
     return db.prepare(`
         SELECT prices.*, products.name AS productName, platforms.platform AS platformName
         FROM prices
@@ -91,8 +91,8 @@ export function getAllUserFavs(): UserFav[] {
     return db.prepare("SELECT * FROM userFavs").all() as UserFav[]
 }
 
-// Urun arama fonksiyonu: query, platform, fiyat ve adres filtrelerini tek SQL'de toplar.
-// Rating artik restoran/platform detayindan gelir; kartta platformlarin ortalamasi gosterilir.
+// Arama fonksiyonu: metin, platform, fiyat ve adres filtresini tek sorguda toplar.
+// Rating urunden degil restoran-platform detayindan geliyor.
 export function searchProducts(query?:string,platforms?:string[],minPrice?:number,
                                 maxPrice?:number,sortBy?:number,
                                 regionID?:number):SearchResult[]{
@@ -104,7 +104,7 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
         parameters.push(`%${query}%`)
     }
     conditions.push(nonListableProductCondition)
-    // Scrape/parse hatalarindan gelen 0-1 TL gibi fiyatlar kullanici aramasina dusmesin.
+    // Scrape hatasi olan 0-1 TL gibi fiyatlari aramada gostermiyorum.
     conditions.push(validDisplayPriceCondition)
     conditions.push("((details.sourceLink IS NOT NULL AND TRIM(details.sourceLink) != '') OR details.isSynthetic = 1)")
     if(platforms && platforms.length > 0){
@@ -120,7 +120,7 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
         conditions.push("prices.price <= ?")
         parameters.push(maxPrice)
     }
-    // Adres filtresi secilen mahalle/region icindeki restoranlari dondurur.
+    // Adres secildiyse sadece o bolgedeki restoranlar getirilir.
     if(regionID && regionID > 0){
         conditions.push("EXISTS (SELECT 1 FROM restaurantregion rr WHERE rr.restaurantID = restaurants.restaurantID AND rr.regionID = ?)")
         parameters.push(regionID)
@@ -148,15 +148,15 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
     if(conditions.length > 0){
         searchQuery += ' WHERE ' + conditions.join(" AND ")
     }
-    // sortBy=1 fiyat azalan, diger tum durumlarda fiyat artan siralama. Sonuclari sinirlayarak SSR arama sayfasini hizli tutuyoruz.
+    // sortBy=1 fiyat azalan, diger durumda fiyat artan. Sayfa hizli kalsin diye sonucu sinirliyorum.
     searchQuery += sortBy === 1 ? " ORDER BY prices.price DESC" : " ORDER BY prices.price ASC"
     searchQuery += " LIMIT 300"
     return db.prepare(searchQuery).all(...selectParameters, ...parameters) as SearchResult[]
     
 }
 
-//CrUD
-// Platforms
+// CRUD islemleri
+// Platformlar
 export function createPlatform(name: string): Platform{
     return db.prepare("INSERT INTO platforms (platform) VALUES (?) RETURNING *").get(name) as Platform
 }
@@ -167,18 +167,18 @@ export function deletePlatform(id: number): void{
     db.prepare("DELETE FROM platforms WHERE platformID = ?").run(id)
 }
 
-//Restaurants
+// Restoranlar
 export function createRestaurant(name: string, isActive = true): Restaurant{
     return db.prepare("INSERT INTO restaurants (name, isActive) VALUES (?, ?) RETURNING *").get(name, isActive ? 1 : 0) as Restaurant
 }
 export function updateRestaurant(id: number, name: string, isActive: boolean): Restaurant{
-    // Admin panelindeki Active secimi artik gercek isActive kolonuna yaziliyor.
+    // Admin panelindeki aktif/pasif secimini isActive alanina yaziyorum.
     return db.prepare("UPDATE restaurants SET name = ?, isActive = ? WHERE restaurantID = ? RETURNING *").get(name, isActive ? 1 : 0, id) as Restaurant
 }
 export function deleteRestaurant(id: number): void{
     db.prepare("DELETE FROM restaurants WHERE restaurantID = ?").run(id)
 }
-//Products
+// Urunler
 export function createProduct(data: {restaurantID: number, name:string, image?:string|null, description?:string|null}): Product {
     return db.prepare("INSERT INTO products (restaurantID, name, image, description) VALUES (?, ?, ?, ?) RETURNING *").get(data.restaurantID, data.name, data.image??null, data.description??null) as Product
 }
@@ -186,12 +186,12 @@ export function updateProduct(id: number, data: {restaurantID: number, name: str
     return db.prepare("UPDATE products SET restaurantID = ?, name = ?, image = ?, description = ? WHERE productID = ? RETURNING *").get(data.restaurantID, data.name, data.image, data.description, id) as Product
 }
 export function deleteProduct(id: number): void{
-    // Kategori iliskisi urune bagli oldugu icin urun silinmeden once koparilir.
+    // Urun silinmeden once kategori baglantilari temizlenir.
     db.prepare("DELETE FROM productCategories WHERE productID = ?").run(id)
     db.prepare("DELETE FROM products WHERE productID = ?").run(id)
 }
 
-//Prices
+// Fiyatlar
 export function createPrice(data: {productID: number, platformID: number, price: number}): Price{
     return db.prepare("INSERT INTO prices (productID, platformID, price) VALUES (?, ?, ?) RETURNING *").get(data.productID, data.platformID, data.price) as Price
 }
@@ -202,7 +202,7 @@ export function deletePrice(id: number): void{
     db.prepare("DELETE FROM prices WHERE id = ?").run(id)
 }
 
-//Details
+// Restoran-platform detaylari
 export function createDetail(data: {restaurantID: number, platformID: number, rating: number | null, fee: number | null, deliveryTime?: string | null, minCart?: number | null, sourceLink?: string | null}): Detail{
     return db.prepare("INSERT INTO details (restaurantID, platformID, rating, fee, deliveryTime, minCart, sourceLink) VALUES (?, ?, ?, ?, ?, ?, ?) RETURNING *").get(data.restaurantID, data.platformID, data.rating, data.fee, data.deliveryTime ?? null, data.minCart ?? null, data.sourceLink ?? null) as Detail
 }
@@ -213,7 +213,7 @@ export function deleteDetail(id: number): void{
     db.prepare("DELETE FROM details WHERE id = ?").run(id)
 }
 
-//City
+// Sehirler
 export function createCity(city: string): City{
     return db.prepare("INSERT INTO city (city) VALUES (?) RETURNING *").get(city) as City
 }
@@ -224,7 +224,7 @@ export function deleteCity(id: number): void{
     db.prepare("DELETE FROM city WHERE cityID = ?").run(id)
 }
 
-//District
+// Ilceler
 export function createDistrict(data: {district: string, cityID: number}): District{
     return db.prepare("INSERT INTO district (district, cityID) VALUES (?, ?) RETURNING *").get(data.district, data.cityID) as District
 }
@@ -235,7 +235,7 @@ export function deleteDistrict(id: number): void{
     db.prepare("DELETE FROM district WHERE districtID = ?").run(id)
 }
 
-//Region
+// Mahalle / bolge
 export function createRegion(data: {region: string, districtID: number}): Region{
     return db.prepare("INSERT INTO region (region, districtID) VALUES (?, ?) RETURNING *").get(data.region, data.districtID) as Region
 }
@@ -246,12 +246,12 @@ export function deleteRegion(id: number): void{
     db.prepare("DELETE FROM region WHERE regionID = ?").run(id)
 }
 
-//Users
-// Yeni kullanıcı oluştur (kayıt olma)
+// Kullanicilar
+// Yeni kullanici olusturma
 export function createUser(data: {firstName: string, lastName: string, email: string, passwordHash: string, lastRegionID: number}): User{
     return db.prepare("INSERT INTO users (firstName, lastName, email, passwordHash, lastRegionID) VALUES (?, ?, ?, ?, ?) RETURNING *").get(data.firstName, data.lastName, data.email, data.passwordHash, data.lastRegionID) as User
 }
-// Kullanıcı bilgilerini güncelle
+// Kullanici bilgilerini guncelleme
 export function updateUser(id: number, data: {firstName: string, lastName: string, email: string, passwordHash: string, lastRegionID: number}): User{
     return db.prepare("UPDATE users SET firstName = ?, lastName = ?, email = ?, passwordHash = ?, lastRegionID = ? WHERE userID = ? RETURNING *").get(data.firstName, data.lastName, data.email, data.passwordHash, data.lastRegionID, id) as User
 }
@@ -261,16 +261,16 @@ export function updateUserPassword(id: number, passwordHash: string): User{
 export function deleteUser(id: number): void{
     db.prepare("DELETE FROM users WHERE userID = ?").run(id)
 }
-// Email ile kullanıcı bul (giriş yaparken kullanılır)
+// Giris yaparken email ile kullaniciyi buluyorum.
 export function getUserByEmail(email: string): User | undefined {
     return db.prepare("SELECT * FROM users WHERE email = ?").get(email) as User | undefined
 }
-// ID ile kullanıcı bul (profil güncellerken kullanılır)
+// Profil islemlerinde ID ile kullaniciyi buluyorum.
 export function getUserById(id: number): User | undefined {
     return db.prepare("SELECT * FROM users WHERE userID = ?").get(id) as User | undefined
 }
 
-//UserFavs
+// Favoriler
 export function createUserFav(data: {userID: number, productID: number}): UserFav{
     return db.prepare("INSERT INTO userFavs (userID, productID) VALUES (?, ?) RETURNING *").get(data.userID, data.productID) as UserFav
 }
@@ -307,7 +307,7 @@ export function getUserFavProducts(userID: number): import('./types').SearchResu
 }
 
 export function getHomepageMenuRows(limit = 800, regionID?: number): SearchResult[] {
-    // Populer Menuler scrape'deki Menuler kategorisine baglanir; urun adinda "menu" gecmesine guvenmeyiz.
+    // Populer menulerde urun adina degil, scrape'den gelen kategori bilgisine bakilir.
     const regionFilter = regionID && regionID > 0
         ? "AND EXISTS (SELECT 1 FROM restaurantregion rr WHERE rr.restaurantID = restaurants.restaurantID AND rr.regionID = ?)"
         : ""
@@ -343,7 +343,7 @@ export function getHomepageMenuRows(limit = 800, regionID?: number): SearchResul
 }
 
 export function getHomepageRestaurantRows(limit = 220, regionID?: number): SearchResult[] {
-    // Populer restoran karti urun degil restoran odaklidir; restoran/listing gorseli ve platform detaylari kullanilir.
+    // Populer restoran karti urun degil restoran odakli calisiyor.
     const regionFilter = regionID && regionID > 0
         ? "AND EXISTS (SELECT 1 FROM restaurantregion rr WHERE rr.restaurantID = restaurants.restaurantID AND rr.regionID = ?)"
         : ""
@@ -373,7 +373,7 @@ export function getHomepageRestaurantRows(limit = 220, regionID?: number): Searc
     `).all(...params) as SearchResult[]
 }
 
-// User Addresses
+// Kullanici adresleri
 export function getUserAddresses(userID: number): UserAddressWithLocation[] {
     return db.prepare(`
         SELECT ua.*, 

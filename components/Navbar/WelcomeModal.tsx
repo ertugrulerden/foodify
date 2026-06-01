@@ -5,14 +5,13 @@ import {
 } from "@/components/ui/dialog"
 import { Button } from "@/components/ui/button"
 
-// Hoş Geldin Modalı — arama yapılmak istendiğinde ilk açılan ekran
-// "Giriş Yap veya Üye Ol" → giriş/kayıt modallarını açar
-// "Üye Olmadan Devam Et" → adres seçme modalını açar
+// Adres yokken arama yapilmak istenirse ilk bu ekran aciliyor.
+// Kullanici buradan giris/kayit veya misafir devam akisini seciyor.
 interface WelcomeModalProps {
   open: boolean
   onOpenChange: (open: boolean) => void
-  onLoginClick: () => void        // Giriş yap tıklanınca çağrılır
-  onContinueAsGuest: () => void   // Üye olmadan devam et tıklanınca çağrılır
+  onLoginClick: () => void        // Giris/kayit ekranina gecer.
+  onContinueAsGuest: () => void   // Misafir adres akisini baslatir.
 }
 
 export default function WelcomeModal({ open, onOpenChange, onLoginClick, onContinueAsGuest }: WelcomeModalProps) {
@@ -26,7 +25,7 @@ export default function WelcomeModal({ open, onOpenChange, onLoginClick, onConti
           </DialogDescription>
         </DialogHeader>
 
-        {/* Emoji/avatar alanı */}
+        {/* Ustteki karşilama ikonu */}
         <div className="flex justify-center py-4">
           <div className="flex items-center gap-2 text-4xl">
             🍔 🍕 👤 🍟 😋
@@ -34,12 +33,12 @@ export default function WelcomeModal({ open, onOpenChange, onLoginClick, onConti
         </div>
 
         <div className="flex flex-col gap-3">
-          {/* Giriş Yap / Üye Ol butonu — LoginModal'ı açar */}
+          {/* Giris/kayit akisini acar */}
           <Button className="w-full" size="lg" onClick={onLoginClick}>
             Giriş Yap veya Üye ol
           </Button>
 
-          {/* Üye olmadan devam et — adres seçme modalını açar */}
+          {/* Misafir olarak adres secimine gecer */}
           <Button
             variant="outline"
             className="w-full text-primary"

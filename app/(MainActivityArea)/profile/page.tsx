@@ -35,20 +35,20 @@ function ProfileContent() {
 
   const [activeTab, setActiveTab] = useState("settings")
   
-  // URL'den tab parametresini oku ve değiştiğinde state'i güncelle
+  // URL'deki tab parametresine gore aktif sekmeyi ayarliyorum.
   useEffect(() => {
     if (tabParam && ["settings", "addresses", "favorites"].includes(tabParam)) {
       setActiveTab(tabParam)
     }
   }, [tabParam])
   
-  // Adres state'leri
+  // Adres icin kullandigim state'ler
   const [addresses, setAddresses] = useState<UserAddress[]>([])
   const [loadingAddresses, setLoadingAddresses] = useState(false)
   const [addressModalOpen, setAddressModalOpen] = useState(false)
   const [addressToDelete, setAddressToDelete] = useState<number | null>(null)
 
-  // Favori state'leri
+  // Favoriler icin kullandigim state'ler
   const [favorites, setFavorites] = useState<SearchResult[]>([])
   const [loadingFavorites, setLoadingFavorites] = useState(false)
 
@@ -70,7 +70,7 @@ function ProfileContent() {
     setLoading(false)
   }, [router])
 
-  // Adres sekmesine geçildiğinde VEYA modal kapandığında adresleri yükle
+  // Adres sekmesine gecilince veya modal kapaninca adresleri yeniliyorum.
   useEffect(() => {
     if (activeTab === "addresses" && user?.userID && !addressModalOpen) {
       setLoadingAddresses(true)
@@ -81,7 +81,7 @@ function ProfileContent() {
     }
   }, [activeTab, user?.userID, addressModalOpen])
 
-  // Favoriler sekmesine geçildiğinde yükle
+  // Favoriler sekmesine gecilince favoriler yuklenir.
   useEffect(() => {
     if (activeTab === "favorites" && user?.userID) {
       setLoadingFavorites(true)
@@ -148,7 +148,7 @@ function ProfileContent() {
       if (res.ok) {
         setAddresses(prev => prev.filter(a => a.addressID !== addressToDelete))
         if (deletedAddress && address?.regionID === deletedAddress.regionID) {
-          // Profil uzerinden secili adres silinirse localStorage'daki aktif adres de temizlenir.
+          // Secili adres profil tarafindan silinirse aktif adres de temizlenir.
           clearAddress()
         }
       }
@@ -160,7 +160,7 @@ function ProfileContent() {
   }
 
   const handleLogout = () => {
-    // Profil sayfasindan cikista da navbar ile ayni adres temizligi yapilir.
+    // Profilde cikis yapinca navbar ile ayni temizlik yapiliyor.
     localStorage.removeItem("foodify_user")
     localStorage.removeItem("foodify_address")
     localStorage.removeItem("foodify_guest_addresses")
@@ -368,7 +368,7 @@ function ProfileContent() {
         </div>
       </div>
       
-      {/* Yeni Adres Ekleme Modalı */}
+      {/* Yeni adres ekleme modali */}
       <AddressModal open={addressModalOpen} onOpenChange={setAddressModalOpen} />
 
       <AlertDialog open={!!addressToDelete} onOpenChange={(isOpen) => !isOpen && setAddressToDelete(null)}>

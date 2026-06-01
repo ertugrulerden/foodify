@@ -1,4 +1,4 @@
-// Arama ve genel urun listelerinde poset/icecek/sos gibi tekil yardimci urunleri ayiklar.
+// Listeye yemek yerine poset, icecek, sos gibi yardimci urunler dusmesin diye filtreliyorum.
 const excludedProductTerms = [
   "poset",
   "po\u015fet",
@@ -118,7 +118,6 @@ export function isStandaloneNonListableProductName(name: string) {
   const normalized = normalizeProductText(name)
   if (!isNonListableProductName(normalized)) return false
 
-  // Menuler kategorisindeki "tavuk durum + salgam" gibi gercek setleri korur,
-  // tek basina limonata, magnum, sos, poset vb. urunleri yine disarida birakir.
+  // Menu setlerinde icecek gecse bile urun korunur; tek basina icecek/sos gibi urunler elenir.
   return !mainFoodTerms.some((term) => hasProductTerm(normalized, term))
 }

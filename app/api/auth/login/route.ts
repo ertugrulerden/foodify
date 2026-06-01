@@ -20,7 +20,7 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "Email veya sifre hatali" }, { status: 401 })
   }
 
-  // Eski duz metin sifreli kullanici basarili giris yaparsa kaydi otomatik hash formatina tasiyoruz.
+  // Eski duz metin sifreli kayit varsa basarili giristen sonra hash formatina tasiyorum.
   if (passwordCheck.needsRehash) {
     updateUserPassword(user.userID, hashPassword(password))
   }

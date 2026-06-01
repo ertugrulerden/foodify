@@ -70,7 +70,7 @@ const run = db.transaction(() => {
   const yemeksepetiID = ensurePlatform("Yemeksepeti")
   const platformIDs = new Map(platformConfigs.map((config) => [config.name, ensurePlatform(config.name)]))
 
-  // Eski elle girilmis/demo Getir-Uber satirlarini temizleyip her calismada ayni synthetic veriyi yeniden kuruyoruz.
+  // Eski demo platform satirlarini temizleyip seed'i her calismada ayni sekilde kuruyorum.
   for (const platformID of platformIDs.values()) {
     db.prepare("DELETE FROM prices WHERE platformID = ?").run(platformID)
     db.prepare("DELETE FROM details WHERE platformID = ?").run(platformID)
@@ -135,7 +135,7 @@ const run = db.transaction(() => {
 
     for (const price of yemeksepetiPrices) {
       const priceRatio = config.priceBase + (ratio(`${config.name}:${price.productID}:price`) - 0.5) * config.priceSpread
-      // Scrape/parse kaynakli 0-1 TL gibi fiyatlardan demo platform fiyati uretmiyoruz; kalanlarda alt siniri koruyoruz.
+      // 0-1 TL gibi hatali fiyatlardan demo fiyat uretilmez, alt sinir korunur.
       const syntheticPrice = roundMenuPrice(Math.max(minSyntheticPrice, price.price * priceRatio), `${config.name}:${price.productID}:ending`)
       insertPrice.run(price.productID, platformID, syntheticPrice, price.lastUpdated)
       pricesCreated++

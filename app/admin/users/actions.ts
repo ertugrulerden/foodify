@@ -15,7 +15,7 @@ export async function saveUserAction(prevState: unknown, formData: FormData) {
     if (id) {
       const existing = getUserById(Number(id))
       if (!existing) return { success: false, error: "User not found" }
-      // Admin edit ekraninda sifre bos birakilirsa mevcut hash korunur.
+      // Admin sifreyi bos birakirsa mevcut sifre korunur.
       updateUser(Number(id), {
         firstName,
         lastName,
@@ -27,7 +27,7 @@ export async function saveUserAction(prevState: unknown, formData: FormData) {
       return { success: true, msg: `Updated '${email}'` }
     }
     if (!password) return { success: false, error: "Password is required" }
-    // Yeni admin kullanicisi olustururken sifre hashlenerek kaydedilir.
+    // Yeni kullanici olustururken sifreyi hashleyip kaydediyorum.
     createUser({ firstName, lastName, email, passwordHash: hashPassword(password), lastRegionID })
     revalidatePath("/admin/users")
     return { success: true, msg: `Created '${email}'` }

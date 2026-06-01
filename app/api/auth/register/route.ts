@@ -19,7 +19,7 @@ export async function POST(req: NextRequest) {
     firstName,
     lastName,
     email,
-    // Yeni kullanicilar icin sifre artik veritabanina hashlenmis olarak yaziliyor.
+    // Yeni kullanicinin sifresini DB'ye hashli sekilde yaziyorum.
     passwordHash: hashPassword(password),
     lastRegionID: 1,
   })

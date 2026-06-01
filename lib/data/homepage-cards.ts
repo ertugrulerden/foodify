@@ -42,7 +42,7 @@ function average(values: number[]) {
 }
 
 function chooseMinCart(current: number | undefined, row: SearchResult) {
-  // Min sepet tutarinda gercek kaynak Yemeksepeti onceliklidir; yoksa ilk dolu platform degeri kullanilir.
+  // Min sepet icin once Yemeksepeti'ni, yoksa ilk dolu platform bilgisini kullaniyorum.
   if (row.platform === "Yemeksepeti" && row.minCart != null) return row.minCart
   return current ?? row.minCart ?? undefined
 }
@@ -91,7 +91,7 @@ export function buildPopularMenus(rows: SearchResult[], limit = 12): HomepageMen
     })
   })
 
-  // Populer menuler rating'i yuksek restoranlardan, gercek gorseli ve guncel fiyat bilgisi olan urunlerden secilir.
+  // Populer menuler gorseli ve fiyati olan, rating'i yuksek urunlerden secilir.
   return sortByRatingThenPrice(
     Array.from(groups.values()).map(({ ratings, ...menu }) => ({
       ...menu,
@@ -130,7 +130,7 @@ export function buildPopularRestaurants(rows: SearchResult[], limit = 12): Homep
     })
   })
 
-  // Restoranlar bolge icinde rating'e gore siralanir; 5.0 olanlar dogal olarak en uste gelir.
+  // Restoranlari rating'e gore siraliyorum; 5.0 olanlar en uste gelir.
   return Array.from(groups.values())
     .map(({ ratings, ...restaurant }) => ({ ...restaurant, rating: average(ratings) }))
     .sort((a, b) => (b.rating ?? 0) - (a.rating ?? 0))

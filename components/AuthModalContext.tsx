@@ -53,14 +53,14 @@ export function AuthModalProvider({ children }: { children: React.ReactNode }) {
 
   const onAuthSuccess = (user: AuthUser) => {
     localStorage.setItem("foodify_user", JSON.stringify(user))
-    // Giris/kayit sonrasi eski misafir adres secimini temizliyoruz; kullanici kendi DB adreslerini gorsun.
+    // Giris/kayit sonrasi misafir adresi temizlenir, kullanici kendi DB adreslerini gorur.
     localStorage.removeItem("foodify_address")
     localStorage.removeItem("foodify_guest_addresses")
     setWelcomeOpen(false)
     setLoginOpen(false)
     setRegisterOpen(false)
     window.dispatchEvent(new Event("storage"))
-    // Giris/kayit sonrasi adres zorunlu; kayitli adres varsa liste, yoksa yeni adres formu acilir.
+    // Giris/kayit sonrasi adres zorunlu oldugu icin adres modalini aciyorum.
     setAddressOpen(true)
   }
 

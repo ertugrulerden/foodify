@@ -68,7 +68,7 @@ export default function AddressModal({ open, onOpenChange }: AddressModalProps) 
   const [title, setTitle] = useState("")
   const [detail, setDetail] = useState("")
 
-  // Giris yapmis kullanicida adresler DB'den, misafirde localStorage'dan okunur.
+  // Giris yapan kullanicida adres DB'den, misafirde localStorage'dan gelir.
   const fetchAddresses = useCallback(async () => {
     setLoading(true)
     const storedUser = localStorage.getItem("foodify_user")
@@ -142,7 +142,7 @@ export default function AddressModal({ open, onOpenChange }: AddressModalProps) 
   const isFormValid = selectedCity && selectedDistrict && selectedRegion && title.trim() !== ""
 
   const handleSelectAddress = (addr: SavedAddress) => {
-    // Secilen adres global context'e yazilir; arama sayfasi regionID ile filtreleme yapabilir.
+    // Secilen adres context'e yazilir; arama regionID ile filtreleme yapabilir.
     setAddress({
       cityID: addr.cityID || 0,
       cityName: addr._cityName || "Secilen Il",
@@ -224,7 +224,7 @@ export default function AddressModal({ open, onOpenChange }: AddressModalProps) 
     }
 
     if (deletedAddress && address?.regionID === deletedAddress.regionID) {
-      // Secili adres silinirse foodify_address temizlenir; anasayfa tekrar genel populer listeye duser.
+      // Secili adres silinirse aktif adres de temizlenir.
       clearAddress()
     }
     setAddressToDelete(null)

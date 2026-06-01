@@ -8,13 +8,11 @@ import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
 
-// Üye Ol Modalı
-// Ad, Soyad, Email, Şifre, Şifre Tekrar alanları
-// Kayıt başarılı olunca otomatik giriş yapılır
+// Uye olma formu. Kayit basarili olursa kullaniciyi direkt giris yapmis sayiyorum.
 interface RegisterModalProps {
   open: boolean
   onOpenChange: (open: boolean) => void
-  onSwitchToLogin: () => void   // "Giriş yap" tıklanınca çağrılır
+  onSwitchToLogin: () => void   // Giris formuna gecmek icin.
   onRegisterSuccess: (user: { userID: number; firstName: string; lastName: string; email: string }) => void
 }
 
@@ -27,7 +25,7 @@ export default function RegisterModal({ open, onOpenChange, onSwitchToLogin, onR
   const [error, setError] = useState("")
   const [loading, setLoading] = useState(false)
 
-  // Üye ol butonuna basılınca
+  // Form gonderilince yeni kullanici olusturulur.
   const handleRegister = async () => {
     setError("")
     if (!firstName || !lastName || !email || !password || !passwordConfirm) {
@@ -54,10 +52,10 @@ export default function RegisterModal({ open, onOpenChange, onSwitchToLogin, onR
         setError(data.error || "Kayıt başarısız")
         return
       }
-      // Kayıt başarılı — otomatik giriş yap
+      // Kayit basariliysa kullanici oturuma alinir.
       onRegisterSuccess(data)
       onOpenChange(false)
-      // Formu temizle
+      // Formu sifirliyorum.
       setFirstName("")
       setLastName("")
       setEmail("")
@@ -78,10 +76,10 @@ export default function RegisterModal({ open, onOpenChange, onSwitchToLogin, onR
         </DialogHeader>
 
         <div className="space-y-4">
-          {/* Hata mesajı */}
+          {/* Hata mesaji */}
           {error && <p className="text-sm text-destructive text-center">{error}</p>}
 
-          {/* Ad ve Soyad yan yana */}
+          {/* Ad ve soyad alanlari */}
           <div className="grid grid-cols-2 gap-3">
             <div className="space-y-1">
               <Label htmlFor="reg-firstname">Ad</Label>
@@ -115,7 +113,7 @@ export default function RegisterModal({ open, onOpenChange, onSwitchToLogin, onR
             />
           </div>
 
-          {/* Şifre */}
+          {/* Sifre */}
           <div className="space-y-1">
             <Label htmlFor="reg-password">Şifre</Label>
             <Input
@@ -127,7 +125,7 @@ export default function RegisterModal({ open, onOpenChange, onSwitchToLogin, onR
             />
           </div>
 
-          {/* Şifre Tekrar */}
+          {/* Sifre tekrar */}
           <div className="space-y-1">
             <Label htmlFor="reg-password-confirm">Şifre Tekrar</Label>
             <Input
@@ -139,12 +137,12 @@ export default function RegisterModal({ open, onOpenChange, onSwitchToLogin, onR
             />
           </div>
 
-          {/* Üye Ol butonu */}
+          {/* Uye ol butonu */}
           <Button className="w-full" onClick={handleRegister} disabled={loading}>
             {loading ? "Kayıt yapılıyor..." : "Üye Ol"}
           </Button>
 
-          {/* Giriş yap linki */}
+          {/* Giris formuna gecis */}
           <p className="text-sm text-center text-muted-foreground">
             Zaten üye misiniz?{" "}
             <button

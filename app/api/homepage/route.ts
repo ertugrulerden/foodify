@@ -11,7 +11,7 @@ export async function GET(req: Request) {
   let restaurantRows = getHomepageRestaurantRows(240, validRegionID)
   let menuRows = getHomepageMenuRows(800, validRegionID)
 
-  // Secilen bolgede veri yoksa anasayfayi bos birakmamak icin genel populer veriye duseriz.
+  // Secili bolgede veri yoksa anasayfa bos kalmasin diye genel listeye donulur.
   if (validRegionID && restaurantRows.length === 0) restaurantRows = getHomepageRestaurantRows()
   if (validRegionID && menuRows.length === 0) menuRows = getHomepageMenuRows()
 

@@ -12,7 +12,7 @@ export function FilterSidebar({ platforms }: { platforms: Platform[] }) {
   const selectedPlatforms = searchParams.get("platforms")?.split(",").filter(Boolean) ?? []
   const currentSort = searchParams.get("sortBy") ?? "0"
 
-  // Filtre state'ini URL query string uzerinden tutuyoruz; sayfa yenilense de arama korunur.
+  // Filtreleri URL'de tuttugum icin sayfa yenilense de secimler kaybolmuyor.
   function updateURL(newPlatforms?: string[], newMinPrice?: string, newMaxPrice?: string, sortBy?: string) {
     const url = new URLSearchParams(searchParams.toString())
     const platform = newPlatforms ?? selectedPlatforms
@@ -57,7 +57,7 @@ export function FilterSidebar({ platforms }: { platforms: Platform[] }) {
     Yemeksepeti: "/yemeksepeti52.png",
     "Uber Eats": "/ubereats52.png",
     GetirYemek: "/getir52.png",
-    // Seed edilen demo platform adi bosluksuz geldigi icin filtre logosu burada da esleniyor.
+    // DB'de bu platform adi bosluksuz geldigi icin logoyu burada esliyorum.
     MigrosYemek: "/migros52.png",
     "Migros Yemek": "/migros52.png",
   }

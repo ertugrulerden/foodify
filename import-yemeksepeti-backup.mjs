@@ -33,7 +33,7 @@ function ensureRuntimeColumns() {
     db.exec("ALTER TABLE details ADD COLUMN isSynthetic INTEGER NOT NULL DEFAULT 0")
   }
 
-  // Import tekrar calistiginda tarama yapmamak icin dogal lookup alanlarini indeksliyoruz.
+  // Import tekrar calisinca ayni kayitlari hizli bulmak icin lookup alanlarini indeksliyorum.
   db.exec(`
     CREATE TABLE IF NOT EXISTS categories (
       categoryID INTEGER PRIMARY KEY,
@@ -78,7 +78,7 @@ function walkJsonFiles(dir, matcher, files = []) {
 }
 
 function repairPathName(name) {
-  // Klasor adlari data-backup veya dis kaynaktan geldiklerinde ortak Turkce onarim katmanindan gecirilir.
+  // Klasor adlari bozuk gelirse ortak Turkce onarim fonksiyonundan geciriyorum.
   return repairTurkishText(name)
 }
 
@@ -215,7 +215,7 @@ function isStandaloneNonListableProductName(name) {
   const normalized = normalizeProductText(name)
   if (!isNonListableProductName(normalized)) return false
 
-  // Menuler kategorisindeki yemek + icecek setleri korunur; tekil icecek/tatli/yan urunler yine temizlenir.
+  // Menu setleri korunur; tek basina icecek/tatli/yan urunler alinmaz.
   return !mainFoodWords.some((word) => hasProductTerm(normalized, word))
 }
 
@@ -235,7 +235,7 @@ function locationFromScraperFile(filePath) {
 }
 
 function isUsableImage(image) {
-  // Foodora/Yemeksepeti placeholder logosunu urun fotografi gibi DB'ye basmiyoruz.
+  // Platform logosunu urun fotografi sanmasin diye DB'ye yazmiyorum.
   return typeof image === "string" && image.trim() !== "" && !image.includes("micro-assets.foodora.com")
 }
 
@@ -251,8 +251,8 @@ function asNumberOrNull(value) {
 function normalizeScrapedProductPrice(value) {
   if (typeof value !== "number" || !Number.isFinite(value)) return null
 
-  // Yemeksepeti fiyatlarinda 1.400 TL gibi binlik ayiraci bazen JSON'a 1.4 olarak dusmus.
-  // Posetleri zaten ayikladigimiz icin 10 TL altindaki urun fiyatlarini binlik format kabul ediyoruz.
+  // Bazi fiyatlar 1.400 TL iken JSON'da 1.4 gibi gelmis, burada duzeltilir.
+  // Posetler ayiklandigi icin 10 TL alti degerler binlik format hatasi kabul edilir.
   if (value > 0 && value < 10) return Math.round(value * 1000 * 100) / 100
 
   return value
@@ -277,7 +277,7 @@ const insertPrice = db.prepare("INSERT INTO prices (productID, platformID, price
 const updatePrice = db.prepare("UPDATE prices SET price = ?, lastUpdated = ? WHERE id = ?")
 
 function cleanupIgnoredProducts() {
-  // Teknik/yan ürünler arama ve popüler listelerde ürün gibi görünmemeli.
+  // Teknik veya yan urunler arama/populer listelerde yemek gibi gorunmesin.
   const ids = db.prepare(`
     SELECT products.productID, products.name,
       EXISTS (
@@ -366,7 +366,7 @@ function upsertDetail(restaurantID, platformID, restaurant) {
   const key = `${restaurantID}:${platformID}`
   const existing = detailCache.get(key)
 
-  // Ayni restoran birden fazla bolgede gelirse tek platform detay kaydini son scrape bilgisiyle guncelliyoruz.
+  // Ayni restoran farkli bolgelerde gelirse detail kaydini son scrape bilgisiyle guncelliyorum.
   if (existing) {
     updateDetail.run(rating, fee, deliveryTime, minCart, sourceLink, existing)
   } else {
@@ -410,7 +410,7 @@ function ensureCategory(name) {
   const cached = categoryCache.get(normalizedName)
   if (cached) return cached
 
-  // Scrape'deki kategori adini ayri tutuyoruz; Populer Menuler gibi alanlar artik urun adindan tahmin edilmeyecek.
+  // Kategoriyi ayri tuttugum icin populer menu secimini urun adindan tahmin etmiyorum.
   const categoryID = upsertCategory.get(categoryName, normalizedName).categoryID
   categoryCache.set(normalizedName, categoryID)
   return categoryID

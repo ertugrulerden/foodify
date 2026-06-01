@@ -12,7 +12,7 @@ const SearchBar = () => {
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     if (!address) {
       e.preventDefault()
-      // Giris yapmis kullanicida adres modalini direkt aciyoruz; misafirde once welcome ekrani gelir.
+      // Adres yoksa aramaya izin vermeden once adres akisini baslatiyorum.
       if (localStorage.getItem("foodify_user")) {
         openAddress()
       } else {

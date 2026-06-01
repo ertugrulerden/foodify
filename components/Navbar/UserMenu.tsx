@@ -14,12 +14,12 @@ import { LogOut, User, LogIn, UserPlus } from "lucide-react"
 import Link from "next/link"
 import { useAuthModals } from "@/components/AuthModalContext"
 
-// UserMenu: Kullanıcı menüsü bileşeni
+// Navbar'daki kullanici menusunu yonetiyorum.
 const UserMenu = () => {
   const [user, setUser] = useState<{ firstName: string; lastName: string; email: string } | null>(null)
   const { openLogin, openRegister } = useAuthModals()
 
-  // Bileşen yüklendiğinde ve storage event'lerinde localStorage'ı kontrol et
+  // Sayfa acilinca ve storage degisince kullanici bilgisi tekrar kontrol edilir.
   useEffect(() => {
     const checkUser = () => {
       const storedUser = localStorage.getItem("foodify_user")
@@ -39,16 +39,16 @@ const UserMenu = () => {
     return () => window.removeEventListener("storage", checkUser)
   }, [])
 
-  // Çıkış yap: localStorage'dan sil ve sayfayı yenile
+  // Cikis yapinca kullanici ve adres bilgisi temizlenip anasayfaya donulur.
   const handleLogout = () => {
-    // Cikis sonrasi secili adres ekranda kalmasin; tekrar adres secmesi istenir.
+    // Cikis sonrasi eski adres ekranda kalmasin.
     localStorage.removeItem("foodify_user")
     localStorage.removeItem("foodify_address")
     localStorage.removeItem("foodify_guest_addresses")
-    window.location.href = "/" // Anasayfaya yönlendir ve yenile
+    window.location.href = "/" // Anasayfaya donup sayfayi yeniler.
   }
 
-  // Giriş yapılmamışsa (Misafir Menüsü)
+  // Giris yoksa misafir menusu.
   if (!user) {
     return (
       <DropdownMenu>
@@ -78,7 +78,7 @@ const UserMenu = () => {
     )
   }
 
-  // Kullanıcının ad ve soyadının baş harflerini al
+  // Avatar icin ad ve soyadin bas harfleri alinir.
   const initials = `${user.firstName?.charAt(0) || ""}${user.lastName?.charAt(0) || ""}`.toUpperCase() || "U"
 
   return (

@@ -40,7 +40,7 @@ export default async function SearchPage({
   )
   const platforms = getSearchPlatforms()
 
-  // Ayni urunun farkli platform fiyatlarini tek kartta gostermek icin satirlari grupluyoruz.
+  // Ayni urunun farkli platform fiyatlari tek kartta toplanir.
   function grouping(data: SearchResult[]): GroupedSearchResult[] {
     const groups: GroupedSearchResult[] = []
     data.forEach((r) => {
@@ -49,7 +49,7 @@ export default async function SearchPage({
 
       if (existing) {
         const existingPlatformIndex = existing.platforms.findIndex((p) => p.name === r.platform)
-        // Ayni urun/platform tekrar gelirse kartta duplicate logo olusmasin; daha dusuk fiyatli satiri koruyoruz.
+        // Ayni platform tekrar gelirse kartta tekrar logo basmamak icin dusuk fiyat korunur.
         if (existingPlatformIndex >= 0) {
           if (r.price < existing.platforms[existingPlatformIndex].price) {
             existing.platforms[existingPlatformIndex] = platformDetail
@@ -81,15 +81,15 @@ export default async function SearchPage({
       const cheapestPlatform = g.platforms[0]
       const yemeksepetiPlatform = g.platforms.find((p) => p.name === "Yemeksepeti" && p.minCart != null)
       const firstPlatformWithMinCart = g.platforms.find((p) => p.minCart != null)
-      // Platform rating'leri restoran detayindan gelir; birden fazla platform varsa kartta ortalamasi gosterilir.
+      // Rating platform detaylarindan gelir; birden fazla varsa ortalamasi alinir.
       g.rating = ratings.length ? ratings.reduce((sum, value) => sum + value, 0) / ratings.length : null
       g.fee = cheapestPlatform?.fee ?? null
       g.deliveryTime = cheapestPlatform?.deliveryTime ?? null
-      // Min sepet icin once gercek Yemeksepeti verisini, yoksa diger platformlardaki ilk dolu degeri kullaniriz.
+      // Min sepet icin once Yemeksepeti'ne, yoksa ilk dolu platforma bakilir.
       g.minCart = yemeksepetiPlatform?.minCart ?? firstPlatformWithMinCart?.minCart ?? null
     })
 
-    // Kart seviyesinde siralama en iyi platform fiyatina gore yapiliyor.
+    // Kartlari en iyi platform fiyatina gore siraliyorum.
     if ((resolvedParams.sortBy ?? "0") === "1") {
       groups.sort((a, b) => b.platforms[0].price - a.platforms[0].price)
     } else {

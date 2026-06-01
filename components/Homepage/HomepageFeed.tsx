@@ -19,7 +19,7 @@ export default function HomepageFeed() {
     const controller = new AbortController()
     const params = address?.regionID ? `?regionID=${address.regionID}` : ""
 
-    // Adres secimi degistikce anasayfadaki populer listeler bolgeye gore yeniden yuklenir.
+    // Adres degisince anasayfadaki populer listeler tekrar yuklenir.
     fetch(`/api/homepage${params}`, { signal: controller.signal })
       .then((res) => res.json())
       .then((data: HomepagePayload) => setPayload(data))
