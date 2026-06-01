@@ -11,9 +11,10 @@ export function FilterSidebar({ platforms }: { platforms: Platform[] }) {
   const searchParams = useSearchParams()
   const selectedPlatforms = searchParams.get("platforms")?.split(",").filter(Boolean) ?? []
   const currentSort = searchParams.get("sortBy") ?? "0"
+  const currentRating = searchParams.get("minRating") ?? ""
 
-  // Filtreleri URL'de tuttugum icin sayfa yenilense de secimler kaybolmuyor.
-  function updateURL(newPlatforms?: string[], newMinPrice?: string, newMaxPrice?: string, sortBy?: string) {
+  // Filtreler URL'de tutuldugu icin sayfa yenilense de secimler kaybolmaz.
+  function updateURL(newPlatforms?: string[], newMinPrice?: string, newMaxPrice?: string, sortBy?: string, minRating?: string) {
     const url = new URLSearchParams(searchParams.toString())
     const platform = newPlatforms ?? selectedPlatforms
 
@@ -38,6 +39,11 @@ export function FilterSidebar({ platforms }: { platforms: Platform[] }) {
       else url.set("sortBy", sortBy)
     }
 
+    if (minRating !== undefined) {
+      if (minRating === "") url.delete("minRating")
+      else url.set("minRating", minRating)
+    }
+
     const queryString = url.toString()
     router.push(queryString ? `/search?${queryString}` : "/search")
   }
@@ -50,14 +56,14 @@ export function FilterSidebar({ platforms }: { platforms: Platform[] }) {
   }
 
   function resetFilters() {
-    updateURL([], "", "", "")
+    updateURL([], "", "", "", "")
   }
 
   const platformLogos: Record<string, string> = {
     Yemeksepeti: "/yemeksepeti52.png",
     "Uber Eats": "/ubereats52.png",
     GetirYemek: "/getir52.png",
-    // DB'de bu platform adi bosluksuz geldigi icin logoyu burada esliyorum.
+    // DB'de bu platform adi bosluksuz geldigi icin logo burada eslenir.
     MigrosYemek: "/migros52.png",
     "Migros Yemek": "/migros52.png",
   }
@@ -94,6 +100,30 @@ export function FilterSidebar({ platforms }: { platforms: Platform[] }) {
               <Image src={platformLogos[p.platform]} alt={p.platform} width={24} height={24} className="rounded-md object-contain" />
             )}
             <span className="text-sm font-medium text-slate-600 group-hover:text-primary">{p.platform}</span>
+          </label>
+        ))}
+      </div>
+
+      <Separator className="my-5" />
+
+      <h2 className="font-bold mb-3 text-slate-800">Puan</h2>
+      <div className="flex flex-col gap-2.5 mb-5">
+        {[
+          { value: "", label: "Tumu" },
+          { value: "4.5", label: "4.5 ve uzeri" },
+          { value: "4", label: "4.0 ve uzeri" },
+          { value: "3.5", label: "3.5 ve uzeri" },
+        ].map((option) => (
+          <label key={option.value || "all"} className="flex items-center gap-2 cursor-pointer hover:text-primary transition-colors group">
+            <input
+              type="radio"
+              name="minRating"
+              value={option.value}
+              className="accent-primary w-4 h-4 cursor-pointer"
+              checked={currentRating === option.value}
+              onChange={(e) => updateURL(undefined, undefined, undefined, undefined, e.target.value)}
+            />
+            <span className="text-sm font-medium text-slate-600 group-hover:text-primary">{option.label}</span>
           </label>
         ))}
       </div>

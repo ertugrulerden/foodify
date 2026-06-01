@@ -95,7 +95,7 @@ export function getAllUserFavs(): UserFav[] {
 // Rating urunden degil restoran-platform detayindan geliyor.
 export function searchProducts(query?:string,platforms?:string[],minPrice?:number,
                                 maxPrice?:number,sortBy?:number,
-                                regionID?:number):SearchResult[]{
+                                regionID?:number, minRating?:number):SearchResult[]{
     const conditions : string[] = []
     const selectParameters : unknown[] = []
     const parameters : unknown[] = []
@@ -119,6 +119,10 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
     if(maxPrice !== undefined && maxPrice >= 0){
         conditions.push("prices.price <= ?")
         parameters.push(maxPrice)
+    }
+    if(minRating !== undefined && minRating > 0){
+        conditions.push("details.rating >= ?")
+        parameters.push(minRating)
     }
     // Adres secildiyse sadece o bolgedeki restoranlar getirilir.
     if(regionID && regionID > 0){

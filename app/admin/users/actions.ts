@@ -27,7 +27,7 @@ export async function saveUserAction(prevState: unknown, formData: FormData) {
       return { success: true, msg: `Updated '${email}'` }
     }
     if (!password) return { success: false, error: "Password is required" }
-    // Yeni kullanici olustururken sifreyi hashleyip kaydediyorum.
+    // Yeni kullanici olustururken sifre hashlenerek kaydedilir.
     createUser({ firstName, lastName, email, passwordHash: hashPassword(password), lastRegionID })
     revalidatePath("/admin/users")
     return { success: true, msg: `Created '${email}'` }

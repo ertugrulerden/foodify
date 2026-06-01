@@ -410,7 +410,7 @@ function ensureCategory(name) {
   const cached = categoryCache.get(normalizedName)
   if (cached) return cached
 
-  // Kategoriyi ayri tuttugum icin populer menu secimini urun adindan tahmin etmiyorum.
+  // Kategori ayri tutuldugu icin populer menu secimi urun adindan tahmin edilmez.
   const categoryID = upsertCategory.get(categoryName, normalizedName).categoryID
   categoryCache.set(normalizedName, categoryID)
   return categoryID

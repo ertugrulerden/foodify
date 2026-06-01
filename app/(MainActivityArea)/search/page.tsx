@@ -27,6 +27,7 @@ export default async function SearchPage({
     maxPrice?: string
     sortBy?: string
     regionID?: string
+    minRating?: string
   }>
 }) {
   const resolvedParams = await searchParams
@@ -36,7 +37,8 @@ export default async function SearchPage({
     resolvedParams.minPrice !== undefined ? Number(resolvedParams.minPrice) : undefined,
     resolvedParams.maxPrice !== undefined ? Number(resolvedParams.maxPrice) : undefined,
     resolvedParams.sortBy !== undefined ? Number(resolvedParams.sortBy) : undefined,
-    resolvedParams.regionID !== undefined ? Number(resolvedParams.regionID) : undefined
+    resolvedParams.regionID !== undefined ? Number(resolvedParams.regionID) : undefined,
+    resolvedParams.minRating !== undefined ? Number(resolvedParams.minRating) : undefined
   )
   const platforms = getSearchPlatforms()
 
@@ -89,7 +91,7 @@ export default async function SearchPage({
       g.minCart = yemeksepetiPlatform?.minCart ?? firstPlatformWithMinCart?.minCart ?? null
     })
 
-    // Kartlari en iyi platform fiyatina gore siraliyorum.
+    // Kartlar en iyi platform fiyatina gore siralanir.
     if ((resolvedParams.sortBy ?? "0") === "1") {
       groups.sort((a, b) => b.platforms[0].price - a.platforms[0].price)
     } else {

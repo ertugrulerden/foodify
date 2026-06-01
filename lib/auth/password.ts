@@ -26,6 +26,6 @@ export function verifyPassword(password: string, storedPassword: string): { vali
     return { valid: false, needsRehash: false }
   }
 
-  // Normal string karsilastirmasi yerine sabit sureli karsilastirma kullaniyorum.
+  // Normal string karsilastirmasi yerine sabit sureli karsilastirma kullanilir.
   return { valid: timingSafeEqual(expected, actual), needsRehash: false }
 }

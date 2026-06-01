@@ -50,7 +50,7 @@ if (hasTable("restaurants") && !hasColumn("restaurants", "sourceHash")) {
 }
 
 if (hasTable("restaurants") && !hasColumn("restaurants", "image")) {
-  // Restoran kartinda varsa scrape edilen restoran/listing gorselini kullaniyorum.
+  // Restoran kartinda varsa scrape edilen restoran/listing gorseli kullanilir.
   db.exec("ALTER TABLE restaurants ADD COLUMN image TEXT")
 }
 
@@ -70,7 +70,7 @@ if (hasTable("details") && !hasColumn("details", "sourceLink")) {
 }
 
 if (hasTable("details") && !hasColumn("details", "isSynthetic")) {
-  // Demo platform satirlarini gercek linkli veriden ayirmak icin kullaniyorum.
+  // Demo platform satirlarini gercek linkli veriden ayirmak icin kullanilir.
   db.exec("ALTER TABLE details ADD COLUMN isSynthetic INTEGER NOT NULL DEFAULT 0")
 }
 

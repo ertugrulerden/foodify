@@ -9,13 +9,15 @@ export async function GET(request:NextRequest){
     const maxPriceStr = request.nextUrl.searchParams.get("maxPrice")
     const sortByStr = request.nextUrl.searchParams.get("sortBy")
     const regionIDStr = request.nextUrl.searchParams.get("regionID")
+    const minRatingStr = request.nextUrl.searchParams.get("minRating")
 
     const results = searchProducts(q || undefined,
         platformsStr ? platformsStr.split(",") : undefined,
         minPriceStr ? Number(minPriceStr) : undefined,
         maxPriceStr ? Number(maxPriceStr) : undefined,
         sortByStr !== null ? Number(sortByStr) : undefined,
-        regionIDStr !== null ? Number(regionIDStr) : undefined
+        regionIDStr !== null ? Number(regionIDStr) : undefined,
+        minRatingStr !== null ? Number(minRatingStr) : undefined
     )
     return Response.json(results)
 }
