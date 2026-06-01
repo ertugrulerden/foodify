@@ -87,6 +87,7 @@ db.exec(`
     deliveryTime TEXT,
     minCart REAL,
     sourceLink TEXT,
+    isSynthetic INTEGER NOT NULL DEFAULT 0,
     FOREIGN KEY (restaurantID) REFERENCES restaurants(restaurantID),
     FOREIGN KEY (platformID) REFERENCES platforms(platformID)
   );

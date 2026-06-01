@@ -79,11 +79,14 @@ export default async function SearchPage({
       if (g.platforms[0]) g.platforms[0].bestPrice = true
       const ratings = g.platforms.map((p) => p.rating).filter((value): value is number => value != null)
       const cheapestPlatform = g.platforms[0]
+      const yemeksepetiPlatform = g.platforms.find((p) => p.name === "Yemeksepeti" && p.minCart != null)
+      const firstPlatformWithMinCart = g.platforms.find((p) => p.minCart != null)
       // Platform rating'leri restoran detayindan gelir; birden fazla platform varsa kartta ortalamasi gosterilir.
       g.rating = ratings.length ? ratings.reduce((sum, value) => sum + value, 0) / ratings.length : null
       g.fee = cheapestPlatform?.fee ?? null
       g.deliveryTime = cheapestPlatform?.deliveryTime ?? null
-      g.minCart = cheapestPlatform?.minCart ?? null
+      // Min sepet icin once gercek Yemeksepeti verisini, yoksa diger platformlardaki ilk dolu degeri kullaniriz.
+      g.minCart = yemeksepetiPlatform?.minCart ?? firstPlatformWithMinCart?.minCart ?? null
     })
 
     // Kart seviyesinde siralama en iyi platform fiyatina gore yapiliyor.

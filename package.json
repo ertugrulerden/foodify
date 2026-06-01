@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "import:yemeksepeti": "node import-yemeksepeti-backup.mjs"
+    "import:yemeksepeti": "node import-yemeksepeti-backup.mjs",
+    "seed:platforms": "node seed-synthetic-platforms.mjs"
   },
   "dependencies": {
     "better-sqlite3": "^12.9.0",

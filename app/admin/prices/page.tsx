@@ -1,20 +1,19 @@
 import { CrudPage } from "@/components/admin/CrudPage"
-import { getAllPrices, getAllProducts, getAllPlatforms } from "@/lib/data/queries"
+import { getAdminPriceRows, getAllPlatforms } from "@/lib/data/queries"
 import { savePriceAction, deletePriceAction } from "./actions"
 
 const Page = () => {
-  const products = getAllProducts()
   const platforms = getAllPlatforms()
-  const prodMap = Object.fromEntries(products.map(p => [p.productID, p.name]))
   const platMap = Object.fromEntries(platforms.map(p => [p.platformID, p.platform]))
-  const data = getAllPrices().map(p => ({
+  // Fiyat tablosu seed sonrasi cok buyuyor; admin sayfasinda ilk acilista son 500 kaydi gosterip HTML sismesini engelliyoruz.
+  const data = getAdminPriceRows().map(p => ({
     id: p.id,
     productID: p.productID,
     platformID: p.platformID,
     price: p.price,
     lastUpdated: p.lastUpdated,
-    _product: `${p.productID} - ${prodMap[p.productID] ?? p.productID}`,
-    _platform: `${p.platformID} - ${platMap[p.platformID] ?? p.platformID}`,
+    _product: `${p.productID} - ${p.productName}`,
+    _platform: `${p.platformID} - ${platMap[p.platformID] ?? p.platformName}`,
   }))
   return (
     <CrudPage
@@ -29,7 +28,7 @@ const Page = () => {
       ]}
       emptyItem={{ id: 0, productID: 0, platformID: 0, price: 0, lastUpdated: "", _product: "", _platform: "" }}
       fields={[
-        { name: "productID", label: "Product", type: "select", required: true, options: products.map(p => ({ value: p.productID, label: p.name })) },
+        { name: "productID", label: "Product ID", type: "number", required: true },
         { name: "platformID", label: "Platform", type: "select", required: true, options: platforms.map(p => ({ value: p.platformID, label: p.platform })) },
         { name: "price", label: "Price", type: "number", required: true },
       ]}

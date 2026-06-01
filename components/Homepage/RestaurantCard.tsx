@@ -52,6 +52,7 @@ const RestaurantCard = ({
   const formattedDeliveryTime = deliveryTime
     ? /(?:min|dk)/i.test(deliveryTime) ? deliveryTime : `${deliveryTime} dk`
     : null
+  const formattedMinCart = minCart != null ? Math.round(minCart) : null
 
   const linkHref = href ?? (id ? `/restaurant/${id}` : null);
   const openPlatformLink = (e: React.MouseEvent, link?: string) => {
@@ -119,23 +120,24 @@ const RestaurantCard = ({
           )}
         </div>
 
-        <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-[12px] text-muted-foreground">
+        {/* Teslim suresi, ucret ve min sepet varsa tek satirda kalir; eksik veri hic basilmaz. */}
+        <div className="flex items-center gap-2 overflow-hidden text-[11px] text-muted-foreground">
           {deliveryTime && (
-            <span className="flex items-center gap-1">
+            <span className="flex min-w-0 flex-1 items-center gap-1 truncate whitespace-nowrap">
               <Clock className="h-3 w-3 shrink-0" />
               {formattedDeliveryTime}
             </span>
           )}
           {fee != null && (
-            <span className="flex items-center gap-1">
+            <span className="flex min-w-0 flex-1 items-center gap-1 truncate whitespace-nowrap">
               <Bike className="h-3 w-3 shrink-0" />
               {fee === 0 ? "Ücretsiz" : `${currency}${fee}`}
             </span>
           )}
-          {minCart != null && (
-            <span className="flex items-center gap-1">
+          {formattedMinCart != null && (
+            <span className="flex min-w-0 flex-1 items-center gap-1 truncate whitespace-nowrap">
               <ShoppingBag className="h-3 w-3 shrink-0" />
-              Min. {currency}{minCart}
+              Min. {currency}{formattedMinCart}
             </span>
           )}
         </div>

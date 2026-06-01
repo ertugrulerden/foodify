@@ -14,13 +14,13 @@ export function getAllPlatforms(): Platform[] {
 }
 
 export function getSearchPlatforms(): Platform[] {
-    // Kullanici aramasinda sadece gercek kaynak linki olan platformlar gosterilir; eski demo fiyatlari filtreye karismaz.
+    // Aramada gercek linkli platformlar ve isaretli demo platformlar gorunur; eski/linki belirsiz demo satirlari karismaz.
     return db.prepare(`
         SELECT DISTINCT platforms.*
         FROM platforms
         JOIN details ON details.platformID = platforms.platformID
-        WHERE details.sourceLink IS NOT NULL
-          AND TRIM(details.sourceLink) != ''
+        WHERE (details.sourceLink IS NOT NULL AND TRIM(details.sourceLink) != '')
+           OR details.isSynthetic = 1
         ORDER BY platforms.platform
     `).all() as Platform[]
 }
@@ -31,6 +31,18 @@ export function getAllProducts(): Product[] {
 
 export function getAllPrices(): Price[] {
     return db.prepare("SELECT * FROM prices ORDER BY productID").all() as Price[]
+}
+
+export function getAdminPriceRows(limit = 500): (Price & { productName: string, platformName: string })[] {
+    // Demo platform seed'i fiyat satirini buyuttugu icin admin ekraninda tum tabloyu SSR'a basmak yerine son kayitlardan ozet gosteriyoruz.
+    return db.prepare(`
+        SELECT prices.*, products.name AS productName, platforms.platform AS platformName
+        FROM prices
+        JOIN products ON products.productID = prices.productID
+        JOIN platforms ON platforms.platformID = prices.platformID
+        ORDER BY prices.id DESC
+        LIMIT ?
+    `).all(limit) as (Price & { productName: string, platformName: string })[]
 }
 
 export function getAllDetails(): Detail[] {
@@ -59,6 +71,7 @@ function fullAddressSelect(regionID?: number) {
 }
 
 const nonListableProductCondition = "products.name NOT LIKE '%Poşet%' AND products.name NOT LIKE '%Poset%'"
+const validDisplayPriceCondition = "prices.price >= 10"
 
 //RestaurantRegion
 export function createRestaurantRegion(data: {restaurantID: number, regionID: number}): RestaurantRegion{
@@ -91,7 +104,9 @@ export function searchProducts(query?:string,platforms?:string[],minPrice?:numbe
         parameters.push(`%${query}%`)
     }
     conditions.push(nonListableProductCondition)
-    conditions.push("details.sourceLink IS NOT NULL AND TRIM(details.sourceLink) != ''")
+    // Scrape/parse hatalarindan gelen 0-1 TL gibi fiyatlar kullanici aramasina dusmesin.
+    conditions.push(validDisplayPriceCondition)
+    conditions.push("((details.sourceLink IS NOT NULL AND TRIM(details.sourceLink) != '') OR details.isSynthetic = 1)")
     if(platforms && platforms.length > 0){
         conditions.push(`platforms.platform IN (${platforms.map(()=> "?").join(", ")})`)
         parameters.push(...platforms)
@@ -286,7 +301,7 @@ export function getUserFavProducts(userID: number): import('./types').SearchResu
         JOIN prices ON products.productID = prices.productID
         JOIN platforms ON prices.platformID = platforms.platformID
         LEFT JOIN details ON restaurants.restaurantID = details.restaurantID AND platforms.platformID = details.platformID
-        WHERE userFavs.userID = ? AND ${nonListableProductCondition}
+        WHERE userFavs.userID = ? AND ${nonListableProductCondition} AND ${validDisplayPriceCondition}
     `
     return db.prepare(query).all(userID) as import('./types').SearchResult[]
 }

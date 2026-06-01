@@ -29,6 +29,9 @@ function ensureRuntimeColumns() {
   if (!hasColumn("details", "sourceLink")) {
     db.exec("ALTER TABLE details ADD COLUMN sourceLink TEXT")
   }
+  if (!hasColumn("details", "isSynthetic")) {
+    db.exec("ALTER TABLE details ADD COLUMN isSynthetic INTEGER NOT NULL DEFAULT 0")
+  }
 
   // Import tekrar calistiginda tarama yapmamak icin dogal lookup alanlarini indeksliyoruz.
   db.exec(`
@@ -264,8 +267,8 @@ const insertPlatform = db.prepare("INSERT INTO platforms (platform) VALUES (?) R
 const insertRestaurant = db.prepare("INSERT INTO restaurants (name, isActive, sourceHash, image) VALUES (?, 1, ?, ?) RETURNING restaurantID")
 const updateRestaurantName = db.prepare("UPDATE restaurants SET name = ?, image = COALESCE(?, image) WHERE restaurantID = ?")
 const insertRestaurantRegion = db.prepare("INSERT OR IGNORE INTO restaurantRegion (restaurantID, regionID) VALUES (?, ?)")
-const insertDetail = db.prepare("INSERT INTO details (restaurantID, platformID, rating, fee, deliveryTime, minCart, sourceLink) VALUES (?, ?, ?, ?, ?, ?, ?)")
-const updateDetail = db.prepare("UPDATE details SET rating = ?, fee = ?, deliveryTime = ?, minCart = ?, sourceLink = COALESCE(?, sourceLink) WHERE id = ?")
+const insertDetail = db.prepare("INSERT INTO details (restaurantID, platformID, rating, fee, deliveryTime, minCart, sourceLink, isSynthetic) VALUES (?, ?, ?, ?, ?, ?, ?, 0)")
+const updateDetail = db.prepare("UPDATE details SET rating = ?, fee = ?, deliveryTime = ?, minCart = ?, sourceLink = COALESCE(?, sourceLink), isSynthetic = 0 WHERE id = ?")
 const insertProduct = db.prepare("INSERT INTO products (restaurantID, name, image, description) VALUES (?, ?, ?, ?) RETURNING productID")
 const updateProduct = db.prepare("UPDATE products SET name = ?, image = COALESCE(?, image), description = COALESCE(NULLIF(?, ''), description) WHERE productID = ?")
 const upsertCategory = db.prepare("INSERT INTO categories (name, normalizedName) VALUES (?, ?) ON CONFLICT(normalizedName) DO UPDATE SET name = excluded.name RETURNING categoryID")

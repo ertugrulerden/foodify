@@ -51,6 +51,7 @@ export interface Detail {
     deliveryTime: string | null
     minCart: number | null
     sourceLink: string | null
+    isSynthetic: number
 }
 export interface Campaign {
     id: number

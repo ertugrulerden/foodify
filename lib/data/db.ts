@@ -69,4 +69,9 @@ if (hasTable("details") && !hasColumn("details", "sourceLink")) {
   db.exec("ALTER TABLE details ADD COLUMN sourceLink TEXT")
 }
 
+if (hasTable("details") && !hasColumn("details", "isSynthetic")) {
+  // Demo platform verileri gercek API/scrape degil; arama sorgulari bunu link zorunlulugundan ayirmak icin kullanir.
+  db.exec("ALTER TABLE details ADD COLUMN isSynthetic INTEGER NOT NULL DEFAULT 0")
+}
+
 export default db

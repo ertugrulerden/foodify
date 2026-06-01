@@ -41,6 +41,12 @@ function average(values: number[]) {
   return values.length ? values.reduce((sum, value) => sum + value, 0) / values.length : undefined
 }
 
+function chooseMinCart(current: number | undefined, row: SearchResult) {
+  // Min sepet tutarinda gercek kaynak Yemeksepeti onceliklidir; yoksa ilk dolu platform degeri kullanilir.
+  if (row.platform === "Yemeksepeti" && row.minCart != null) return row.minCart
+  return current ?? row.minCart ?? undefined
+}
+
 function sortByRatingThenPrice<T extends { rating?: number; platformPrices?: Record<string, number> }>(items: T[]) {
   return [...items].sort((a, b) => {
     const ratingDiff = (b.rating ?? 0) - (a.rating ?? 0)
@@ -65,6 +71,7 @@ export function buildPopularMenus(rows: SearchResult[], limit = 12): HomepageMen
       existing.platformPrices[key] = row.price
       if (row.sourceLink) existing.platformLinks[key] = row.sourceLink
       if (row.rating != null) existing.ratings.push(row.rating)
+      existing.minCart = chooseMinCart(existing.minCart, row)
       return
     }
 
@@ -105,6 +112,7 @@ export function buildPopularRestaurants(rows: SearchResult[], limit = 12): Homep
       if (!existing.platforms.includes(key)) existing.platforms.push(key)
       if (row.sourceLink) existing.platformLinks[key] = row.sourceLink
       if (row.rating != null) existing.ratings.push(row.rating)
+      existing.minCart = chooseMinCart(existing.minCart, row)
       return
     }
 

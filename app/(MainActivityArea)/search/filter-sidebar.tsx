@@ -57,6 +57,8 @@ export function FilterSidebar({ platforms }: { platforms: Platform[] }) {
     Yemeksepeti: "/yemeksepeti52.png",
     "Uber Eats": "/ubereats52.png",
     GetirYemek: "/getir52.png",
+    // Seed edilen demo platform adi bosluksuz geldigi icin filtre logosu burada da esleniyor.
+    MigrosYemek: "/migros52.png",
     "Migros Yemek": "/migros52.png",
   }
 
