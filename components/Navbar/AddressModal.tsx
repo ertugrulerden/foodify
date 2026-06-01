@@ -110,8 +110,12 @@ export default function AddressModal({ open, onOpenChange }: AddressModalProps) 
   useEffect(() => {
     if (view === "add" && cities.length === 0) {
       fetch("/api/address/cities")
-        .then((r) => r.json())
+        .then((r) => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`)
+          return r.json()
+        })
         .then((data: City[]) => setCities(data.map(repairCity)))
+        .catch(() => {})
     }
   }, [view, cities.length])
 
@@ -124,8 +128,12 @@ export default function AddressModal({ open, onOpenChange }: AddressModalProps) 
     setSelectedRegion("")
     setRegions([])
     fetch(`/api/address/districts?cityID=${selectedCity}`)
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`)
+        return r.json()
+      })
       .then((data: District[]) => setDistricts(data.map(repairDistrict)))
+      .catch(() => {})
   }, [selectedCity])
 
   useEffect(() => {
@@ -135,8 +143,12 @@ export default function AddressModal({ open, onOpenChange }: AddressModalProps) 
     }
     setSelectedRegion("")
     fetch(`/api/address/regions?districtID=${selectedDistrict}`)
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`)
+        return r.json()
+      })
       .then((data: Region[]) => setRegions(data.map(repairRegion)))
+      .catch(() => {})
   }, [selectedDistrict])
 
   const isFormValid = selectedCity && selectedDistrict && selectedRegion && title.trim() !== ""

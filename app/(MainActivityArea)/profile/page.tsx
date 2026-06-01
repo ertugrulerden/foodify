@@ -75,8 +75,12 @@ function ProfileContent() {
     if (activeTab === "addresses" && user?.userID && !addressModalOpen) {
       setLoadingAddresses(true)
       fetch(`/api/address/user-addresses?userID=${user.userID}`)
-        .then(r => r.json())
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`)
+          return r.json()
+        })
         .then(data => setAddresses(data))
+        .catch(() => {})
         .finally(() => setLoadingAddresses(false))
     }
   }, [activeTab, user?.userID, addressModalOpen])
@@ -86,8 +90,12 @@ function ProfileContent() {
     if (activeTab === "favorites" && user?.userID) {
       setLoadingFavorites(true)
       fetch(`/api/favorites?userID=${user.userID}`)
-        .then(r => r.json())
+        .then(r => {
+          if (!r.ok) throw new Error(`HTTP ${r.status}`)
+          return r.json()
+        })
         .then(data => setFavorites(data))
+        .catch(() => {})
         .finally(() => setLoadingFavorites(false))
     }
   }, [activeTab, user?.userID])
@@ -116,11 +124,12 @@ function ProfileContent() {
         }),
       })
       
-      const data = await res.json()
       if (!res.ok) {
+        const data = await res.json().catch(() => ({}))
         setMessage({ text: data.error || "Güncelleme başarısız", type: "error" })
         return
       }
+      const data = await res.json()
 
       localStorage.setItem("foodify_user", JSON.stringify(data))
       setUser(data)

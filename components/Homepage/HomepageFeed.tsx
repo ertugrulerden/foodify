@@ -21,7 +21,10 @@ export default function HomepageFeed() {
 
     // Adres degisince anasayfadaki populer listeler tekrar yuklenir.
     fetch(`/api/homepage${params}`, { signal: controller.signal })
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`)
+        return res.json()
+      })
       .then((data: HomepagePayload) => setPayload(data))
       .catch((error: unknown) => {
         if (error instanceof DOMException && error.name === "AbortError") return

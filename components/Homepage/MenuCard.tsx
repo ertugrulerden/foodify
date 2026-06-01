@@ -65,7 +65,10 @@ const MenuCard = ({
     if (user && productID) {
       // Kart yuklenince bu urunun favorilerde olup olmadigi kontrol edilir.
       fetch(`/api/favorites?userID=${user.userID}`)
-        .then(res => res.json())
+        .then(res => {
+          if (!res.ok) throw new Error(`HTTP ${res.status}`)
+          return res.json()
+        })
         .then((favs: SearchResult[]) => {
           if (Array.isArray(favs) && favs.some((f) => f.productID === productID)) {
             setFavorited(true)

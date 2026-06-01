@@ -32,7 +32,7 @@ export default function RootLayout({
         "font-sans"
       )}
     >
-      <body className="min-h-full flex flex-col">
+      <body className="min-h-full flex flex-col" suppressHydrationWarning>
         {/* AddressProvider disarida kalir; auth akisi da adres modalini acabilsin. */}
         <AddressProvider>
           <AuthModalProvider>{children}</AuthModalProvider>
